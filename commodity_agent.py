@@ -19,9 +19,16 @@ VN_TZ          = timezone(timedelta(hours=7))
 MAX_ARTICLES   = 2   # So bai phan tich toi da moi lan chay (Gemini free tier: 20 RPD)
 
 RSS_FEEDS = [
-    ('MarketWatch',      'https://feeds.content.dowjones.io/public/rss/mw_topstories'),
-    ('BBC Business',     'http://feeds.bbci.co.uk/news/business/rss.xml'),
-    ('CNBC Commodities', 'https://www.cnbc.com/id/10000664/device/rss/rss.html'),
+    # Tin tuc kinh te tong hop
+    ('MarketWatch',       'https://feeds.content.dowjones.io/public/rss/mw_topstories'),
+    ('BBC Business',      'http://feeds.bbci.co.uk/news/business/rss.xml'),
+    ('AP Business',       'https://feeds.apnews.com/rss/apf-business'),
+    ('The Guardian Biz',  'https://www.theguardian.com/business/rss'),
+    ('Al Jazeera',        'https://www.aljazeera.com/xml/rss/all.xml'),
+    # Chuyen sau ve hang hoa
+    ('CNBC Commodities',  'https://www.cnbc.com/id/10000664/device/rss/rss.html'),
+    ('OilPrice.com',      'https://oilprice.com/rss/main'),
+    ('Mining.com',        'https://www.mining.com/feed/'),
 ]
 
 COMMODITY_KEYWORDS = [
