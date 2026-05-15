@@ -44,15 +44,15 @@ COMMODITY_KEYWORDS = [
 def load_state():
     if os.path.exists(STATE_FILE):
         try:
-            with open(STATE_FILE) as f:
+            with open(STATE_FILE, encoding='utf-8') as f:
                 return json.load(f)
         except Exception:
             pass
     return {'seen': []}
 
 def save_state(state):
-    with open(STATE_FILE, 'w') as f:
-        json.dump(state, f, indent=2)
+    with open(STATE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(state, f, indent=2, ensure_ascii=False)
 
 def article_id(title, link):
     return hashlib.md5(f'{title}{link}'.encode()).hexdigest()[:12]
