@@ -1,16 +1,3 @@
-2026-06-18 11:31 ACCEPT [Google News NS] "Ethanol Expansion Strengthens Corn Demand and Rural Economies - RFD-TV" | kw:corn
-2026-06-18 11:31 ACCEPT [Google News NS] "Export prices for soybeans in Ukraine continue to decline, but domesti" | kw:soybean,rice
-2026-06-18 11:31 SKIP_MORNING already_sent date=2026-06-18
-2026-06-18 12:01 ACCEPT [MarketWatch] "Two key things that need to happen before Strait of Hormuz traffic can" | kw:shipping
-2026-06-18 12:01 ACCEPT [Google News HH] "US lets Russian oil sanctions waiver expire amid Iran deal - S&P Globa" | kw:oil,sanction
-2026-06-18 12:01 ACCEPT [Google News HH] "SocGen’s 7 key market calls: Capex winners, commodities, value laggard" | kw:commodities
-2026-06-18 12:01 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on June 18 - FXStreet" | kw:gold,rice
-2026-06-18 12:01 ACCEPT [Google News HH] "Crude Oil Outlook: 5 Strong Market Signals in 2026 - Brussels Morning " | kw:oil,crude
-2026-06-18 12:01 ACCEPT [Google News HH] "Aramco eyes global oil storage expansion after Hormuz turmoil - Quantu" | kw:oil,commodity
-2026-06-18 12:01 ACCEPT [Google News KL] "Silver prices today, Thursday, June 18, 2026: Holding following signed" | kw:silver,rice,inflation
-2026-06-18 12:01 ACCEPT [Google News KL] "Gold's unusual price swings leave investors at crossroads - The Korea " | kw:gold,rice
-2026-06-18 12:01 ACCEPT [Google News KL] "Silver Price Forecast: Hawkish Fed Puts $60 Support in Focus - FXEmpir" | kw:silver,rice
-2026-06-18 12:01 ACCEPT [Google News KL] "Gold Price Forecast: $4,350 Breakout Pivot Eyes Rising Black Trendline" | kw:gold,rice,fomc
 2026-06-18 12:01 ACCEPT [Google News NS] "Old and new crop corn continuing to move in tandem - AgUpdate" | kw:corn
 2026-06-18 12:01 ACCEPT [Google News NS] "What The Bean/Corn Ratio Says About This Year’s Planting Season - Seek" | kw:corn
 2026-06-18 12:01 ACCEPT [Google News CB] "Iran peace not stopping central banks from raising borrowing costs - R" | kw:central bank
@@ -20011,3 +19998,21 @@
 2026-07-24 16:01 ACCEPT [Google News CB] "Russia's central bank gingerly cuts rates, caught between business com" | kw:inflation,central bank
 2026-07-24 16:01 SKIP_MORNING already_sent date=2026-07-24
 2026-07-24 16:01 SKIP_EVENING already_sent date=2026-07-24
+2026-07-24 16:31 ACCEPT [MarketWatch] "Are 7% mortgage rates next? The Treasury market is flashing a warning " | kw:treasury
+2026-07-24 16:31 ACCEPT [MarketWatch] "Why there are still more Trump tariffs expected — even after this past" | kw:tariff
+2026-07-24 16:31 ACCEPT [OilPrice.com] "Saudi Red Sea Crude Exports Have Sank 41% Since March Peak" | kw:crude
+2026-07-24 16:31 ACCEPT [OilPrice.com] "Why the Latest Oil Rally May Be Far From Over" | kw:oil,fuel,brent
+2026-07-24 16:31 ACCEPT [Google News HH] "Stocks Rise on Wall Street While Crude Oil Prices Fall for the First T" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News HH] "Amid Hormuz Crisis, Iraq Weighs Its Future in OPEC - الحرة" | kw:opec
+2026-07-24 16:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News HH] "Markets Take A Breather; Crude Oil Prices Retreat - Seeking Alpha" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News HH] "Stocks edge higher while crude oil prices fall for the first time in a" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News HH] "LatAm assets advance on strength in commodities; Middle East conflict " | kw:commodities
+2026-07-24 16:31 ACCEPT [Google News HH] "US Equity Indexes Rise Amid Broad-Based Sector Rally While Crude Oil D" | kw:oil,crude
+2026-07-24 16:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 16:31 ACCEPT [Google News NS] "Cattle Bounce Off Support Despite Lower Cash: Bottom or Report Positio" | kw:wheat,corn
+2026-07-24 16:31 ACCEPT [Google News CB] "ECB reveals shortlisted designs for new banknotes and launches public " | kw:ecb
+2026-07-24 16:31 ACCEPT [Google News CB] "Kevin Warsh Said the Fed Has "No Tolerance" for Inflation and Is Chart" | kw:inflation,monetary policy
+2026-07-24 16:31 SKIP_MORNING already_sent date=2026-07-24
+2026-07-24 16:31 SKIP_EVENING already_sent date=2026-07-24
