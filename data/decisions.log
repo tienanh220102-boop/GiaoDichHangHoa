@@ -1,15 +1,3 @@
-2026-06-18 16:31 ACCEPT [The Guardian Biz] "Federal Reserve holds rates steady but signals possible hike before ye" | kw:interest rate,rate hike,federal reserve
-2026-06-18 16:31 ACCEPT [The Guardian Biz] "Oil and gas unlikely to return to prewar prices for months even if Hor" | kw:oil,crude,gas
-2026-06-18 16:31 ACCEPT [CNBC Commodities] "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' " | kw:inflation,monetary policy
-2026-06-18 16:31 ACCEPT [CNBC Commodities] "Fed holds rates steady, pares down statement to remove cutting bias" | kw:interest rate,rate decision,federal reserve
-2026-06-18 16:31 ACCEPT [CNBC Commodities] "More united Fed board seen at Warsh's first meeting, according to Kals" | kw:fomc
-2026-06-18 16:31 ACCEPT [CNBC Commodities] "The new oil? Inside the effort to turn AI computing power into a trade" | kw:oil,commodity
-2026-06-18 16:31 ACCEPT [CNBC Economy] "Wholesale prices rose 1.1% in May, more than expected, on surge in ene" | kw:rice
-2026-06-18 16:31 ACCEPT [CNBC Economy] "Energy prices take center stage as the ECB prepares to decide on rates" | kw:rice,inflation,ecb
-2026-06-18 16:31 ACCEPT [CNBC Economy] "Iran war cost: Average U.S. household paying $450 more on gas and ener" | kw:gas
-2026-06-18 16:31 ACCEPT [CNBC Economy] "How the ‘double scar’ of past inflation woes and geopolitical shocks a" | kw:rice,inflation
-2026-06-18 16:31 ACCEPT [CNBC Economy] "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor" | kw:inflation
-2026-06-18 16:31 ACCEPT [CNBC Economy] "ECB 'will do what is necessary' to tame inflation, Bank of France gove" | kw:inflation,central bank,rate hike
 2026-06-18 16:31 ACCEPT [CNBC Economy] "Consumer sentiment hits fresh record low in May as Iran war fuels infl" | kw:oil,fuel,rice
 2026-06-18 16:31 ACCEPT [OilPrice.com] "High Tanker Rates Disrupt Persian Gulf Oil Shipments to Asia" | kw:oil,crude,shipping
 2026-06-18 16:31 ACCEPT [OilPrice.com] "Why the Moment for a Deal Could Not Be Better for Iran" | kw:oil,sanction
@@ -20010,3 +19998,15 @@
 2026-07-24 21:01 ACCEPT [Google News NS] "China commitments offer support for soybean futures - Brownfield Ag Ne" | kw:soybean
 2026-07-24 21:01 ACCEPT [Google News NS] "Corn Markets Balance Weather and Global Uncertainty - RFD-TV" | kw:corn
 2026-07-24 21:01 ACCEPT [Google News CB] "The Iran War Pushed Oil Past $100. China and the Fed Could Send It Low" | kw:oil
+2026-07-24 21:30 ACCEPT [MarketWatch] "These 16 states are offering tax-free shopping days as back-to-school " | kw:inflation
+2026-07-24 21:31 ACCEPT [NASDAQ Commod] "Chinese Banks Halt Retail Paper Gold Trading: Risk Mitigation or Price" | kw:gold,rice
+2026-07-24 21:31 ACCEPT [NASDAQ Commod] "Joe Mazumdar: Copper Stock Sweet Spots I'm Watching Now" | kw:copper
+2026-07-24 21:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 21:31 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-24 21:31 ACCEPT [Google News HH] "CBOT corn ends flat as crude oil rally pauses - TradingView" | kw:oil,crude,corn
+2026-07-24 21:31 ACCEPT [Google News HH] "Stocks waver while crude oil prices fall for the first time in a week " | kw:oil,crude,rice
+2026-07-24 21:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 21:31 ACCEPT [Google News NS] "Heat worries wheat farmers as crop prices surge - Farm Progress" | kw:wheat,rice
+2026-07-24 21:31 ACCEPT [Google News NS] "Wheat extends July rally amid Black Sea escalation - UkrAgroConsult" | kw:wheat
+2026-07-24 21:31 ACCEPT [Google News NS] "Pakistan to import one million tons of wheat to ease shortages, stabil" | kw:wheat,shortage
+2026-07-24 21:31 ACCEPT [Google News CB] "Japan’s CPI Is Misbehaving as BOJ Faces a Stern Test - Haver Analytics" | kw:boj
