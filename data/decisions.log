@@ -1,15 +1,3 @@
-2026-06-18 16:31 ACCEPT [CNBC Economy] "Consumer sentiment hits fresh record low in May as Iran war fuels infl" | kw:oil,fuel,rice
-2026-06-18 16:31 ACCEPT [OilPrice.com] "High Tanker Rates Disrupt Persian Gulf Oil Shipments to Asia" | kw:oil,crude,shipping
-2026-06-18 16:31 ACCEPT [OilPrice.com] "Why the Moment for a Deal Could Not Be Better for Iran" | kw:oil,sanction
-2026-06-18 16:31 ACCEPT [OilPrice.com] "Goldman Sachs Warns Strait of Hormuz Traffic May Never Fully Recover" | kw:oil,gold
-2026-06-18 16:31 ACCEPT [OilPrice.com] "High Oil Prices Are Driving an EV Boom in Europe" | kw:oil,fuel,rice
-2026-06-18 16:31 ACCEPT [Mining.com] "Falco lifts Quebec gold-zinc project value to $2.4B" | kw:gold,zinc
-2026-06-18 16:31 ACCEPT [Mining.com] "Endeavour Silver hints at mine-life extension in Mexico" | kw:silver
-2026-06-18 16:31 ACCEPT [Mining.com] "Energy Fuels lands $725M Pentagon loan for rare earths boost" | kw:fuel
-2026-06-18 16:31 ACCEPT [Mining.com] "BHP to sell $1.5B Chile power lines in copper-first pivot" | kw:copper
-2026-06-18 16:31 ACCEPT [Mining.com] "Poland bets on copper boom as Lumina eyes new mines" | kw:copper
-2026-06-18 16:31 ACCEPT [NASDAQ Commod] "See How Silvercorp Metals Ranks Among Analysts' Top Metals Picks" | kw:silver
-2026-06-18 16:31 ACCEPT [NASDAQ Commod] "Gold Prices Little Changed Ahead Of Fed Verdict" | kw:gold,rice,rate decision
 2026-06-18 16:31 ACCEPT [NASDAQ Commod] "WGC: Central Banks Plan to Boost Gold Allocations as US Dollar Outlook" | kw:gold,central bank
 2026-06-18 16:31 ACCEPT [Google News HH] "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - Bloomb" | kw:oil,opec
 2026-06-18 16:31 ACCEPT [Google News HH] "OPEC Maintains Strong Oil Demand Growth Forecast - Caspian Post" | kw:oil,opec
@@ -20010,3 +19998,4 @@
 2026-07-24 21:31 ACCEPT [Google News NS] "Wheat extends July rally amid Black Sea escalation - UkrAgroConsult" | kw:wheat
 2026-07-24 21:31 ACCEPT [Google News NS] "Pakistan to import one million tons of wheat to ease shortages, stabil" | kw:wheat,shortage
 2026-07-24 21:31 ACCEPT [Google News CB] "Japan’s CPI Is Misbehaving as BOJ Faces a Stern Test - Haver Analytics" | kw:boj
+2026-07-24 21:34 ACCEPT [Google News KL] "Oil-Fueled Inflation Fears Pin Gold Near $4,000 - Yahoo Finance" | kw:oil,fuel,gold
