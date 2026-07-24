@@ -1,21 +1,3 @@
-2026-06-18 12:01 ACCEPT [Google News NS] "Old and new crop corn continuing to move in tandem - AgUpdate" | kw:corn
-2026-06-18 12:01 ACCEPT [Google News NS] "What The Bean/Corn Ratio Says About This Year’s Planting Season - Seek" | kw:corn
-2026-06-18 12:01 ACCEPT [Google News CB] "Iran peace not stopping central banks from raising borrowing costs - R" | kw:central bank
-2026-06-18 12:01 ACCEPT [Google News CB] "Bank of England follows Fed in holding interest rate - Yahoo Finance" | kw:interest rate,bank of england
-2026-06-18 12:01 SKIP_MORNING already_sent date=2026-06-18
-2026-06-18 12:31 ACCEPT [MarketWatch] "Warsh wants to listen to markets more. Morgan Stanley says markets may" | kw:federal reserve
-2026-06-18 12:31 ACCEPT [OilPrice.com] "Argus: U.S-Iran Deal Won’t Lead to One-Way Traffic to Plunging Oil Pri" | kw:oil,rice
-2026-06-18 12:31 ACCEPT [Google News HH] "Gold Price Today: Gold Falls 2.19% on June 18, 2026 - USA Today" | kw:gold,rice
-2026-06-18 12:31 ACCEPT [Google News HH] "Vivakor Secures One-Year Bakken Crude Oil Transaction Expected to Gene" | kw:oil,crude
-2026-06-18 12:31 ACCEPT [Google News HH] "OPEC sticks to robust oil demand outlook, sees no peak to 2050 - Tradi" | kw:oil,opec
-2026-06-18 12:31 ACCEPT [Google News HH] "Vivakor Surpasses $323 Million in Annualized Contracted Revenue with N" | kw:oil,crude
-2026-06-18 12:31 ACCEPT [Google News HH] "Vivakor adds 2,000 barrels a day in Permian crude deal - Stock Titan" | kw:crude,wti
-2026-06-18 12:31 ACCEPT [Google News HH] "OPEC sticks to robust oil demand outlook, sees no peak to 2050 - marke" | kw:oil,opec
-2026-06-18 12:31 ACCEPT [Google News HH] "OPEC: Global oil demand to reach 113.3M bpd by 2030 - Breakingthenews." | kw:oil,opec
-2026-06-18 12:31 ACCEPT [Google News HH] "Japan's crude oil import prices surge to highest level since 1979 - صح" | kw:oil,crude,rice
-2026-06-18 12:31 ACCEPT [Google News HH] "OPEC maintains its forecast for strong growth in oil demand, stating t" | kw:oil,opec
-2026-06-18 12:31 ACCEPT [Google News HH] "Vivakor secures crude oil deal worth $4.5 million monthly By Investing" | kw:oil,crude
-2026-06-18 12:31 ACCEPT [Google News KL] "Gold eases as firmer dollar, hawkish Fed weigh on prices - Reuters" | kw:gold,rice
 2026-06-18 12:31 ACCEPT [Google News KL] "Silver Price Today: Silver Falls 4.85% on June 18, 2026 - USA Today" | kw:silver,rice
 2026-06-18 12:31 ACCEPT [Google News KL] "In Gold Mining, the Spread Is What Matters - The Globe and Mail" | kw:lng,gold
 2026-06-18 12:31 ACCEPT [Google News KL] "Silver price today: Silver rises, according to FXStreet data - Bitget" | kw:silver,rice
@@ -20016,3 +19998,13 @@
 2026-07-24 16:31 ACCEPT [Google News CB] "Kevin Warsh Said the Fed Has "No Tolerance" for Inflation and Is Chart" | kw:inflation,monetary policy
 2026-07-24 16:31 SKIP_MORNING already_sent date=2026-07-24
 2026-07-24 16:31 SKIP_EVENING already_sent date=2026-07-24
+2026-07-24 17:01 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 17:01 ACCEPT [Google News HH] "Gold Price Today on July 24, 2026 - USA Today" | kw:gold,rice
+2026-07-24 17:01 ACCEPT [Google News HH] "Crude Oil Down Over 4%; Verizon Raises Earnings Forecast - Benzinga" | kw:oil,crude
+2026-07-24 17:01 ACCEPT [Google News KL] "How an Industrial Surge Can Drive Silver Price Comeback - ETF Database" | kw:silver,rice
+2026-07-24 17:01 ACCEPT [Google News KL] "Gold rises as Brent loses over 4%, investors eye MidEast developments " | kw:brent,gold
+2026-07-24 17:01 ACCEPT [Google News KL] "Silver Price Today on July 24, 2026 - USA Today" | kw:silver,rice
+2026-07-24 17:01 ACCEPT [Google News CB] "ECB’s Lane Sets Up September as Next Key Moment for Rates - Bloomberg." | kw:ecb
+2026-07-24 17:01 ACCEPT [Google News CB] "ECB facing mid-sized inflation shock, will get to 2% in year or so, La" | kw:inflation,ecb
+2026-07-24 17:01 ACCEPT [Google News CB] "Yen’s Slide Bolsters Appeal of Hawkish Bank of Japan Hedges - Bloomber" | kw:bank of japan
+2026-07-24 17:01 ACCEPT [Google News CB] "ECB Decisions and Reports: Collateral, Digital Euro, Supervision (June" | kw:ecb
