@@ -1,13 +1,3 @@
-2026-06-18 15:31 ACCEPT [Google News NS] "Moroccan soft wheat farmers grapple with market saturation - Telquel.m" | kw:wheat
-2026-06-18 15:31 ACCEPT [Google News CB] "Fed Chair Kevin Warsh's debut: Why bets on interest rate hikes are sur" | kw:interest rate,rate hike
-2026-06-18 15:31 SKIP_MORNING already_sent date=2026-06-18
-2026-06-18 15:31 SKIP_EVENING already_sent date=2026-06-18
-2026-06-18 16:02 ACCEPT [Google News HH] "EURUSD, Gold Price Outlook: Will a DXY Breakout Trigger Deeper Losses?" | kw:gold,rice
-2026-06-18 16:02 ACCEPT [Google News HH] "US Equity Indexes Jump as Crude Oil Heads for Pre-War Levels Ahead of " | kw:oil,crude,wti
-2026-06-18 16:02 ACCEPT [Google News HH] "OPEC rejects IEA's supply surplus forecast - Breakingthenews.net" | kw:opec,lng
-2026-06-18 16:02 ACCEPT [Google News HH] "Microsoft Copilot AI Predicts Stunning Gold Price For The Next 90 Days" | kw:gold,rice
-2026-06-18 16:02 ACCEPT [Google News KL] "EURUSD, Gold Price Outlook: Will a DXY Breakout Trigger Deeper Losses?" | kw:gold,rice
-2026-06-18 16:02 ACCEPT [Google News NS] "U.S. Wheat Discusses Trade Barriers During London Grains Week - U.S. W" | kw:lng,wheat
 2026-06-18 16:02 SKIP_MORNING already_sent date=2026-06-18
 2026-06-18 16:02 SKIP_EVENING already_sent date=2026-06-18
 2026-06-18 16:31 ACCEPT [MarketWatch] "These stocks are in trouble now that Kevin Warsh removed the market’s " | kw:central bank
@@ -20008,3 +19998,6 @@
 2026-07-24 20:01 ACCEPT [Google News KL] "Gold gains despite firm US Dollar - FXStreet" | kw:gold
 2026-07-24 20:01 ACCEPT [Google News CB] "These Are the 12 Fed Officials Who Are Voting on Interest Rates This W" | kw:interest rate
 2026-07-24 20:01 ACCEPT [Google News CB] "ECB in good position to respond to energy price shock, Nagel says - wh" | kw:wti,rice,ecb
+2026-07-24 20:11 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-24 20:11 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-24 20:11 ACCEPT [Google News NS] "Corn and Soybeans Hold Firm as Wheat Pulls Back After Rally on Profit-" | kw:wheat,corn,soybean
