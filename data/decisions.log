@@ -1,6 +1,3 @@
-2026-06-19 09:01 ACCEPT [Google News CB] "Lane Says It’s Hard to Argue That ECB Shouldn’t Have Hiked Rates - Blo" | kw:ecb
-2026-06-19 09:01 ACCEPT [Google News CB] "Gov. Ueda has been discharged from hospital, BOJ says - The Japan Time" | kw:boj
-2026-06-19 09:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 09:31 ACCEPT [Al Jazeera] "For one Yemeni, World Cup serves as a marker of war and peace" | kw:oil
 2026-06-19 09:31 ACCEPT [OilPrice.com] "Philippines Seeks Long-Term Oil Supply Deal With Russia" | kw:oil
 2026-06-19 09:31 ACCEPT [Google News HH] "OPEC+ to make first post-UAE production decision - Tioga Publishing" | kw:opec
@@ -20001,3 +19998,9 @@
 2026-07-25 19:01 ACCEPT [Google News HH] "Crude Oil Retreats Over 4% as China Pushes for US-Iran Peace Talks | -" | kw:oil,crude
 2026-07-25 19:01 ACCEPT [Google News HH] "Crude Oil Prices Decline; Brent Crude Below The $96/bbl | ET Nowc José" | kw:oil,crude,brent
 2026-07-25 19:01 ACCEPT [Google News CB] "Gold Hold at $4k for Now, but How Will it Handle the Fed? - FOREX.com" | kw:gold
+2026-07-25 19:31 ACCEPT [Google News HH] "Bright Smart Securities & Commodities Group Limited Revenue Breakdown " | kw:commodities
+2026-07-25 19:31 ACCEPT [Google News HH] "Ukraine Crisis Pushes Brent Crude Oil Price To USD 130 A Barrel 母親節 (G" | kw:oil,crude,brent
+2026-07-25 19:31 ACCEPT [Google News KL] "2003 Cricket World Cup Australia VS Pakistan Gold Price In India (QOyq" | kw:gold,rice
+2026-07-25 19:31 ACCEPT [Google News NS] "Pakistan to import one million tons of wheat to ease shortages, stabil" | kw:wheat,shortage
+2026-07-25 19:31 ACCEPT [Google News NS] "Sweet corn sales expected to decline 10–20% after delayed monsoon - Th" | kw:corn
+2026-07-25 19:31 ACCEPT [Google News CB] "The Fed Faces a Rate Hike Debate, Not Just a Cut Delay - The South Sho" | kw:rate hike
