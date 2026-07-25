@@ -1,6 +1,3 @@
-2026-06-18 19:01 ACCEPT [MarketWatch] "How America cheated Black GIs after World War II, contributing to the " | kw:rice
-2026-06-18 19:01 ACCEPT [OilPrice.com] "Shipping Costs Soar as Hormuz Crisis Reshapes Global Trade" | kw:fuel,shipping
-2026-06-18 19:01 ACCEPT [NASDAQ Commod] "Crude Oil Slides As Strait Of Hormuz Reopens Following U.S.-Iran Inter" | kw:oil,crude,rice
 2026-06-18 19:01 ACCEPT [Google News HH] "Commodities Seeing Pressure Ahead of Three-Day Weekend - American Ag N" | kw:commodities
 2026-06-18 19:01 ACCEPT [Google News HH] "OPEC's Oil Demand Bet Is on India, Not Europe - Crude Oil Prices Today" | kw:oil,crude,opec
 2026-06-18 19:01 ACCEPT [Google News KL] "Gold, Silver Give Back Peace-Deal Rebound as Hawkish Fed Drives Dollar" | kw:gold,silver
@@ -20001,3 +19998,8 @@
 2026-07-25 06:31 ACCEPT [Google News HH] "Kuwait Oil Company Signs US$ 16.0 Billion Infrastructure Partnership I" | kw:oil,crude
 2026-07-25 06:31 ACCEPT [Google News NS] "Corn Slipping Back to Start Friday Trade - Yahoo Finance" | kw:corn
 2026-07-25 06:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 07:01 ACCEPT [Google News KL] "Teck Earnings: Stronger Copper Prices and Volumes Drive an Impressive " | kw:copper,rice
+2026-07-25 07:01 ACCEPT [Google News KL] "$4,000 Gold Is Changing Lives Across Central Asia - Crude Oil Prices T" | kw:oil,crude,gold
+2026-07-25 07:01 ACCEPT [Google News NS] "Private sector rejects govt wheat import plan - Dawn" | kw:wheat
+2026-07-25 07:01 ACCEPT [Google News CB] "ECB’s Zigman Says War Fallout on Inflation Will Take Time to Be Seen -" | kw:inflation,ecb
+2026-07-25 07:01 SKIP_MORNING already_sent date=2026-07-25
