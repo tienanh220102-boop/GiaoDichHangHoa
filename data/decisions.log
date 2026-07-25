@@ -1,11 +1,3 @@
-2026-06-19 09:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Truce Stability vs Policy Signa" | kw:gold,silver,rice
-2026-06-19 09:31 ACCEPT [Google News CB] "Kevin Warsh signals Fed overhaul, possible rate hikes - qz.com" | kw:rate hike
-2026-06-19 09:31 ACCEPT [Google News CB] "Europe's mid-sized inflation shock requires measured response, ECB's L" | kw:inflation,ecb
-2026-06-19 09:31 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 10:01 ACCEPT [Al Jazeera] "US export ban on Anthropic’s AI models further strains alliances" | kw:export ban
-2026-06-19 10:01 ACCEPT [Google News HH] "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - Energy" | kw:oil,opec
-2026-06-19 10:01 ACCEPT [Google News HH] "Crude Oil Consolidates After Breakdown as Geopolitical Tensions Lift V" | kw:oil,crude
-2026-06-19 10:01 ACCEPT [Google News HH] "Gold Price Forecast: XAUUSD Breakdown Risk Grows as Dollar Clears 100 " | kw:gold,rice
 2026-06-19 10:01 ACCEPT [Google News KL] "Silver price today: falls on June 19 - FXStreet" | kw:silver,rice
 2026-06-19 10:01 ACCEPT [Google News KL] "Golden Cariboo Resources Positions for Resource Growth Amid Gold Marke" | kw:gold
 2026-06-19 10:01 ACCEPT [Google News KL] "Goldman Cuts Gold Forecast by $500 as Fed Holds Rates - Bitbo" | kw:gold
@@ -20006,3 +19998,11 @@
 2026-07-25 20:01 ACCEPT [Google News NS] "Corn Futures Drop Friday Following Gains and Export Activity - sekbern" | kw:corn
 2026-07-25 20:01 ACCEPT [Google News NS] "From Soybean to Dairy: Commodities in the Crosshairs of US-India Trade" | kw:soybean,commodities
 2026-07-25 20:01 ACCEPT [Google News NS] "Pakistan to Import 1 Million Tonnes of Wheat - Bloom Pakistan" | kw:wheat
+2026-07-25 20:06 ACCEPT [Google News HH] "Stocks waver on Wall Street as crude oil prices dip - TelegraphHerald." | kw:oil,crude,rice
+2026-07-25 20:06 ACCEPT [Google News HH] "BRENT CRUDE OIL TECHNICAL ANALYSIS - CRUDE OIL PRICE PREDICTION - BULL" | kw:oil,crude,brent
+2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Surge: WhichCompanies Will Benefit & Which Will Suffer" | kw:oil,crude,rice
+2026-07-25 20:06 ACCEPT [Google News HH] "Global Crude Oil Prices Fall Sharply, Drop Below $104 Per Barrel Amid " | kw:oil,crude,rice
+2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (July 14): WTI, Br" | kw:oil,crude,brent
+2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (January 07): WTI," | kw:oil,crude,brent
+2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Prices Set For Weekly Gain As US-Iran Tensions Keep Markets " | kw:oil,crude,rice
+2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (March 11): WTI, B" | kw:oil,crude,brent
