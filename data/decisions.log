@@ -1,11 +1,3 @@
-2026-06-19 10:01 ACCEPT [Google News KL] "Silver price today: falls on June 19 - FXStreet" | kw:silver,rice
-2026-06-19 10:01 ACCEPT [Google News KL] "Golden Cariboo Resources Positions for Resource Growth Amid Gold Marke" | kw:gold
-2026-06-19 10:01 ACCEPT [Google News KL] "Goldman Cuts Gold Forecast by $500 as Fed Holds Rates - Bitbo" | kw:gold
-2026-06-19 10:01 ACCEPT [Google News KL] "Hawkish Fed signals send gold to third straight weekly loss - marketsc" | kw:gold
-2026-06-19 10:01 ACCEPT [Google News KL] "Copper price repeats the negative closes– Forecast today – 19-6-2026 -" | kw:copper,rice
-2026-06-19 10:01 ACCEPT [Google News NS] "S&P Global: Ukraine corn prices fall as wheat markets watch harvests -" | kw:wheat,corn,rice
-2026-06-19 10:01 ACCEPT [Google News CB] "Yen teeters on cusp of 40-year low as BOJ hike fails to stem rout - Re" | kw:boj
-2026-06-19 10:01 ACCEPT [Google News CB] "Bank of Japan chief Ueda discharged from hospital after missing policy" | kw:bank of japan
 2026-06-19 10:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 10:13 ACCEPT [MarketWatch] "The Fed’s new hawkish reality just forced Goldman Sachs to slash its g" | kw:gold
 2026-06-19 10:14 ACCEPT [Google News HH] "National average gas price falls below $4 a gallon as Independence Day" | kw:gas,rice
@@ -20006,3 +19998,12 @@
 2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (January 07): WTI," | kw:oil,crude,brent
 2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Prices Set For Weekly Gain As US-Iran Tensions Keep Markets " | kw:oil,crude,rice
 2026-07-25 20:06 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (March 11): WTI, B" | kw:oil,crude,brent
+2026-07-25 20:31 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (June 30): WTI, Br" | kw:oil,crude,brent
+2026-07-25 20:31 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-25 20:31 ACCEPT [Google News KL] "Silver Rate Today In Gurgaon Live, Latest Silver Price - NDTV Profit" | kw:silver,rice
+2026-07-25 20:31 ACCEPT [Google News KL] "Freeport-McMoRan stock holds recent gains as copper prices and Q2 earn" | kw:copper,rice
+2026-07-25 20:31 ACCEPT [Google News KL] "Silver, Shanghai Composite and The Technicals Of It - BusinessLine" | kw:silver
+2026-07-25 20:31 ACCEPT [Google News NS] "Nepal's export boom relies on edible oil and Indian market - IANS LIVE" | kw:oil
+2026-07-25 20:31 ACCEPT [Google News CB] "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight - Bloomber" | kw:oil
+2026-07-25 20:31 ACCEPT [Google News CB] "The Fed Faces a Rate Hike Debate, Not Just a Cut Delay - The South Sho" | kw:rate hike
+2026-07-25 20:31 ACCEPT [Google News CB] "Week Ahead: War, Tariffs, and Three G10 Central Bank Meetings - Forex " | kw:tariff,central bank
