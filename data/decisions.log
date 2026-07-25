@@ -1,7 +1,3 @@
-2026-06-19 01:31 ACCEPT [Google News HH] "OPEC World Oil Outlook 2026: Key Projections and Investment Needs - Ne" | kw:oil,opec
-2026-06-19 01:31 ACCEPT [Google News HH] "Crude Oil vs Brent Oil Spread c1 News - Investing.com" | kw:oil,crude,brent
-2026-06-19 01:31 ACCEPT [Google News HH] "Australian shares fall on weaker commodities; on track for second week" | kw:commodities
-2026-06-19 01:31 ACCEPT [Google News KL] "Silver Price Forecast: Hawkish Fed Puts $60 Support in Focus - FXEmpir" | kw:silver,rice
 2026-06-19 01:31 ACCEPT [Google News NS] "Wheat Markets Unmoved by US-Iran Peace Deal as Harvest and Freight Tak" | kw:wheat,freight,harvest
 2026-06-19 01:31 ACCEPT [Google News CB] "BOJ deputy governor Himino signals resolve to keep raising rates - Reu" | kw:boj
 2026-06-19 01:31 ACCEPT [Google News CB] "Gold Set for Weekly Loss as Hawkish Fed Outweighs Peace Deal - Bloombe" | kw:gold
@@ -20002,3 +19998,7 @@
 2026-07-25 12:01 ACCEPT [Google News KL] "Teck Resources’ Q2 2026 Profit Surges as Copper Output Climbs and Angl" | kw:copper
 2026-07-25 12:01 ACCEPT [Google News NS] "Cereal traders oppose TCP wheat imports - The News Pakistan" | kw:wheat
 2026-07-25 12:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 12:31 ACCEPT [Google News HH] "Kuwait Oil Company Signs US$ 16.0 Billion Infrastructure Partnership I" | kw:oil,crude
+2026-07-25 12:31 ACCEPT [Google News KL] "Gold Price Today on July 24, 2026 - USA Today" | kw:gold,rice
+2026-07-25 12:31 ACCEPT [Google News NS] "Euronext wheat falls 4.2% after Ukraine denies export talks - Investin" | kw:wheat
+2026-07-25 12:31 SKIP_MORNING already_sent date=2026-07-25
