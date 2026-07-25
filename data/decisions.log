@@ -1,5 +1,3 @@
-2026-06-18 20:31 ACCEPT [Google News NS] "Grain Market Update June 18, 2026: Cash Bids, Futures, and Export Pric" | kw:rice
-2026-06-18 20:31 ACCEPT [Google News NS] "Wheat futures drop as dollar strength weighs on grain markets - Invest" | kw:wheat
 2026-06-18 20:31 ACCEPT [Google News CB] "The Fed's higher road to lower prices - The Christian Science Monitor" | kw:rice
 2026-06-18 21:01 ACCEPT [OilPrice.com] "Germany Considers Extending Oil Reserve Relief Despite Falling Prices" | kw:oil,rice,shortage
 2026-06-18 21:01 ACCEPT [NASDAQ Commod] "Eldorado Gold (EGO) Shares Cross Below 200 DMA" | kw:gold
@@ -20000,3 +19998,10 @@
 2026-07-25 10:01 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 10:31 ACCEPT [Google News KL] "Gold is Gradually Replacing Treasuries at the Heart of the Global Mone" | kw:gold
 2026-07-25 10:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 10:52 ACCEPT [Google News HH] "Takaichi stresses secure crude oil supplies as U.S.-Iran war spirals -" | kw:oil,crude
+2026-07-25 10:52 ACCEPT [Google News KL] "silver price recovery Archives - GoldSilver" | kw:gold,silver,rice
+2026-07-25 10:52 ACCEPT [Google News NS] "Global grain market outlook: Hormuz, the Sea of Azov and China's soybe" | kw:soybean
+2026-07-25 10:52 ACCEPT [Google News NS] "Cereal traders oppose TCP wheat imports - The News Pakistan" | kw:wheat
+2026-07-25 10:52 ACCEPT [Google News NS] "Wheat prices risen as high as Rs4,850 per 40 kilograms across Pakistan" | kw:wheat,rice
+2026-07-25 10:52 ACCEPT [Google News CB] "ECB Likely to Hike in September as Inflation Rises - Briefs Finance" | kw:inflation,ecb
+2026-07-25 10:52 SKIP_MORNING already_sent date=2026-07-25
