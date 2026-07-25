@@ -1,11 +1,3 @@
-2026-06-19 11:01 ACCEPT [Google News HH] "The future according to Opec - Financial Times" | kw:opec
-2026-06-19 11:01 ACCEPT [Google News HH] "UAE’s post-OPEC expansion push to lift oil output above 5 million bpd " | kw:oil,opec
-2026-06-19 11:01 ACCEPT [Google News HH] "Crude Oil Price Hike Breaking News Live: Iran-US War के बीच बड़ी खबर| " | kw:oil,crude,rice
-2026-06-19 11:01 ACCEPT [Google News KL] "Gold Set for Third Weekly Loss as Fed Rate Outlook Supports Dollar - Y" | kw:gold,fed rate
-2026-06-19 11:01 ACCEPT [Google News KL] "Gold Forecast 19/06: Sees Falling Prices (Video) - Daily Forex" | kw:gold,rice
-2026-06-19 11:01 ACCEPT [Google News KL] "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts - " | kw:gold,rate cut
-2026-06-19 11:01 ACCEPT [Google News KL] "No margin for error: How copper projects lost their price buffer - S&P" | kw:copper,rice
-2026-06-19 11:01 ACCEPT [Google News KL] "Silver Price Forecast: $66.50 Breakout Blueprint Eyes Major Support Zo" | kw:silver,rice,fomc
 2026-06-19 11:01 ACCEPT [Google News NS] "USITC to Review Phosphate Fertilizer Duties as Corn Growers Push for R" | kw:corn
 2026-06-19 11:01 ACCEPT [Google News CB] "Russia’s Central Bank Cuts Key Rate After Economy Contracts - WSJ" | kw:central bank
 2026-06-19 11:01 ACCEPT [Google News CB] "ECB publishes supervisory banking statistics on significant institutio" | kw:ecb
@@ -20006,3 +19998,11 @@
 2026-07-25 21:15 ACCEPT [Google News CB] "BOJ to raise rates again by December as weak yen revives inflation ris" | kw:inflation,boj
 2026-07-25 21:15 ACCEPT [Google News CB] "Bitcoin is now fighting the ECB’s €51.8 billion bond wall for a shrink" | kw:ecb
 2026-07-25 21:15 ACCEPT [Google News CB] "Kevin Warsh Fed Chair Inflation Stance and Rate Outlook 2026 - News an" | kw:inflation
+2026-07-25 21:31 ACCEPT [Al Jazeera] "Israeli forces tear gas journalists reporting Nablus shootout" | kw:gas
+2026-07-25 21:31 ACCEPT [NASDAQ Commod] "M. Stephen Enders: Copper Crunch? Where the Next Mines Will Come From" | kw:silver,copper,commodities
+2026-07-25 21:31 ACCEPT [Google News HH] "nano Crude Oil Fut (Sep 2026) - TradingView" | kw:oil,crude
+2026-07-25 21:31 ACCEPT [Google News HH] "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment - Ene" | kw:oil,opec
+2026-07-25 21:31 ACCEPT [Google News HH] "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - Energy" | kw:oil,opec
+2026-07-25 21:31 ACCEPT [Google News HH] "Hormuz Reopening Could be OPEC’s Undoing: Bousso - EnergyNow.com" | kw:opec
+2026-07-25 21:31 ACCEPT [Google News HH] "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com" | kw:opec
+2026-07-25 21:31 ACCEPT [Google News CB] "How Wall Street’s AI boom is becoming the Fed’s next inflation problem" | kw:inflation
