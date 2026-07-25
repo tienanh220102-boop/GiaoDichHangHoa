@@ -1,8 +1,3 @@
-2026-06-19 02:31 ACCEPT [Google News HH] "Gold price prediction: Factors behind Gold rate crash today, what to e" | kw:gold,rice
-2026-06-19 02:31 ACCEPT [Google News HH] "Canola futures drop as Iran deal sends crude oil lower By Investing.co" | kw:oil,crude
-2026-06-19 02:31 ACCEPT [Google News HH] "CFTC Bans Ex-Celsius CEO Alex Mashinsky From Commodities Trading - Coi" | kw:commodities
-2026-06-19 02:31 ACCEPT [Google News KL] "Will gold prices repeat the crash and bear market of 2011? - Bitget" | kw:gold,rice
-2026-06-19 02:31 ACCEPT [Google News KL] "Gold and Silver Drop Sharply After Fed Signals Higher Rates for Longer" | kw:lng,gold,silver
 2026-06-19 02:31 ACCEPT [Google News CB] "BOJ to continue raising rates with eye on inflation risk, deputy gover" | kw:inflation,boj
 2026-06-19 02:31 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 03:01 ACCEPT [Google News HH] "Gold Royalty (GROY) Stock Faces Mixed Analyst Target Changes On Gold P" | kw:gold,rice
@@ -20003,3 +19998,13 @@
 2026-07-25 13:31 ACCEPT [Google News NS] "Soybeans rise on weather concerns as wheat dips - Brownfield Ag News" | kw:lng,wheat,soybean
 2026-07-25 13:31 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 13:31 SKIP_EVENING already_sent date=2026-07-25
+2026-07-25 14:01 ACCEPT [Google News HH] "Kuwaiti Crude Oil Price Drops USD 8.38 per Barrel - Fana News -" | kw:oil,crude,rice
+2026-07-25 14:01 ACCEPT [Google News HH] "Crude Oil Prices | Global Oil Market | Oil Price Drop - Aaj News Brock" | kw:oil,crude,rice
+2026-07-25 14:01 ACCEPT [Google News KL] "Gold Hold at $4k for Now, but How Will it Handle the Fed? - FOREX.com" | kw:gold
+2026-07-25 14:01 ACCEPT [Google News KL] "Citi Cuts Brent Forecasts as U.S.-Iran MoU Points to Strait of Hormuz " | kw:brent
+2026-07-25 14:01 ACCEPT [Google News KL] "Infographic: Domestic gold prices rise on July 25 - Nhan Dan Online" | kw:gold,rice
+2026-07-25 14:01 ACCEPT [Google News NS] "New Kansas Wheat Perfect For Pasta - KSAL News" | kw:wheat
+2026-07-25 14:01 ACCEPT [Google News NS] "Kazakhstan grain harvest hit by drought as Black Sea risks threaten ma" | kw:harvest,drought
+2026-07-25 14:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh's Blunt 2-Word Statement on Inflation That Could" | kw:inflation,interest rate
+2026-07-25 14:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 14:01 SKIP_EVENING already_sent date=2026-07-25
