@@ -1,5 +1,3 @@
-2026-06-18 20:31 ACCEPT [Google News HH] "Oil demand will grow until 2050, according to OPEC - Inspenet" | kw:oil,opec
-2026-06-18 20:31 ACCEPT [Google News KL] "Gold Prices Are Tumbling. Don't Expect That to Last for Long - money.c" | kw:gold,rice
 2026-06-18 20:31 ACCEPT [Google News NS] "Grain Market Update June 18, 2026: Cash Bids, Futures, and Export Pric" | kw:rice
 2026-06-18 20:31 ACCEPT [Google News NS] "Wheat futures drop as dollar strength weighs on grain markets - Invest" | kw:wheat
 2026-06-18 20:31 ACCEPT [Google News CB] "The Fed's higher road to lower prices - The Christian Science Monitor" | kw:rice
@@ -20000,3 +19998,5 @@
 2026-07-25 09:31 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 10:01 ACCEPT [Google News KL] "Chile Silver-Copper Explorer Grafton Resources Launches Caldera Projec" | kw:silver,copper
 2026-07-25 10:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 10:31 ACCEPT [Google News KL] "Gold is Gradually Replacing Treasuries at the Heart of the Global Mone" | kw:gold
+2026-07-25 10:31 SKIP_MORNING already_sent date=2026-07-25
