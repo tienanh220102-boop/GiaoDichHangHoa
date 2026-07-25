@@ -1,7 +1,3 @@
-2026-06-19 05:32 ACCEPT [Google News HH] "Goldman Sachs lowers its gold price target to $4,900 per ounce, expect" | kw:gold,rice,interest rate
-2026-06-19 05:32 ACCEPT [Google News KL] "Gold prices fall 2.17 percent to $4,134, head for third straight weekl" | kw:gold,rice,fed rate
-2026-06-19 05:32 ACCEPT [Google News KL] "Invesco Gold & Special Minerals Fund Q1 2026 Commentary (Mutual Fund:O" | kw:gold
-2026-06-19 05:32 ACCEPT [Google News KL] "EURUSD, Gold Price Outlook: Will a DXY Breakout Trigger Deeper Losses?" | kw:gold,rice
 2026-06-19 05:32 ACCEPT [Google News KL] "Weekly Market Recap (June 19) -JPMorgan: Buy Gold on Dips - NAI500" | kw:gold
 2026-06-19 05:32 ACCEPT [Google News CB] "BOJ’s Himino Sees Risk of Price Trend Rising Above 2% Target - Bloombe" | kw:rice,boj
 2026-06-19 05:32 ACCEPT [Google News CB] "BOJ’s Himino sees risk of price trend rising above 2% target - The Jap" | kw:rice,boj
@@ -20002,3 +19998,12 @@
 2026-07-25 16:01 ACCEPT [Google News CB] "Gold Hold at $4k for Now, but How Will it Handle the Fed? - FOREX.com" | kw:gold
 2026-07-25 16:01 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 16:01 SKIP_EVENING already_sent date=2026-07-25
+2026-07-25 16:31 ACCEPT [Google News HH] "Crude Oil Prices Today: Brent, WTI Rise About 2% as Trump Warns Iran -" | kw:oil,crude,brent
+2026-07-25 16:31 ACCEPT [Google News HH] "Indonesia strengthens food security with self-sufficiency in eight key" | kw:commodities
+2026-07-25 16:31 ACCEPT [Google News HH] "Energy security in focus: What India’s crude oil, LPG and LNG strategi" | kw:oil,crude,lng
+2026-07-25 16:31 ACCEPT [Google News HH] "Oil Price Hits $115 Per Barrel | Global Market Surge | Crude Oil Updat" | kw:oil,crude,rice
+2026-07-25 16:31 ACCEPT [Google News HH] "Crude Oil Prices Fall Towards $70/Bbl, The Lowest Since February 2026;" | kw:oil,crude,rice
+2026-07-25 16:31 ACCEPT [Google News KL] "Maturing bank certificates channel liquidity into Egypt’s gold market:" | kw:gold
+2026-07-25 16:31 ACCEPT [Google News KL] "John Lithgow On Dexter Copper Price (FzpC5qpqZu) - Mshale" | kw:copper,rice
+2026-07-25 16:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 16:31 SKIP_EVENING already_sent date=2026-07-25
