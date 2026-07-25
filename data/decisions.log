@@ -1,8 +1,3 @@
-2026-06-19 00:09 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 00:31 ACCEPT [OilPrice.com] "Forget Critical Metals, Electricity is The Real Bottleneck for AI" | kw:gold,silver
-2026-06-19 00:31 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 01:01 ACCEPT [Al Jazeera] "EU won’t lift key Iran sanctions until formal nuclear deal reached" | kw:sanction
-2026-06-19 01:01 ACCEPT [Google News CB] "Yen nears weakest in 40 years as BOJ hike fails to stem rout - Reuters" | kw:boj
 2026-06-19 01:01 ACCEPT [Google News CB] "Gold Falls as Hawkish Fed Outweighs U.S.-Iran Deal Relief - WSJ" | kw:gold
 2026-06-19 01:01 ACCEPT [Google News CB] "BOJ to continue raising rates with eye on inflation risk, deputy gover" | kw:inflation,boj
 2026-06-19 01:01 ACCEPT [Google News CB] "Some in BOJ called for faster rate hikes, April minutes show - Reuters" | kw:rate hike,boj
@@ -20003,3 +19998,10 @@
 2026-07-25 11:31 ACCEPT [Google News CB] "Rising Prices and Muted Growth Indicate ECB Likely to Hike in Septembe" | kw:rice,ecb
 2026-07-25 11:31 ACCEPT [Google News CB] "Eurozone Businesses See Wages Cooling Despite Inflation Pickup, Says E" | kw:inflation,ecb
 2026-07-25 11:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 11:56 ACCEPT [Google News KL] "Sonora Silver Project Engages SGS for Alamos Resource Update - Streetw" | kw:silver
+2026-07-25 11:56 ACCEPT [Google News KL] "Teck Resources’ Q2 2026 Profit Surges as Copper Output Climbs and Angl" | kw:copper
+2026-07-25 11:56 ACCEPT [Google News NS] "Wheat prices have decreased in Ukraine - Новини аграрного бізнесу" | kw:wheat,rice
+2026-07-25 11:56 ACCEPT [Google News NS] "Evening Report | Black Sea rumors sink wheat - Pro Farmer" | kw:wheat
+2026-07-25 11:56 ACCEPT [Google News NS] "Importers Reject Govt Wheat Plan Over Billions in Losses - ProPakistan" | kw:wheat
+2026-07-25 11:56 ACCEPT [Google News CB] "Beethoven or birds? European Central Bank unveils new banknote designs" | kw:central bank
+2026-07-25 11:56 SKIP_MORNING already_sent date=2026-07-25
