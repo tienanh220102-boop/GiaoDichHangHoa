@@ -1,15 +1,3 @@
-2026-06-19 08:01 ACCEPT [Google News HH] "Gold Price Decline 2026: JPMorgan Revises Forecast to $5,243, Sees Buy" | kw:gold,rice
-2026-06-19 08:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD holds losses near $64.50 as US-Iran pea" | kw:silver,rice
-2026-06-19 08:01 ACCEPT [Google News NS] "Decline in wheat bran prices resumes on Ukraine’s export market – APK-" | kw:wheat,rice
-2026-06-19 08:01 ACCEPT [ECB Press] "ECB publishes consolidated banking data for end-December 2025" | kw:ecb
-2026-06-19 08:01 ACCEPT [Google News CB] "BOJ may raise interest rates twice by March, says ex-BOJ policymaker -" | kw:interest rate,boj
-2026-06-19 08:01 ACCEPT [Google News CB] "Governor Ueda Has Been Discharged From Hospital, BOJ Says - Bloomberg." | kw:boj
-2026-06-19 08:01 ACCEPT [Google News CB] "Bank of Japan Governor Ueda discharged from hospital - Reuters" | kw:bank of japan
-2026-06-19 08:01 ACCEPT [Google News CB] "Soft Japan inflation will not ease BoJ fears of falling behind the cur" | kw:inflation,boj
-2026-06-19 08:01 ACCEPT [Google News CB] "BREAKING NEWS: BOJ chief Ueda discharged from hospital: central bank -" | kw:central bank,boj
-2026-06-19 08:01 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 08:31 ACCEPT [Google News HH] "OPEC Sees Sustained Oil Demand as Policy Prioritizes Energy Security -" | kw:oil,opec
-2026-06-19 08:31 ACCEPT [Google News HH] "Gold price prediction: What's the outlook for gold prices on June 19, " | kw:gold,rice
 2026-06-19 08:31 ACCEPT [Google News CB] "Goldman Sachs Lops $500 Off Gold Target on No Fed Cuts This Year - Blo" | kw:gold
 2026-06-19 08:31 ACCEPT [Google News CB] "ECB publishes consolidated banking data for end-December 2025 - Europe" | kw:central bank,ecb
 2026-06-19 08:31 ACCEPT [Google News CB] "Governor Ueda Has Been Discharged From Hospital, BOJ Says - Bloomberg" | kw:boj
@@ -20010,3 +19998,8 @@
 2026-07-25 17:52 ACCEPT [Google News KL] "COPX: A Buying Opportunity After Copper Miners’ Sharp Pullback (NYSEAR" | kw:copper
 2026-07-25 17:52 ACCEPT [Google News KL] "Gold edges higher in Pakistan as silver prices decline - The Nation (P" | kw:gold,silver,rice
 2026-07-25 17:52 ACCEPT [Google News NS] "Trump's Wheat War BACKFIRES — Canada Cuts Off America's Food Supply Wh" | kw:wheat
+2026-07-25 18:01 ACCEPT [Google News KL] "Royal Fallout: The Impact Of Andrew’s Arrest On Beatrice & Eugenie Sil" | kw:silver,rice,gdp
+2026-07-25 18:01 ACCEPT [Google News KL] "Gold and silver prices increase in global markets VIDEO - Azərtac" | kw:gold,silver,rice
+2026-07-25 18:01 ACCEPT [Google News NS] "China Corn Oligopeptides Powder - Market Analysis, Forecast, Size, Tre" | kw:corn
+2026-07-25 18:01 ACCEPT [Google News CB] "Will the Federal Reserve raise interest rates? Here is what experts pr" | kw:interest rate,federal reserve
+2026-07-25 18:01 ACCEPT [Google News CB] "Scotiabank announces interest rate reset on Fixed Rate Resetting Limit" | kw:interest rate
