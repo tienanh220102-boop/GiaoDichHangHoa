@@ -1,6 +1,3 @@
-2026-06-18 16:31 ACCEPT [RT Business] "Middle East war to drive 24% surge in energy costs – World Bank" | kw:fuel,rice,commodity
-2026-06-18 16:31 ACCEPT [Fed Monetary] "Federal Reserve issues FOMC statement" | kw:federal reserve,fomc
-2026-06-18 16:31 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
 2026-06-18 16:31 ACCEPT [ECB Press] "Decisions taken by the Governing Council of the ECB (in addition to de" | kw:interest rate,ecb
 2026-06-18 16:31 ACCEPT [Google News CB] "Fed holds interest rates steady and hints at future rate hike - NPR" | kw:interest rate,rate hike
 2026-06-18 16:31 ACCEPT [Google News CB] "Swiss Central Bank Holds Rates as War Pushes Up Inflation Forecast - W" | kw:inflation,central bank
@@ -20001,3 +19998,8 @@
 2026-07-25 00:31 ACCEPT [Google News NS] "Private sector rejects govt wheat import plan - Dawn" | kw:wheat
 2026-07-25 00:31 ACCEPT [Google News CB] "Michael Landsberg on the Fed's rate hike path for 2026 - qz.com" | kw:rate hike
 2026-07-25 00:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 01:01 ACCEPT [Google News HH] "ICE Brent crude oil surpasses $100 a barrel for first time since May -" | kw:oil,crude,brent
+2026-07-25 01:01 ACCEPT [Google News KL] "AEM vs. ORLA: Which Gold Miner Deserves a Spot in Your Portfolio? - Tr" | kw:gold
+2026-07-25 01:01 ACCEPT [Google News CB] "Analyzing Federal Reserve Interest Rate Policy Through The Data - Eura" | kw:interest rate,federal reserve
+2026-07-25 01:01 ACCEPT [Google News CB] "Market expert Michael Landsberg predicts Fed's rate hike path for rest" | kw:rate hike
+2026-07-25 01:01 SKIP_MORNING already_sent date=2026-07-25
