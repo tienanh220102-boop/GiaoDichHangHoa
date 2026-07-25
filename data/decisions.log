@@ -1,9 +1,3 @@
-2026-06-18 19:31 ACCEPT [Google News KL] "Infographic: By-Product Credits Mask True Costs of Copper Mining - Inv" | kw:copper
-2026-06-18 19:31 ACCEPT [Google News NS] "Is the 2026 Soybean Rally Over? - Barchart" | kw:soybean
-2026-06-18 19:31 ACCEPT [Google News CB] "Citi Predicts Fed Rate Cuts Will Come Later Than Expected - PYMNTS.com" | kw:fed rate,rate cut
-2026-06-18 19:31 ACCEPT [Google News CB] "Fed’s Interest Rate Decision: June 17, 2026 - Advisor Perspectives" | kw:interest rate,rate decision
-2026-06-18 20:01 ACCEPT [MarketWatch] "The Iran oil shock taught traders these key lessons about demand and C" | kw:oil,crude,rice
-2026-06-18 20:01 ACCEPT [Al Jazeera] "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint" | kw:rice
 2026-06-18 20:01 ACCEPT [OilPrice.com] "How the U.S.-Iran Deal Put A Higher Floor Under Oil Prices" | kw:oil,rice
 2026-06-18 20:01 ACCEPT [Google News HH] "Midstream Energy ETFs Prove Resilient Amid Crude Oil Drop - ETF Databa" | kw:oil,crude
 2026-06-18 20:01 ACCEPT [Google News HH] "Here's How Declining Crude Oil Prices are Benefiting Valero Energy - Y" | kw:oil,crude,rice
@@ -20004,3 +19998,7 @@
 2026-07-25 08:01 ACCEPT [Google News KL] "Gold Defends $4,000 Once Again as Markets Brace for Next Week’s FOMC V" | kw:gold,fomc
 2026-07-25 08:01 ACCEPT [Google News CB] "ECB Signals Possible September Rate Change - Briefs Finance" | kw:ecb
 2026-07-25 08:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 08:31 ACCEPT [Google News HH] "Crude Oil Weekly Recap and Outlook: Brent Tops $100, Then Retreats on " | kw:oil,crude,brent
+2026-07-25 08:31 ACCEPT [Google News KL] "Gold Rate Today, July 25: Check 18, 22 and 24 carat gold prices in Che" | kw:gold,rice
+2026-07-25 08:31 ACCEPT [Google News CB] "Interest Rate Predictions for the Next 5 Years: 2026-2030 - Norada Rea" | kw:interest rate
+2026-07-25 08:31 SKIP_MORNING already_sent date=2026-07-25
