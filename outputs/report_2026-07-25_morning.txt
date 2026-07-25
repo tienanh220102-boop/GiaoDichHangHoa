@@ -1,0 +1,56 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          90.47   -1.9%    +9.7%
+Brent        98.38   -2.3%   +11.7%
+Khí TN       2.908   -0.3%    -0.1%
+Vàng      4,055.70   +0.2%    +1.1%
+Bạc          58.49   +1.2%    +4.4%
+Đồng         6.340   +0.6%    +1.9%
+Ngô         487.25   +5.0%    +9.6%
+Lúa mì      679.00   -2.5%    -0.6%
+Đậu t.    1,252.50   +1.2%    +4.0%
+DXY         101.47   +0.0%    +0.7%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): Lúa mì 3.7× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $7.91 (1 tháng trước: $3.40) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 69.3 (1 tháng trước: 68.7) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.56 (1 tháng trước: 1.49) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-21]
+  Lúa mì (SRW): NET SHORT -7,009 (Δ tuần: +9,330)
+  Ngô: NET LONG +186,650 (Δ tuần: +55,187)
+  Đậu tương: NET LONG +175,646 (Δ tuần: +50,243)
+  Dầu WTI: NET LONG +12,514 (Δ tuần: -4,340)
+  Bạc: NET LONG +23,465 (Δ tuần: -1,609)
+  Đồng: NET LONG +73,977 (Δ tuần: +9,592)
+  Vàng XAU: NET LONG +183,910 (Δ tuần: -2,772)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+🌍 VĨ MÔ: USD ổn định, lãi suất trái phiếu Mỹ 10 năm duy trì ở mức cao, cho thấy môi trường không quá thuận lợi cho hàng hóa. Tâm lý thị trường chung có vẻ trung lập.
+
+🛢️ NĂNG LƯỢNG — Dầu WTI/Brent, Khí tự nhiên
+Xu hướng: WTI SIDEWAY | Brent SIDEWAY | Khí TN GIẢM
+Thiên hướng KT: WTI Trung tính | Brent Trung tính | Khí TN Nghiêng giảm
+Ngưỡng giá: WTI 80.27–93.50 | Brent 86.14–102.01 | Khí TN 2.831–2.991
+Phân tích:
+• Dầu WTI giảm 1.87% phiên nhưng tăng 9.7% trong 5 phiên, Brent giảm 2.29% phiên nhưng tăng 11.7% trong 5 phiên. Giá dầu giảm do chốt lời sau đà tăng mạnh và lo ngại về sản lượng OPEC+. Quỹ đầu cơ giảm vị thế mua ròng dầu WTI.
+• Khí tự nhiên giảm nhẹ 0.27% phiên và đi ngang 5 phiên, cho thấy xu hướng giảm trung hạn tiếp diễn.
+Rủi ro:
+• Căng thẳng địa chính trị tại Trung Đông tiếp tục là yếu tố rủi ro chính cho giá dầu.
+
+🌾 NÔNG SẢN — Ngô, Đậu tương, Lúa mì
+Xu hướng: Ngô TĂNG | Lúa mì TĂNG | Đậu tương TĂNG
+Thiên hướng KT: Ngô Tăng — đã nóng | Lúa mì Nghiêng tăng | Đậu tương Tăng — đã nóng
+Ngưỡng giá: Ngô 445.50–492.00 | Lúa mì 659.50–711.25 | Đậu tương 1,209.00–1,256.50
+Phân tích:
+• Ngô tăng mạnh 5.01% phiên và 9.6% trong 5 phiên, với khối lượng giao dịch lớn. Quỹ đầu cơ tiếp tục gia tăng vị thế mua ròng. Giá tăng do yếu tố thời tiết mùa vụ và nhu cầu nhập khẩu.
+• Đậu tương tăng 1.21% phiên và 4.0% trong 5 phiên, quỹ đầu cơ cũng đang gia tăng vị thế mua ròng.
+• Lúa mì giảm 2.48% phiên nhưng vẫn duy trì xu hướng tăng trung hạn, với khối lượng giao dịch cao bất thường. Quỹ đầu cơ giảm vị thế bán ròng.
+Rủi ro:
+• Thời tiết bất lợi trong giai đoạn thụ phấn của ngô và đậu tương là rủi ro lớn nhất.
+
+📋 KHUYẾN NGHỊ:
+• Ngô: Theo dõi sát ngưỡng 492.00, nếu vượt qua có thể tiếp tục đà tăng mạnh.
+• Đậu tương: Theo dõi sát ngưỡng 1,256.50, có thể tiếp tục tăng nếu duy trì đà tích cực.

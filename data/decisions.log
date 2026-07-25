@@ -19998,3 +19998,10 @@
 2026-07-24 23:31 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,wti
 2026-07-24 23:31 ACCEPT [Google News NS] "Argentina's Wheat Market Shows Signs of Recovery as Brazil Increases S" | kw:wheat
 2026-07-24 23:31 ACCEPT [Google News NS] "Govt to import 1m tonnes of wheat - The Express Tribune" | kw:wheat
+2026-07-25 00:01 ACCEPT [Google News HH] "Crude oil turns lower as reports say China pushing to resume U.S.-Iran" | kw:oil,crude
+2026-07-25 00:01 ACCEPT [Google News HH] "Grains Markets Hit New Highs on Black Sea Attacks, Crude Oil Rally - g" | kw:oil,crude
+2026-07-25 00:01 ACCEPT [Google News KL] "Gold continues to hold $4,000, which could signal an inflection point," | kw:gold
+2026-07-25 00:01 ACCEPT [Google News NS] "N. Korea rice prices hit record high as exchange rate climbs - DailyNK" | kw:rice
+2026-07-25 00:02 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-07-25 00:02 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
+2026-07-25 00:02 SENT_MORNING articles=20 date=2026-07-25 force=False
