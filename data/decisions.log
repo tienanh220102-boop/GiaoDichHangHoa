@@ -1,6 +1,3 @@
-2026-06-19 04:01 ACCEPT [Google News CB] "Goldman Sachs Lops $500 Off Gold Target on No Fed Cuts This Year - Blo" | kw:gold
-2026-06-19 04:01 ACCEPT [Google News CB] "Despite Donald Trump’s new fed chair, interest rates might go up - WAM" | kw:interest rate
-2026-06-19 04:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 04:31 ACCEPT [Google News KL] "Gold heads for third weekly loss on firm dollar, hawkish Fed signals -" | kw:gold
 2026-06-19 04:31 ACCEPT [Google News KL] "2026 Silver Price Forecast: US-Iran Conflict May End, Can Silver Retur" | kw:silver,rice
 2026-06-19 04:31 ACCEPT [Google News KL] "Gold Forecast 19/06: Sees Falling Prices (Video) - DailyForex" | kw:gold,rice
@@ -20001,3 +19998,12 @@
 2026-07-25 15:01 ACCEPT [OilPrice.com] "EU Backs Off Methane Rules as Energy Security Fears Mount" | kw:oil,gas
 2026-07-25 15:02 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 15:02 SKIP_EVENING already_sent date=2026-07-25
+2026-07-25 15:31 ACCEPT [NASDAQ Commod] "Silver Miners Post Record Q2 Output Despite Volatility" | kw:silver,rice
+2026-07-25 15:31 ACCEPT [Google News HH] "Vivakor Surpasses $1 Billion in Annualized Physical Crude Transactions" | kw:crude
+2026-07-25 15:31 ACCEPT [Google News HH] "Crude Oil Prices Set For Weekly Gain As US-Iran Tensions Keep Markets " | kw:oil,crude,rice
+2026-07-25 15:31 ACCEPT [Google News KL] "Gold gains Rs 3,400 per tola in a week; silver adds Rs 150 - myRepubli" | kw:gold,silver
+2026-07-25 15:31 ACCEPT [Google News NS] "Propane Market Metrics: Corn leads U.S. crop production - LP Gas Magaz" | kw:gas,corn
+2026-07-25 15:31 ACCEPT [Google News NS] "US Soybean Futures Dip Slightly Amid Strong Export Demand - sekbernews" | kw:soybean
+2026-07-25 15:31 ACCEPT [Google News CB] "Oil at $100 and a hawkish Fed just rewrote the math for every startup " | kw:oil
+2026-07-25 15:31 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 15:31 SKIP_EVENING already_sent date=2026-07-25
