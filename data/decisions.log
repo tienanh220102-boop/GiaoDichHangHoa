@@ -1,10 +1,3 @@
-2026-06-18 20:31 ACCEPT [Google News CB] "The Fed's higher road to lower prices - The Christian Science Monitor" | kw:rice
-2026-06-18 21:01 ACCEPT [OilPrice.com] "Germany Considers Extending Oil Reserve Relief Despite Falling Prices" | kw:oil,rice,shortage
-2026-06-18 21:01 ACCEPT [NASDAQ Commod] "Eldorado Gold (EGO) Shares Cross Below 200 DMA" | kw:gold
-2026-06-18 21:01 ACCEPT [NASDAQ Commod] "Americas Gold & Silver Breaks Below 200-Day Moving Average - Notable f" | kw:gold,silver
-2026-06-18 21:01 ACCEPT [Google News HH] "Are we about to see another oil price rally? - Financial Post" | kw:oil,rice
-2026-06-18 21:01 ACCEPT [Google News KL] "Gold Prices Are Tumbling. Don't Expect That to Last for Long - money.c" | kw:gold,rice
-2026-06-18 21:01 ACCEPT [Google News KL] "TSX falls for second day on lower oil and gold prices - marketscreener" | kw:oil,gold,rice
 2026-06-18 21:01 ACCEPT [Google News KL] "Silver's solar paradox: Using less, still running short - FXStreet" | kw:silver
 2026-06-18 21:01 ACCEPT [Google News NS] "Argentina’s corn exports head for record 45 million tonnes, US$9 billi" | kw:corn
 2026-06-18 21:01 ACCEPT [Google News CB] "New Fed Rate Outlook Bodes Well for Senior Loans - ETF Trends" | kw:fed rate
@@ -20005,3 +19998,73 @@
 2026-07-25 10:52 ACCEPT [Google News NS] "Wheat prices risen as high as Rs4,850 per 40 kilograms across Pakistan" | kw:wheat,rice
 2026-07-25 10:52 ACCEPT [Google News CB] "ECB Likely to Hike in September as Inflation Rises - Briefs Finance" | kw:inflation,ecb
 2026-07-25 10:52 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 11:01 ACCEPT [MarketWatch] "Investors are in the dark about the Fed’s decision this week — and tha" | kw:rate hike
+2026-07-25 11:01 ACCEPT [MarketWatch] "The stock market is completely unprepared for a 6% yield on the 30-yea" | kw:treasury
+2026-07-25 11:01 ACCEPT [BBC Business] "Faisal Islam: The UK's Trump trade deal no longer looks world-beating" | kw:tariff
+2026-07-25 11:01 ACCEPT [BBC Business] "Watch: Another day, more Trump tariffs - but are they working?" | kw:rice,tariff
+2026-07-25 11:01 ACCEPT [BBC Business] "Why are UK fuel prices rising again?" | kw:oil,fuel,rice
+2026-07-25 11:01 ACCEPT [BBC Business] "New figures show costs rising for pensioners" | kw:fuel,inflation
+2026-07-25 11:01 ACCEPT [The Guardian Biz] "US trade chief defends tariffs as Democrats say Trump ‘in denial’ over" | kw:rice,tariff
+2026-07-25 11:01 ACCEPT [Al Jazeera] "Guterres arrives in Syria in first official visit by a UN chief in 17 " | kw:sanction
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "Shortsighted stock market can no longer brush off war: 'It's too hard " | kw:oil,rice
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "John Paulson says we are in the early stages of a long-term bull marke" | kw:gold,central bank
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "Jamie Dimon says markets underestimate risks and he wouldn't buy stock" | kw:rice,tariff,treasury
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "'WarshGPT': How Wall Street is adapting to the Fed's new era of commun" | kw:central bank
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "Short sellers load up against SpaceX as stock drops below IPO price" | kw:rice
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits " | kw:central bank,interest rate
+2026-07-25 11:01 ACCEPT [CNBC Commodities] "The AI boom just found two new winners: Goldman Sachs and JPMorgan Cha" | kw:gold
+2026-07-25 11:01 ACCEPT [CNBC Economy] "Trump's new global tariff draws rebukes from trade partners over force" | kw:tariff
+2026-07-25 11:01 ACCEPT [CNBC Economy] "Import prices post surprise gain as costs of goods from China hit high" | kw:rice
+2026-07-25 11:01 ACCEPT [CNBC Economy] "Renewed Hormuz hostilities drive ECB rates rethink amid ‘extremely vol" | kw:central bank,interest rate,rate decision
+2026-07-25 11:01 ACCEPT [CNBC Economy] "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – " | kw:shipping
+2026-07-25 11:01 ACCEPT [CNBC Economy] "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s" | kw:rice,inflation
+2026-07-25 11:01 ACCEPT [CNBC Economy] "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in" | kw:oil,sanction
+2026-07-25 11:01 ACCEPT [OilPrice.com] "Pakistan Transporters Threaten Nationwide Strike Over Fuel Price Hikes" | kw:fuel,rice
+2026-07-25 11:01 ACCEPT [EIA Energy] "The 250-year history of U.S. energy consumption" | kw:petroleum
+2026-07-25 11:01 ACCEPT [EIA Energy] "U.S. commercial crude oil inventories have decreased in June" | kw:oil,crude,gas
+2026-07-25 11:01 ACCEPT [EIA Energy] "UAE's exit from OPEC+ reduced the group's share of crude oil productio" | kw:oil,crude,opec
+2026-07-25 11:01 ACCEPT [NASDAQ Commod] "Gold Advances Amid Crude Oil Plunge Ahead Of Upcoming U.S. Fed Rate Me" | kw:oil,crude,gold
+2026-07-25 11:01 ACCEPT [Google News HH] "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On - The N" | kw:oil,crude,brent
+2026-07-25 11:01 ACCEPT [Google News HH] "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next " | kw:oil,crude,rice
+2026-07-25 11:01 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-25 11:01 ACCEPT [Google News HH] "Stocks rise on Wall Street while crude oil prices fall for the first t" | kw:oil,crude,rice
+2026-07-25 11:01 ACCEPT [Google News HH] "Cairo, Manila sign agreement to export five Egyptian agricultural comm" | kw:commodities
+2026-07-25 11:01 ACCEPT [Google News HH] "Crude oil turns lower as reports say China pushing to resume U.S.-Iran" | kw:oil,crude
+2026-07-25 11:01 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-25 11:01 ACCEPT [Google News HH] "Crude oil hits $89.31, up 55% YTD, while US tec... - Pluang" | kw:oil,crude
+2026-07-25 11:01 ACCEPT [Google News HH] "Pakistan Seeks Non-Middle East Crude Oil Amid Strait of Hormuz and Red" | kw:oil,crude
+2026-07-25 11:01 ACCEPT [Google News HH] "Vivakor Surpasses $1 Billion in Annualized Crude Oil Transactions with" | kw:oil,crude
+2026-07-25 11:01 ACCEPT [Google News KL] "Gold prices retreat in Baghdad and Erbil markets - Shafaq News | Lates" | kw:gold,rice
+2026-07-25 11:01 ACCEPT [Google News KL] "Teck Earnings: Stronger Copper Prices and Volumes Drive an Impressive " | kw:copper,rice
+2026-07-25 11:01 ACCEPT [Google News KL] "Oil-Fueled Inflation Fears Pin Gold Near $4,000 - Yahoo Finance" | kw:oil,fuel,gold
+2026-07-25 11:01 ACCEPT [Google News KL] "China’s June gold imports hit fresh two-year high of 173 tonnes as low" | kw:gold,rice
+2026-07-25 11:01 ACCEPT [Google News KL] "Silver Price Today on July 24, 2026 - USA Today" | kw:silver,rice
+2026-07-25 11:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD recovers as the US Dollar eases - FXStr" | kw:silver,rice
+2026-07-25 11:01 ACCEPT [Google News NS] "After the Bell | Profit-taking sends wheat lower to end the week - Pro" | kw:wheat
+2026-07-25 11:01 ACCEPT [Google News NS] "High heat’s return and Ukraine's shipping idea to weigh on grain marke" | kw:shipping
+2026-07-25 11:01 ACCEPT [Google News NS] "Hot weather at flowering could put soybean yields at risk in Ontario. " | kw:soybean
+2026-07-25 11:01 ACCEPT [Google News NS] "South Africa Corn Crop Record 2025-26: FAS Projects 17.9 Million Tonne" | kw:corn
+2026-07-25 11:01 ACCEPT [Google News NS] "Wheat extends July rally amid Black Sea escalation - UkrAgroConsult" | kw:wheat
+2026-07-25 11:01 ACCEPT [Google News NS] "Govt to import 1m tonnes of wheat - The Express Tribune" | kw:wheat
+2026-07-25 11:01 ACCEPT [Google News NS] "Corn Futures Rise as Export Demand and Dry Weather Impact Markets - se" | kw:corn
+2026-07-25 11:01 ACCEPT [RT Business] "IEA issues oil demand warning" | kw:oil
+2026-07-25 11:01 ACCEPT [RT Business] "US LNG exporter cashes in on Iran war" | kw:lng,rice
+2026-07-25 11:01 ACCEPT [RT Business] "Why Europe still needs Russia to keep the lights on" | kw:fuel,shortage
+2026-07-25 11:01 ACCEPT [RT Business] "US issues energy threat to EU" | kw:gas,lng
+2026-07-25 11:01 ACCEPT [RT Business] "Russian SMEs growing on stronger supply chains to giants" | kw:supply chain,easing
+2026-07-25 11:01 ACCEPT [RT Business] "Americans spending more because they are ‘optimistic’? Economists chal" | kw:inflation
+2026-07-25 11:01 ACCEPT [RT Business] "Defying Western pressure: Russia and China deepen economic partnership" | kw:sanction
+2026-07-25 11:01 ACCEPT [RT Business] "US extends Russian oil waiver" | kw:oil,sanction,treasury
+2026-07-25 11:01 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
+2026-07-25 11:01 ACCEPT [ECB Press] "Decisions taken by the Governing Council of the ECB (in addition to de" | kw:interest rate,ecb
+2026-07-25 11:01 ACCEPT [ECB Press] "ECB to extend use of climate factors in Eurosystem collateral framewor" | kw:ecb
+2026-07-25 11:01 ACCEPT [ECB Press] "Results of the ECB Survey of Professional Forecasters for the third qu" | kw:ecb
+2026-07-25 11:01 ACCEPT [ECB Press] "ECB appoints Boris Kisselevsky as Director General Secretariat" | kw:ecb
+2026-07-25 11:01 ACCEPT [Google News CB] "The European Central Bank unveiled a shortlist of new banknote designs" | kw:central bank
+2026-07-25 11:01 ACCEPT [Google News CB] "Fed chair 'an enigma:' Why July interest rate move is hard to predict " | kw:interest rate
+2026-07-25 11:01 ACCEPT [Google News CB] "ECB Signals Possible September Rate Change - Briefs Finance" | kw:ecb
+2026-07-25 11:01 ACCEPT [Google News CB] "What's a good student loan interest rate for fall 2026? - CBS News" | kw:interest rate
+2026-07-25 11:01 ACCEPT [Google News CB] "Trends in Cattle Finishing Breakeven Prices and Net Returns - Purdue U" | kw:rice
+2026-07-25 11:01 ACCEPT [Google News CB] "Russian Central Bank Cuts Key Rate Despite Inflation Pickup - WSJ" | kw:inflation,central bank
+2026-07-25 11:01 ACCEPT [Google News CB] "Watch Investors on Edge: Tech Woes, Trump's Tariffs & The Fed | Open I" | kw:tariff
+2026-07-25 11:01 SKIP_MORNING already_sent date=2026-07-25
