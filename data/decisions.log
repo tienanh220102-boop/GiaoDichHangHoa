@@ -1,9 +1,3 @@
-2026-06-19 10:31 ACCEPT [NASDAQ Commod] "Gold On Track For Third Weekly Loss On Rate Hike Concerns" | kw:gold,rice,inflation
-2026-06-19 10:31 ACCEPT [NASDAQ Commod] "Oil Set For Steep Weekly Loss As Hormuz Traffic Resumes" | kw:oil,rice
-2026-06-19 10:31 ACCEPT [Google News KL] "Hawkish Fed signals send gold to third straight weekly loss - Reuters" | kw:gold
-2026-06-19 10:31 ACCEPT [ECB Press] "Piero Cipollone: The foundations of national sovereignty: the role of " | kw:central bank
-2026-06-19 10:31 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 11:01 ACCEPT [Google News HH] "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of " | kw:opec
 2026-06-19 11:01 ACCEPT [Google News HH] "The future according to Opec - Financial Times" | kw:opec
 2026-06-19 11:01 ACCEPT [Google News HH] "UAE’s post-OPEC expansion push to lift oil output above 5 million bpd " | kw:oil,opec
 2026-06-19 11:01 ACCEPT [Google News HH] "Crude Oil Price Hike Breaking News Live: Iran-US War के बीच बड़ी खबर| " | kw:oil,crude,rice
@@ -20004,3 +19998,11 @@
 2026-07-25 21:01 ACCEPT [Google News KL] "2026 Gold and Silver Price Forecast Survey: Record Bullishness Explain" | kw:gold,silver,rice
 2026-07-25 21:01 ACCEPT [Google News NS] "Soybean-Powered Natural Oil Cleansers - Trend Hunter" | kw:oil,soybean
 2026-07-25 21:01 ACCEPT [Google News NS] "6045 W 39th-6045 Ave Unit 2, Wheat Ridge, CO 80033 - Realtor.com" | kw:wheat
+2026-07-25 21:15 ACCEPT [NASDAQ Commod] "Top 3 Canadian Vanadium Stocks in 2026" | kw:silver
+2026-07-25 21:15 ACCEPT [Google News HH] "Trump Threatens To Destroy Bridges, Power Plants Every Time Iran Attac" | kw:oil,crude,rice
+2026-07-25 21:15 ACCEPT [Google News KL] "21-karat gold price at JD83.1 in local market - Ammon News" | kw:gold,rice
+2026-07-25 21:15 ACCEPT [Google News KL] "Gold and silver prices register gains this week: Gold gains ₹2,622, re" | kw:gold,silver,rice
+2026-07-25 21:15 ACCEPT [Google News NS] "Millers seek direct wheat imports - The Express Tribune" | kw:wheat
+2026-07-25 21:15 ACCEPT [Google News CB] "BOJ to raise rates again by December as weak yen revives inflation ris" | kw:inflation,boj
+2026-07-25 21:15 ACCEPT [Google News CB] "Bitcoin is now fighting the ECB’s €51.8 billion bond wall for a shrink" | kw:ecb
+2026-07-25 21:15 ACCEPT [Google News CB] "Kevin Warsh Fed Chair Inflation Stance and Rate Outlook 2026 - News an" | kw:inflation
