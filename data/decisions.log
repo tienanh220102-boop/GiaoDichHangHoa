@@ -1,12 +1,3 @@
-2026-06-19 05:01 ACCEPT [Google News KL] "Gold prices decline - VnExpress International" | kw:gold,rice
-2026-06-19 05:01 ACCEPT [Google News KL] "Goldman Sachs cuts year-end gold forecast by $500 on fading Fed rate c" | kw:gold,fed rate,rate cut
-2026-06-19 05:01 ACCEPT [Google News KL] "Goldman Sachs cuts year-end gold target to $4,900 amid stable Fed rate" | kw:gold,fed rate
-2026-06-19 05:01 ACCEPT [Google News CB] "What's the HELOC and home equity loan interest rate forecast for summe" | kw:interest rate
-2026-06-19 05:01 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 05:31 ACCEPT [Al Jazeera] "Mexico beat South Korea 1-0, become first team to reach World Cup knoc" | kw:oil
-2026-06-19 05:32 ACCEPT [Google News HH] "OPEC: Global oil demand to reach 113.3M bpd by 2030 - AzerNews" | kw:oil,opec
-2026-06-19 05:32 ACCEPT [Google News HH] "Gold price in Philippines: Rates on June 19 - FXStreet" | kw:gold,rice
-2026-06-19 05:32 ACCEPT [Google News HH] "Will Falling Oil Prices Trigger a Gold Price Rally? Expert Is Bullish!" | kw:oil,gold,rice
 2026-06-19 05:32 ACCEPT [Google News HH] "Goldman Sachs lowers its gold price target to $4,900 per ounce, expect" | kw:gold,rice,interest rate
 2026-06-19 05:32 ACCEPT [Google News KL] "Gold prices fall 2.17 percent to $4,134, head for third straight weekl" | kw:gold,rice,fed rate
 2026-06-19 05:32 ACCEPT [Google News KL] "Invesco Gold & Special Minerals Fund Q1 2026 Commentary (Mutual Fund:O" | kw:gold
@@ -20007,3 +19998,7 @@
 2026-07-25 15:57 ACCEPT [Google News CB] "Week Ahead: War, Tariffs, and Three G10 Central Bank Meetings - Insura" | kw:wti,tariff,central bank
 2026-07-25 15:57 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 15:57 SKIP_EVENING already_sent date=2026-07-25
+2026-07-25 16:01 ACCEPT [Google News HH] "Crude Oil Price Today | Middle East Conflict Sparks Global Selloff, Se" | kw:oil,crude,rice
+2026-07-25 16:01 ACCEPT [Google News CB] "Gold Hold at $4k for Now, but How Will it Handle the Fed? - FOREX.com" | kw:gold
+2026-07-25 16:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 16:01 SKIP_EVENING already_sent date=2026-07-25
