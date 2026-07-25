@@ -1,12 +1,3 @@
-2026-06-19 05:32 ACCEPT [Google News KL] "Weekly Market Recap (June 19) -JPMorgan: Buy Gold on Dips - NAI500" | kw:gold
-2026-06-19 05:32 ACCEPT [Google News CB] "BOJ’s Himino Sees Risk of Price Trend Rising Above 2% Target - Bloombe" | kw:rice,boj
-2026-06-19 05:32 ACCEPT [Google News CB] "BOJ’s Himino sees risk of price trend rising above 2% target - The Jap" | kw:rice,boj
-2026-06-19 05:32 ACCEPT [Google News CB] "Russian central bank chief’s absence stirs succession talk - Financial" | kw:central bank
-2026-06-19 05:32 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 06:01 ACCEPT [Al Jazeera] "A world on trial: How lawyers documenting Israeli abuse pay a price" | kw:rice
-2026-06-19 06:01 ACCEPT [OilPrice.com] "80 Million Barrels of Crude Are Lined Up to Exit the Strait of Hormuz" | kw:crude
-2026-06-19 06:01 ACCEPT [Google News HH] "Global crude oil prices plummet - The Vibes" | kw:oil,crude,rice
-2026-06-19 06:01 ACCEPT [Google News NS] "King Corn and the Devilish Details - mecardo.com.au" | kw:corn
 2026-06-19 06:01 ACCEPT [Google News CB] "BOJ Policymaker Up for Multiple Rate Hikes: April Minutes - nippon.com" | kw:rate hike,boj
 2026-06-19 06:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 06:31 ACCEPT [OilPrice.com] "Oil Prices Rebound as U.S.-Iran Peace Talks Are Postponed" | kw:oil,crude,brent
@@ -20007,3 +19998,8 @@
 2026-07-25 16:31 ACCEPT [Google News KL] "John Lithgow On Dexter Copper Price (FzpC5qpqZu) - Mshale" | kw:copper,rice
 2026-07-25 16:31 SKIP_MORNING already_sent date=2026-07-25
 2026-07-25 16:31 SKIP_EVENING already_sent date=2026-07-25
+2026-07-25 16:53 ACCEPT [Google News HH] "Global Crude Oil Prices Continue To Rise In International Markets Abdu" | kw:oil,crude,rice
+2026-07-25 16:53 ACCEPT [Google News NS] "USDA Export Sales Report July 16, 2026: Wheat, Corn, Soybeans, Cotton," | kw:wheat,corn,soybean
+2026-07-25 16:53 ACCEPT [Google News CB] "Russia's central bank gingerly cuts rates, caught between business com" | kw:inflation,central bank
+2026-07-25 16:53 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 16:53 SKIP_EVENING already_sent date=2026-07-25
