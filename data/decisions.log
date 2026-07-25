@@ -1,7 +1,3 @@
-2026-06-18 18:31 ACCEPT [Mining.com] "Mining’s nuclear reality check: SMRs are still not on miners’ shopping" | kw:easing
-2026-06-18 18:31 ACCEPT [Mining.com] "Centrus Energy, Oklo sign multi-year nuclear fuel deal" | kw:fuel
-2026-06-18 18:31 ACCEPT [NASDAQ Commod] "Gold Plummets As Traders React To Yesterday's Fed Announcement" | kw:gold,rice,interest rate
-2026-06-18 18:31 ACCEPT [Google News HH] "Midstream Energy ETFs Prove Resilient Amid Crude Oil Drop - ETF Trends" | kw:oil,crude
 2026-06-18 18:31 ACCEPT [Google News HH] "New membranes strip 99.8% of heavy hydrocarbons from crude oil to save" | kw:oil,crude
 2026-06-18 18:31 ACCEPT [Google News HH] "Dollar Strength and Crude Oil Weakness Pressure Sugar Prices - Barchar" | kw:oil,crude,rice
 2026-06-18 18:31 ACCEPT [Google News HH] "OPEC's death certificate has been written many times, says Sec Gen - C" | kw:opec
@@ -20002,3 +19998,5 @@
 2026-07-25 05:01 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
 2026-07-25 05:01 ACCEPT [Google News CB] "ECB extends use of certain climate factors in Eurosystem collateral fr" | kw:ecb
 2026-07-25 05:01 SKIP_MORNING already_sent date=2026-07-25
+2026-07-25 05:27 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-25 05:27 SKIP_MORNING already_sent date=2026-07-25
