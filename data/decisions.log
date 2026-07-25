@@ -1,11 +1,3 @@
-2026-06-19 07:01 ACCEPT [Google News HH] "OPEC Fund and CGIAR deepen agriculture partnership - Africa Business C" | kw:opec,lng
-2026-06-19 07:01 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 07:31 ACCEPT [Al Jazeera] "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still sl" | kw:oil,crude,lng
-2026-06-19 07:31 ACCEPT [Google News HH] "OPEC hikes 2050 oil demand forecast again, citing world’s pivot to ene" | kw:oil,opec
-2026-06-19 07:31 ACCEPT [Google News HH] "Canada Set New Record in Crude Oil Production in 2025 - Industrial Inf" | kw:oil,crude
-2026-06-19 07:31 ACCEPT [Google News CB] "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy pr" | kw:rice,ecb
-2026-06-19 07:31 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 08:01 ACCEPT [OilPrice.com] "India Isn’t Rushing Back to Middle Eastern Oil Despite Hormuz Reopenin" | kw:oil,crude
 2026-06-19 08:01 ACCEPT [Google News HH] "Gold Price Decline 2026: JPMorgan Revises Forecast to $5,243, Sees Buy" | kw:gold,rice
 2026-06-19 08:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD holds losses near $64.50 as US-Iran pea" | kw:silver,rice
 2026-06-19 08:01 ACCEPT [Google News NS] "Decline in wheat bran prices resumes on Ukraine’s export market – APK-" | kw:wheat,rice
@@ -20006,3 +19998,15 @@
 2026-07-25 17:31 ACCEPT [Google News KL] "Canada Nickel Company Inc. (CNIKF) Stock Price, News, Quote & History " | kw:nickel,rice
 2026-07-25 17:31 ACCEPT [Google News KL] "Equinox Gold Corp. (EQX) Stock Price, News, Quote & History - Yahoo! F" | kw:gold,rice
 2026-07-25 17:31 ACCEPT [Google News KL] "Omai Gold Mines Corp. (OMG.V) Stock Price, News, Quote & History - Yah" | kw:gold,rice
+2026-07-25 17:52 ACCEPT [Google News HH] "COMMODITY FUTURES—Time extended to... - VitalLaw.com" | kw:commodity
+2026-07-25 17:52 ACCEPT [Google News HH] "Gold at $4,000 & Silver at $59: Are Commodities Being Manipulated? How" | kw:oil,gold,silver
+2026-07-25 17:52 ACCEPT [Google News HH] "Crude Oil Prices Gain For 2nd Straight Day; Brent Crude Back Above $72" | kw:oil,crude,brent
+2026-07-25 17:52 ACCEPT [Google News HH] "OIL Price Decreased | Global Market Latest Updates | Brent Crude Oil P" | kw:oil,crude,brent
+2026-07-25 17:52 ACCEPT [Google News HH] "Oil Prices Rise | Crude Oil | Brent Crude | Middle East Tensions - Aaj" | kw:oil,crude,brent
+2026-07-25 17:52 ACCEPT [Google News HH] "LIVE TRADING IN CRUDE OIL AND NATURAL GAS || #crudeoillive #naturalgas" | kw:oil,crude,gas
+2026-07-25 17:52 ACCEPT [Google News HH] "Brent Crude Oil Technical Analysis Today - Elliott Wave And Price News" | kw:oil,crude,brent
+2026-07-25 17:52 ACCEPT [Google News HH] "Brent Crude Oil Price Rises To $85.93 Per Barrel | Global Oil Market U" | kw:oil,crude,brent
+2026-07-25 17:52 ACCEPT [Google News KL] "Silver's Dual Engine: Why Industrial Demand and Safe-Haven Flows Are F" | kw:fuel,silver
+2026-07-25 17:52 ACCEPT [Google News KL] "COPX: A Buying Opportunity After Copper Miners’ Sharp Pullback (NYSEAR" | kw:copper
+2026-07-25 17:52 ACCEPT [Google News KL] "Gold edges higher in Pakistan as silver prices decline - The Nation (P" | kw:gold,silver,rice
+2026-07-25 17:52 ACCEPT [Google News NS] "Trump's Wheat War BACKFIRES — Canada Cuts Off America's Food Supply Wh" | kw:wheat
