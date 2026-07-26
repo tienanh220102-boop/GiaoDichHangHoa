@@ -1,8 +1,3 @@
-2026-06-19 20:31 ACCEPT [Google News NS] "Feed corn prices continue to decline in Ukraine – APK-Inform - АПК-Інф" | kw:corn,rice
-2026-06-19 20:31 ACCEPT [Google News NS] "A peace deal between the US and Iran is unlikely to significantly affe" | kw:wheat,rice,freight
-2026-06-19 20:31 ACCEPT [Google News NS] "South Africa’s wheat producers push back after government upholds curr" | kw:wheat,tariff
-2026-06-19 20:31 ACCEPT [Google News NS] "Grain SA rejects wheat tariff decision, says SA risks losing wheat pro" | kw:wheat,tariff
-2026-06-19 21:01 ACCEPT [Google News HH] "Major Oil Producers See Output Fall - Statista" | kw:oil
 2026-06-19 21:01 ACCEPT [Google News NS] "Illinois farmers turn to biodiesel amid oil shocks - Galesburg Registe" | kw:oil
 2026-06-19 21:31 ACCEPT [NASDAQ Commod] "Gold Price Dips Back Below US$4,300 as New Fed Chair Holds Rates Stead" | kw:gold,rice,inflation
 2026-06-19 21:31 ACCEPT [NASDAQ Commod] "Jeffrey Christian: Gold, Silver, PGMs — My Summer Price Outlook" | kw:gold,silver,rice
@@ -20003,3 +19998,8 @@
 2026-07-26 15:31 ACCEPT [Google News HH] "Global Crude Oil Prices Surge Over 3% - News On AIR" | kw:oil,crude,rice
 2026-07-26 15:31 SKIP_MORNING already_sent date=2026-07-26
 2026-07-26 15:31 SKIP_EVENING already_sent date=2026-07-26
+2026-07-26 15:36 ACCEPT [Google News HH] "Crude Oil Price Decreases; Brent Crude Price Decreases Below $75 Per B" | kw:oil,crude,brent
+2026-07-26 15:36 ACCEPT [Google News KL] "Gold Prices Skyrocket | Record High Gold Rates Pakistan | 05PM HEADLIN" | kw:gold,rice
+2026-07-26 15:36 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are" | kw:interest rate
+2026-07-26 15:36 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 15:36 SKIP_EVENING already_sent date=2026-07-26
