@@ -1,8 +1,3 @@
-2026-06-19 14:31 ACCEPT [Google News KL] "Warsh Deals Gold a Surprise Blow. Forecast as of 19.06.2026 - LiteFina" | kw:gold
-2026-06-19 14:31 ACCEPT [Google News KL] "Gold and silver prices decline amid market fluctuations - AzerNews" | kw:gold,silver,rice
-2026-06-19 14:31 ACCEPT [Google News CB] "Russia Central Bank Cuts Rate By 25 Bps - RTTNews" | kw:central bank
-2026-06-19 14:31 ACCEPT [Google News CB] "BOJ Gov. Ueda Discharged from Hospital - nippon.com" | kw:boj
-2026-06-19 14:31 ACCEPT [Google News CB] "Fed’s Warsh Still Expects a Rate Hike This Year, Says Former Vice Chai" | kw:rate hike
 2026-06-19 14:31 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 14:31 SKIP_EVENING already_sent date=2026-06-19
 2026-06-19 15:01 ACCEPT [Google News HH] "Gold Price Analysis – Gold Drifts a Bit Lower on Juneteenth - FXEmpire" | kw:gold,rice
@@ -20003,3 +19998,8 @@
 2026-07-26 04:52 ACCEPT [Google News KL] "Gold, Silver Rate Today July 26: Gold gets costlier? Check 18, 22, 24 " | kw:gold,silver,rice
 2026-07-26 04:52 ACCEPT [Google News CB] "US Fed tipped to hold rates as inflation, Iran war cloud outlook - Mal" | kw:inflation
 2026-07-26 04:52 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 05:01 ACCEPT [Al Jazeera] "New front in US-Iran war escalates as Houthis fire at Saudi oil facili" | kw:oil
+2026-07-26 05:01 ACCEPT [Google News NS] "Morocco extends 170% soft wheat import tariff until end of August - Mi" | kw:wheat,tariff
+2026-07-26 05:01 ACCEPT [Google News NS] "Pakistan to release wheat stocks, import 1 million tonnes amid shortag" | kw:wheat,shortage
+2026-07-26 05:01 ACCEPT [Google News CB] "Conflicting Signals on Fed Rate Hike: Warsh's Hawkish Tone vs. Cooling" | kw:inflation,fed rate,rate hike
+2026-07-26 05:01 SKIP_MORNING already_sent date=2026-07-26
