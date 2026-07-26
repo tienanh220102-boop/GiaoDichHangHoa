@@ -19998,3 +19998,7 @@
 2026-07-25 23:27 ACCEPT [Google News HH] ""Investing in Commodities Is Not for Everyone"... One Thing Matters Mo" | kw:rice,commodities
 2026-07-25 23:27 ACCEPT [Google News KL] "Gold prices maintain momentum above the 4,000 USD mark, the market app" | kw:gold,rice
 2026-07-25 23:27 ACCEPT [Google News CB] "The ECB Is Turning More Hawkish - But EUR/USD Is Going Nowhere - Forex" | kw:wti,ecb
+2026-07-26 00:01 ACCEPT [Google News HH] "Crude Oil Price: कच्चे तेल में क्या होगी आगे के लिए निवेशकों की स्ट्रै" | kw:oil,crude,lng
+2026-07-26 00:01 ACCEPT [Google News KL] "Silver Rate Today In Coimbatore Live, Latest Silver Price - NDTV Profi" | kw:silver,rice
+2026-07-26 00:01 ACCEPT [Google News NS] "Pakistan Traders Reject Wheat Import Plan - Bloom Pakistan" | kw:wheat
+2026-07-26 00:02 SENT_MORNING articles=20 date=2026-07-26 force=False
