@@ -1,7 +1,3 @@
-2026-06-19 16:28 ACCEPT [Google News HH] "PETROAN Urges Fuel Price Cuts as Crude Oil Prices Decline - therealmed" | kw:oil,crude,fuel
-2026-06-19 16:28 ACCEPT [Google News HH] "FMCG Prices Unlikely To Fall Despite Crude Oil Dropping Below $80 Per " | kw:oil,crude,rice
-2026-06-19 16:28 ACCEPT [Google News KL] "Hawkish Fed signals send gold to third straight weekly loss - Reuters" | kw:gold
-2026-06-19 16:28 ACCEPT [Google News KL] "Gold prices are down but SocGen is buying the dip - KITCO" | kw:gold,rice
 2026-06-19 16:28 ACCEPT [Google News KL] "Copper Scrap Market Shows Regional Divergence Amid Price Fluctuations " | kw:copper,rice
 2026-06-19 16:28 ACCEPT [Google News KL] "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip - Yahoo " | kw:gold
 2026-06-19 16:28 ACCEPT [Google News KL] "Should You Buy This Top Silver ETF With Silver Trading Below $75 an Ou" | kw:silver
@@ -20002,3 +19998,10 @@
 2026-07-26 10:01 ACCEPT [Google News NS] "US now Bangladesh’s top soybean supplier - The Daily Star" | kw:soybean
 2026-07-26 10:01 ACCEPT [Google News CB] "Bitcoin price holds above $64,000 as traders brace for upcoming Fed de" | kw:rice
 2026-07-26 10:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 10:31 ACCEPT [Google News HH] "Will Brent Crude Oil Break $90.50? Buyers Defend $83.00 (15 Jul 2026) " | kw:oil,crude,brent
+2026-07-26 10:31 ACCEPT [Google News KL] "Gold mining stocks are proving the leverage cuts both ways as Alamos a" | kw:gold
+2026-07-26 10:31 ACCEPT [Google News KL] "Aftermath Silver Ltd. (AAG.V) Stock Price, News, Quote & History - Yah" | kw:silver,rice
+2026-07-26 10:31 ACCEPT [Google News CB] "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the bus" | kw:oil
+2026-07-26 10:31 ACCEPT [Google News CB] "Oil prices, US Fed rate decision, West Asia crisis to drive markets: A" | kw:oil,rice,fed rate
+2026-07-26 10:31 ACCEPT [Google News CB] "The Approach of Oil Prices to $100 Puts the "Fed" and Its Peers to the" | kw:oil,rice
+2026-07-26 10:31 SKIP_MORNING already_sent date=2026-07-26
