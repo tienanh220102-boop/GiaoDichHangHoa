@@ -1,8 +1,3 @@
-2026-06-19 21:01 ACCEPT [Google News NS] "Illinois farmers turn to biodiesel amid oil shocks - Galesburg Registe" | kw:oil
-2026-06-19 21:31 ACCEPT [NASDAQ Commod] "Gold Price Dips Back Below US$4,300 as New Fed Chair Holds Rates Stead" | kw:gold,rice,inflation
-2026-06-19 21:31 ACCEPT [NASDAQ Commod] "Jeffrey Christian: Gold, Silver, PGMs — My Summer Price Outlook" | kw:gold,silver,rice
-2026-06-19 21:31 ACCEPT [Google News HH] "nano Crude Oil Fut (Aug 2026) Trade Ideas — COINBASE:NOLQ2026 - Tradin" | kw:oil,crude
-2026-06-19 21:31 ACCEPT [Google News KL] "Emirates A380 Arrival Into MSP Airport 5/31/2026 Copper Price (dbkY1Wb" | kw:copper,rice
 2026-06-19 21:31 ACCEPT [Google News NS] "Corn Growers Urge USDA to Fund Research on Corn Grain, Not Just Stover" | kw:corn
 2026-06-19 21:41 ACCEPT [Google News KL] "Kids Stuff Gold Price In India (00d1rMZpQy) - Mshale" | kw:gold,rice
 2026-06-19 22:01 ACCEPT [Google News KL] "Gold answers to the Fed, not the fear - FXStreet" | kw:gold
@@ -20003,3 +19998,9 @@
 2026-07-26 15:36 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are" | kw:interest rate
 2026-07-26 15:36 SKIP_MORNING already_sent date=2026-07-26
 2026-07-26 15:36 SKIP_EVENING already_sent date=2026-07-26
+2026-07-26 16:01 ACCEPT [OilPrice.com] "Oil Market's Glut Narrative Just Blew Up" | kw:oil,crude
+2026-07-26 16:01 ACCEPT [Google News NS] "Arkansas rice acres planted drop to lowest level in 50 years - Talk Bu" | kw:rice
+2026-07-26 16:01 ACCEPT [Google News CB] "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest R" | kw:interest rate
+2026-07-26 16:01 ACCEPT [Google News CB] "Fed Decision, Big Tech Numbers And Oil: Investors Search For Fresh Cue" | kw:oil
+2026-07-26 16:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 16:01 SKIP_EVENING already_sent date=2026-07-26
