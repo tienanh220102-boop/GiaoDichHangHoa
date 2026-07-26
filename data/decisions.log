@@ -1,11 +1,3 @@
-2026-06-19 16:28 ACCEPT [CNBC Economy] "Wholesale prices rose 1.1% in May, more than expected, on surge in ene" | kw:rice
-2026-06-19 16:28 ACCEPT [CNBC Economy] "How the ‘double scar’ of past inflation woes and geopolitical shocks a" | kw:rice,inflation
-2026-06-19 16:28 ACCEPT [CNBC Economy] "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s" | kw:rice,inflation
-2026-06-19 16:28 ACCEPT [CNBC Economy] "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor" | kw:inflation
-2026-06-19 16:28 ACCEPT [CNBC Economy] "Consumer sentiment hits fresh record low in May as Iran war fuels infl" | kw:oil,fuel,rice
-2026-06-19 16:28 ACCEPT [OilPrice.com] "Why Oil Prices Are Falling Even as Tankers Remain Trapped" | kw:oil,crude,rice
-2026-06-19 16:28 ACCEPT [OilPrice.com] "Equinor to Boost Troll Gas Output with $412 Million Subsea Development" | kw:gas
-2026-06-19 16:28 ACCEPT [OilPrice.com] "Philippines Seeks Long-Term Oil Supply Deal With Russia" | kw:oil
 2026-06-19 16:28 ACCEPT [OilPrice.com] "80 Million Barrels of Crude Are Lined Up to Exit the Strait of Hormuz" | kw:crude
 2026-06-19 16:28 ACCEPT [EIA Energy] "Permian natural gas production increased faster than crude oil" | kw:oil,crude,gas
 2026-06-19 16:28 ACCEPT [EIA Energy] "Higher blending targets drive RIN prices close to record highs" | kw:gas,fuel,rice
@@ -20006,3 +19998,12 @@
 2026-07-26 09:01 ACCEPT [Google News NS] "Bonduelle Goldmais by Bonduelle SCA - canned corn classic for everyday" | kw:gold,corn
 2026-07-26 09:01 ACCEPT [Google News CB] "Interest Rate Forecast: BOJ Rate Hike to 1.25% Puts Japanese Yen in Fo" | kw:interest rate,rate hike,boj
 2026-07-26 09:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 09:30 ACCEPT [Al Jazeera] "Israel debate boils over in the United States" | kw:oil
+2026-07-26 09:31 ACCEPT [Google News HH] "Navy seizes 683 tonnes of suspected stolen crude, fuel oil - Business " | kw:oil,crude,fuel
+2026-07-26 09:31 ACCEPT [Google News KL] "Gold prices surge once more in Egyptian markets - Egypt Independent" | kw:gold,rice
+2026-07-26 09:31 ACCEPT [Google News KL] "4055.91 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
+2026-07-26 09:31 ACCEPT [Google News KL] "Newmont Mining Earnings Call Highlights Cash and Risks - The Globe and" | kw:lng
+2026-07-26 09:31 ACCEPT [Google News KL] "Gold prices in India remain under pressure despite escalating West Asi" | kw:gold,rice
+2026-07-26 09:31 ACCEPT [Google News CB] "Bitcoin price holds above $64,000 as traders brace for upcoming Fed de" | kw:rice
+2026-07-26 09:31 ACCEPT [Google News CB] "US Federal Reserve expected to hold rates steady as inflation swirls -" | kw:inflation,federal reserve
+2026-07-26 09:31 SKIP_MORNING already_sent date=2026-07-26
