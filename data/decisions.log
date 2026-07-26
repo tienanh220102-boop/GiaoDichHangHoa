@@ -1,8 +1,3 @@
-2026-06-20 00:31 ACCEPT [Google News HH] "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - En" | kw:oil,opec
-2026-06-20 00:31 ACCEPT [Google News KL] "Copper One Resources Announces Agreement to Acquire 100% Interest in t" | kw:gold,silver,copper
-2026-06-20 00:31 ACCEPT [Google News KL] "After a 27% Plunge and a $500 Downgrade, Is Gold’s Multi-Year Rally Do" | kw:gold
-2026-06-20 00:31 ACCEPT [Google News CB] "Why Kevin Warsh’s interest rate decision was the ‘right call,’ expert " | kw:interest rate,rate decision
-2026-06-20 00:31 SKIP_MORNING already_sent date=2026-06-20
 2026-06-20 01:01 ACCEPT [Google News HH] "Crude oil fell for two consecutive weeks, overseas metals broadly decl" | kw:oil,crude,gold
 2026-06-20 01:01 ACCEPT [Google News HH] "Gold Price Extends Selloff as Fed Repricing Boosts US Dollar and Yield" | kw:gold,rice
 2026-06-20 01:01 ACCEPT [Google News HH] "India Gold Price Today: Yellow Metal Declines, Bitcoin World Data Show" | kw:gold,rice
@@ -20003,3 +19998,11 @@
 2026-07-26 18:31 ACCEPT [Google News KL] "Gold prices edge higher in Azerbaijan as platinum, palladium lose grou" | kw:gold,rice
 2026-07-26 18:31 ACCEPT [Google News CB] "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch " | kw:inflation
 2026-07-26 18:31 ACCEPT [Google News CB] "Barclays Expects Earnings and Central Bank Decisions to Set the Market" | kw:central bank
+2026-07-26 18:58 ACCEPT [BBC Business] "Water returning to Gatwick Airport after major outage" | kw:oil
+2026-07-26 18:58 ACCEPT [Google News HH] "Global crude oil prices surged | Akashvani News - News On AIR" | kw:oil,crude,rice
+2026-07-26 18:58 ACCEPT [Google News HH] "Navy Arrests Vessel, Seizes 15,500 Litres Of Suspected Stolen Fuel As " | kw:crude,fuel
+2026-07-26 18:58 ACCEPT [Google News KL] "Robert Kiyosaki has a bold call on gold and silver - thestreet.com" | kw:gold,silver
+2026-07-26 18:58 ACCEPT [Google News KL] "Gold & Silver Prices Dip in Indian Bullion Market - News On AIR" | kw:gold,silver,rice
+2026-07-26 18:58 ACCEPT [Google News NS] "Bayer subsidiary drops tariff request after farmer pushback - Farm Pro" | kw:tariff
+2026-07-26 18:58 ACCEPT [Google News NS] "Global wheat rally revives India's export prospects as government allo" | kw:wheat
+2026-07-26 18:58 ACCEPT [Google News CB] "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch " | kw:inflation
