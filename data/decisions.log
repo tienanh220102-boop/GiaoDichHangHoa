@@ -1,11 +1,3 @@
-2026-06-19 17:31 ACCEPT [Google News HH] "Goldman cuts gold price forecast down to $4,900 - Mining.com" | kw:gold,rice
-2026-06-19 17:31 ACCEPT [Google News HH] "Iraq’s oil exports advance via Syrian route - Inspenet" | kw:oil
-2026-06-19 17:31 ACCEPT [Google News HH] "Evening update for crude oil -19-06-2026 - Economies.com" | kw:oil,crude
-2026-06-19 17:31 ACCEPT [Google News KL] "EXCLUSIVE: Michael Oliver Reveals His Shocking Silver Price Targets Ki" | kw:silver,rice
-2026-06-19 17:31 ACCEPT [Google News KL] "Gold price prediction: What's the outlook for gold prices on June 19, " | kw:gold,rice
-2026-06-19 18:16 ACCEPT [Google News HH] "Crude oil forecast: Hezbollah and Israel ceasefire could add further p" | kw:oil,crude
-2026-06-19 18:16 ACCEPT [Google News HH] "Gold price extends selloff as Fed repricing lifts USD and yields - FXS" | kw:gold,rice
-2026-06-19 18:16 ACCEPT [Google News HH] "Why Oil Prices Are Falling Even as Tankers Remain Trapped - Crude Oil " | kw:oil,crude,rice
 2026-06-19 18:16 ACCEPT [Google News HH] "Markets Desk Update: Crude oil losses weigh on canola - The Western Pr" | kw:oil,crude
 2026-06-19 18:16 ACCEPT [Google News HH] "Crude Oil has the right glut on the wrong calendar - Bitget" | kw:oil,crude
 2026-06-19 18:16 ACCEPT [Google News KL] "TIPS Protect Against Inflation. Gold Protects Against More. - GoldSilv" | kw:gold,silver,inflation
@@ -20006,3 +19998,17 @@
 2026-07-26 13:31 ACCEPT [Google News CB] "The Fed’s Crude Dilemma - Seeking Alpha" | kw:crude
 2026-07-26 13:31 SKIP_MORNING already_sent date=2026-07-26
 2026-07-26 13:31 SKIP_EVENING already_sent date=2026-07-26
+2026-07-26 14:01 ACCEPT [Google News HH] "West Asia conflict, US Fed rate decision, crude oil prices to drive ma" | kw:oil,crude,rice
+2026-07-26 14:01 ACCEPT [Google News HH] "Tonk police bust interstate crude oil theft gang, 12 held - The Times " | kw:oil,crude
+2026-07-26 14:01 ACCEPT [Google News KL] "4054.16 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
+2026-07-26 14:01 ACCEPT [Google News KL] "Silver’s $58.49 Rebound Masks a Market Torn Between Solar Innovation a" | kw:silver
+2026-07-26 14:01 ACCEPT [Google News NS] "A new Kansas-grown wheat could make its way to your pasta - Lawrence J" | kw:wheat
+2026-07-26 14:01 ACCEPT [Google News NS] "European wheat prices have risen by 18%. The reason is shipping risks " | kw:wheat,rice,shipping
+2026-07-26 14:01 ACCEPT [Google News NS] "Hormuz Closure And Black Sea Attacks Drive Crop Prices To Three-Year H" | kw:rice
+2026-07-26 14:01 ACCEPT [Google News CB] "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft" | kw:interest rate,rate decision
+2026-07-26 14:01 ACCEPT [Google News CB] "Fed likely to hold rates steady again on persistent inflation risks | " | kw:lng,inflation
+2026-07-26 14:01 ACCEPT [Google News CB] "The Next Fed Rate Hike May Be Coming Soon - Seeking Alpha" | kw:fed rate,rate hike
+2026-07-26 14:01 ACCEPT [Google News CB] "Federal Reserve Chairman Kevin Warsh’s First Testimony: Interest Rates" | kw:interest rate,federal reserve
+2026-07-26 14:01 ACCEPT [Google News CB] "This Week’s Key Economic and Crypto Events: Fed Rate Decision - bloomi" | kw:fed rate,rate decision
+2026-07-26 14:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 14:01 SKIP_EVENING already_sent date=2026-07-26
