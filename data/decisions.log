@@ -1,8 +1,3 @@
-2026-06-19 14:31 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 14:31 SKIP_EVENING already_sent date=2026-06-19
-2026-06-19 15:01 ACCEPT [Google News HH] "Gold Price Analysis – Gold Drifts a Bit Lower on Juneteenth - FXEmpire" | kw:gold,rice
-2026-06-19 15:01 ACCEPT [Google News HH] "Markets Desk Update: Crude oil losses weigh on canola - Farmtario" | kw:oil,crude
-2026-06-19 15:01 ACCEPT [Google News HH] "OPEC Maintains Robust Oil Growth Forecast Over Next Four Years - Marin" | kw:oil,opec
 2026-06-19 15:01 ACCEPT [Google News KL] "No Margin For Error: How Copper Projects Lost Their Price Buffer - See" | kw:copper,rice
 2026-06-19 15:01 ACCEPT [Google News KL] "Goldman Cuts Gold Target To $4,900 As Markets Now Price Two Fed Hikes " | kw:gold,rice
 2026-06-19 15:01 ACCEPT [Google News KL] "Should You Buy This Top Silver ETF With Silver Trading Below $75 an Ou" | kw:silver
@@ -20003,3 +19998,11 @@
 2026-07-26 05:01 ACCEPT [Google News NS] "Pakistan to release wheat stocks, import 1 million tonnes amid shortag" | kw:wheat,shortage
 2026-07-26 05:01 ACCEPT [Google News CB] "Conflicting Signals on Fed Rate Hike: Warsh's Hawkish Tone vs. Cooling" | kw:inflation,fed rate,rate hike
 2026-07-26 05:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 05:31 ACCEPT [Google News HH] "Crude Oil Near $100 Puts US Fed And Peers In Interest-Rate Spotlight -" | kw:oil,crude
+2026-07-26 05:31 ACCEPT [Google News HH] "Crude Oil Prices Jump Three Percent As Tensions Rise, Brent Crude Abov" | kw:oil,crude,brent
+2026-07-26 05:31 ACCEPT [Google News KL] "Is Gold's Current Rally Sustainable Amidst Middle East Tensions - Kavo" | kw:gold
+2026-07-26 05:31 ACCEPT [Google News KL] "Gold prices rise again in Bangladesh within 24 hours - The Business St" | kw:gold,rice
+2026-07-26 05:31 ACCEPT [Google News NS] "Higher FCI rice allocation for ethanol to support E20 target, ease gra" | kw:rice
+2026-07-26 05:31 ACCEPT [Google News NS] "Wheat Futures Drop as Traders Exit Positions Before Weekend - sekberne" | kw:wheat
+2026-07-26 05:31 ACCEPT [Google News CB] "Central Bank of India Revenue Breakdown – NSE:CENTRALBK - TradingView" | kw:central bank
+2026-07-26 05:31 SKIP_MORNING already_sent date=2026-07-26
