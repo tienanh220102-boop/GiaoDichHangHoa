@@ -1,15 +1,3 @@
-2026-06-19 16:28 ACCEPT [ECB Press] "Decisions taken by the Governing Council of the ECB (in addition to de" | kw:interest rate,ecb
-2026-06-19 16:28 ACCEPT [ECB Press] "ECB announces main milestones for roll-out of Integrated Reporting Fra" | kw:ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy pr" | kw:rice,ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "ECB May Raise Key Rate Again if Evidence Supports, Chief Economist Say" | kw:ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "Gold on track for third weekly loss on firm dollar, hawkish Fed signal" | kw:gold
-2026-06-19 16:28 ACCEPT [Google News CB] "ECB publishes supervisory banking statistics on significant institutio" | kw:ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "Europe's mid-sized inflation shock requires measured response, ECB's L" | kw:inflation,ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "BOJ Deputy Governor Warns of Risk from Delaying Rate Hikes - WSJ" | kw:rate hike,boj
-2026-06-19 16:28 ACCEPT [Google News CB] "Lane Says It’s Hard to Argue That ECB Shouldn’t Have Hiked Rates - Blo" | kw:ecb
-2026-06-19 16:28 ACCEPT [Google News CB] "BOJ may raise interest rates twice by March, says ex-BOJ policymaker -" | kw:interest rate,boj
-2026-06-19 16:28 ACCEPT [Google News CB] "Fed’s Warsh Still Expects a Rate Hike This Year, Says Former Vice Chai" | kw:rate hike
-2026-06-19 16:28 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 16:28 SKIP_EVENING already_sent date=2026-06-19
 2026-06-19 16:31 ACCEPT [OilPrice.com] "Kuwait Says Oil Output Could Hit 2 Million Bpd Within a Week" | kw:oil,petroleum
 2026-06-19 16:31 ACCEPT [Mining.com] "Mining’s nuclear reality check: SMRs are still not on miners’ shopping" | kw:easing
@@ -20010,3 +19998,13 @@
 2026-07-26 12:01 ACCEPT [Google News CB] "Federal Reserve expected to hold rates steady as inflation swirls - Hü" | kw:inflation,federal reserve
 2026-07-26 12:01 ACCEPT [Google News CB] "Week Ahead | A Packed Agenda! Fed Leads Super Central Bank Week into a" | kw:central bank
 2026-07-26 12:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 12:31 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (April 15): WTI, B" | kw:oil,crude,brent
+2026-07-26 12:31 ACCEPT [Google News HH] "West Asia conflict, US Fed rate decision, crude oil prices to drive ma" | kw:oil,crude,rice
+2026-07-26 12:31 ACCEPT [Google News HH] "Indian crude oil price surges 11% to $103.33, highest in two months am" | kw:oil,crude,rice
+2026-07-26 12:31 ACCEPT [Google News HH] "Gold price increases by Rs 1, 600 per tola on Sunday - The Annapurna E" | kw:gold,rice
+2026-07-26 12:31 ACCEPT [Google News KL] "Silver Price Forecast: Strong Dollar Could Drive Silver Toward $50 - F" | kw:silver,rice
+2026-07-26 12:31 ACCEPT [Google News KL] "Gold prices after a year, gold rings surpass gold bars in terms of pro" | kw:gold,rice
+2026-07-26 12:31 ACCEPT [Google News NS] "Südzucker stock trades steady as sugar and starch margins shape outloo" | kw:sugar
+2026-07-26 12:31 ACCEPT [Google News CB] "FOMC preview: Fed to stay on hold after June’s hawkish shift - ING THI" | kw:fomc
+2026-07-26 12:31 ACCEPT [Google News CB] "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and" | kw:fed rate,rate decision
+2026-07-26 12:31 SKIP_MORNING already_sent date=2026-07-26
