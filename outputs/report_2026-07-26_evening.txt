@@ -1,0 +1,60 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          89.31   -3.1%    +8.3%
+Brent        96.78   -3.9%    +9.8%
+Khí TN       2.888   -1.0%    -0.8%
+Vàng      4,070.80   +0.6%    +1.4%
+Bạc          58.91   +1.9%    +5.1%
+Đồng         6.357   +0.8%    +2.2%
+Ngô         487.25   +5.0%    +9.6%
+Lúa mì      678.00   -2.6%    -0.7%
+Đậu t.    1,253.50   +1.3%    +4.1%
+DXY         101.43   +0.3%    +0.7%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): WTI 1.7× bình thường, Lúa mì 2.9× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $7.47 (1 tháng trước: $3.40) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 69.1 (1 tháng trước: 68.7) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.56 (1 tháng trước: 1.49) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-21]
+  Lúa mì (SRW): NET SHORT -7,009 (Δ tuần: +9,330)
+  Ngô: NET LONG +186,650 (Δ tuần: +55,187)
+  Đậu tương: NET LONG +175,646 (Δ tuần: +50,243)
+  Dầu WTI: NET LONG +12,514 (Δ tuần: -4,340)
+  Bạc: NET LONG +23,465 (Δ tuần: -1,609)
+  Đồng: NET LONG +73,977 (Δ tuần: +9,592)
+  Vàng XAU: NET LONG +183,910 (Δ tuần: -2,772)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+Dưới đây là báo cáo thị trường hàng hóa NGẮN gọn, chỉ tập trung vào các điểm đáng chú ý nhất trong phiên Mỹ ngày 2026-07-26:
+
+---
+
+🌍 **VĨ MÔ**
+Thị trường chịu tác động bởi tâm lý thận trọng liên quan đến quyết định lãi suất của Fed (chưa công bố) và diễn biến xung đột ở Tây Á. Đồng USD mạnh lên nhẹ (+0.29% DXY) cũng gây áp lực lên các hàng hóa định giá bằng USD.
+
+🛢️ **NĂNG LƯỢNG — Dầu WTI/Brent, Khí tự nhiên**
+Xu hướng: WTI SIDEWAY | Brent SIDEWAY | Khí TN GIẢM
+Thiên hướng KT: WTI Trung tính | Brent Trung tính | Khí TN Nghiêng giảm
+Ngưỡng giá: WTI 80.27–93.50 | Brent 86.14–102.01 | Khí TN 2.831–2.991
+Phân tích:
+• Dầu WTI GIẢM 3.12% và Brent GIẢM 3.88% trong phiên, sau khi đã TĂNG mạnh lần lượt 8.27% và 9.85% trong 5 phiên trước đó. Sự điều chỉnh này có thể do hoạt động chốt lời và thị trường đánh giá lại rủi ro địa chính trị ở Tây Á, cùng với áp lực từ đồng USD mạnh lên.
+• Khí tự nhiên GIẢM 0.96% trong phiên và GIẢM 0.79% trong 5 phiên, tiếp tục xu hướng giảm trung hạn. Vị thế quỹ đầu cơ cho thấy các quỹ đã giảm vị thế mua ròng đối với dầu WTI trong tuần qua, phản ánh sự thận trọng.
+Rủi ro:
+• Diễn biến xung đột ở Tây Á và các quyết định chính sách tiền tệ của Fed sẽ tiếp tục là yếu tố chính ảnh hưởng đến giá dầu.
+
+🌾 **NÔNG SẢN — Ngô, Đậu tương, Lúa mì**
+Xu hướng: Ngô TĂNG | Lúa mì TĂNG | Đậu tương TĂNG
+Thiên hướng KT: Ngô Tăng — đã nóng | Lúa mì Nghiêng tăng | Đậu tương Tăng — đã nóng
+Ngưỡng giá: Ngô 445.50–492.00 | Lúa mì 659.50–711.25 | Đậu tương 1,209.00–1,256.50
+Phân tích:
+• Ngô TĂNG mạnh 5.01% trong phiên và TĂNG 9.56% trong 5 phiên, đạt mức giá cao nhất trong 52 tuần và cho thấy đã tăng nóng. Đậu tương cũng TĂNG 1.29% trong phiên và TĂNG 4.07% trong 5 phiên, cũng ở trạng thái tăng nóng. Dòng tiền đầu cơ đang đổ mạnh vào cả ngô và đậu tương, với các quỹ tăng đáng kể vị thế mua ròng.
+• Lúa mì GIẢM 2.62% trong phiên và GIẢM 0.70% trong 5 phiên, với khối lượng giao dịch cao xác nhận động lượng giảm. Việc thu hoạch lúa mì ở Bắc Bán Cầu có thể gây áp lực lên nguồn cung, trong khi các quỹ đầu cơ vẫn duy trì vị thế bán ròng.
+Rủi ro:
+• Thời tiết tại Mỹ trong giai đoạn thụ phấn của ngô và đậu tương sẽ là yếu tố then chốt ảnh hưởng đến nguồn cung và giá cả.
+
+📋 **KHUYẾN NGHỊ**
+• Đối với Ngô và Đậu tương, nhà đầu tư nên thận trọng do giá đã tăng nóng và có thể điều chỉnh từ ngưỡng 492.00¢/bushel (Ngô) và 1,256.50¢/bushel (Đậu tương).
+• Đối với Dầu WTI và Brent, theo dõi sát diễn biến địa chính trị và thông tin từ Fed để đánh giá xu hướng tiếp theo, đặc biệt khi giá đang dao động trong ngưỡng 80.27–93.50 (WTI) và 86.14–102.01 (Brent).
