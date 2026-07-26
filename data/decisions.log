@@ -1,9 +1,3 @@
-2026-06-20 08:17 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 08:31 ACCEPT [Google News HH] "Gold Price Crash Pakistan | Rs 43,600 Drop Per Tola | Latest Gold Rate" | kw:gold,rice
-2026-06-20 08:31 ACCEPT [Google News HH] "Crude oil fell for two consecutive weeks, overseas market metals broad" | kw:oil,crude,silver
-2026-06-20 08:31 ACCEPT [Google News HH] "Crude Oil Down 2%; Accenture Shares Fall After Q3 Results - Sahm" | kw:oil,crude
-2026-06-20 08:31 ACCEPT [Google News HH] "UAE, Saudi SPLIT Official; Abu Dhabi EXITS OPEC As Iran War Intensifie" | kw:opec
-2026-06-20 08:31 ACCEPT [Google News KL] "Gold Price Crash To Continue: $3,500 Is Next Warns Trader | Gareth Sol" | kw:gold,rice
 2026-06-20 08:31 ACCEPT [Google News KL] "Gold Rate Today | Silver Price | Gold Falling | Right Time To Buy Gold" | kw:gold,silver,rice
 2026-06-20 08:31 ACCEPT [Google News KL] "Gold prices fall further in domestic market - daily-sun.com" | kw:gold,rice
 2026-06-20 08:31 ACCEPT [Google News NS] "China's May US soybean imports rise 1.8%, Brazil shipments fall 17.7% " | kw:soybean
@@ -20004,3 +19998,10 @@
 2026-07-26 19:31 ACCEPT [Google News NS] "This luscious carbonara is punctuated by summer sweet corn, making it " | kw:corn
 2026-07-26 19:31 ACCEPT [Google News NS] "Global wheat rally revives India's export prospects as government allo" | kw:wheat
 2026-07-26 19:31 ACCEPT [Google News CB] "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloom" | kw:fed rate,rate hike
+2026-07-26 20:01 ACCEPT [Al Jazeera] "Cuban president accuses US of genocide, seeking takeover" | kw:oil,embargo
+2026-07-26 20:01 ACCEPT [Google News HH] "Mineral Commodities Ltd Revenue Breakdown – SWB:58M - TradingView" | kw:commodities
+2026-07-26 20:01 ACCEPT [Google News NS] "Fine-tune wheat variety selection for Greater Crop Success - High Plai" | kw:wheat
+2026-07-26 20:01 ACCEPT [Google News CB] "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloom" | kw:fed rate,rate hike
+2026-07-26 20:01 ACCEPT [Google News CB] "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight - Bloomber" | kw:oil
+2026-07-26 20:01 ACCEPT [Google News CB] "The Treasury Market Is Sending Fed Chair Kevin Warsh a Clear Warning A" | kw:treasury
+2026-07-26 20:01 ACCEPT [Google News CB] "Market watchers waiting to see if US Fed will hold or hike key interes" | kw:interest rate
