@@ -1,9 +1,3 @@
-2026-06-19 15:01 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 15:01 SKIP_EVENING already_sent date=2026-06-19
-2026-06-19 15:31 ACCEPT [OilPrice.com] "Equinor to Boost Troll Gas Output with $412 Million Subsea Development" | kw:gas
-2026-06-19 15:31 ACCEPT [Google News HH] "Gold Is Down Today. The US Market Isn’t Open Yet. - GoldSilver" | kw:gold,silver
-2026-06-19 15:31 ACCEPT [Google News HH] "Crude Oil Price Analysis – Crude Oil Quiet in Holiday Session - FXEmpi" | kw:oil,crude,rice
-2026-06-19 15:31 ACCEPT [Google News HH] "Crude Oil has the right glut on the wrong calendar - FXStreet" | kw:oil,crude
 2026-06-19 15:31 ACCEPT [Google News KL] "Gold finds itself in a worse place, if you trust Kevin Warsh - investi" | kw:gold
 2026-06-19 15:31 ACCEPT [Google News CB] "Student loan borrowers can get a 1% interest rate cut with one simple " | kw:interest rate,rate cut
 2026-06-19 15:31 ACCEPT [Google News CB] "Russian central bank cuts benchmark interest rate - Yahoo Finance" | kw:central bank,interest rate
@@ -20004,3 +19998,7 @@
 2026-07-26 06:01 ACCEPT [Google News CB] "Turkish central bank keeps policy rate unchanged at 37% - Fibre2Fashio" | kw:central bank,policy rate
 2026-07-26 06:01 ACCEPT [Google News CB] "Interest rate rises loom this year as Iran conflict escalates - This i" | kw:interest rate
 2026-07-26 06:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 06:31 ACCEPT [Google News HH] "Belfast [2021] | Everlasting Love | Full Scene HD Crude Oil Price (NkM" | kw:oil,crude,rice
+2026-07-26 06:31 ACCEPT [Google News KL] "Gold and silver prices increase in domestic market today - Nepalnews.c" | kw:gold,silver,rice
+2026-07-26 06:31 ACCEPT [Google News NS] "Govt Revises Commission Rates for Wheat and Paddy Procurement from Rab" | kw:wheat
+2026-07-26 06:31 SKIP_MORNING already_sent date=2026-07-26
