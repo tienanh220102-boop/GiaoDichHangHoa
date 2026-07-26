@@ -1,11 +1,3 @@
-2026-06-19 15:01 ACCEPT [Google News KL] "No Margin For Error: How Copper Projects Lost Their Price Buffer - See" | kw:copper,rice
-2026-06-19 15:01 ACCEPT [Google News KL] "Goldman Cuts Gold Target To $4,900 As Markets Now Price Two Fed Hikes " | kw:gold,rice
-2026-06-19 15:01 ACCEPT [Google News KL] "Should You Buy This Top Silver ETF With Silver Trading Below $75 an Ou" | kw:silver
-2026-06-19 15:01 ACCEPT [Google News KL] "EZCORP (EZPW) Gains from Consumer Stress and Elevated Gold Prices - Ya" | kw:gold,rice
-2026-06-19 15:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Drifts Lower to Find Buyers in Thin Tra" | kw:silver,rice
-2026-06-19 15:01 ACCEPT [Google News KL] "Invesco targets individual savers with new gold ETC - ETF Stream" | kw:gold
-2026-06-19 15:01 ACCEPT [Google News KL] "Gold heads for third weekly loss as hawkish Fed rate bets reinforce be" | kw:gold,fed rate
-2026-06-19 15:01 ACCEPT [Google News CB] "ECB publishes supervisory banking statistics on significant institutio" | kw:ecb
 2026-06-19 15:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 15:01 SKIP_EVENING already_sent date=2026-06-19
 2026-06-19 15:31 ACCEPT [OilPrice.com] "Equinor to Boost Troll Gas Output with $412 Million Subsea Development" | kw:gas
@@ -20006,3 +19998,9 @@
 2026-07-26 05:31 ACCEPT [Google News NS] "Wheat Futures Drop as Traders Exit Positions Before Weekend - sekberne" | kw:wheat
 2026-07-26 05:31 ACCEPT [Google News CB] "Central Bank of India Revenue Breakdown – NSE:CENTRALBK - TradingView" | kw:central bank
 2026-07-26 05:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 06:01 ACCEPT [Google News HH] "Kuwait Oil Company Signs US$ 16.0 Billion Infrastructure Partnership I" | kw:oil,crude
+2026-07-26 06:01 ACCEPT [Google News KL] "Reason why gold buyers lose up to 10 million VND/tael after a week - L" | kw:gold
+2026-07-26 06:01 ACCEPT [Google News NS] "Soybean Futures Surge as Dry Weather Threatens Midwest Crops - sekbern" | kw:soybean
+2026-07-26 06:01 ACCEPT [Google News CB] "Turkish central bank keeps policy rate unchanged at 37% - Fibre2Fashio" | kw:central bank,policy rate
+2026-07-26 06:01 ACCEPT [Google News CB] "Interest rate rises loom this year as Iran conflict escalates - This i" | kw:interest rate
+2026-07-26 06:01 SKIP_MORNING already_sent date=2026-07-26
