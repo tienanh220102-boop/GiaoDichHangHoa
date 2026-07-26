@@ -1,5 +1,3 @@
-2026-06-19 13:01 ACCEPT [Google News CB] "Warsh Remakes the Fed as Inflation Runs Hot - The Daily Economy" | kw:inflation
-2026-06-19 13:01 ACCEPT [Google News CB] "Watch for more volatility as new Fed chair looks to make mark - T. Row" | kw:rice
 2026-06-19 13:01 ACCEPT [Google News CB] "Russian Central Bank Slashes Key Rate to 14.25% - The Moscow Times" | kw:central bank
 2026-06-19 13:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 13:02 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
@@ -20000,3 +19998,14 @@
 2026-07-26 01:31 SKIP_MORNING already_sent date=2026-07-26
 2026-07-26 02:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Testified Before Congress on July 14 and Said In" | kw:inflation,rate hike
 2026-07-26 02:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 02:31 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (June 26): WTI, Br" | kw:oil,crude,brent
+2026-07-26 02:31 ACCEPT [Google News HH] "अब बाजार का बचना मुश्किल😭 Crude Oil Price Jump 28%+😭Yemen Houthis Atta" | kw:oil,crude,rice
+2026-07-26 02:31 ACCEPT [Google News HH] "Bon Jovi - It's My Life (Official Music Video) Gold Price In India (cC" | kw:gold,rice
+2026-07-26 02:31 ACCEPT [Google News HH] "Kazakhstan's crude oil exports fall in January-May - trend.az" | kw:oil,crude
+2026-07-26 02:31 ACCEPT [Google News HH] "Crude Oil Perpetual Futures - (CL) - Investing.com Canada" | kw:oil,crude
+2026-07-26 02:31 ACCEPT [Google News KL] "Daily Brief Energy/Materials: Champion Iron, Gold, Matador Resources C" | kw:gold,aluminum,steel
+2026-07-26 02:31 ACCEPT [Google News KL] "ETF market price vs NAV: Why some funds trade at a 20% premium while o" | kw:rice
+2026-07-26 02:31 ACCEPT [Google News CB] "G7 central banks prepare for rate decisions amid rising oil prices – B" | kw:oil,rice,central bank
+2026-07-26 02:31 ACCEPT [Google News CB] "Global spotlight next week! Fed and Bank of Japan interest rate decisi" | kw:interest rate,rate decision,bank of japan
+2026-07-26 02:31 ACCEPT [Google News CB] "Federal Reserve Survey: Education Level Strongly Linked to Net Worth i" | kw:federal reserve
+2026-07-26 02:31 SKIP_MORNING already_sent date=2026-07-26
