@@ -1,8 +1,3 @@
-2026-06-19 12:01 ACCEPT [Google News NS] "Soybean Futures Decline on Strong Dollar, Falling Oil Prices | June 19" | kw:oil,soybean,rice
-2026-06-19 12:01 ACCEPT [Google News NS] "CBOT soybeans slump from two-week high as US dollar strength weighs on" | kw:soybean
-2026-06-19 12:01 ACCEPT [Google News CB] "ECB publishes consolidated banking data for end-December 2025 - Europe" | kw:central bank,ecb
-2026-06-19 12:01 ACCEPT [Google News CB] "Money Moment: Federal Reserve holds interest rate steady - WWLTV.com" | kw:interest rate,federal reserve
-2026-06-19 12:01 SKIP_MORNING already_sent date=2026-06-19
 2026-06-19 12:31 ACCEPT [OilPrice.com] "India Receives First Post-Deal LNG Cargo Through Strait Of Hormuz" | kw:lng
 2026-06-19 12:31 ACCEPT [Google News HH] "Goldman Sachs Reduced Its Gold Price Target for the End of 2026 - Yaho" | kw:gold,rice
 2026-06-19 12:31 ACCEPT [Google News HH] "Goldman Sachs Reduced Its Gold Price Target for the End of 2026 - BeIn" | kw:gold,rice
@@ -20003,3 +19998,9 @@
 2026-07-26 00:31 ACCEPT [Google News CB] "Fed chair 'an enigma:' Why July interest rate move is hard to predict " | kw:interest rate
 2026-07-26 00:31 ACCEPT [Google News CB] "Oil near US$100 puts Fed and peers in interest-rate spotlight - The Ed" | kw:oil
 2026-07-26 00:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 01:01 ACCEPT [Google News HH] "Why Is Petrol Still Expensive Even When Crude Oil Prices Are Down?⛽ Ca" | kw:oil,crude,rice
+2026-07-26 01:01 ACCEPT [Google News KL] "Silver Rate Today In Mumbai Live, Latest Silver Price - NDTV Profit" | kw:silver,rice
+2026-07-26 01:01 ACCEPT [Google News NS] "Nepal's export boom relies on edible oil and Indian market - thehawk.i" | kw:oil
+2026-07-26 01:01 ACCEPT [Google News NS] "Wheat traders urge govt to allow private imports, reject TCP-led purch" | kw:wheat
+2026-07-26 01:01 ACCEPT [Google News CB] "Enterprise value to revenue forward of Shinkin Central Bank Pfd Subs C" | kw:central bank
+2026-07-26 01:01 SKIP_MORNING already_sent date=2026-07-26
