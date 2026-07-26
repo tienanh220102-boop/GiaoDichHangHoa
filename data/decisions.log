@@ -1,5 +1,3 @@
-2026-06-20 09:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 09:31 ACCEPT [Google News HH] "Waller's 'hawkish debut'; Goldman Sachs lowers gold price target: 'If " | kw:gold,rice
 2026-06-20 09:31 ACCEPT [Google News HH] "Farmer Wants A Wife Australia | Season 7 Episode 5 Gold Price In India" | kw:gold,rice
 2026-06-20 09:31 ACCEPT [Google News KL] "Huge GOLD News! Central Banks Are About To Change The Gold & Silver Pr" | kw:gold,silver,rice
 2026-06-20 09:31 ACCEPT [Google News KL] "Experts: Gold prices drive rise in home burglaries, highest level in a" | kw:gold,rice
@@ -20000,3 +19998,10 @@
 2026-07-26 20:08 ACCEPT [Google News CB] "Bond traders see rising odds of Fed rate hike amid oil, inflation fear" | kw:oil,inflation,fed rate
 2026-07-26 20:31 ACCEPT [Google News KL] "Gold News: Warsh’s Tone Could Break the Gold Market’s Five-Week Range " | kw:gold
 2026-07-26 20:31 ACCEPT [Google News KL] "Gold’s $4,055 Standoff: Central Banks Hoard a Record 36,664 Tonnes as " | kw:gold,central bank
+2026-07-26 21:01 ACCEPT [OilPrice.com] "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again" | kw:oil,crude,fuel
+2026-07-26 21:01 ACCEPT [NASDAQ Commod] "Frank Trotter: Gold Price Going Higher, How to Put Your Metal to Work" | kw:gold,rice
+2026-07-26 21:01 ACCEPT [NASDAQ Commod] "Brent Cook: Junior Miner Red Flags, Plus Metals I Like Now" | kw:brent
+2026-07-26 21:01 ACCEPT [Google News HH] "US Fed decision, Q1 earnings, crude oil prices likely to drive D-Stree" | kw:oil,crude,rice
+2026-07-26 21:01 ACCEPT [Google News KL] "Crypto’s Only Growing Sector Runs on Gold and Equities - CryptoRank" | kw:gold
+2026-07-26 21:01 ACCEPT [Google News NS] "Millers seek direct wheat imports - The Express Tribune" | kw:wheat
+2026-07-26 21:01 ACCEPT [Google News CB] "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound - Bloo" | kw:rice
