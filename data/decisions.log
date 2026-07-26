@@ -1,10 +1,3 @@
-2026-06-19 16:01 ACCEPT [Google News HH] "Crude oil forecast: Hezbollah and Israel ceasefire could add further p" | kw:oil,crude
-2026-06-19 16:01 ACCEPT [Google News HH] "New report maps East African Crude Oil Pipeline through black rhino ra" | kw:oil,crude
-2026-06-19 16:01 ACCEPT [Google News KL] "Gold Hit the Brakes Hardest Since 1981 on Warsh's 'Hawkish' US Fed - B" | kw:gold
-2026-06-19 16:01 ACCEPT [Google News KL] "Gold prices are down but SocGen is buying the dip - KITCO" | kw:gold,rice
-2026-06-19 16:01 ACCEPT [Google News NS] "China's US Soybean Pledge Faces a 10-Million-Ton Credibility Test - St" | kw:soybean
-2026-06-19 16:01 SKIP_MORNING already_sent date=2026-06-19
-2026-06-19 16:01 SKIP_EVENING already_sent date=2026-06-19
 2026-06-19 16:28 ACCEPT [MarketWatch] "Oil prices under new wave of pressure amid lingering questions over a " | kw:oil,rice,easing
 2026-06-19 16:28 ACCEPT [MarketWatch] "Chip stocks are setting records, but this hidden chart pattern says mo" | kw:rice
 2026-06-19 16:28 ACCEPT [BBC Business] "Brexit cost 6% of UK economy, Bank of England company data suggests" | kw:bank of england
@@ -20005,3 +19998,10 @@
 2026-07-26 07:31 ACCEPT [Google News KL] "Gold prices reach nearly $4,053 per ounce - وكالة صدى نيوز" | kw:gold,rice
 2026-07-26 07:31 ACCEPT [Google News NS] "LAKE AREA CORN PROCESSORS LLC Revenue Breakdown – OTC:LKCRU - TradingV" | kw:corn
 2026-07-26 07:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 08:01 ACCEPT [Google News HH] "Japan Secures Enough Crude Oil Supplies as US-Iran War Spirals - ASHAR" | kw:oil,crude
+2026-07-26 08:01 ACCEPT [Google News HH] "Week ahead: Fed rate decision, Q1 earnings, US-Iran war and crude oil " | kw:oil,crude,rice
+2026-07-26 08:01 ACCEPT [Google News KL] "How much did gold & silver cost over last 1 month as their prices swun" | kw:gold,silver,rice
+2026-07-26 08:01 ACCEPT [Google News KL] "Gold price today, July 26: Loss of 10 million VND/tael after a week - " | kw:gold,rice
+2026-07-26 08:01 ACCEPT [Google News NS] "A Can of Sweet Corn and a Simple Kind of Homesickness - Vocal" | kw:corn
+2026-07-26 08:01 ACCEPT [Google News CB] "Fed decision, Q1 earnings, crude to steer D-Street next week - Tripura" | kw:crude
+2026-07-26 08:01 SKIP_MORNING already_sent date=2026-07-26
