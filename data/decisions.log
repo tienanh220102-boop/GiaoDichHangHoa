@@ -1,10 +1,3 @@
-2026-06-19 16:28 ACCEPT [MarketWatch] "Oil prices under new wave of pressure amid lingering questions over a " | kw:oil,rice,easing
-2026-06-19 16:28 ACCEPT [MarketWatch] "Chip stocks are setting records, but this hidden chart pattern says mo" | kw:rice
-2026-06-19 16:28 ACCEPT [BBC Business] "Brexit cost 6% of UK economy, Bank of England company data suggests" | kw:bank of england
-2026-06-19 16:28 ACCEPT [BBC Business] "Interest rates held as Bank warns of impact of high energy prices" | kw:rice,interest rate
-2026-06-19 16:28 ACCEPT [BBC Business] "Japan raids ice cream giants over price-fixing allegations" | kw:rice
-2026-06-19 16:28 ACCEPT [BBC Business] "Struggling Pizza Hut chain to be sold for $2.7bn" | kw:easing
-2026-06-19 16:28 ACCEPT [BBC Business] "Musk's SpaceX overtakes Amazon to become world's fifth most valuable f" | kw:rice
 2026-06-19 16:28 ACCEPT [BBC Business] "How could the US-Iran deal affect oil prices and the cost of food?" | kw:oil,rice
 2026-06-19 16:28 ACCEPT [The Guardian Biz] "Federal Reserve holds rates steady but signals possible hike before ye" | kw:interest rate,rate hike,federal reserve
 2026-06-19 16:28 ACCEPT [Al Jazeera] "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Mosco" | kw:oil,shortage
@@ -20005,3 +19998,9 @@
 2026-07-26 08:01 ACCEPT [Google News NS] "A Can of Sweet Corn and a Simple Kind of Homesickness - Vocal" | kw:corn
 2026-07-26 08:01 ACCEPT [Google News CB] "Fed decision, Q1 earnings, crude to steer D-Street next week - Tripura" | kw:crude
 2026-07-26 08:01 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 08:31 ACCEPT [Google News HH] "Oil surge powers Korea ETNs to top monthly gains as US-Iran tensions r" | kw:oil
+2026-07-26 08:31 ACCEPT [Google News HH] "LIVE TRADING IN CRUDE OIL AND NATURAL GAS || #crudeoillive #naturalgas" | kw:oil,crude,gas
+2026-07-26 08:31 ACCEPT [Google News HH] "Crude Oil Forecast – WTI And Brent Rally On Escalating Middle East Ris" | kw:oil,crude,brent
+2026-07-26 08:31 ACCEPT [Google News CB] "Iraq’s central bank improves non-bank financial oversight - Iraqi News" | kw:central bank
+2026-07-26 08:31 ACCEPT [Google News CB] "Demand deposits to total deposits of Shinkin Central Bank Pfd Subs Cer" | kw:central bank
+2026-07-26 08:31 SKIP_MORNING already_sent date=2026-07-26
