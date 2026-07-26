@@ -1,7 +1,3 @@
-2026-06-19 15:31 ACCEPT [Google News KL] "Gold finds itself in a worse place, if you trust Kevin Warsh - investi" | kw:gold
-2026-06-19 15:31 ACCEPT [Google News CB] "Student loan borrowers can get a 1% interest rate cut with one simple " | kw:interest rate,rate cut
-2026-06-19 15:31 ACCEPT [Google News CB] "Russian central bank cuts benchmark interest rate - Yahoo Finance" | kw:central bank,interest rate
-2026-06-19 15:31 ACCEPT [Google News CB] "Top Links 1137 Central bank divergence. Five-nines tungsten hexafluori" | kw:central bank
 2026-06-19 15:31 ACCEPT [Google News CB] "BOJ Gov. Ueda Discharged from Hospital - nippon.com" | kw:boj
 2026-06-19 15:31 ACCEPT [Google News CB] "Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, " | kw:fuel,central bank
 2026-06-19 15:31 SKIP_MORNING already_sent date=2026-06-19
@@ -20002,3 +19998,10 @@
 2026-07-26 06:31 ACCEPT [Google News KL] "Gold and silver prices increase in domestic market today - Nepalnews.c" | kw:gold,silver,rice
 2026-07-26 06:31 ACCEPT [Google News NS] "Govt Revises Commission Rates for Wheat and Paddy Procurement from Rab" | kw:wheat
 2026-07-26 06:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 07:01 ACCEPT [BBC Business] "Primark's new 'supermarket tactic' to woo customers in online price wa" | kw:rice
+2026-07-26 07:01 ACCEPT [BBC Business] "The £5 coffee that tells a story of global economic turmoil" | kw:oil,coffee,tariff
+2026-07-26 07:01 ACCEPT [Google News HH] "Gold Price Resilience: Real Yields, Fed Risk & Central Bank Reserves -" | kw:gold,rice,central bank
+2026-07-26 07:01 ACCEPT [Google News KL] "Gold and silver prices rise - OnlineKhabar English News" | kw:gold,silver,rice
+2026-07-26 07:01 ACCEPT [Google News KL] "Gold’s next rally could be taking shape: Why investors should focus on" | kw:gold
+2026-07-26 07:01 ACCEPT [Google News NS] "RKDA|Arcadia Biosciences Inc|Price:0.640|Chg%:+0.018 - TradingKey" | kw:rice
+2026-07-26 07:01 SKIP_MORNING already_sent date=2026-07-26
