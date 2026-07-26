@@ -1,7 +1,3 @@
-2026-06-20 10:01 ACCEPT [Google News NS] "Arkansas Rice Acreage Plunges, Forcing Grain Dryer Closures Across the" | kw:rice
-2026-06-20 10:01 ACCEPT [Google News CB] "Taiwan's central bank downplays unbalanced economic growth fears - Foc" | kw:central bank
-2026-06-20 10:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 10:31 ACCEPT [Google News HH] "Gold Price on 19 June 2026 - Gold Price" | kw:gold,rice
 2026-06-20 10:31 ACCEPT [Google News KL] "Gold and Silver prices decline on COMEX - AzerNews" | kw:gold,silver,rice
 2026-06-20 10:31 ACCEPT [Google News NS] "Wheat producers see red over Tau’s tariff snub - Business Day" | kw:wheat,tariff
 2026-06-20 10:31 ACCEPT [Google News CB] "Fed’s Collins Says She Could Envision the Need for Rate Hikes - WSJ" | kw:rate hike
@@ -20002,3 +19998,10 @@
 2026-07-26 22:01 ACCEPT [Google News KL] "US Fed action, oil swings to test bullion as traders eye West Asia ris" | kw:oil
 2026-07-26 22:01 ACCEPT [Google News CB] "Syrian Central Bank Ends Debate: Old Pound Invalid After July - Enab B" | kw:central bank
 2026-07-26 22:01 ACCEPT [Google News CB] "Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI - " | kw:gdp,fomc,boj
+2026-07-26 22:27 ACCEPT [MarketWatch] "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, W" | kw:oil,rice
+2026-07-26 22:27 ACCEPT [Google News HH] "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - Energ" | kw:oil,opec
+2026-07-26 22:27 ACCEPT [Google News KL] "Gold Forecast: XAU/USD Defends $4,000 as China Imports Soar ahead of F" | kw:gold,inflation,gdp
+2026-07-26 22:27 ACCEPT [Google News KL] "Silver Rate Today In Hyderabad Live, Latest Silver Price - NDTV Profit" | kw:silver,rice
+2026-07-26 22:27 ACCEPT [Google News NS] "Feedgrain Focus: Prices keep kicking, growers hold in dry week - Beef " | kw:rice
+2026-07-26 22:27 ACCEPT [Google News CB] "Dow Jones Futures Rise, Oil Prices Dive Amid Iran News; Apple Leads Ea" | kw:oil,rice
+2026-07-26 22:27 ACCEPT [Google News CB] "Fed Rate Decision Pits 104 Economists Against a 36% Hike Bet - BeInCry" | kw:fed rate,rate decision
