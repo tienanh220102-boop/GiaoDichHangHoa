@@ -1,10 +1,3 @@
-2026-06-19 16:28 ACCEPT [Google News KL] "Copper Scrap Market Shows Regional Divergence Amid Price Fluctuations " | kw:copper,rice
-2026-06-19 16:28 ACCEPT [Google News KL] "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip - Yahoo " | kw:gold
-2026-06-19 16:28 ACCEPT [Google News KL] "Should You Buy This Top Silver ETF With Silver Trading Below $75 an Ou" | kw:silver
-2026-06-19 16:28 ACCEPT [Google News KL] "DGCX Introduces First Same-Day Physical Gold Contract in Gulf - Invest" | kw:gold
-2026-06-19 16:28 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD holds losses near $64.50 as US-Iran pea" | kw:silver,rice
-2026-06-19 16:28 ACCEPT [Google News KL] "Today Gold & Silver Rate | Gold Price In India 2026 | Gold Rate In Hyd" | kw:gold,silver,rice
-2026-06-19 16:28 ACCEPT [Google News KL] "Iran gold price Archives - GoldSilver" | kw:gold,silver,rice
 2026-06-19 16:28 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD falls to near $64.50 due to Fed rate hi" | kw:silver,rice,fed rate
 2026-06-19 16:28 ACCEPT [Google News KL] "Golden Cariboo Resources Positions for Resource Growth Amid Gold Marke" | kw:gold
 2026-06-19 16:28 ACCEPT [Google News NS] "Farmers Market weekly spotlight: JoyPOP Kettle Corn, Shel's R&R - wdti" | kw:corn
@@ -20005,3 +19998,13 @@
 2026-07-26 10:31 ACCEPT [Google News CB] "Oil prices, US Fed rate decision, West Asia crisis to drive markets: A" | kw:oil,rice,fed rate
 2026-07-26 10:31 ACCEPT [Google News CB] "The Approach of Oil Prices to $100 Puts the "Fed" and Its Peers to the" | kw:oil,rice
 2026-07-26 10:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 11:01 ACCEPT [Google News HH] "Solar, Crude Oil ETFs Surge on Middle East-Driven Oil Spike; Semicondu" | kw:oil,crude
+2026-07-26 11:01 ACCEPT [Google News HH] "Kalshi Taps Pyth To Power New Commodities Hub Markets - CoinMarketCap" | kw:commodities
+2026-07-26 11:01 ACCEPT [Google News KL] "Crypto’s Only Growing Sector Runs on Gold and Equities - BeInCrypto" | kw:gold
+2026-07-26 11:01 ACCEPT [Google News KL] "Freeport-McMoRan stock holds steady as copper metrics stay central - A" | kw:copper
+2026-07-26 11:01 ACCEPT [Google News KL] "Gold price down by Rs 700 per tola today - Hamro Patro" | kw:gold,rice
+2026-07-26 11:01 ACCEPT [Google News NS] "Sea wars: Ukraine leaves Russian shipping in smoke - TVP World" | kw:shipping
+2026-07-26 11:01 ACCEPT [Google News NS] "From the Strait of Hormuz to the Farmland: Fertilizer Trade Disruption" | kw:rice
+2026-07-26 11:01 ACCEPT [Google News NS] "Absolut Elyx by Pernod Ricard - copper-crafted vodka for sipping, not " | kw:copper
+2026-07-26 11:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Sends a Clear Signal on Where Interest Rates Are" | kw:interest rate
+2026-07-26 11:01 SKIP_MORNING already_sent date=2026-07-26
