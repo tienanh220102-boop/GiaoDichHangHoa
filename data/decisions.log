@@ -1,8 +1,3 @@
-2026-06-19 17:01 ACCEPT [Google News KL] "Gold price in Philippines: Rates on June 19 - FXStreet" | kw:gold,rice
-2026-06-19 17:01 ACCEPT [Google News NS] "Global wheat prices remain under pressure - Agriland" | kw:wheat,rice
-2026-06-19 17:01 ACCEPT [Google News CB] "The Fed Is Talking Tough On Inflation. Will It Follow Through? - Inves" | kw:inflation
-2026-06-19 17:01 ACCEPT [Google News CB] "Analysis: Central Bank avoided borrowing cost whipsaw - Valor Internat" | kw:central bank
-2026-06-19 17:31 ACCEPT [OilPrice.com] "Russia Is Rationing Fuel in Moscow After Drone Strikes" | kw:oil,gas,fuel
 2026-06-19 17:31 ACCEPT [Google News HH] "Goldman cuts gold price forecast down to $4,900 - Mining.com" | kw:gold,rice
 2026-06-19 17:31 ACCEPT [Google News HH] "Iraq’s oil exports advance via Syrian route - Inspenet" | kw:oil
 2026-06-19 17:31 ACCEPT [Google News HH] "Evening update for crude oil -19-06-2026 - Economies.com" | kw:oil,crude
@@ -20003,3 +19998,11 @@
 2026-07-26 13:01 ACCEPT [Google News CB] "Maria Callas or Beethoven? ECB asks Europeans to choose design of new " | kw:ecb
 2026-07-26 13:01 SKIP_MORNING already_sent date=2026-07-26
 2026-07-26 13:02 SENT_EVENING articles=20 date=2026-07-26 force=False
+2026-07-26 13:30 ACCEPT [MarketWatch] "There’s a technical ‘triple threat’ for stocks, but also places invest" | kw:oil,rice,treasury
+2026-07-26 13:31 ACCEPT [Google News KL] "Barrick Mining Corporation (B) Stock Price, News, Quote & History - Ya" | kw:rice
+2026-07-26 13:31 ACCEPT [Google News KL] "Volatile silver prices hit anklet manufacturers and workers in Salem -" | kw:silver,rice
+2026-07-26 13:31 ACCEPT [Google News KL] "21-karat gold price at JD83.1 in local market - Ammon News" | kw:gold,rice
+2026-07-26 13:31 ACCEPT [Google News KL] "Antofagasta stock trades near yearly high as copper prices and earning" | kw:gas,copper,rice
+2026-07-26 13:31 ACCEPT [Google News CB] "The Fed’s Crude Dilemma - Seeking Alpha" | kw:crude
+2026-07-26 13:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 13:31 SKIP_EVENING already_sent date=2026-07-26
