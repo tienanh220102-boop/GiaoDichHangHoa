@@ -1,74 +1,3 @@
-2026-06-20 01:31 ACCEPT [Google News KL] "Gold price today: Will gold crash into bear market territory, fall bel" | kw:gold,rice
-2026-06-20 01:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 02:01 ACCEPT [Google News HH] "After the gold price plummeted, the accurate prophet speaks out - Bitg" | kw:gold,rice
-2026-06-20 02:01 ACCEPT [Google News KL] "Gold and silver prices dip as Fed signals rate hike risk - MSN" | kw:gold,silver,rice
-2026-06-20 02:01 ACCEPT [Google News KL] "Aura Minerals Stock: Price Collapse Created A Golden Opportunity (Rati" | kw:gold,rice
-2026-06-20 02:01 ACCEPT [Google News NS] "Corn Production in Ukraine Increased 10 Times in 30 Years - Новини агр" | kw:corn
-2026-06-20 02:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 02:31 ACCEPT [Google News HH] "Daily Brief United States: SpaceX, NVIDIA Corp, Crude Oil, BlackSky Te" | kw:oil,crude
-2026-06-20 02:31 ACCEPT [Google News KL] "Goldman cuts gold price forecast to US$4,900: planning notes for mine " | kw:gold,rice
-2026-06-20 02:31 ACCEPT [Google News KL] "Aura Minerals: The Price Collapse Created A Golden Opportunity (Rating" | kw:gold,rice
-2026-06-20 02:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 03:01 ACCEPT [Google News HH] "Crude oil fell for two consecutive weeks, overseas metals broadly decl" | kw:oil,crude,gold
-2026-06-20 03:01 ACCEPT [Google News KL] "Gold Price Decline After Kevin Warsh Press Conference: Structural Dema" | kw:gold,rice
-2026-06-20 03:01 ACCEPT [Google News KL] "Gold Price in India Falls Today: Bitcoin World Data Shows Decline - Cr" | kw:gold,rice
-2026-06-20 03:01 ACCEPT [Google News NS] "New Harvest Forces Grain Prices to Fall Across Ukraine - Новини аграрн" | kw:rice,harvest
-2026-06-20 03:01 ACCEPT [Google News CB] "Forget Interest Rates. The Fed Just Turned Everything Upside Down - Fo" | kw:interest rate
-2026-06-20 03:01 ACCEPT [Google News CB] "Massive War Bills and Fuel Cost Push Inflation Fears Higher, Russian C" | kw:fuel,inflation,central bank
-2026-06-20 03:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 03:31 ACCEPT [Google News HH] "Iran exports 18 mln barrels of crude oil over past 5 days: TankerTrack" | kw:oil,crude
-2026-06-20 03:31 ACCEPT [Google News KL] "Analyst: Gold Prices Next Week Will Be Highly Dependent on Data, Bewar" | kw:gold,rice
-2026-06-20 03:31 ACCEPT [Google News KL] "How will the Federal Reserve's hawkish shift affect commodity investme" | kw:commodity,federal reserve
-2026-06-20 03:31 ACCEPT [Google News NS] "DTN Weekly Average DDG Price Still Falling - DTN Progressive Farmer" | kw:rice
-2026-06-20 03:31 ACCEPT [Google News CB] "Yen nears weakest in 40 years as BOJ hike fails to stem rout - MSN" | kw:boj
-2026-06-20 03:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 04:01 ACCEPT [Google News HH] "Hormuz Crisis Exposes India's Crude Oil Vulnerability | Rethink on Str" | kw:oil,crude
-2026-06-20 04:01 ACCEPT [Google News KL] "The price of gold jewelry has fallen by nearly 450 CNY so far this yea" | kw:gold,rice
-2026-06-20 04:01 ACCEPT [Google News NS] "Canada Know-Risk Market Outlook | Soybean Outlook - StoneX" | kw:soybean
-2026-06-20 04:01 ACCEPT [Google News CB] "Europe’s mid-sized inflation shock requires measured response, ECB’s L" | kw:inflation,ecb
-2026-06-20 04:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 04:31 ACCEPT [Google News HH] "Hormuz Crisis Exposes India's Crude Oil Vulnerability | Rethink on Str" | kw:oil,crude
-2026-06-20 04:31 ACCEPT [Google News KL] "2026 Copper Price Forecast: AI Demand May Push Copper Prices to $15,00" | kw:copper,rice
-2026-06-20 04:31 ACCEPT [Google News NS] "Canada Know-Risk Market Outlook | Soybean Outlook - StoneX" | kw:soybean
-2026-06-20 04:31 ACCEPT [Google News CB] "Legal status becomes new front in Central Bank autonomy debate - Valor" | kw:central bank
-2026-06-20 04:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 04:48 ACCEPT [Google News HH] "OPEC maintains its optimistic outlook on medium- to long-term oil dema" | kw:oil,opec
-2026-06-20 04:48 ACCEPT [Google News KL] "Silver Price Forecast: After a 10x Gain in Six Years, What’s Next? - F" | kw:silver,rice
-2026-06-20 04:48 ACCEPT [Google News CB] "Student loan borrowers can get a 1% interest rate cut with one simple " | kw:interest rate,rate cut
-2026-06-20 04:48 ACCEPT [Google News CB] "Week Ahead: ECB Rates US Jobs And UK Budget Castellanos (NSEgJAc9Lg) -" | kw:ecb
-2026-06-20 04:48 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 05:01 ACCEPT [Google News KL] "Gold Price Forecast: Will XAU Break Below $4,000 After the Hawkish Fed" | kw:gold,rice
-2026-06-20 05:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 05:31 ACCEPT [Google News KL] "The UNTHINKABLE Is About To Happen To GOLD & Silver | WARREN BUFFETT K" | kw:gold,silver
-2026-06-20 05:31 ACCEPT [Google News KL] "22k gold rate today: Check 24k, 22k, 18k gold prices (June 20, 2026) a" | kw:gold,rice
-2026-06-20 05:31 ACCEPT [Google News NS] "Ontario crop prices just collapsed. What comes next? - Farmtario" | kw:rice
-2026-06-20 05:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 06:01 ACCEPT [Google News HH] "nano Crude Oil Fut (Aug 2026) Trade Ideas — COINBASE:NOLQ2026 - Tradin" | kw:oil,crude
-2026-06-20 06:01 ACCEPT [Google News HH] "Asian equities and US futures rally on US.-Iran peace breakthrough; cr" | kw:oil,crude
-2026-06-20 06:01 ACCEPT [Google News HH] "Trump taps former commodities regulator, ex-personal attorney as US at" | kw:commodities
-2026-06-20 06:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG Slides Below Key 200-Day SMA, Bears Target " | kw:silver,rice
-2026-06-20 06:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 06:31 ACCEPT [Google News HH] "OPEC maintains an optimistic outlook on medium and long-term oil deman" | kw:oil,opec
-2026-06-20 06:31 ACCEPT [Google News CB] "Bank Of Canada Holds Interest Rate At 2.25 Per Cent – April 29, 2026 K" | kw:interest rate
-2026-06-20 06:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 07:01 ACCEPT [Google News HH] "Crude oil fell for two consecutive weeks, overseas market metals broad" | kw:oil,crude,silver
-2026-06-20 07:01 ACCEPT [Google News NS] "Syria’s wheat harvest expected to more than double this year - Arab Ne" | kw:wheat,harvest
-2026-06-20 07:01 ACCEPT [Google News NS] "STEVE KELL: No shortage of demand for beans — and that’s good for pric" | kw:rice,shortage
-2026-06-20 07:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 07:31 ACCEPT [Google News KL] "Goldman Sachs Cuts Gold Price Forecast to $4,900 as Fed Signals Rate H" | kw:wti,gold,rice
-2026-06-20 07:31 ACCEPT [Google News NS] "Markets Desk Update: Crude oil losses weigh on canola - Grainews" | kw:oil,crude
-2026-06-20 07:31 ACCEPT [Google News NS] "Egypt’s corn imports slow as feed demand weakens and stocks rise - Ukr" | kw:corn
-2026-06-20 07:31 ACCEPT [Google News CB] "Warsh-led Fed expected to hold interest rates steady - MSN" | kw:interest rate
-2026-06-20 07:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 08:01 ACCEPT [Google News HH] "Here’s Why Crude Oil Price Futures Contracts on Hyperliquid are Rising" | kw:oil,crude,rice
-2026-06-20 08:01 ACCEPT [Google News KL] "Gold prices fall for second straight time, down Tk2,216 per bhori - Dh" | kw:gold,rice
-2026-06-20 08:01 ACCEPT [Google News KL] "Gold Price Extends Selloff As Fed Repricing Boosts US Dollar and Yield" | kw:gold,rice
-2026-06-20 08:01 ACCEPT [Google News CB] "Impact of Iran War to Persist Despite Deal Offering Hope for Peace, EC" | kw:ecb
-2026-06-20 08:01 ACCEPT [Google News CB] "PVH (PVH) Is Down 6.0% After Fed Signals Potential Rate Hike Instead o" | kw:rate hike
-2026-06-20 08:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 08:17 ACCEPT [Google News HH] "Crude oil forecast: Hezbollah and Israel ceasefire could add further p" | kw:oil,crude
-2026-06-20 08:17 ACCEPT [Google News KL] "Gemini Just Got Its Biggest Update Ever. Silver Price Today (h4dylhIwj" | kw:silver,rice
-2026-06-20 08:17 ACCEPT [Google News KL] "Gold Rate Today, June 19: Check 18, 22 and 24 carat gold prices in Che" | kw:gold,rice
 2026-06-20 08:17 SKIP_MORNING already_sent date=2026-06-20
 2026-06-20 08:31 ACCEPT [Google News HH] "Gold Price Crash Pakistan | Rs 43,600 Drop Per Tola | Latest Gold Rate" | kw:gold,rice
 2026-06-20 08:31 ACCEPT [Google News HH] "Crude oil fell for two consecutive weeks, overseas market metals broad" | kw:oil,crude,silver
@@ -20069,3 +19998,9 @@
 2026-07-26 19:01 ACCEPT [Google News CB] "Barclays Expects Earnings and Central Bank Decisions to Set the Market" | kw:central bank
 2026-07-26 19:01 ACCEPT [Google News CB] "Goldman previews Warsh’s Task Forces for Advancing Monetary Policy - I" | kw:gold,monetary policy
 2026-07-26 19:01 ACCEPT [Google News CB] "Fed Decision, Big Tech Numbers And Oil: Investors Search For Fresh Cue" | kw:oil
+2026-07-26 19:31 ACCEPT [Google News HH] "Enterprise value to EBIT forward of Zhejiang China Commodities City Gr" | kw:commodities
+2026-07-26 19:31 ACCEPT [Google News HH] "Gold Rate Today In Ahmedabad, Check Live 22 And 24 Carat Gold Price - " | kw:gold,rice
+2026-07-26 19:31 ACCEPT [Google News NS] "Biofuel Mandates Test Capacity and Soybean Oil Demand - RFD-TV" | kw:oil,fuel,soybean
+2026-07-26 19:31 ACCEPT [Google News NS] "This luscious carbonara is punctuated by summer sweet corn, making it " | kw:corn
+2026-07-26 19:31 ACCEPT [Google News NS] "Global wheat rally revives India's export prospects as government allo" | kw:wheat
+2026-07-26 19:31 ACCEPT [Google News CB] "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount - Bloom" | kw:fed rate,rate hike
