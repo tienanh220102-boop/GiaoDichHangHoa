@@ -1,9 +1,3 @@
-2026-06-19 16:28 ACCEPT [BBC Business] "How could the US-Iran deal affect oil prices and the cost of food?" | kw:oil,rice
-2026-06-19 16:28 ACCEPT [The Guardian Biz] "Federal Reserve holds rates steady but signals possible hike before ye" | kw:interest rate,rate hike,federal reserve
-2026-06-19 16:28 ACCEPT [Al Jazeera] "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Mosco" | kw:oil,shortage
-2026-06-19 16:28 ACCEPT [CNBC Commodities] "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' " | kw:inflation,monetary policy
-2026-06-19 16:28 ACCEPT [CNBC Commodities] "Chairman Warsh drastically alters Fed rate statement. Here's what's ch" | kw:fed rate
-2026-06-19 16:28 ACCEPT [CNBC Commodities] "Fed Chair Warsh expected to withhold 'dot' from central bank's interes" | kw:central bank,interest rate
 2026-06-19 16:28 ACCEPT [CNBC Economy] "Wholesale prices rose 1.1% in May, more than expected, on surge in ene" | kw:rice
 2026-06-19 16:28 ACCEPT [CNBC Economy] "How the ‘double scar’ of past inflation woes and geopolitical shocks a" | kw:rice,inflation
 2026-06-19 16:28 ACCEPT [CNBC Economy] "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s" | kw:rice,inflation
@@ -20004,3 +19998,11 @@
 2026-07-26 08:31 ACCEPT [Google News CB] "Iraq’s central bank improves non-bank financial oversight - Iraqi News" | kw:central bank
 2026-07-26 08:31 ACCEPT [Google News CB] "Demand deposits to total deposits of Shinkin Central Bank Pfd Subs Cer" | kw:central bank
 2026-07-26 08:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 09:01 ACCEPT [Google News HH] "Week Ahead On D-Street: US Fed Verdict, Q1 Results, Crude Oil Prices T" | kw:oil,crude,rice
+2026-07-26 09:01 ACCEPT [Google News KL] "Gold Forecast: XAU/USD gains momentum after weak NFP data - FOREX.com" | kw:wti,gold
+2026-07-26 09:01 ACCEPT [Google News KL] "Gold prices fall in Baghdad and Erbil - Shafaq News | Latest breaking " | kw:gold,rice
+2026-07-26 09:01 ACCEPT [Google News NS] "Global Corn Group Limited Revenue Breakdown – HKEX:3889 - TradingView" | kw:corn
+2026-07-26 09:01 ACCEPT [Google News NS] "Coffee-less coffee, chocolates without cocoa: A look into North Korea’" | kw:coffee,cocoa
+2026-07-26 09:01 ACCEPT [Google News NS] "Bonduelle Goldmais by Bonduelle SCA - canned corn classic for everyday" | kw:gold,corn
+2026-07-26 09:01 ACCEPT [Google News CB] "Interest Rate Forecast: BOJ Rate Hike to 1.25% Puts Japanese Yen in Fo" | kw:interest rate,rate hike,boj
+2026-07-26 09:01 SKIP_MORNING already_sent date=2026-07-26
