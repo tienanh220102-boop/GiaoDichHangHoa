@@ -1,10 +1,3 @@
-2026-06-19 16:28 ACCEPT [RT Business] "Oil prices now determined by Trump’s mood – Fico" | kw:oil,rice
-2026-06-19 16:28 ACCEPT [RT Business] "Middle East war to drive 24% surge in energy costs – World Bank" | kw:fuel,rice,commodity
-2026-06-19 16:28 ACCEPT [RT Business] "OPEC loses key member: Will the oil bloc survive?" | kw:oil,opec
-2026-06-19 16:28 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
-2026-06-19 16:28 ACCEPT [Fed Monetary] "Federal Reserve issues FOMC statement" | kw:federal reserve,fomc
-2026-06-19 16:28 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
-2026-06-19 16:28 ACCEPT [ECB Press] "ECB publishes consolidated banking data for end-December 2025" | kw:ecb
 2026-06-19 16:28 ACCEPT [ECB Press] "Decisions taken by the Governing Council of the ECB (in addition to de" | kw:interest rate,ecb
 2026-06-19 16:28 ACCEPT [ECB Press] "ECB announces main milestones for roll-out of Integrated Reporting Fra" | kw:ecb
 2026-06-19 16:28 ACCEPT [Google News CB] "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy pr" | kw:rice,ecb
@@ -20005,3 +19998,15 @@
 2026-07-26 11:31 ACCEPT [Google News CB] "Maria Callas or Beethoven? ECB asks Europeans to choose design of new " | kw:ecb
 2026-07-26 11:31 ACCEPT [Google News CB] "Fed and Bank of Japan hold rates next week; Bit... - Pluang" | kw:bank of japan
 2026-07-26 11:31 SKIP_MORNING already_sent date=2026-07-26
+2026-07-26 12:01 ACCEPT [Google News HH] "West Asia conflict, US Fed rate decision, crude oil prices to drive ma" | kw:oil,crude,rice
+2026-07-26 12:01 ACCEPT [Google News HH] "Saudi crude oil exports left with only one key route as analysts warn " | kw:oil,crude
+2026-07-26 12:01 ACCEPT [Google News HH] "21-karat gold price at JD83.1 in local market - Ammon News" | kw:gold,rice
+2026-07-26 12:01 ACCEPT [Google News KL] "Silver Price Forecast: Strong Dollar Could Drive Silver Toward $50 - F" | kw:silver,rice
+2026-07-26 12:01 ACCEPT [Google News KL] "3 Dividend Stocks With Strong Cash Flow From Gold Oil And Insurance - " | kw:oil,gold
+2026-07-26 12:01 ACCEPT [Google News KL] "Bullion Faces Test: Fed, Oil Swings, West Asia Risks - Rediff MoneyWiz" | kw:oil
+2026-07-26 12:01 ACCEPT [Google News NS] "ADMARC scandal deepens as third maize spoilage incident exposed in wee" | kw:oil
+2026-07-26 12:01 ACCEPT [Google News NS] "Nepal’s export boom relies on edible oil and Indian market - Social Ne" | kw:oil
+2026-07-26 12:01 ACCEPT [Google News CB] "Goldman previews Warsh’s Task Forces for Advancing Monetary Policy - Y" | kw:gold,monetary policy
+2026-07-26 12:01 ACCEPT [Google News CB] "Federal Reserve expected to hold rates steady as inflation swirls - Hü" | kw:inflation,federal reserve
+2026-07-26 12:01 ACCEPT [Google News CB] "Week Ahead | A Packed Agenda! Fed Leads Super Central Bank Week into a" | kw:central bank
+2026-07-26 12:01 SKIP_MORNING already_sent date=2026-07-26
