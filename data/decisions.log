@@ -1,8 +1,3 @@
-2026-06-20 10:45 ACCEPT [Google News KL] "Gold Price Drops By Rs 1,100 Per Tola - News Update 4:30 PM Putin (5jQ" | kw:gold,rice
-2026-06-20 10:45 ACCEPT [Google News CB] "CBC News: The National | Bank Of Canada Cuts Interest Rate Discord Dow" | kw:interest rate
-2026-06-20 10:45 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 11:01 ACCEPT [Google News HH] "Eyeing Tech Beatdown Bid, AMZN OpenAI Investment & Crude Oil's Pop Sos" | kw:oil,crude
-2026-06-20 11:01 ACCEPT [Google News KL] "New Brunswick Gold Explorer Adds Ounces Across North Deposit Ahead of " | kw:gold
 2026-06-20 11:01 ACCEPT [Google News KL] "Gold Price Shock: Could It Drop From $5,594 To $3,500? | WION World Bu" | kw:gold,rice
 2026-06-20 11:01 ACCEPT [Google News KL] "Gold prices fall in Baghdad and Erbil - Shafaq News | Latest breaking " | kw:gold,rice
 2026-06-20 11:01 ACCEPT [Google News KL] "Gold demand dips as record prices, PM's appeal sway buyers - MSN" | kw:gold,rice
@@ -20003,3 +19998,11 @@
 2026-07-26 23:01 ACCEPT [Google News HH] "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countri" | kw:oil
 2026-07-26 23:01 ACCEPT [Google News NS] "Private sector begins buying remaining Kurdistan wheat - Rudaw" | kw:wheat
 2026-07-26 23:01 ACCEPT [Google News CB] "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound - Yaho" | kw:rice
+2026-07-26 23:28 ACCEPT [Google News HH] "Standard Chartered Warns Brent Crude Oil Markets Must Price Risk Acros" | kw:oil,crude,brent
+2026-07-26 23:28 ACCEPT [Google News HH] "Firms plan investment despite Brent crude oil price concerns - The Tim" | kw:oil,crude,brent
+2026-07-26 23:28 ACCEPT [Google News HH] "Will Brent Crude Oil Break $90.50? Buyers Defend $83.00 (15 Jul 2026) " | kw:oil,crude,brent
+2026-07-26 23:28 ACCEPT [Google News KL] "Gold Rate Today In Delhi, Check Live 22 And 24 Carat Gold Price - NDTV" | kw:gold,rice
+2026-07-26 23:28 ACCEPT [Google News KL] "Silver Rate Today In Aurangabad Live, Latest Silver Price - NDTV Profi" | kw:silver,rice
+2026-07-26 23:28 ACCEPT [Google News NS] "Feeder Cattle Futures Hit Two-Year Bullish Extreme as Soybeans and Sil" | kw:silver,soybean
+2026-07-26 23:28 ACCEPT [Google News CB] "European Central Bank staff start shifting roles after HR overhaul - F" | kw:central bank
+2026-07-26 23:28 ACCEPT [Google News CB] "Fed Faces Contentious Rate Decision Amid Rising Oil Prices and Tariff " | kw:oil,rice,tariff
