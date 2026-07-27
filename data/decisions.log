@@ -1,7 +1,3 @@
-2026-06-20 13:31 ACCEPT [Google News CB] "Warsh's gamble: A quieter Federal Reserve could mean volatile markets," | kw:wti,federal reserve
-2026-06-20 13:31 ACCEPT [Google News CB] "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief" | kw:inflation
-2026-06-20 13:31 ACCEPT [Google News CB] "Gold & Silver Fall on Fed Fears, but Bulls Stay Confident - SD Bullion" | kw:gold,silver
-2026-06-20 13:31 ACCEPT [Google News CB] "Understanding Bank Of Canada's Interest Rate Hikes: How It Affects The" | kw:interest rate,rate hike
 2026-06-20 13:31 SKIP_MORNING already_sent date=2026-06-20
 2026-06-20 13:31 SKIP_EVENING already_sent date=2026-06-20
 2026-06-20 14:01 ACCEPT [The Guardian Biz] "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines" | kw:drought
@@ -20002,3 +19998,16 @@
 2026-07-27 01:07 ACCEPT [Google News HH] "WTI & Brent Crude Oil Technical Analysis - Elliott Wave Update Shia La" | kw:oil,crude,brent
 2026-07-27 01:07 ACCEPT [Google News KL] "4065.57 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
 2026-07-27 01:07 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 01:31 ACCEPT [Google News HH] "Crude oil futures are pricing market adaptability, not hopeful Iran pe" | kw:oil,crude
+2026-07-27 01:31 ACCEPT [Google News HH] "Bajus raises gold price by Tk1,633 per bhori - The Business Standard" | kw:gold,rice
+2026-07-27 01:31 ACCEPT [Google News HH] "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow" | kw:opec
+2026-07-27 01:31 ACCEPT [Google News HH] "The FE - The ups and downs of gold price - The Financial Express" | kw:gold,rice
+2026-07-27 01:31 ACCEPT [Google News KL] "Aluminum gains ground as high copper prices push substitution across i" | kw:copper,aluminum,rice
+2026-07-27 01:31 ACCEPT [Google News KL] "Gold Isn’t Falling—Currencies Are Moving: A Strategic View for Investo" | kw:gold
+2026-07-27 01:31 ACCEPT [Google News KL] "Gold Rate Today: Check 24K, 22K Gold Prices in Mumbai, Delhi, Chennai," | kw:gold,rice
+2026-07-27 01:31 ACCEPT [Google News NS] "Absolut Elyx by Pernod Ricard - copper-crafted vodka for sipping, not " | kw:copper
+2026-07-27 01:31 ACCEPT [Google News CB] "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Ear" | kw:oil,rice
+2026-07-27 01:31 ACCEPT [Google News CB] "Here's What Markets Are Now Saying About Fed Rate Hikes This Year - Th" | kw:fed rate,rate hike
+2026-07-27 01:31 ACCEPT [Google News CB] "Japan's PPI Rises, Fueling Interest Rate Hike Expectations - GuruFocus" | kw:fuel,interest rate,rate hike
+2026-07-27 01:31 ACCEPT [Google News CB] "FOMC Out Next Week with Interest Rate Decision - The Globe and Mail" | kw:interest rate,rate decision,fomc
+2026-07-27 01:31 SKIP_MORNING already_sent date=2026-07-27
