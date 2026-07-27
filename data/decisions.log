@@ -1,88 +1,3 @@
-2026-06-21 10:31 ACCEPT [Google News NS] "MFVP delivers direct and efficient B2B supply chain - Global New Light" | kw:supply chain
-2026-06-21 10:31 ACCEPT [Google News NS] "Theatre, live music, and family entertainment to be performed in Dorse" | kw:gdp
-2026-06-21 10:31 ACCEPT [Google News CB] "What to Expect in Markets This Week: A Post-Fed Inflation Reading and " | kw:inflation
-2026-06-21 10:31 ACCEPT [Google News CB] "Average 30-year mortgage rate falls to 6.48% following Fed decision an" | kw:rice,easing
-2026-06-21 10:31 ACCEPT [Google News CB] "Fed got a new chair. What's changing at the central bank under Warsh -" | kw:central bank
-2026-06-21 10:31 ACCEPT [Google News CB] "Russia's Central Bank: End of Middle East conflict would ease inflatio" | kw:inflation,central bank
-2026-06-21 10:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 10:51 ACCEPT [Al Jazeera] "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar" | kw:oil
-2026-06-21 10:52 ACCEPT [Google News HH] "US-Iran Talks, Crude Prices, FII Activity to Dictate Markets - Rediff" | kw:crude,rice
-2026-06-21 10:52 ACCEPT [Google News HH] "The decline was driven by lower crude oil prices and a weaker yen agai" | kw:oil,crude,rice
-2026-06-21 10:52 ACCEPT [Google News HH] "Indian Markets: US-Iran Talks, Crude Oil & FIIs Key Drivers - Rediff" | kw:oil,crude
-2026-06-21 10:52 ACCEPT [Google News HH] "US-Iran talks, crude prices likely to steer stock markets this week - " | kw:crude,rice
-2026-06-21 10:52 ACCEPT [Google News HH] "Slow refinery capacity additions to hit India’s diesel, ATF exports: O" | kw:opec
-2026-06-21 10:52 ACCEPT [Google News NS] "Grain SA rejects ITAC decision to keep wheat tariff reference price un" | kw:wheat,rice,tariff
-2026-06-21 10:52 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 11:01 ACCEPT [Google News HH] "Malaysia's Total Production Of Crude Oil Drops 5.5% In 1Q 2026 , DOSM " | kw:oil,crude
-2026-06-21 11:01 ACCEPT [Google News HH] "US-Iran talks, oil movement to drive bullion trend next week: Analysts" | kw:oil
-2026-06-21 11:01 ACCEPT [Google News HH] "India boosts Russian, UAE oil purchases in June ahead of full Hormuz r" | kw:oil
-2026-06-21 11:01 ACCEPT [Google News KL] "Wall Street cuts gold targets, keeps $5,000 in sight - Khaleej Times" | kw:gold
-2026-06-21 11:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 11:31 ACCEPT [Google News HH] "Gold Outlook: US-Iran Talks, Crude Oil Prices, Macro Data To Dictate B" | kw:oil,crude,gold
-2026-06-21 11:31 ACCEPT [Google News KL] "Gold, silver slump as Fed signals hit safe-haven demand - MSN" | kw:gold,silver
-2026-06-21 11:31 ACCEPT [Google News KL] "Spot Silver Dives 10% As Fed Rate Cut Hopes Fade After Recent Jobs Dat" | kw:silver,fed rate,rate cut
-2026-06-21 11:31 ACCEPT [Google News KL] "‘Rich Dad Poor Dad’ author reveals best time to buy Bitcoin, gold - th" | kw:gold
-2026-06-21 11:31 ACCEPT [Google News KL] "Does Curve DAO Impact Gold Value?Contrast and Market Impact - Kabul Un" | kw:gold
-2026-06-21 11:31 ACCEPT [Google News CB] "Father’s Day around the world - ECB Publishing, Inc." | kw:ecb
-2026-06-21 11:31 ACCEPT [Google News CB] "Five appliances to help manage energy use in the summer - ECB Publishi" | kw:ecb
-2026-06-21 11:31 ACCEPT [Google News CB] "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: I" | kw:fed rate,rate decision
-2026-06-21 11:31 ACCEPT [Google News CB] "Ben Stokes. Gus Atkinson withdrawn from County Championship matches at" | kw:ecb
-2026-06-21 11:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 12:01 ACCEPT [Google News HH] "Iraq to Increase Crude Oil and Naphtha Exports Through Syria's Baniyas" | kw:oil,crude
-2026-06-21 12:01 ACCEPT [Google News HH] "Gold, silver rates outlook: Bullion investors to track US-Iran talks, " | kw:oil,crude,gold
-2026-06-21 12:01 ACCEPT [Google News KL] "MSQPD Sûreté Du Québec Homme Confus + Vol De Véhicule Silver Price Tod" | kw:silver,rice
-2026-06-21 12:01 ACCEPT [Google News KL] "Gold heads for third weekly loss as $4,000 risk looms - MSN" | kw:lng,gold
-2026-06-21 12:01 ACCEPT [Google News NS] "Rice prices, supply ‘satisfactory’, says commerce minister - The Finan" | kw:rice
-2026-06-21 12:01 ACCEPT [Google News CB] "Stokes withdrawn from Durham fixture at ECB request - Reuters" | kw:ecb
-2026-06-21 12:01 ACCEPT [Google News CB] "Stock market bounces back to finish winning week as tech leads recover" | kw:lng
-2026-06-21 12:01 ACCEPT [Google News CB] "Asia's weekly TOP10 crypto news: Oman Launches State BTC Mining Pool, " | kw:interest rate,boj
-2026-06-21 12:01 ACCEPT [Google News CB] "A quieter Federal Reserve could mean volatile markets, higher rates - " | kw:federal reserve
-2026-06-21 12:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 12:31 ACCEPT [Google News HH] "US-Iran Talks, Crude Oil, Macro Data to Dictate Bullion Trend - Rediff" | kw:oil,crude
-2026-06-21 12:31 ACCEPT [Google News HH] "India's Oil Imports from Russia, UAE Surge as Strait of Hormuz Reopens" | kw:oil
-2026-06-21 12:31 ACCEPT [Google News HH] "Pan Ocean Wins 20-Year Crude Oil Transport Deal With SK Worth 2.47 Tri" | kw:oil,crude
-2026-06-21 12:31 ACCEPT [Google News KL] "Kelly Clarkson Needs Amy Adams To Do Another Movie Musical Silver Pric" | kw:silver,rice
-2026-06-21 12:31 ACCEPT [Google News KL] "Gold & Silver: US-Iran Talks, Oil, Macro Data to Drive Prices - Rediff" | kw:oil,gold,silver
-2026-06-21 12:31 ACCEPT [Google News KL] "Fed Rate Cuts and Gold Prices: A Investor’s Guide 2026 - Discovery Ale" | kw:gold,rice,fed rate
-2026-06-21 12:31 ACCEPT [Google News KL] "Gold, Silver Prices Remain Under Pressure Amid Strong Dollar and Hawki" | kw:gold,silver,rice
-2026-06-21 12:31 ACCEPT [Google News NS] "The Owner Of Marathon Gas Stations Is Making Diesel From Soybeans - Ja" | kw:gas,soybean
-2026-06-21 12:31 ACCEPT [Google News CB] "Iran Closes Strait of Hormuz Again: Are Fed Rate Hikes Back on the Tab" | kw:fed rate,rate hike
-2026-06-21 12:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 13:01 ACCEPT [Google News HH] "Gold, silver rates outlook: Bullion investors to track US-Iran talks, " | kw:oil,crude,gold
-2026-06-21 13:01 ACCEPT [Google News KL] "Blaze Value vs Silver Value: Which Is Performing Better? - Kabul Unive" | kw:silver
-2026-06-21 13:01 ACCEPT [Google News NS] "Experts suggest soybean buyers buy local produce - Taipei Times" | kw:soybean
-2026-06-21 13:01 ACCEPT [Google News CB] "Gold faces hurdle on path to $5,200 as hawkish Fed dampens ETF demand," | kw:gold
-2026-06-21 13:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 13:02 DIRECTION_FIX Copper: "tăng 0.76%" → "giảm 0.76%"
-2026-06-21 13:02 DIRECTION_FIX Brent: "giảm 1.1%" → "tăng 1.1%"
-2026-06-21 13:02 SENT_EVENING articles=20 date=2026-06-21 force=False
-2026-06-21 13:31 ACCEPT [MarketWatch] "This bull market isn’t going to end because of Fed rate hikes under Wa" | kw:fed rate,rate hike
-2026-06-21 13:31 ACCEPT [Google News HH] "Libya's NOC lifts crude oil output to highest since 2013 - TradingView" | kw:oil,crude
-2026-06-21 13:31 ACCEPT [Google News HH] "The Week Ahead: IPOs, Crude Oil Action, A Fragile Middle East Ceasefir" | kw:oil,crude
-2026-06-21 13:31 ACCEPT [Google News HH] "Crude oil prices jump as US domestic supplies tumble - MSN" | kw:oil,crude,rice
-2026-06-21 13:31 ACCEPT [Google News KL] "Alamos Gold (TSX:AGI) Is Down 14.8% After Cutting 2026 Output Guidance" | kw:gold
-2026-06-21 13:31 ACCEPT [Google News CB] "This bull market isn’t going to end because of Fed rate hikes under Wa" | kw:fed rate,rate hike
-2026-06-21 13:31 ACCEPT [Google News CB] "How to take advantage of the new student loan interest rate reduction:" | kw:interest rate
-2026-06-21 13:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 13:31 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 14:01 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Rebound or Trap? - FOREX.com" | kw:oil,crude
-2026-06-21 14:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jer" | kw:fomc
-2026-06-21 14:01 ACCEPT [Google News CB] "How to take advantage of the new student loan interest rate reduction:" | kw:interest rate
-2026-06-21 14:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jer" | kw:fomc
-2026-06-21 14:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 14:01 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 14:31 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Rebound or Trap? - FOREX.com" | kw:oil,crude
-2026-06-21 14:31 ACCEPT [Google News HH] "Libya's National Oil Corporation announced that the country's daily cr" | kw:oil,crude
-2026-06-21 14:31 ACCEPT [Google News HH] "Crude oil extends losses as Trump appears to signal approval of Iran c" | kw:oil,crude,lng
-2026-06-21 14:31 ACCEPT [Google News HH] "The National Oil Corporation of Libya announced that the country's dai" | kw:oil,crude
-2026-06-21 14:31 ACCEPT [Google News HH] "Gold price increases by Rs 600 per tola on Sunday - The Annapurna Expr" | kw:gold,rice
-2026-06-21 14:31 ACCEPT [Google News KL] "SIL vs SILJ: Which Silver Miners ETF Wins? - 24/7 Wall St." | kw:silver
-2026-06-21 14:31 ACCEPT [Google News KL] "Gold heads for third weekly loss as $4,000 risk looms - MSN" | kw:gold
-2026-06-21 14:31 ACCEPT [Google News KL] "18 Karat Gold Price Today, Sunday June 21, 2026 - Pintu" | kw:gold,rice
-2026-06-21 14:31 ACCEPT [Google News KL] "UMA Price vs Silver Price: Which Is Performing Better? - Kabul Univers" | kw:silver,rice
-2026-06-21 14:31 ACCEPT [Google News NS] "A Sea Change for Commodity Prices: Why Markets are Underpricing El Niñ" | kw:rice,commodity
-2026-06-21 14:31 ACCEPT [Google News NS] "Post-Harvest Equipment/Machinery Testing Centre at ICAR-CIAE, Bhopal: " | kw:harvest
-2026-06-21 14:31 ACCEPT [Google News CB] "30-year refinance rates surge 26 basis points to 6.98% on Fed's hawkis" | kw:inflation,basis point
 2026-06-21 14:31 SKIP_MORNING already_sent date=2026-06-21
 2026-06-21 14:31 SKIP_EVENING already_sent date=2026-06-21
 2026-06-21 15:01 ACCEPT [Al Jazeera] "Fans flood Atlanta streets before Spain-Saudi Arabia match" | kw:flood
@@ -20083,3 +19998,22 @@
 2026-07-27 13:31 ACCEPT [Google News CB] "What new Trump tariffs, inflation could mean for Fed ahead of July mee" | kw:tariff,inflation
 2026-07-27 13:31 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 13:31 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 14:01 ACCEPT [OilPrice.com] "Temporary Calm in Iran Conflict Masks Risk of Broader Middle East War" | kw:shipping
+2026-07-27 14:01 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 14:01 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 14:01 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 14:01 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 14:01 ACCEPT [Google News HH] "Crude Oil Sinks as China Joins Ceasefire Negotiations - Barchart.com" | kw:oil,crude
+2026-07-27 14:01 ACCEPT [Google News HH] "KKR, Blackstone Sign $16 Billion Kuwait Oil Deal -- Commodities Roundu" | kw:oil,commodities
+2026-07-27 14:01 ACCEPT [Google News KL] "Gold rises above $4,100 as U.S.-Iran ceasefire pause cuts oil prices -" | kw:oil,gold,rice
+2026-07-27 14:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Tests $60 Level as Death Cross Confirms" | kw:silver,rice
+2026-07-27 14:01 ACCEPT [Google News KL] "Gold Outlook: A healthy reset provides a constructive backdrop - The A" | kw:gold
+2026-07-27 14:01 ACCEPT [Google News KL] "Gold Loan EMI or Bullet Repayment: Muthoot Finance Helps Choose Right " | kw:gold
+2026-07-27 14:01 ACCEPT [Google News KL] "Copper rises as oil prices fall amid easing US-Iran tensions - صحيفة م" | kw:oil,copper,rice
+2026-07-27 14:01 ACCEPT [Google News NS] "Record U.S. Soybean Crop in Sight as USDA August Report Takes Center S" | kw:soybean
+2026-07-27 14:01 ACCEPT [Google News CB] "Fed, oil and AI dominate - Convera" | kw:oil
+2026-07-27 14:01 ACCEPT [Google News CB] "Futures Rise, Oil Dives On U.S.-Iran Pause; Huge Earnings Loom - Inves" | kw:oil
+2026-07-27 14:01 ACCEPT [Google News CB] "ECB Expands Application of Climate Risk Factors in Collateral Framewor" | kw:ecb
+2026-07-27 14:01 ACCEPT [Google News CB] "Treasury Yields Follow Oil Lower With Fed and Supply in Focus - Bloomb" | kw:oil,treasury
+2026-07-27 14:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 14:01 SKIP_EVENING already_sent date=2026-07-27
