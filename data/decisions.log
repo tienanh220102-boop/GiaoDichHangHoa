@@ -1,20 +1,3 @@
-2026-06-21 04:31 ACCEPT [RT Business] "Russian SMEs growing on stronger supply chains to giants" | kw:supply chain,easing
-2026-06-21 04:31 ACCEPT [RT Business] "Gas at $4: Understanding America’s strange obsession" | kw:gas,fuel,rice
-2026-06-21 04:31 ACCEPT [RT Business] "Potato futures are soaring – should the world be worried?" | kw:fuel,rice
-2026-06-21 04:31 ACCEPT [Fed Monetary] "Federal Reserve issues FOMC statement" | kw:federal reserve,fomc
-2026-06-21 04:31 ACCEPT [Fed Monetary] "Federal Open Market Committee reaffirms its "Statement on Longer-Run G" | kw:monetary policy
-2026-06-21 04:31 ACCEPT [ECB Press] "Piero Cipollone: The foundations of national sovereignty: the role of " | kw:central bank
-2026-06-21 04:31 ACCEPT [ECB Press] "ECB publishes consolidated banking data for end-December 2025" | kw:ecb
-2026-06-21 04:31 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Wants to Get Inflation Under Control. That Could" | kw:inflation
-2026-06-21 04:31 ACCEPT [Google News CB] "Is SpaceX IPO Frenzy And Fed Jitters Altering The Investment Case For " | kw:gdp
-2026-06-21 04:31 ACCEPT [Google News CB] "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief" | kw:inflation
-2026-06-21 04:31 ACCEPT [Google News CB] "South Africa’s Kganyago Warns Inflation Expectations Are Rising - Bloo" | kw:inflation
-2026-06-21 04:31 ACCEPT [Google News CB] "Interest Rate Announcement & Release Of The Monetary Policy Report / A" | kw:monetary policy,interest rate
-2026-06-21 04:31 ACCEPT [Google News CB] "Kevin Warsh's Fed debut leaves startups and AI borrowers navigating a " | kw:rate cut
-2026-06-21 04:31 ACCEPT [Google News CB] "Kevin Warsh makes Fed debut and commitment to price stability - Fox Ne" | kw:rice
-2026-06-21 04:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 05:01 ACCEPT [Google News HH] "Iraq’s oil exports gradually return to pre-war levels - Iraqi News" | kw:oil
-2026-06-21 05:01 ACCEPT [Google News HH] "Gold Price Today in Erode – 18K, 22K & 24K Rate | 21 June 2026 - The T" | kw:gold,rice
 2026-06-21 05:01 ACCEPT [Google News HH] "Hawkish Fed and a fragile Iran deal leave commodity markets on shaky g" | kw:commodity
 2026-06-21 05:01 ACCEPT [Google News HH] "Why a strong El Niño leaves tropical commodities acutely exposed - MSN" | kw:commodities
 2026-06-21 05:01 ACCEPT [Google News KL] "SA Asks: Is now a good time to invest in gold or silver? (GLD:NYSEARCA" | kw:gold,silver
@@ -20015,3 +19998,16 @@
 2026-07-27 10:01 ACCEPT [Google News CB] "Global Stocks Rise, Bonds Gain as Oil Slumps Ahead of Fed, BOJ and BOE" | kw:oil,boj
 2026-07-27 10:01 ACCEPT [Google News CB] "Singapore Unexpectedly Tightens Monetary Policy - RTTNews" | kw:monetary policy
 2026-07-27 10:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 10:31 ACCEPT [MarketWatch] "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal " | kw:rice
+2026-07-27 10:31 ACCEPT [MarketWatch] "Oil prices see largest one-day declines in two months amid pause in st" | kw:oil,crude,brent
+2026-07-27 10:31 ACCEPT [Google News HH] "Sensex Jumps 776 Pts as Crude Oil Prices Plunge - Rediff MoneyWiz" | kw:oil,crude,rice
+2026-07-27 10:31 ACCEPT [Google News KL] "Gold opens the week higher on de-escalation hopes ahead of the key FOM" | kw:gold,fomc
+2026-07-27 10:31 ACCEPT [Google News KL] "UAE Gold Prices Rise as Bullion Gains to AED 483.10 a Gram Amid Safe-H" | kw:gold,rice
+2026-07-27 10:31 ACCEPT [Google News NS] "Community corn roast helps Wittenberg FFA Alumni grow student success " | kw:corn
+2026-07-27 10:31 ACCEPT [Google News NS] "United Soybean Board Approves FY27 Budget - Morning Ag Clips" | kw:soybean
+2026-07-27 10:31 ACCEPT [Google News NS] "Soybean leads India’s oilseed boom as prices climb across commodities " | kw:oil,soybean,rice
+2026-07-27 10:31 ACCEPT [Google News CB] "BOJ Likely to Hold Interest Rates Steady This Week - nippon.com" | kw:interest rate,boj
+2026-07-27 10:31 ACCEPT [Google News CB] "Big Tech Earnings and Fed Rate Decision Put Stock Rally to the Test - " | kw:fed rate,rate decision
+2026-07-27 10:31 ACCEPT [Google News CB] "Housing Week Ahead: Fed Decision, Home Prices, and Delaware Luxury Rep" | kw:rice
+2026-07-27 10:31 ACCEPT [Google News CB] "NEWS: Fraudsters increasingly turning to fraud recovery scams, Central" | kw:central bank,easing
+2026-07-27 10:31 SKIP_MORNING already_sent date=2026-07-27
