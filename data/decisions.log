@@ -1,20 +1,3 @@
-2026-06-20 17:01 ACCEPT [OilPrice.com] "Why Small Modular Reactors Are Becoming a National Security Priority" | kw:tariff
-2026-06-20 17:01 ACCEPT [Google News HH] "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com" | kw:opec
-2026-06-20 17:01 ACCEPT [Google News HH] "Goldman Sachs revisits its gold price target after Fed meeting - thest" | kw:gold,rice
-2026-06-20 17:01 ACCEPT [Google News HH] "India secures 70% of crude oil imports Outside Strait of Hormuz: Petro" | kw:oil,crude,petroleum
-2026-06-20 17:01 ACCEPT [Google News HH] "Three Indian crude oil tankers transit Strait of Hormuz en route to In" | kw:oil,crude
-2026-06-20 17:01 ACCEPT [Google News HH] "Three Indian-flagged crude oil tankers transit Strait of Hormuz; en ro" | kw:oil,crude,shipping
-2026-06-20 17:01 ACCEPT [Google News KL] "Amanda Bynes Interview During Kids' Choice Awards (4/14/2000) Silver P" | kw:silver,rice
-2026-06-20 17:31 ACCEPT [Google News HH] "Aissa Mandi Saludos Ramadan Gold Price In India (VQ8YsgHVoE) - Mshale" | kw:gold,rice
-2026-06-20 17:31 ACCEPT [Google News HH] "Three Indian-flagged oil tankers transit through Strait of Hormuz - Th" | kw:oil
-2026-06-20 17:31 ACCEPT [Google News HH] "Vivakor Expands Crude Oil Trading and Revenue Pipeline - The Globe and" | kw:oil,crude
-2026-06-20 17:31 ACCEPT [Google News HH] "WTI Crude Oil Token Price USD, CLUSDT Price Live Charts, Market Cap & " | kw:oil,crude,wti
-2026-06-20 17:31 ACCEPT [Google News HH] "After the US Navy lifted its blockade of Iranian ports, Iran resumed c" | kw:oil,crude
-2026-06-20 17:31 ACCEPT [Google News HH] "Three Indian Oil Tankers With 94 Crew Members Onboard Transit Through " | kw:oil
-2026-06-20 17:31 ACCEPT [Google News KL] "Storms Leave Damage In Spring Area Overnight Current Silver Price May " | kw:silver,rice
-2026-06-20 17:31 ACCEPT [Google News NS] "Artificial oil shortage nets TK Group concern Tk500 crore profit - dai" | kw:oil,shortage
-2026-06-20 17:52 ACCEPT [Google News HH] "Tether Partners With Dubai Multi Commodities Centre To Advance Tokeniz" | kw:commodities
-2026-06-20 17:52 ACCEPT [Google News NS] "US Corn Futures Fall as Export Sales Reach Four Week High - HarianBasi" | kw:corn
 2026-06-20 17:52 ACCEPT [Google News NS] "Corn Futures Sink as US Export Sales Hit Four Week High - HarianBasis." | kw:corn
 2026-06-20 18:01 ACCEPT [Google News NS] "Prices for feed corn continue to decline in Ukraine - Новини аграрного" | kw:corn,rice
 2026-06-20 18:31 ACCEPT [Google News HH] "Gold price drops by Tk 6,590 per bhari in two days - Newagebd.net" | kw:gold,rice
@@ -20015,3 +19998,16 @@
 2026-07-27 04:01 ACCEPT [Google News CB] "FOMC Out Next Week with Interest Rate Decision - Yahoo! Finance Canada" | kw:interest rate,rate decision,fomc
 2026-07-27 04:01 ACCEPT [Google News CB] "Singapore central bank surprises with second straight policy tightenin" | kw:central bank,tightening
 2026-07-27 04:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 04:31 ACCEPT [Google News HH] "Palm Oil Pulls Back from April High as Crude Oil Slips - TradingView" | kw:oil,crude
+2026-07-27 04:31 ACCEPT [Google News HH] "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment - Ene" | kw:oil,opec
+2026-07-27 04:31 ACCEPT [Google News HH] "Crude oil falls as US, Iran halt weekend strikes - BusinessLine" | kw:oil,crude
+2026-07-27 04:31 ACCEPT [Google News HH] "Gold climbs ₹757 on MCX, silver surges ₹2,266 as crude oil prices ease" | kw:oil,crude,gold
+2026-07-27 04:31 ACCEPT [Google News KL] "Gold, silver prices today, 27 July: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
+2026-07-27 04:31 ACCEPT [Google News KL] "KEFI Gold: Tulu Kapi achieves liftoff - Mining Review Africa" | kw:lng,gold
+2026-07-27 04:31 ACCEPT [Google News KL] "Capricorn Metals (ASX:CMM) Rockets 14% as Gold Reserves Surge to 5.2Mo" | kw:gold,corn
+2026-07-27 04:31 ACCEPT [Google News KL] "Gold, Silver Prices Today, July 27: Check Bullion Rates In Delhi, Mumb" | kw:lng,gold,silver
+2026-07-27 04:31 ACCEPT [Google News KL] "Gold gains on pause in US-Iran fighting; Fed decision looms - Business" | kw:gold
+2026-07-27 04:31 ACCEPT [Google News CB] "Singapore Central Bank Tightens Again in Surprise Move - WSJ" | kw:lng,central bank
+2026-07-27 04:31 ACCEPT [Google News CB] "Indonesia central bank chief steps down early: govt - France 24" | kw:central bank
+2026-07-27 04:31 ACCEPT [Google News CB] "Indonesia Central Bank Chief Steps Down Early: Govt - Barron's" | kw:central bank
+2026-07-27 04:31 SKIP_MORNING already_sent date=2026-07-27
