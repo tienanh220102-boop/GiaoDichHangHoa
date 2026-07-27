@@ -1,21 +1,3 @@
-2026-06-21 15:31 ACCEPT [Google News KL] "Antam Retro Horizontal Gold Price Today, Sunday June 21, 2026 - Pintu" | kw:gold,rice
-2026-06-21 15:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 15:31 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 16:01 ACCEPT [Google News HH] "Indian Markets: US-Iran Talks, Crude Oil & FIIs Key Drivers - Rediff M" | kw:oil,crude
-2026-06-21 16:01 ACCEPT [Google News KL] "Gold, silver prices unchanged in major Indian cities - MSN" | kw:gold,silver,rice
-2026-06-21 16:01 ACCEPT [Google News KL] "Gold & Silver: US-Iran Talks, Oil, Macro Data to Drive Prices - Rediff" | kw:oil,gold,silver
-2026-06-21 16:01 ACCEPT [Google News KL] "Bitcoin Gold Plummets 30.51% — What’s Driving This Decline? - Coinfoma" | kw:gold
-2026-06-21 16:01 ACCEPT [Google News KL] "Gold & silver prices fall by up to ₹31,200, graph shows their performa" | kw:gold,silver,rice
-2026-06-21 16:01 ACCEPT [Google News CB] "Charles Schwab (SCHW) Stock After Recent Performance And Interest Rate" | kw:interest rate
-2026-06-21 16:01 ACCEPT [Google News CB] "Kevin Warsh’s First Fed Meeting: No Rate Cut, Clear Divisions Emerge -" | kw:rate cut
-2026-06-21 16:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 16:01 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 16:31 ACCEPT [Google News HH] "Amid declining international oil prices, trading positions betting on " | kw:oil,crude,rice
-2026-06-21 16:31 ACCEPT [Google News HH] "PAX Gold Price Analysis: Critical Zones, Trends & Market Outlook - Kab" | kw:gold,rice
-2026-06-21 16:31 ACCEPT [Google News KL] "Robert Kiyosaki makes stunning prediction on gold and silver prices - " | kw:gold,silver,rice
-2026-06-21 16:31 ACCEPT [Google News NS] "Wheat producers face setback as tariff changes rejected - Farmer's Wee" | kw:wheat,tariff
-2026-06-21 16:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 16:31 SKIP_EVENING already_sent date=2026-06-21
 2026-06-21 16:59 ACCEPT [NASDAQ Commod] "DGCX Introduces First Same-Day Physical Gold Contract in Gulf" | kw:gold,commodities
 2026-06-21 16:59 ACCEPT [Google News HH] "US-Iran talks, crude oil movement, macro data to dictate bullion trend" | kw:oil,crude
 2026-06-21 16:59 ACCEPT [Google News HH] "India secures 70% of crude oil imports Outside Strait of Hormuz: Petro" | kw:oil,crude,petroleum
@@ -20016,3 +19998,17 @@
 2026-07-27 14:31 ACCEPT [Google News CB] "Thank China for saving global economy, ECB analysts say - euractiv.com" | kw:ecb
 2026-07-27 14:31 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 14:31 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 15:01 ACCEPT [Google News HH] "Oil prices sink 5% and Asian shares gain as Chinese chipmaker CXMT soa" | kw:oil,rice
+2026-07-27 15:01 ACCEPT [Google News HH] "Dollar Pressured by Weakness in Crude Oil - Barchart.com" | kw:oil,crude
+2026-07-27 15:01 ACCEPT [Google News HH] "ICE canola falls with crude oil - The Western Producer" | kw:oil,crude
+2026-07-27 15:01 ACCEPT [Google News HH] "Crude Oil Price Forecast: WTI and Brent Pull Back as US-Iran Negotiati" | kw:oil,crude,brent
+2026-07-27 15:01 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 15:01 ACCEPT [Google News HH] "Commodities: Oil Slumps As The U.S. And Iran Pause Strikes (Commodity:" | kw:oil,commodity,commodities
+2026-07-27 15:01 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 27 - FXStreet" | kw:gold,rice
+2026-07-27 15:01 ACCEPT [Google News KL] "Citi maintains bullish copper price targets on supply pressure - marke" | kw:copper,rice
+2026-07-27 15:01 ACCEPT [Google News KL] "Benton Plans to Spin Out Great Burnt Copper-Gold Project to Shareholde" | kw:gold,copper
+2026-07-27 15:01 ACCEPT [Google News KL] "Fed Rate Decision and Its Impact on Gold (XAU/USD) - FXEmpire" | kw:gold,fed rate,rate decision
+2026-07-27 15:01 ACCEPT [Google News KL] "Gold and silver prices rise as oil drops and in... - Pluang" | kw:oil,gold,silver
+2026-07-27 15:01 ACCEPT [Google News NS] "Large Corn Bet Creates Opportunity, Not Price Guarantee - RFD-TV" | kw:corn,rice
+2026-07-27 15:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 15:01 SKIP_EVENING already_sent date=2026-07-27
