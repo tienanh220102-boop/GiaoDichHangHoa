@@ -1,13 +1,3 @@
-2026-06-22 04:31 ACCEPT [Google News KL] "Gold demand falls as duty hike keeps prices high - The Rising Nepal" | kw:gold,rice
-2026-06-22 04:31 ACCEPT [Google News NS] "Harsha criticises corn tax hike and rice imports as burden on poor - N" | kw:corn,rice
-2026-06-22 04:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 05:01 ACCEPT [Google News HH] "Asia has plenty of crude oil, but refined fuels remain tight - Reuters" | kw:oil,crude,fuel
-2026-06-22 05:01 ACCEPT [Google News HH] "Commodities: Oil Rises Amid Shaky Start To U.S.-Iran Ceasefire - Seeki" | kw:oil,commodities
-2026-06-22 05:01 ACCEPT [Google News HH] "Japan Secures Stable Crude Oil Supply Through March 2028 - SME & Entre" | kw:oil,crude
-2026-06-22 05:01 ACCEPT [Google News HH] "Gold price in India: Rates on June 22 - FXStreet" | kw:gold,rice
-2026-06-22 05:01 ACCEPT [Google News HH] "Crude oil futures decline after US and Iran conclude first round of ta" | kw:oil,crude
-2026-06-22 05:01 ACCEPT [Google News HH] "Crude oil prices jumps above $81 as Hormuz disruptions, fragile Iran-U" | kw:oil,crude,rice
-2026-06-22 05:01 ACCEPT [Google News HH] "Stock Markets Rebound In Early Trade On Drop In Crude Oil Prices, Supp" | kw:oil,crude,rice
 2026-06-22 05:01 ACCEPT [Google News KL] "Gold, silver prices today, June 22: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
 2026-06-22 05:01 ACCEPT [Google News KL] "Best Gold IRA Companies for a 401(k) Rollover in 2026: Expert Rankings" | kw:gold
 2026-06-22 05:01 ACCEPT [Google News KL] "Gold Prices Rise, Silver Gains Today: Check 24K, 22K Prices In Your Ci" | kw:gold,silver,rice
@@ -20008,3 +19998,5 @@
 2026-07-27 21:31 ACCEPT [Google News NS] "Closing market update: Crude oil selloff weighs on grains and oilseeds" | kw:oil,crude
 2026-07-27 21:31 ACCEPT [Google News CB] "Prediction Market Traders Brace for Surprise Fed Rate Hike - Decrypt" | kw:fed rate,rate hike
 2026-07-27 21:31 ACCEPT [Google News CB] "Expert sees 50% chance of Fed rate hike this week - Yahoo Finance" | kw:fed rate,rate hike
+2026-07-27 21:35 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-27 21:35 ACCEPT [Google News CB] "Inflation sparks Fed interest-rate debate as July decision looms - the" | kw:inflation
