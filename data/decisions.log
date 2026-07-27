@@ -1,13 +1,3 @@
-2026-06-20 11:31 ACCEPT [Google News HH] "Gold Price Surge | Local & Global Rates | Investment Alert - Aaj Pakis" | kw:gold,rice
-2026-06-20 11:31 ACCEPT [Google News HH] "HSBC Sees Limited Near-Term Impact on OPEC+ From UAE’s Departure - Ene" | kw:opec
-2026-06-20 11:31 ACCEPT [Google News NS] "Grain SA warns wheat sector at risk after tariff ruling - Milling Midd" | kw:wheat,tariff
-2026-06-20 11:31 ACCEPT [Google News CB] "Blue Sky Farm’s annual fundraiser is June 27 - ECB Publishing, Inc." | kw:ecb
-2026-06-20 11:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 12:01 ACCEPT [Google News HH] "Illinois-Produced Crude Oil Plunges - wfiwradio.com" | kw:oil,crude
-2026-06-20 12:01 ACCEPT [Google News HH] "OPEC projects long‑term oil demand growth, led by Asia - 巴士的報" | kw:oil,opec
-2026-06-20 12:01 ACCEPT [Google News HH] "Gold prices rise - VnExpress International" | kw:gold,rice
-2026-06-20 12:01 ACCEPT [Google News HH] "Goldman Sachs ने भारतीय मार्केट को डाउनग्रेड किया! | Nifty Prediction " | kw:oil,crude,gold
-2026-06-20 12:01 ACCEPT [Google News KL] "Gold, silver prices slip marginally on Saturday - The Tribune" | kw:gold,silver,rice
 2026-06-20 12:01 ACCEPT [Google News KL] "Gold Price May 11 2026 (0rtNAw4yEb) - Mshale" | kw:gold,rice
 2026-06-20 12:01 ACCEPT [Google News NS] "Grain SA Rejects Wheat Tariff Decision: ‘SA Cannot Afford to Lose Its " | kw:wheat,tariff
 2026-06-20 12:01 ACCEPT [Google News CB] "South Korea's AI chip bonuses are about to become a monetary policy pr" | kw:monetary policy
@@ -20008,3 +19998,16 @@
 2026-07-27 00:01 ACCEPT [Google News KL] "Capricorn Metals Unveils Range 500 Gold Production Aspiration as Mt Gi" | kw:gold,corn
 2026-07-27 00:01 ACCEPT [Google News CB] "Futures Rise, Oil Dives Amid Iran News - Investor's Business Daily" | kw:oil
 2026-07-27 00:02 SENT_MORNING articles=20 date=2026-07-27 force=False
+2026-07-27 00:30 ACCEPT [CNBC Economy] "Singapore tightens monetary policy as rising oil prices rekindle infla" | kw:oil,rice,inflation
+2026-07-27 00:31 ACCEPT [Google News HH] "JGB Futures Rise Amid Falling Crude Oil Prices - WSJ" | kw:oil,crude,rice
+2026-07-27 00:31 ACCEPT [Google News HH] "Price to earnings forward of Zhejiang China Commodities City Group Co." | kw:rice,commodities
+2026-07-27 00:31 ACCEPT [Google News HH] "India secures 70% of crude oil imports Outside Strait of Hormuz: Petro" | kw:oil,crude,petroleum
+2026-07-27 00:31 ACCEPT [Google News HH] "Gold futures likely to trade lower this week - The Star" | kw:gold
+2026-07-27 00:31 ACCEPT [Google News HH] "Signs of easing reemerge in US-Iran tensions, with a significant pullb" | kw:oil,crude,rice
+2026-07-27 00:31 ACCEPT [Google News KL] "DOREX WEEKLY GOLD MARKET UPDATE – w/e 24.07.26: Gold consolidates as g" | kw:gold
+2026-07-27 00:31 ACCEPT [Google News CB] "Singapore Central Bank Delivers Surprise Back-to-Back Tightening - WSJ" | kw:lng,central bank,tightening
+2026-07-27 00:31 ACCEPT [Google News CB] "Singapore tightens monetary policy as rising oil prices rekindle infla" | kw:oil,rice,inflation
+2026-07-27 00:31 ACCEPT [Google News CB] "Fed Rate Decision Pits 104 Economists Against a 36% Hike Bet - Yahoo F" | kw:fed rate,rate decision
+2026-07-27 00:31 ACCEPT [Google News CB] "Singapore central bank surprises with slight policy tightening on infl" | kw:inflation,central bank,tightening
+2026-07-27 00:31 ACCEPT [Google News CB] "Singapore Tightens Monetary Policy Further on Price Pressures - Bloomb" | kw:rice,monetary policy
+2026-07-27 00:31 SKIP_MORNING already_sent date=2026-07-27
