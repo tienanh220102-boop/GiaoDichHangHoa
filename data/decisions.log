@@ -1,16 +1,3 @@
-2026-06-21 09:01 ACCEPT [Google News KL] "Silver Price Forecast: Silver Eyes Next Rally as Copper Lags - FXEmpir" | kw:wti,silver,copper
-2026-06-21 09:01 ACCEPT [Google News KL] "Has Gold's Recent Rally Made it a Must-Have for Investors - Kavout" | kw:gold
-2026-06-21 09:01 ACCEPT [Google News KL] "Silver loses luster: banks warn of risk of new price collapse - logos-" | kw:silver,rice
-2026-06-21 09:01 ACCEPT [Google News KL] "How Much Is Arweave Worth Now?Current USD Price and Chart - Kabul Univ" | kw:rice
-2026-06-21 09:01 ACCEPT [Google News NS] "Grain SA rejects ITAC decision to keep wheat tariff reference price un" | kw:wheat,rice,tariff
-2026-06-21 09:01 ACCEPT [Google News CB] "Qatar Central Bank Launches Apple Pay Cash Withdrawals with HIMYAN Car" | kw:central bank
-2026-06-21 09:01 ACCEPT [Google News CB] "Central Bank of Iran adds billions to foreign currency reserves amid s" | kw:sanction,central bank
-2026-06-21 09:01 ACCEPT [Google News CB] "Lebanon central bank condemns Israeli strike on branch in south - Naha" | kw:central bank
-2026-06-21 09:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 09:31 ACCEPT [Google News HH] "Gold Price on 20 June 2026 - Gold Price" | kw:gold,rice
-2026-06-21 09:31 ACCEPT [Google News HH] "Goldman Sachs slashes gold price target, long-term bulls turn cautious" | kw:gold,rice
-2026-06-21 09:31 ACCEPT [Google News HH] "No Fed rate cut expected this year? Goldman Sachs slashes gold price t" | kw:gold,rice,fed rate
-2026-06-21 09:31 ACCEPT [Google News HH] "21-karat gold price at JD85.3 in local market - Ammon News" | kw:gold,rice
 2026-06-21 09:31 ACCEPT [Google News KL] "Gold prices stabilize in Baghdad and Erbil - Shafaq News | Latest brea" | kw:gold,rice
 2026-06-21 09:31 ACCEPT [Google News KL] "Gold and silver prices rise in Nepali market - myRepublica" | kw:gold,silver,rice
 2026-06-21 09:31 ACCEPT [Google News KL] "Minswap vs Silver: Which Is the Better Buy in 2027? - Kabul University" | kw:silver
@@ -20011,3 +19998,25 @@
 2026-07-27 12:31 ACCEPT [Google News CB] "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision" | kw:rate cut
 2026-07-27 12:31 ACCEPT [Google News CB] "Bitcoin holds firm as Hormuz hostilities pause, Fed prepares interest-" | kw:rate decision
 2026-07-27 12:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 13:01 ACCEPT [The Guardian Biz] "Oil prices fall as US pauses strikes on Iran over strait of Hormuz" | kw:oil,crude,brent
+2026-07-27 13:01 ACCEPT [The Guardian Biz] "The AI jobs apocalypse probably isn’t coming anytime soon" | kw:rice
+2026-07-27 13:01 ACCEPT [Google News HH] "Gold Price Today on July 27, 2026 - USA Today" | kw:gold,rice
+2026-07-27 13:01 ACCEPT [Google News HH] "Crude oil slides as diplomatic progress weakens geopolitical premium -" | kw:oil,crude
+2026-07-27 13:01 ACCEPT [Google News HH] "Crude Oil Price Forecast: WTI and Brent Pull Back as US-Iran Negotiati" | kw:oil,crude,brent
+2026-07-27 13:01 ACCEPT [Google News HH] "Crude oil futures plunge nearly 8% as easing West Asia tensions trigge" | kw:oil,crude,easing
+2026-07-27 13:01 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD Buyers Test Resistance as Mideast Tension" | kw:oil,gold,rice
+2026-07-27 13:01 ACCEPT [Google News HH] "Forecast update for crude oil -27-07-2026 - Economies.com" | kw:oil,crude
+2026-07-27 13:01 ACCEPT [Google News HH] "The Refining Advantage: Why Fuel Markets, Not Crude Oil, Are Driving E" | kw:oil,crude,fuel
+2026-07-27 13:01 ACCEPT [Google News HH] "Gold Price Forecast 2026: UBS Sees Pullback Risk But $5,200 Target Sti" | kw:gold,rice
+2026-07-27 13:01 ACCEPT [Google News KL] "Gold prices today, Monday, July 27, 2026: Gold prices see positive tra" | kw:gold,rice
+2026-07-27 13:01 ACCEPT [Google News KL] "Silver Price Gap Higher Faces Death Cross Pressure - DailyForex" | kw:silver,rice
+2026-07-27 13:01 ACCEPT [Google News KL] "Silver prices today, Monday, July 27, 2026: Silver prices trend higher" | kw:silver,rice
+2026-07-27 13:01 ACCEPT [Google News KL] "Bear of the Day: AngloGold Ashanti (AU) - TradingView" | kw:gold
+2026-07-27 13:01 ACCEPT [Google News KL] "Silver Prices Rise Rs 50 per 10 gm, Recover Friday’s Losses - HDFC Sky" | kw:silver,rice
+2026-07-27 13:01 ACCEPT [Google News KL] "Copper prices rose and inventories increased, while weak downstream re" | kw:copper,rice
+2026-07-27 13:01 ACCEPT [Google News NS] "Corn Futures Test Key Resistance as Middle East Tensions Meet Tighteni" | kw:corn,tightening
+2026-07-27 13:01 ACCEPT [Google News NS] "Soybean leads India’s oilseed boom as prices climb across commodities " | kw:oil,soybean,rice
+2026-07-27 13:01 ACCEPT [Google News NS] "Rapeseed & mustard emerges as only major oilseed trading above MSP ami" | kw:oil
+2026-07-27 13:01 ACCEPT [Google News CB] "Stock futures rise as oil drops after U.S. pauses Iran strikes - qz.co" | kw:oil
+2026-07-27 13:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 13:02 SENT_EVENING articles=20 date=2026-07-27 force=False

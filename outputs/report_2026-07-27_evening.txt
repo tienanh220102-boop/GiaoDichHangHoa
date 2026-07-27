@@ -1,0 +1,67 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          84.12   -5.8%    +1.1%
+Brent        90.58   -6.4%    +1.5%
+Khí TN       2.797   -2.6%    -2.2%
+Vàng      4,085.60   +0.4%    +1.9%
+Bạc          59.24   +1.0%    +4.3%
+Đồng         6.394   +1.2%    +1.5%
+Ngô         473.75   +2.0%    +5.4%
+Lúa mì      675.00   -0.4%    +0.1%
+Đậu t.    1,220.25   -2.2%    -0.5%
+DXY         101.40   -0.1%    +0.4%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): WTI 1.7× bình thường, Lúa mì 2.9× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $6.46 (1 tháng trước: $3.34) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 69.0 (1 tháng trước: 69.1) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.57 (1 tháng trước: 1.51) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-21]
+  Lúa mì (SRW): NET SHORT -7,009 (Δ tuần: +9,330)
+  Ngô: NET LONG +186,650 (Δ tuần: +55,187)
+  Đậu tương: NET LONG +175,646 (Δ tuần: +50,243)
+  Dầu WTI: NET LONG +12,514 (Δ tuần: -4,340)
+  Bạc: NET LONG +23,465 (Δ tuần: -1,609)
+  Đồng: NET LONG +73,977 (Δ tuần: +9,592)
+  Vàng XAU: NET LONG +183,910 (Δ tuần: -2,772)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+Dưới đây là báo cáo thị trường hàng hóa NGẮN GỌN cho phiên Mỹ ngày 2026-07-27:
+
+---
+**BÁO CÁO PHIÊN MỸ (20:00 VN) NGÀY 2026-07-27**
+
+🌍 **VĨ MÔ**
+Động lực chính hôm nay là sự tan băng ngoại giao giữa Mỹ và Iran, làm giảm căng thẳng địa chính trị và thúc đẩy tâm lý "risk-on" trên thị trường, đồng thời xoa dịu lo ngại về lạm phát.
+
+🛢️ **NĂNG LƯỢNG**
+*   **WTI:** phiên -5.81% (GIẢM) | 5 phiên +1.07% (TĂNG) | giá trên MA20 | xu hướng trung hạn SIDEWAY
+*   **Brent:** phiên -6.41% (GIẢM) | 5 phiên +1.52% (TĂNG) | giá trên MA20 | xu hướng trung hạn SIDEWAY
+*   **Khí TN:** phiên -2.58% (GIẢM) | 5 phiên -2.20% (GIẢM) | giá dưới MA20 | xu hướng trung hạn GIẢM
+Thiên hướng KT: WTI Trung tính | Brent Trung tính | Khí TN Nghiêng giảm
+Ngưỡng giá: WTI 82.12–93.50 | Brent 87.57–102.01 | Khí TN 2.768–2.991
+
+Phân tích:
+*   Dầu WTI và Brent giảm mạnh lần lượt -5.81% và -6.41% trong phiên, do tin tức về việc nối lại đàm phán giữa Mỹ và Iran, làm giảm lo ngại về nguồn cung và căng thẳng địa chính trị. Các quỹ đầu cơ đã giảm vị thế mua ròng đối với dầu WTI trong tuần qua.
+*   Khí tự nhiên giảm -2.58% trong phiên và -2.20% trong 5 phiên, tiếp tục xu hướng giảm trung hạn và đang giao dịch dưới mức trung bình 20 ngày.
+Rủi ro:
+*   Bất kỳ diễn biến tiêu cực nào trong đàm phán Mỹ-Iran có thể nhanh chóng đẩy giá dầu tăng trở lại.
+
+🌾 **NÔNG SẢN**
+*   **Ngô:** phiên +2.05% (TĂNG) | 5 phiên +5.39% (TĂNG) | giá trên MA20 | xu hướng trung hạn TĂNG
+*   **Lúa mì:** phiên -0.44% (GIẢM) | 5 phiên +0.15% (TĂNG) | giá trên MA20 | xu hướng trung hạn TĂNG
+*   **Đậu tương:** phiên -2.22% (GIẢM) | 5 phiên -0.47% (GIẢM) | giá trên MA20 | xu hướng trung hạn TĂNG
+Thiên hướng KT: Ngô Tăng — đã nóng | Lúa mì Nghiêng tăng | Đậu tương Nghiêng tăng
+Ngưỡng giá: Ngô 445.50–485.00 | Lúa mì 659.50–711.25 | Đậu tương 1,211.25–1,250.50
+
+Phân tích:
+*   Ngô tăng +2.05% trong phiên và +5.39% trong 5 phiên, với khối lượng giao dịch cao và vị thế mua ròng của quỹ đầu cơ tăng mạnh, cho thấy dòng tiền đang đổ vào mặt hàng này. Giá ngô đang ở vùng giá cao nhất trong 52 tuần.
+*   Đậu tương giảm -2.22% trong phiên, dù các quỹ đầu cơ đã tăng đáng kể vị thế mua ròng trong tuần qua. Lúa mì giảm nhẹ -0.44% trong phiên nhưng vẫn giữ xu hướng tăng trung hạn.
+Rủi ro:
+*   Thời tiết bất lợi tại các vùng trồng trọt chính của Mỹ trong giai đoạn cao điểm thụ phấn của ngô có thể gây biến động mạnh.
+
+📋 **KHUYẾN NGHỊ**
+*   **Dầu WTI/Brent:** Cân nhắc vị thế bán nếu giá hồi phục về gần ngưỡng trên của dải 5 ngày (WTI ~93.50, Brent ~102.01) do áp lực từ tin tức địa chính trị.
+*   **Ngô:** Cân nhắc chốt lời một phần hoặc thận trọng với vị thế mua mới khi giá đã tăng nóng và ở vùng cao nhất 52 tuần.
