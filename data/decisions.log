@@ -1,20 +1,3 @@
-2026-06-21 20:01 ACCEPT [Google News KL] "ASX Gold Miners Slammed as the US Dollar Roars: Buy the Dip or Stay Aw" | kw:gold
-2026-06-21 20:01 ACCEPT [Google News CB] "Micron Q3 earnings, new home sales, Fed's preferred inflation data: Wh" | kw:inflation
-2026-06-21 20:10 ACCEPT [Google News HH] "Oil Spills In Nigeria: The True Price Of Crude Oil | Guardian Investig" | kw:oil,crude,rice
-2026-06-21 20:10 ACCEPT [Google News KL] "Pure Silver Price per Gram Today, Sunday June 21, 2026 - Pintu" | kw:silver,rice
-2026-06-21 20:10 ACCEPT [Google News NS] "Grain SA rejects ITAC decision to keep wheat tariff reference price un" | kw:wheat,rice,tariff
-2026-06-21 20:10 ACCEPT [Google News CB] "Sterling today: Pound slips as ECB hike fails to shake dollar’s grip -" | kw:ecb
-2026-06-21 20:10 ACCEPT [Google News CB] "With the Fed Holding Interest Rates Steady, Here's the Smartest Divide" | kw:interest rate
-2026-06-21 20:10 ACCEPT [Google News CB] "BOJ deputy's brief moment at the helm reveals deeper inflation anxiety" | kw:inflation,boj
-2026-06-21 20:10 ACCEPT [Google News CB] "Ringgit Opens Higher Against Dollar Amid US Fed Rate Unchanged Interes" | kw:fed rate,interest rate
-2026-06-21 20:10 ACCEPT [Google News CB] "ECB raises interest rates amid bid to corral Iran-linked inflation - I" | kw:inflation,interest rate,ecb
-2026-06-21 20:10 ACCEPT [Google News CB] "Wall Street rebounds from Fed sell-off over interest rates, ends week " | kw:interest rate
-2026-06-21 20:31 ACCEPT [Google News KL] "ASX Gold Miners Slammed as the US Dollar Roars: Buy the Dip or Stay Aw" | kw:gold
-2026-06-21 20:31 ACCEPT [Google News CB] "Micron Q3 earnings, new home sales, Fed's preferred inflation data: Wh" | kw:inflation
-2026-06-21 20:31 ACCEPT [Google News CB] "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil - Bloombe" | kw:oil,rice
-2026-06-21 21:01 ACCEPT [OilPrice.com] "Hormuz Crisis Sparks a Middle East Pipeline Boom" | kw:oil,crude,lng
-2026-06-21 21:01 ACCEPT [Google News KL] "Gold Prices Next Week Potentially Decrease, Touch Rp. 2,648 Million pe" | kw:gold,rice
-2026-06-21 21:01 ACCEPT [Google News CB] "With the Fed Holding Interest Rates Steady, Here's the Smartest Divide" | kw:interest rate
 2026-06-21 21:01 ACCEPT [Google News CB] "Kevin Warsh just killed the Fed's safety blanket and now everyone has " | kw:rice
 2026-06-21 21:01 ACCEPT [Google News CB] "ECB favours cross-border banking in Europe - Jordan Times" | kw:ecb
 2026-06-21 21:31 ACCEPT [NASDAQ Commod] "Top 5 Canadian Mining Stocks This Week: Lighthouse Gold Shines with 78" | kw:gold,copper,iron
@@ -20015,3 +19998,23 @@
 2026-07-27 16:01 ACCEPT [Google News CB] "ECB Expands Application of Climate Risk Factors in Collateral Framewor" | kw:ecb
 2026-07-27 16:01 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 16:01 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 16:31 ACCEPT [OilPrice.com] "China to Resell First US LNG Cargo in a Year Instead of Importing It" | kw:lng,rice,tariff
+2026-07-27 16:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 5% as Mide" | kw:oil,crude,rice
+2026-07-27 16:31 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 16:31 ACCEPT [Google News HH] "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next " | kw:oil,crude,rice
+2026-07-27 16:31 ACCEPT [Google News HH] "Lebanon offers Iraq transit route for crude oil to bypass Strait of Ho" | kw:oil,crude
+2026-07-27 16:31 ACCEPT [Google News HH] "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June" | kw:oil,crude
+2026-07-27 16:31 ACCEPT [Google News HH] "ICE canola falling with crude oil - The Western Producer" | kw:oil,crude
+2026-07-27 16:31 ACCEPT [Google News HH] "Indian stocks, rupee soar, crude oil dips 9% on easing US-Iran tension" | kw:oil,crude,easing
+2026-07-27 16:31 ACCEPT [Google News KL] "Gold Prices Look to Warsh, Bonds for Hawkish Clues - FOREX.com" | kw:gold,rice
+2026-07-27 16:31 ACCEPT [Google News NS] "Cattle Crash as Mexican Border to Reopen but How Low Will Prices Fall?" | kw:rice
+2026-07-27 16:31 ACCEPT [Google News NS] "CBOT corn drops after reaching 15-month high on Friday By Investing.co" | kw:corn
+2026-07-27 16:31 ACCEPT [Google News NS] "China Domestic Corn Prices Remained Weak Last Week - Sunsirs" | kw:corn,rice
+2026-07-27 16:31 ACCEPT [Google News CB] "What would a rate hike signal about the new Fed chief's MO? - Axios" | kw:rate hike
+2026-07-27 16:31 ACCEPT [Google News CB] "Federal Reserve Proposal Would Divert Deposits from Main Street Banks " | kw:central bank,federal reserve
+2026-07-27 16:31 ACCEPT [Google News CB] "The Last Time Bonds Looked Like This, the Fed Hiked More Than 500 Basi" | kw:basis point
+2026-07-27 16:31 ACCEPT [Google News CB] "Expert Predicts Fed Decision Could Bail Out Beaten Cardano Price - Yah" | kw:rice
+2026-07-27 16:31 ACCEPT [Google News CB] "To hike or not to hike? Pressure is on for Fed's Warsh to navigate tig" | kw:inflation
+2026-07-27 16:31 ACCEPT [Google News CB] "Warsh’s Twist Could Be Higher Fed Rates and Lower Mortgage Rates - Adv" | kw:fed rate
+2026-07-27 16:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 16:31 SKIP_EVENING already_sent date=2026-07-27
