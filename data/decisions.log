@@ -1,21 +1,3 @@
-2026-06-21 02:01 ACCEPT [Google News NS] "Artificial oil shortage nets TK Group concern Tk500 crore profit - dai" | kw:oil,shortage
-2026-06-21 02:01 ACCEPT [Google News NS] "Govt Revises Commission Rates for Wheat and Paddy Procurement from Rab" | kw:wheat
-2026-06-21 02:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Wants to Get Inflation Under Control. That Could" | kw:inflation
-2026-06-21 02:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 02:31 ACCEPT [Google News HH] "Opec forecasts 23pc rise in global energy demand by 2050 - TradeArabia" | kw:opec
-2026-06-21 02:31 ACCEPT [Google News HH] "Hawkish Fed and a fragile Iran deal leave commodity markets on shaky g" | kw:commodity
-2026-06-21 02:31 ACCEPT [Google News HH] "Ramses Price vs Gold Price: Which Is Performing Better? - Kabul Univer" | kw:gold,rice
-2026-06-21 02:31 ACCEPT [Google News KL] "Gold, Silver Rate Today June 21: Did Gold become costlier today? Check" | kw:gold,silver,rice
-2026-06-21 02:31 ACCEPT [Google News CB] "USD/JPY Weekly Outlook: BOJ Intervention Threat Battles Hawkish Fed - " | kw:boj
-2026-06-21 02:31 ACCEPT [Google News CB] "Bank Of Canada Holds Interest Rate At 2.25 Per Cent – March 18, 2026 E" | kw:interest rate
-2026-06-21 02:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 02:50 ACCEPT [Google News KL] "Gold, silver prices slide up to 2 pc as US Fed keeps rates unchanged -" | kw:gold,silver,rice
-2026-06-21 02:50 ACCEPT [Google News KL] "Gold futures slump as Fed signals and US-Iran uncertainty weigh - MSN" | kw:gold
-2026-06-21 02:50 ACCEPT [Google News KL] "Kabul sees decline in fuel, gold prices - Pajhwok Afghan News" | kw:fuel,gold,rice
-2026-06-21 02:50 ACCEPT [Google News KL] "Gold Price Exclusive Update: Mid-2026 Market Signals and Cycles - Disc" | kw:gold,rice
-2026-06-21 02:50 ACCEPT [Google News KL] "Experts predict unexpected gold prices next week - Laodong.vn" | kw:gold,rice
-2026-06-21 02:50 ACCEPT [Google News KL] "Gold and silver prices decline in global markets - Azərtac" | kw:gold,silver,rice
-2026-06-21 02:50 ACCEPT [Google News KL] "Gold prices drop by Tk 2,216 per bhori - The Financial Express" | kw:gold,rice
 2026-06-21 02:50 ACCEPT [Google News KL] "Infographic: Domestic gold prices rise by 500,000 VND per tael on June" | kw:gold,rice
 2026-06-21 02:50 ACCEPT [Google News NS] "Federal cuts are hitting Illinois food assistance recipients — and the" | kw:wti
 2026-06-21 02:50 ACCEPT [Google News CB] "Bank Of Canada Cuts Key Interest Rate By 25 Basis Points | - Mshale" | kw:interest rate,basis point
@@ -20016,3 +19998,17 @@
 2026-07-27 07:31 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Faces a Committee Where 9 of 19 Members Are Sign" | kw:interest rate
 2026-07-27 07:31 ACCEPT [Google News CB] "Fed Funds Futures Indicate the FOMC Will Stand Pat - Investing.com" | kw:fomc
 2026-07-27 07:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 08:01 ACCEPT [OilPrice.com] "Japan Eyes Foreign Banks to Back $33 Billion U.S. Natural Gas Investme" | kw:gas
+2026-07-27 08:01 ACCEPT [Google News HH] "Gold price up Tk2,216 per bhori, 22-karat rate climbs to Tk2,23,074 - " | kw:gold,rice
+2026-07-27 08:01 ACCEPT [Google News KL] "Gold gains over 1% on pause in US-Iran fighting; Fed decision looms - " | kw:gold
+2026-07-27 08:01 ACCEPT [Google News KL] "Gold Gains as Oil Slump Eases Policy Jitters - TradingPedia" | kw:oil,gold
+2026-07-27 08:01 ACCEPT [Google News KL] "Antam gold price rises on Monday (27/7) to IDR 2,622,000 per gram - ID" | kw:gold,rice
+2026-07-27 08:01 ACCEPT [Google News KL] "India Gold price today: Gold rises, according to FXStreet data - Bitge" | kw:gold,rice
+2026-07-27 08:01 ACCEPT [Google News NS] "Grain marketing involves prices, timing, events - FarmWeekNow" | kw:rice
+2026-07-27 08:01 ACCEPT [Google News NS] "Insurance and logistics reshape the wheat market - Agrocapital.gr" | kw:wheat
+2026-07-27 08:01 ACCEPT [Google News NS] "Punjab Misses Wheat Target as Aggregator Model Fails and Grain Flows t" | kw:wheat
+2026-07-27 08:01 ACCEPT [Google News CB] "RBI to hold rates through 2026 as growth risks outweigh inflation - WT" | kw:inflation
+2026-07-27 08:01 ACCEPT [Google News CB] "Gold gains over 1% on pause in US-Iran fighting; Fed decision looms - " | kw:gold
+2026-07-27 08:01 ACCEPT [Google News CB] "Gold Gains on Pause in US-Iran Fighting; Fed Decision Looms - ASHARQ A" | kw:gold
+2026-07-27 08:01 ACCEPT [Google News CB] "Week Ahead: War, Tariffs, and Three G10 Central Bank Meetings - Invest" | kw:tariff,central bank
+2026-07-27 08:01 SKIP_MORNING already_sent date=2026-07-27
