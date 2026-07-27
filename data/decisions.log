@@ -1,4 +1,3 @@
-2026-06-20 23:41 ACCEPT [Google News NS] "Farmers plant highest-ever wheat hectarage, as record target is within" | kw:wheat
 2026-06-20 23:42 ACCEPT [Google News CB] "Is SpaceX IPO Frenzy And Fed Jitters Altering The Investment Case For " | kw:gdp
 2026-06-21 00:01 ACCEPT [Google News HH] "PAX Gold Price As of Today: Latest KSM to USD Price and Chart - Kabul " | kw:gold,rice
 2026-06-21 00:01 ACCEPT [Google News HH] "Gold price pops after Trump cancels threatened military strikes on Ira" | kw:gold,rice
@@ -19999,3 +19998,21 @@
 2026-07-27 05:31 ACCEPT [Google News CB] "Singapore Delivers Back-to-Back Tightening to Tame Price Risks - Bloom" | kw:rice,tightening
 2026-07-27 05:31 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 06:02 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 06:31 ACCEPT [Al Jazeera] "Climate change presents new threat to Philippines’ UNESCO rice terrace" | kw:rice
+2026-07-27 06:31 ACCEPT [Google News HH] "What is next for commodities? - UBS" | kw:commodities
+2026-07-27 06:31 ACCEPT [Google News HH] "Kuwait’s KPC signs $16bn crude oil pipeline deal - Arabian Gulf Busine" | kw:oil,crude
+2026-07-27 06:31 ACCEPT [Google News KL] "Is Gold Taking a Breather—or Ready to Soar Higher Again? - Phemex" | kw:gold
+2026-07-27 06:31 ACCEPT [Google News KL] "Gold prices jump - VnExpress International" | kw:gold,rice
+2026-07-27 06:31 ACCEPT [Google News KL] "Gold and silver prices rise again in the domestic market - Nepalnews.c" | kw:gold,silver,rice
+2026-07-27 06:31 ACCEPT [Google News KL] "Gold prices rose by more than 1%, supported by a weaker dollar and fal" | kw:oil,gold,rice
+2026-07-27 06:31 ACCEPT [Google News KL] "Gold jumps Rs 1,000, silver surges Rs 2,500: Why bullion is rallying a" | kw:gold,silver
+2026-07-27 06:31 ACCEPT [Google News KL] "Gold and silver prices continue to rise in domestic market - Khabarhub" | kw:gold,silver,rice
+2026-07-27 06:31 ACCEPT [Google News KL] "BAJUS raises gold prices three days after price cut - Jagonews24.com" | kw:gold,rice
+2026-07-27 06:31 ACCEPT [Google News NS] "Soybeans, corn decline as oil slumps on Middle East optimism - Busines" | kw:oil,corn,soybean
+2026-07-27 06:31 ACCEPT [Google News CB] "Indonesia Central Bank Chief Resigns Unexpectedly - WSJ" | kw:central bank
+2026-07-27 06:31 ACCEPT [Google News CB] "Singapore tightens monetary policy in surprise move as rising oil pric" | kw:oil,rice,inflation
+2026-07-27 06:31 ACCEPT [Google News CB] "RBI to hold rates through 2026 as growth risks outweigh inflation: Reu" | kw:inflation
+2026-07-27 06:31 ACCEPT [Google News CB] "The central bank bonanza returns in the final week of July - investing" | kw:central bank
+2026-07-27 06:31 ACCEPT [Google News CB] "Singapore tightens monetary policy for second time in 3 months - South" | kw:monetary policy
+2026-07-27 06:31 ACCEPT [Google News CB] "Japanese Yen gains against US Dollar at the start of Fed-BoJ policy we" | kw:boj
+2026-07-27 06:31 SKIP_MORNING already_sent date=2026-07-27
