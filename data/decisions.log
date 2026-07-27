@@ -1,17 +1,3 @@
-2026-06-21 02:50 ACCEPT [Google News KL] "Infographic: Domestic gold prices rise by 500,000 VND per tael on June" | kw:gold,rice
-2026-06-21 02:50 ACCEPT [Google News NS] "Federal cuts are hitting Illinois food assistance recipients — and the" | kw:wti
-2026-06-21 02:50 ACCEPT [Google News CB] "Bank Of Canada Cuts Key Interest Rate By 25 Basis Points | - Mshale" | kw:interest rate,basis point
-2026-06-21 02:50 ACCEPT [Google News CB] "Some in BOJ called for faster rate hikes, April minutes show - AOL.com" | kw:rate hike,boj
-2026-06-21 02:50 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 03:01 ACCEPT [Google News CB] "ECB may hike rates again despite weak growth - BofA - Investing.com" | kw:ecb
-2026-06-21 03:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 03:31 ACCEPT [Google News HH] "Crude Oil Price Forecast, Technical Analysis (May 26): WTI, Brent Are " | kw:oil,crude,brent
-2026-06-21 03:31 ACCEPT [Google News HH] "Why a strong El Niño leaves tropical commodities acutely exposed - MSN" | kw:commodities
-2026-06-21 03:31 ACCEPT [Google News KL] "How Does Synapse Influence Silver Value?Key Market Factors - Kabul Uni" | kw:silver
-2026-06-21 03:31 ACCEPT [Google News NS] "South African wheat producers reject decision to retain current tariff" | kw:wheat,tariff
-2026-06-21 03:31 ACCEPT [Google News NS] "Agric. & Environment: Kenyan grain buyers in Uganda in searc - newvisi" | kw:iron
-2026-06-21 03:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 04:01 ACCEPT [Google News HH] "Morgan Stanley resets gold price target for rest of 2026 - AOL.com" | kw:gold,rice
 2026-06-21 04:01 ACCEPT [Google News HH] "Goldman Sachs revisits its gold price target after Fed meeting - AOL.c" | kw:gold,rice
 2026-06-21 04:01 ACCEPT [Google News NS] "Is the 2026 soybean rally over? - MSN" | kw:soybean
 2026-06-21 04:01 SKIP_MORNING already_sent date=2026-06-21
@@ -20012,3 +19998,19 @@
 2026-07-27 08:01 ACCEPT [Google News CB] "Gold Gains on Pause in US-Iran Fighting; Fed Decision Looms - ASHARQ A" | kw:gold
 2026-07-27 08:01 ACCEPT [Google News CB] "Week Ahead: War, Tariffs, and Three G10 Central Bank Meetings - Invest" | kw:tariff,central bank
 2026-07-27 08:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 08:30 ACCEPT [OilPrice.com] "European Natural Gas Prices Plunge 8% as U.S.-Iran Tensions Ease" | kw:oil,crude,gas
+2026-07-27 08:31 ACCEPT [Google News HH] "Commodities: Oil prices plummet amid ceasefire between US and Iran - E" | kw:oil,rice,commodities
+2026-07-27 08:31 ACCEPT [Google News HH] "Crude oil futures fall on weak global cues - ET EnergyWorld" | kw:oil,crude
+2026-07-27 08:31 ACCEPT [Google News HH] "Crude oil futures drop nearly 5% on weak global cues, demand concerns " | kw:oil,crude
+2026-07-27 08:31 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On July 27, nickel prices edged down, and t" | kw:nickel,rice
+2026-07-27 08:31 ACCEPT [Google News KL] "Gold prices reach near $4,090 per ounce - وكالة صدى نيوز" | kw:gold,rice
+2026-07-27 08:31 ACCEPT [Google News KL] "Gold US$4,070 Lift Could Be Temporary, As Bearish Outlook Persists - B" | kw:gold
+2026-07-27 08:31 ACCEPT [Google News KL] "Copper supply could face 25% deficit by 2035 despite record prices, sa" | kw:copper,rice
+2026-07-27 08:31 ACCEPT [Google News KL] "Evening Wrap: ASX 200 soars as oil price collapses, gold, mining and t" | kw:oil,gold,rice
+2026-07-27 08:31 ACCEPT [Google News KL] "Gold Futures Rise to Rs 1,44,090 on Strong Spot Demand - Rediff MoneyW" | kw:gold
+2026-07-27 08:31 ACCEPT [Google News NS] "Euroseeds Welcomes EP Rejection of High ILUC Soybean Oil Proposal - Se" | kw:oil,soybean
+2026-07-27 08:31 ACCEPT [Google News CB] "Monetary developments in the euro area: June 2026 - European Central B" | kw:central bank
+2026-07-27 08:31 ACCEPT [Google News CB] "Kazimir Says ECB Must Hike at Least Once More to Quell Inflation - Blo" | kw:inflation,ecb
+2026-07-27 08:31 ACCEPT [Google News CB] "Here's What Markets Are Now Saying About Fed Rate Hikes This Year - Ya" | kw:fed rate,rate hike
+2026-07-27 08:31 ACCEPT [Google News CB] "ECB's Kazimir: September rate hike likely needed even if outlook impro" | kw:rate hike,ecb
+2026-07-27 08:31 SKIP_MORNING already_sent date=2026-07-27
