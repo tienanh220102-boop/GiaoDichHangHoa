@@ -1,10 +1,3 @@
-2026-06-22 05:31 ACCEPT [Google News KL] "Gold prices rebound to $4,176.52 as U.S.-Iran talks progress, Fed rate" | kw:gold,rice,fed rate
-2026-06-22 05:31 ACCEPT [Google News KL] "[SMM Nickel Midday Review] Nickel prices plunged sharply on June 22 as" | kw:nickel,rice
-2026-06-22 05:31 ACCEPT [Google News KL] "Best Gold IRA Companies for a 401(k) Rollover in 2026: Expert Rankings" | kw:gold
-2026-06-22 05:31 ACCEPT [Google News KL] "Gold and Silver in Focus: Shares of Hecla Mining, Desert Gold, and Kin" | kw:gold,silver
-2026-06-22 05:31 ACCEPT [Google News KL] "Gold Price Today: MCX Gold Trades Above Rs 1.45 Lakh Amid US-Iran Peac" | kw:gold,rice
-2026-06-22 05:31 ACCEPT [Google News NS] "Poland’s Grain Market in June 2026. Oats and Rye Record the Biggest Pr" | kw:rice
-2026-06-22 05:31 SKIP_MORNING already_sent date=2026-06-22
 2026-06-22 06:01 ACCEPT [OilPrice.com] "Qatar Races to Restore LNG Exports Despite Ras Laffan Setback" | kw:gas,lng,shipping
 2026-06-22 06:01 ACCEPT [Google News HH] "How to read inventory data in commodity perps: A guide using crude oil" | kw:oil,crude,gas
 2026-06-22 06:01 ACCEPT [Google News HH] "Petrol, Diesel Prices to rise in India? Crude oil prices rise 2 percen" | kw:oil,crude,rice
@@ -20005,3 +19998,10 @@
 2026-07-27 23:01 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
 2026-07-27 23:01 ACCEPT [Google News NS] "Kazakhstan eyes Morocco as a gateway to Africa’s wheat market - UkrAgr" | kw:wheat
 2026-07-27 23:01 ACCEPT [Google News CB] "Prediction Market Traders Brace for Surprise Fed Rate Hike - Yahoo Fin" | kw:fed rate,rate hike
+2026-07-27 23:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-27 23:31 ACCEPT [Google News HH] "Crude Oil buys its fourth peace of the year while the tankers stay par" | kw:oil,crude
+2026-07-27 23:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 5% as Mide" | kw:oil,crude,lng
+2026-07-27 23:31 ACCEPT [Google News HH] "Africa’s Longest Crude Oil Export Pipeline Isn’t Just Taking Indigenou" | kw:oil,crude
+2026-07-27 23:31 ACCEPT [Google News HH] "The Australian Dollar stops trading commodities and starts trading one" | kw:commodities
+2026-07-27 23:31 ACCEPT [Google News NS] "Why Did Corn and Soybean Prices Crash Despite the Heat? - Agrolatam" | kw:corn,soybean,rice
+2026-07-27 23:31 ACCEPT [Google News CB] "Gold rises as oil retreats on pause in US-Iran strikes; Fed rate decis" | kw:oil,gold,fed rate
