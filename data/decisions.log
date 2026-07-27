@@ -1,22 +1,3 @@
-2026-06-21 14:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 14:31 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 15:01 ACCEPT [Al Jazeera] "Fans flood Atlanta streets before Spain-Saudi Arabia match" | kw:flood
-2026-06-21 15:01 ACCEPT [OilPrice.com] "The Hormuz Crisis Has Forced India to Rethink Its Energy Strategy" | kw:gas,lng,fuel
-2026-06-21 15:01 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Rebound or Trap? - FOREX.com" | kw:oil,crude
-2026-06-21 15:01 ACCEPT [Google News HH] "The National Oil Corporation of Libya announced that the country's dai" | kw:oil,crude
-2026-06-21 15:01 ACCEPT [Google News HH] "Indian refiners get 6 million barrels of Nigerian crude oil - The News" | kw:oil,crude
-2026-06-21 15:01 ACCEPT [Google News KL] "4148.52 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
-2026-06-21 15:01 ACCEPT [Google News NS] "Stalprodukt Stock - long-term strategy in steel and energy - AD HOC NE" | kw:steel
-2026-06-21 15:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 15:01 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 15:21 ACCEPT [Google News HH] "Iraq plans to restore crude oil output to pre-crisis levels - Devdisco" | kw:oil,crude
-2026-06-21 15:21 ACCEPT [Google News KL] "Silver ETFs SILJ and SIL differ: juniors surged 92% vs. producers' 75%" | kw:silver
-2026-06-21 15:21 ACCEPT [Google News KL] "Gold steadies near ₹1.46 lakh after week of declines - MSN" | kw:gold
-2026-06-21 15:21 ACCEPT [Google News KL] "Old Gold Prices 17K to 24K Today, Sunday June 21, 2026 - Pintu" | kw:gold,rice
-2026-06-21 15:21 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 15:21 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 15:31 ACCEPT [Google News HH] "Opie & Anthony - May 14, 2012 - No Anthony Crude Oil Price (yxLvL6CBPM" | kw:oil,crude,rice
-2026-06-21 15:31 ACCEPT [Google News KL] "Eldorado Gold Corporation: Well Positioned To Take Advantage Of Elevat" | kw:gold,rice
 2026-06-21 15:31 ACCEPT [Google News KL] "Antam Retro Horizontal Gold Price Today, Sunday June 21, 2026 - Pintu" | kw:gold,rice
 2026-06-21 15:31 SKIP_MORNING already_sent date=2026-06-21
 2026-06-21 15:31 SKIP_EVENING already_sent date=2026-06-21
@@ -20017,3 +19998,21 @@
 2026-07-27 14:01 ACCEPT [Google News CB] "Treasury Yields Follow Oil Lower With Fed and Supply in Focus - Bloomb" | kw:oil,treasury
 2026-07-27 14:01 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 14:01 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 14:31 ACCEPT [OilPrice.com] "Indian Refinery MRPL Bars Crude Suppliers From Hormuz, Red Sea Routes" | kw:crude
+2026-07-27 14:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 5% as Mide" | kw:oil,crude,rice
+2026-07-27 14:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 14:31 ACCEPT [Google News HH] "Dow Soars Over 600 Points, Crude Oil Prices Plummet Amid A Pause In Ir" | kw:oil,crude,rice
+2026-07-27 14:31 ACCEPT [Google News HH] "ICE Brent crude oil surpasses $100 a barrel for first time since May -" | kw:oil,crude,brent
+2026-07-27 14:31 ACCEPT [Google News HH] "Crude Oil Price Analysis – WTI Bounces Off 50-Day EMA as Strikes Pause" | kw:oil,crude,wti
+2026-07-27 14:31 ACCEPT [Google News HH] "Gold Price Analysis – Gold Holds $4,000 Support as Geopolitical Risks " | kw:gold,rice
+2026-07-27 14:31 ACCEPT [Google News HH] "ICE canola falls with crude oil - Manitoba Co-operator" | kw:oil,crude
+2026-07-27 14:31 ACCEPT [Google News KL] "Gold, silver rise as oil slides on U.S.-Iran pause - KITCO" | kw:oil,gold,silver
+2026-07-27 14:31 ACCEPT [Google News KL] "Gold & Silver Prices Rebound: Global Cues Drive Gains - Rediff MoneyWi" | kw:gold,silver,rice
+2026-07-27 14:31 ACCEPT [Google News KL] "Gold Prices Rise as US-Iran Conflict Pauses Amid Supply Concerns - Gur" | kw:gold,rice
+2026-07-27 14:31 ACCEPT [Google News NS] "FAS: Argentina wheat crop revised higher - World-Grain.com" | kw:wheat
+2026-07-27 14:31 ACCEPT [Google News NS] "Corn and wheat prices in Ukraine have decreased: farmers are in no hur" | kw:wheat,corn,rice
+2026-07-27 14:31 ACCEPT [Google News CB] "Treasury Yields Follow Oil Lower With Fed and Supply in Focus - Adviso" | kw:oil,treasury
+2026-07-27 14:31 ACCEPT [Google News CB] "Fed-up Alec Bohm makes Yankees pay in Phillies win - Hazleton Standard" | kw:wti
+2026-07-27 14:31 ACCEPT [Google News CB] "Thank China for saving global economy, ECB analysts say - euractiv.com" | kw:ecb
+2026-07-27 14:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 14:31 SKIP_EVENING already_sent date=2026-07-27
