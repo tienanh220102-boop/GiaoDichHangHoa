@@ -1,7 +1,3 @@
-2026-06-20 21:01 ACCEPT [OilPrice.com] "Energy Security, Not Climate Goals, Is Now Driving the Clean Power Boo" | kw:oil,gas
-2026-06-20 21:01 ACCEPT [Google News HH] "Crude Oil Price USD, OIL Price Live Charts, Market Cap & News - Bitget" | kw:oil,crude,rice
-2026-06-20 21:31 ACCEPT [NASDAQ Commod] "Top 5 Australian Mining Stocks This Week: Cauldron Energy Jumps on Yan" | kw:gold
-2026-06-20 21:31 ACCEPT [Google News HH] "Iran resumes crude oil loadings from Kharg Island after US Navy blocka" | kw:oil,crude
 2026-06-20 21:31 ACCEPT [Google News HH] "WTI Current Price | WTI Real-Time Data & Insights - Mitrade" | kw:wti,rice
 2026-06-20 21:31 ACCEPT [Google News KL] "Is gold still a safe haven? - PressReader" | kw:gold
 2026-06-20 21:31 ACCEPT [Google News CB] "Albertsons Companies (ACI) Stock Could Be 35.8% Undervalued After Fed " | kw:fed rate
@@ -20002,3 +19998,21 @@
 2026-07-27 05:03 ACCEPT [Google News CB] "Indonesia’s central bank chief resigns - Financial Times" | kw:central bank
 2026-07-27 05:03 ACCEPT [Google News CB] "Investors May Pay a Price for the Fed’s Zipped Lip - Barron's" | kw:rice
 2026-07-27 05:03 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 05:31 ACCEPT [Google News HH] "The Commodities Feed: Oil slumps as the US and Iran pause strikes - IN" | kw:oil,lng,commodities
+2026-07-27 05:31 ACCEPT [Google News HH] "Gold price in Philippines: Rates on July 27 - FXStreet" | kw:gold,rice
+2026-07-27 05:31 ACCEPT [Google News HH] "The US dollar and crude oil pulled back, metals showed mixed performan" | kw:oil,crude,silver
+2026-07-27 05:31 ACCEPT [Google News HH] "Gold price prediction today: Gold rises, but will the upside be limite" | kw:gold,rice
+2026-07-27 05:31 ACCEPT [Google News HH] "Stock markets rebound in early trade as crude oil prices drop sharply " | kw:oil,crude,rice
+2026-07-27 05:31 ACCEPT [Google News HH] "Crude oil falls as US, Iran halt weekend strikes - BusinessLine" | kw:oil,crude
+2026-07-27 05:31 ACCEPT [Google News HH] "Govt bonds rebound as easing US-Iran tensions drag crude oil lower - B" | kw:oil,crude,easing
+2026-07-27 05:31 ACCEPT [Google News HH] "Commodity Support and Resistance Levels for Precious Metals, Energy, a" | kw:commodity
+2026-07-27 05:31 ACCEPT [Google News HH] "Indian equity markets open higher on easing crude oil prices - Gulf Ne" | kw:oil,crude,wti
+2026-07-27 05:31 ACCEPT [Google News KL] "US-Iran Conflict De-escalates in Phases, Geopolitical Uncertainty Stil" | kw:oil,copper,rice
+2026-07-27 05:31 ACCEPT [Google News KL] "Gold slips to $4,091 while futures rise as U.S.-Iran pause cools oil a" | kw:oil,gold
+2026-07-27 05:31 ACCEPT [Google News KL] "Silver Price Surges Over 2% Toward $60 On Renewed US-Iran Diplomacy Ho" | kw:silver,rice
+2026-07-27 05:31 ACCEPT [Google News NS] "Soybean Oil Drops Most in Month After US Halts Strikes on Iran - Bloom" | kw:oil,soybean
+2026-07-27 05:31 ACCEPT [Google News NS] "Patanjali Foods asked to recall wheat flour batch after pesticide resi" | kw:wheat
+2026-07-27 05:31 ACCEPT [Google News CB] "Bank of Japan to signal more rate hikes as price pressures build - Reu" | kw:rice,rate hike,bank of japan
+2026-07-27 05:31 ACCEPT [Google News CB] "Indonesia's central bank governor resigns, citing 'personal reasons' -" | kw:central bank
+2026-07-27 05:31 ACCEPT [Google News CB] "Singapore Delivers Back-to-Back Tightening to Tame Price Risks - Bloom" | kw:rice,tightening
+2026-07-27 05:31 SKIP_MORNING already_sent date=2026-07-27
