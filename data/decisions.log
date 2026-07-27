@@ -1,12 +1,3 @@
-2026-06-22 00:31 ACCEPT [Google News KL] "Gold demand falls as duty hike keeps prices high - The Rising Nepal" | kw:gold,rice
-2026-06-22 00:31 ACCEPT [Google News NS] "Not Gold Or Silver: This Commodity Surged After Trump-Xi’s Two-Hour Tr" | kw:wti,gold,silver
-2026-06-22 00:31 ACCEPT [Google News CB] "Ben Stokes reinstated as England Test captain after ECB clears him - M" | kw:ecb
-2026-06-22 00:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 01:01 ACCEPT [Google News HH] "Precious metals under pressure as Crude Oil and Natural Gas attempt a " | kw:oil,crude,gas
-2026-06-22 01:01 ACCEPT [Google News HH] "June 22 Financial Morning Brief: Stronger dollar limits gold price gai" | kw:oil,gold,rice
-2026-06-22 01:01 ACCEPT [Google News KL] "Gold stays under pressure despite Trump’s Iran threat as Fed rate worr" | kw:gold,fed rate
-2026-06-22 01:01 ACCEPT [Google News CB] "BOJ Dep Gov Himino warned delaying policy adjustments could trigger a " | kw:inflation,boj
-2026-06-22 01:01 ACCEPT [Google News CB] "Week Ahead for FX, Bonds : U.S. Inflation Data in Focus as Prospects o" | kw:inflation,fed rate,rate hike
 2026-06-22 01:01 SKIP_MORNING already_sent date=2026-06-22
 2026-06-22 01:31 ACCEPT [Google News HH] "Iraq plans to restore crude oil output to pre-crisis levels - BOE Repo" | kw:oil,crude,gdp
 2026-06-22 01:31 ACCEPT [Google News HH] "The main Nymex crude oil futures contract rose by 2.12% intraday, trad" | kw:oil,crude
@@ -20007,3 +19998,12 @@
 2026-07-27 18:01 ACCEPT [Google News KL] "Silver Price Today | Silver Spot Price Charts - SD Bullion" | kw:silver,rice
 2026-07-27 18:01 ACCEPT [Google News KL] "Gold Prices Look to Warsh, Bonds for Hawkish Clues - FOREX.com" | kw:gold,rice
 2026-07-27 18:01 ACCEPT [Google News CB] "Trump says Fed should lower interest rates - SRN News" | kw:interest rate
+2026-07-27 18:31 ACCEPT [Google News HH] "Some senior people slipped away from Brevan Howard's commodities busin" | kw:commodities
+2026-07-27 18:31 ACCEPT [Google News HH] "USG-bound Capline crude oil pipe flows fall to a four month low - Quan" | kw:oil,crude,commodity
+2026-07-27 18:31 ACCEPT [Google News HH] "Crude Oil Price Forecast: Brent Pullback Masks Growing Diesel Supply R" | kw:oil,crude,brent
+2026-07-27 18:31 ACCEPT [Google News KL] "Laopu Gold’s cooling growth tests its luxury credentials - Jing Daily" | kw:gold
+2026-07-27 18:31 ACCEPT [Google News KL] "Gold & Oil: The chart knew first - FXStreet" | kw:oil,gold
+2026-07-27 18:31 ACCEPT [Google News NS] "China commitments offer support for soybean futures - norfolkneradio.c" | kw:soybean
+2026-07-27 18:31 ACCEPT [Google News CB] "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound - Bloo" | kw:rice
+2026-07-27 18:31 ACCEPT [Google News CB] "Warsh’s Twist Could Be Higher Fed Rates and Lower Mortgage Rates - Blo" | kw:fed rate
+2026-07-27 18:31 ACCEPT [Google News CB] "Trump repeats call for Fed to cut interest rates - report - Seeking Al" | kw:interest rate
