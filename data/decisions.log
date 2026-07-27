@@ -1,23 +1,3 @@
-2026-06-21 21:01 ACCEPT [Google News CB] "Kevin Warsh just killed the Fed's safety blanket and now everyone has " | kw:rice
-2026-06-21 21:01 ACCEPT [Google News CB] "ECB favours cross-border banking in Europe - Jordan Times" | kw:ecb
-2026-06-21 21:31 ACCEPT [NASDAQ Commod] "Top 5 Canadian Mining Stocks This Week: Lighthouse Gold Shines with 78" | kw:gold,copper,iron
-2026-06-21 21:31 ACCEPT [NASDAQ Commod] "David Nicholas: Gold's Next 30 Days — 10 Percent Price Pop?" | kw:gold,silver,rice
-2026-06-21 21:31 ACCEPT [Google News HH] "OPEC hikes 2050 oil demand forecast again, citing world’s pivot to ene" | kw:oil,opec,shipping
-2026-06-21 21:31 ACCEPT [Google News HH] "India Increases Russian And UAE Oil Imports As Strait Of Hormuz Reopen" | kw:oil
-2026-06-21 21:31 ACCEPT [Google News HH] "Gold Price Forecast 2026: Fed Rate Hike Impact on Bullion - Discovery " | kw:gold,rice,fed rate
-2026-06-21 21:31 ACCEPT [Google News HH] "Govt says, effective steps taken to ensure availability of crude oil, " | kw:oil,crude,gas
-2026-06-21 21:31 ACCEPT [Google News HH] "Antam Retro Gold Price Today, Sunday June 21, 2026 - Pintu" | kw:gold,rice
-2026-06-21 21:31 ACCEPT [Google News HH] "Three Indian Tankers Safely Return with Over 8.6 Lakh Metric Tons of C" | kw:oil,crude
-2026-06-21 21:31 ACCEPT [Google News HH] "No real spike in petrol, diesel prices in India despite global crude o" | kw:oil,crude,rice
-2026-06-21 21:31 ACCEPT [Google News KL] "The Next Leg Up For Gold & Silver Start Soon - This Is Why! Danny Rami" | kw:gold,silver
-2026-06-21 21:31 ACCEPT [Google News KL] "Gold Heads to $4,000 on Hawkish FED – Breakdown or Rebound? - FXLeader" | kw:gold
-2026-06-21 21:31 ACCEPT [Google News KL] "Greatland Resources shares jump 11% in a week, gold prices in focus - " | kw:gold,rice
-2026-06-21 21:31 ACCEPT [Google News CB] "Student loan borrowers can get a 1% interest rate cut with one simple " | kw:interest rate,rate cut
-2026-06-21 21:31 ACCEPT [Google News CB] "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil - Bloombe" | kw:oil,rice
-2026-06-21 21:31 ACCEPT [Google News CB] "Federal Reserve Chairman Kevin Warsh Drops Forward Guidance, Signaling" | kw:federal reserve
-2026-06-21 21:50 ACCEPT [Google News HH] "Fuel Retailers Seek Market-Based Petrol Price Adjustments - nigeriahou" | kw:fuel,rice
-2026-06-21 21:50 ACCEPT [Google News KL] "Gold Prices Next Week Potentially Decrease, Touch Rp. 2,648 Million pe" | kw:gold,rice
-2026-06-21 21:50 ACCEPT [Google News NS] "Feedgrain Focus: Prices ease as warehousing clock ticks - Beef Central" | kw:rice
 2026-06-21 21:50 ACCEPT [Google News NS] "Watch Out: Massive Token Unlocks Coming for 21 Altcoins This Week—Here" | kw:gdp
 2026-06-21 22:01 ACCEPT [Google News CB] "Week Ahead for FX, Bonds : U.S. Inflation Data in Focus as Prospects o" | kw:inflation,fed rate,rate hike
 2026-06-21 22:31 ACCEPT [Google News HH] "Hormuz Crisis Sparks a Middle East Pipeline Boom - Crude Oil Prices To" | kw:oil,crude,rice
@@ -20018,3 +19998,17 @@
 2026-07-27 16:31 ACCEPT [Google News CB] "Warsh’s Twist Could Be Higher Fed Rates and Lower Mortgage Rates - Adv" | kw:fed rate
 2026-07-27 16:31 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 16:31 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 17:01 ACCEPT [OilPrice.com] "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in " | kw:fuel
+2026-07-27 17:01 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 5% as Mide" | kw:oil,crude,rice
+2026-07-27 17:01 ACCEPT [Google News HH] "NY Gas Prices Climb Above $4.20 as Crude Oil Drives Increase - Finger " | kw:oil,crude,gas
+2026-07-27 17:01 ACCEPT [Google News HH] "Markets Mixed As Crude Oil Falls - Seeking Alpha" | kw:oil,crude
+2026-07-27 17:01 ACCEPT [Google News HH] "Sugar Prices Retreat as Crude Oil Plunges - Barchart.com" | kw:oil,crude,rice
+2026-07-27 17:01 ACCEPT [Google News HH] "Oil Startup Backed by Ex-Goldman Commodity Chief Currie to IPO - Bloom" | kw:oil,gold,commodity
+2026-07-27 17:01 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 17:01 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 17:01 ACCEPT [Google News HH] "US Equity Indexes Mixed, Crude Oil Sinks in Midday Trading - marketscr" | kw:oil,crude
+2026-07-27 17:01 ACCEPT [Google News KL] "Silver Price Today on July 27, 2026 - USA Today" | kw:wti,silver,rice
+2026-07-27 17:01 ACCEPT [Google News KL] "Hong Kong’s gold clearing experiment gathers pace - Yahoo Finance UK" | kw:gold
+2026-07-27 17:01 ACCEPT [Google News NS] "USDA Grains Export Inspection Report July 27, 2026: Corn, Soybeans, Wh" | kw:wheat,corn,soybean
+2026-07-27 17:01 ACCEPT [Google News NS] "Salvi's closes its pioneering Corn Exchange site in Manchester after 1" | kw:corn
+2026-07-27 17:01 ACCEPT [RT Business] "EU lifts sanctions on luxury Russian export" | kw:sanction
