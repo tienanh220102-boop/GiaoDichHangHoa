@@ -1,10 +1,3 @@
-2026-06-21 19:31 ACCEPT [Google News KL] "Bitcoin Gold Plummets 30.51% — What’s Driving This Decline? - MEXC" | kw:gold
-2026-06-21 19:31 ACCEPT [Google News NS] "Idaho Farmers Seek Relief via Farm Bill Amid Severe Water Shortages - " | kw:shortage
-2026-06-21 19:31 ACCEPT [Google News CB] "Citadel Securities: 'Strong medicine' to treat inflation— a more 'proa" | kw:inflation
-2026-06-21 19:31 ACCEPT [Google News CB] "Bitcoin Price Slides After Fed Holds Interest Rates Steady, Rate Hike " | kw:rice,interest rate,rate hike
-2026-06-21 20:01 ACCEPT [Google News KL] "3 Gold Mining Stocks With High Margins And Expansion Plans - simplywal" | kw:gold
-2026-06-21 20:01 ACCEPT [Google News KL] "Dominik Livaković Dan Harika Kurtarma Ve Refleksler Efootboll 2023 Mob" | kw:silver,rice
-2026-06-21 20:01 ACCEPT [Google News KL] "Gold, silver extend slide as Fed hawkishness and strong dollar bite - " | kw:gold,silver
 2026-06-21 20:01 ACCEPT [Google News KL] "ASX Gold Miners Slammed as the US Dollar Roars: Buy the Dip or Stay Aw" | kw:gold
 2026-06-21 20:01 ACCEPT [Google News CB] "Micron Q3 earnings, new home sales, Fed's preferred inflation data: Wh" | kw:inflation
 2026-06-21 20:10 ACCEPT [Google News HH] "Oil Spills In Nigeria: The True Price Of Crude Oil | Guardian Investig" | kw:oil,crude,rice
@@ -20005,3 +19998,20 @@
 2026-07-27 15:31 ACCEPT [Google News CB] "Fed meeting: Rate hikes could be back on the table amid renewed oil vo" | kw:oil,rate hike
 2026-07-27 15:31 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 15:31 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 16:01 ACCEPT [OilPrice.com] "Leaked UK Grid Report Warns Net Zero Push Raises Blackout Risks" | kw:corn
+2026-07-27 16:01 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 16:01 ACCEPT [Google News HH] "Crude Oil Prices Plunge as Supply Threats Ease - Barchart.com" | kw:oil,crude,rice
+2026-07-27 16:01 ACCEPT [Google News HH] "US wholesale: Week 31 ‘market pulse’ updates available on key seafood " | kw:commodities
+2026-07-27 16:01 ACCEPT [Google News HH] "ICE canola falling with crude oil - Manitoba Co-operator" | kw:oil,crude
+2026-07-27 16:01 ACCEPT [Google News KL] "Gold and Silver Rally as Oil Retreats Despite Persistent High Bond Yie" | kw:oil,gold,silver
+2026-07-27 16:01 ACCEPT [Google News KL] "Gold Prices Look to Warsh, Bonds for Hawkish Clues - FOREX.com" | kw:gold,rice
+2026-07-27 16:01 ACCEPT [Google News KL] "Silver Faces Death Cross Pressure After Sudden Gap Higher - DailyForex" | kw:silver
+2026-07-27 16:01 ACCEPT [Google News KL] "Gold Prices Look to Warsh, Bonds for Hawkish Clues - City Index UK" | kw:gold,rice
+2026-07-27 16:01 ACCEPT [Google News NS] "Decide now: Grain prices approach projected 2026 peaks - Farm Progress" | kw:rice
+2026-07-27 16:01 ACCEPT [Google News NS] "CBOT corn drops after reaching 15-month high on Friday - Investing.com" | kw:corn
+2026-07-27 16:01 ACCEPT [Google News NS] "Global wheat rally revives India's export prospects as government allo" | kw:wheat
+2026-07-27 16:01 ACCEPT [Google News NS] "Norborne's Nathan White elected to Missouri Soybean Merchandising Coun" | kw:soybean
+2026-07-27 16:01 ACCEPT [Google News NS] "North Dakota Wheat Tour Points to Smaller Spring Wheat Crop - DRGNews" | kw:wheat
+2026-07-27 16:01 ACCEPT [Google News CB] "ECB Expands Application of Climate Risk Factors in Collateral Framewor" | kw:ecb
+2026-07-27 16:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 16:01 SKIP_EVENING already_sent date=2026-07-27
