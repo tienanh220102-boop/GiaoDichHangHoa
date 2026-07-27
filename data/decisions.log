@@ -1,16 +1,3 @@
-2026-06-20 14:31 ACCEPT [Google News HH] "OPEC projects long‑term oil demand growth, led by Asia - bastillepost." | kw:oil,opec
-2026-06-20 14:31 ACCEPT [Google News HH] "Iranian oil output and export recovery may lag Middle East neighbors: " | kw:oil,wti
-2026-06-20 14:31 ACCEPT [Google News KL] "Gold price has moderate fall of Rs 5,300 per tola in a week - myRepubl" | kw:gold,rice
-2026-06-20 14:31 ACCEPT [Google News KL] "Lounge Bar & Café - Cool Music 🍸☕ Live Gold Price In India (GWvmYKLGPs" | kw:gold,rice
-2026-06-20 14:31 ACCEPT [Google News NS] "Ready-to-Eat Popcorn Market to Reach USD 11,238.06 Million by 2035 by " | kw:corn
-2026-06-20 14:31 ACCEPT [Google News CB] "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief" | kw:inflation
-2026-06-20 14:31 ACCEPT [Google News CB] "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief" | kw:inflation
-2026-06-20 14:31 ACCEPT [Google News CB] "Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, " | kw:fuel,central bank
-2026-06-20 14:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 14:31 SKIP_EVENING already_sent date=2026-06-20
-2026-06-20 14:38 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 14:38 SKIP_EVENING already_sent date=2026-06-20
-2026-06-20 15:01 ACCEPT [Google News HH] "India’s LPG demand to double in next 25 years, projects OPEC - Busines" | kw:opec
 2026-06-20 15:01 ACCEPT [Google News HH] "Global crude oil prices decline; Brent crude slips 1.1% - Newsonair" | kw:oil,crude,brent
 2026-06-20 15:01 ACCEPT [Google News HH] "Commodities Sector Ripe for Diaspora Investment - Jamaica Information " | kw:commodities
 2026-06-20 15:01 ACCEPT [Google News HH] "Falling crude oil prices raise hope of relief at the pump - standardme" | kw:oil,crude,rice
@@ -20011,3 +19998,24 @@
 2026-07-27 02:01 ACCEPT [Google News CB] "FOMC Out Next Week with Interest Rate Decision - The Globe and Mail" | kw:interest rate,rate decision,fomc
 2026-07-27 02:01 ACCEPT [Google News CB] "Indonesia’s Central Bank Chief Resigned, Shaking Market Nerves - Finim" | kw:central bank
 2026-07-27 02:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 02:30 ACCEPT [BBC Business] "Shein swings to a loss as Trump tariffs hit sales" | kw:tariff
+2026-07-27 02:30 ACCEPT [BBC Business] "The threat to summer holidays looming from jet fuel shortages" | kw:fuel,shortage
+2026-07-27 02:30 ACCEPT [BBC Business] "Business Daily" | kw:tariff
+2026-07-27 02:31 ACCEPT [Google News HH] "The Commodities Feed: Oil slumps as the US and Iran pause strikes - IN" | kw:oil,lng,commodities
+2026-07-27 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: With geopolitical tensions easing, oil prices" | kw:oil,crude,rice
+2026-07-27 02:31 ACCEPT [Google News HH] "Gold Price: Technical Indicators Point to a Potential End of the Recen" | kw:gold,rice
+2026-07-27 02:31 ACCEPT [Google News HH] "Oil Price Today (July 27): Crude oil dips 5%, below $95 as US pauses s" | kw:oil,crude,rice
+2026-07-27 02:31 ACCEPT [Google News HH] "Oil prices slip 5% after US-Iran pause strikes, lifting supply hopes -" | kw:oil,rice
+2026-07-27 02:31 ACCEPT [Google News KL] "Gold Gains as US-Iran Pause Also Sends Oil Prices Lower - BeInCrypto" | kw:oil,gold,rice
+2026-07-27 02:31 ACCEPT [Google News KL] "Gold gains as falling oil prices ease inflation and rate hike fears - " | kw:oil,gold,rice
+2026-07-27 02:31 ACCEPT [Google News KL] "Gold and silver retreat from peaks: Here's what the price reset means " | kw:gold,silver,rice
+2026-07-27 02:31 ACCEPT [Google News KL] "Smallcaps are top asset class in 2026 so far, but did they beat gold, " | kw:gold,silver
+2026-07-27 02:31 ACCEPT [Google News KL] "Gold, Silver Rate Today July 27: Gold prices rise or fall? Check 18, 2" | kw:gold,silver,rice
+2026-07-27 02:31 ACCEPT [Google News NS] "Oil shipments rerouted as Hormuz, Bab al-Mandeb straits face restricti" | kw:oil
+2026-07-27 02:31 ACCEPT [Google News CB] "Indonesia central bank governor Perry Warjiyo steps down in surprise m" | kw:central bank
+2026-07-27 02:31 ACCEPT [Google News CB] "Indonesia central bank chief steps down early: govt - Yahoo Finance Si" | kw:central bank
+2026-07-27 02:31 ACCEPT [Google News CB] "USD/CHF Rises on Middle‑East Tensions, Oil Prices, and Fed Hikes - Ins" | kw:oil,rice
+2026-07-27 02:31 ACCEPT [Google News CB] "Here's What Markets Are Now Saying About Fed Rate Hikes This Year - Th" | kw:fed rate,rate hike
+2026-07-27 02:31 ACCEPT [Google News CB] "FOMC Out Next Week with Interest Rate Decision - The Globe and Mail" | kw:interest rate,rate decision,fomc
+2026-07-27 02:31 ACCEPT [Google News CB] "Indonesia Central Bank Chief Perry Warjiyo Unexpectedly Resigns - Bloo" | kw:central bank
+2026-07-27 02:31 SKIP_MORNING already_sent date=2026-07-27
