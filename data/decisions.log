@@ -1,22 +1,3 @@
-2026-06-22 01:45 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 02:01 ACCEPT [Google News KL] "Gold prices drop to late 2025 levels, some consumers “hold gold for th" | kw:gold,rice,central bank
-2026-06-22 02:01 ACCEPT [Google News KL] "Gold faces pressure as US-Iran talks, Fed stance eyed - MSN" | kw:gold
-2026-06-22 02:01 ACCEPT [Google News NS] "Feedgrain Focus: Prices ease as warehousing clock ticks - Sheep Centra" | kw:rice
-2026-06-22 02:01 ACCEPT [Google News CB] "Yen Unlikely to Turn Investment Currency Without Hawkish BOJ Shift - W" | kw:boj
-2026-06-22 02:01 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 02:31 ACCEPT [Al Jazeera] "Shipping stalls in Strait of Hormuz after Iran declares key waterway s" | kw:shipping
-2026-06-22 02:31 ACCEPT [Google News HH] "Commodities intraday targets/key levels - TradingView" | kw:commodities
-2026-06-22 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: U.S.-Iran Deal Disrupts Market Sentiment; Oil" | kw:oil,crude,rice
-2026-06-22 02:31 ACCEPT [Google News HH] "Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Str" | kw:oil,crude,rice
-2026-06-22 02:31 ACCEPT [Google News HH] "Oil prices rise after Iran shuts Hormuz again, Trump threatens new att" | kw:oil,rice
-2026-06-22 02:31 ACCEPT [Google News HH] "OPEC: Nigeria, Other African Nations Need $92bn in Refining Investment" | kw:opec
-2026-06-22 02:31 ACCEPT [Google News HH] "US-Iran talks, crude oil movement, macro data to dictate bullion trend" | kw:oil,crude
-2026-06-22 02:31 ACCEPT [Google News KL] "Gold stays under pressure despite Trump’s Iran threat as Fed rate worr" | kw:gold,fed rate
-2026-06-22 02:31 ACCEPT [Google News NS] "Supply chain, quarantine key themes at grain storage conference - Dail" | kw:supply chain
-2026-06-22 02:31 ACCEPT [Google News CB] "Dissent by Takaichi’s BOJ pick hints at case for faster hikes - The Ja" | kw:boj
-2026-06-22 02:31 ACCEPT [Google News CB] "Recap: Japan PM Takaichi urges policy restraint after hawkish BOJ test" | kw:rice,boj
-2026-06-22 02:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 03:01 ACCEPT [Google News HH] "Asia has plenty of crude oil, but refined fuels remain tight: Russell " | kw:oil,crude,fuel
 2026-06-22 03:01 ACCEPT [Google News HH] "USD/JPY Breaks Above 161 After FOMC While Wti Crude Oil Falls - Action" | kw:oil,crude,wti
 2026-06-22 03:01 ACCEPT [Google News HH] "Crude Oil Loses Positive Momentum as Downside Risks Increase – Analysi" | kw:oil,crude
 2026-06-22 03:01 ACCEPT [Google News HH] "Gold suffers heavy sell-off! Goldman Sachs and Citigroup both lower go" | kw:gold,rice
@@ -20017,3 +19998,13 @@
 2026-07-27 19:31 ACCEPT [Google News CB] "Growth continues in Texas manufacturing sector as outlooks improve - F" | kw:federal reserve
 2026-07-27 19:31 ACCEPT [Google News CB] "Wall Street Faces ‘Make or Break’ Run of Earnings, Data and a Fed Rate" | kw:fed rate,rate decision
 2026-07-27 19:31 ACCEPT [Google News CB] "‘I know what he wants to do,’ Trump says of Fed’s Warsh as president p" | kw:rate cut
+2026-07-27 20:01 ACCEPT [Google News HH] "CBOT corn drops on crude oil weakness, profit-taking - TradingView" | kw:oil,crude,corn
+2026-07-27 20:01 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-27 20:01 ACCEPT [Google News HH] "ICE review: Canola drops with crude oil - The Western Producer" | kw:oil,crude
+2026-07-27 20:01 ACCEPT [Google News HH] "The 'war premium' in crude oil rapidly evaporated! Intraday, WTI crude" | kw:oil,crude,brent
+2026-07-27 20:01 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 20:01 ACCEPT [Google News KL] "Chinese Gold imports surged to 2-Year high in june - FXStreet" | kw:gold
+2026-07-27 20:01 ACCEPT [Google News CB] "Fed preview: Rate hike 'not completely off the table' says senior econ" | kw:rate hike
+2026-07-27 20:01 ACCEPT [Google News CB] "Fed rate cut or hold? Former Boston Fed chief weighs in - Yahoo Financ" | kw:fed rate,rate cut
+2026-07-27 20:01 ACCEPT [Google News CB] "Fed Meeting Faces Inflation Test - National Mortgage Professional" | kw:inflation
+2026-07-27 20:01 ACCEPT [Google News CB] "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kev" | kw:oil
