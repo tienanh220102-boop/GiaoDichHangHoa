@@ -1,18 +1,3 @@
-2026-06-21 07:01 ACCEPT [Google News HH] "India boosts Russian, UAE oil purchases in June ahead of Hormuz reopen" | kw:oil
-2026-06-21 07:01 ACCEPT [Google News KL] "Gold and silver prices edge up in Nepali market - Khabarhub" | kw:gold,silver,rice
-2026-06-21 07:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 07:27 ACCEPT [Google News HH] "Indigenous pipeline protection firm shares credit as Nigeria surpasses" | kw:opec
-2026-06-21 07:27 ACCEPT [Google News HH] "Korean Gas Prices Hold Above 2,000 Won Despite 30% Crude Oil Plunge - " | kw:oil,crude,gas
-2026-06-21 07:27 ACCEPT [Google News KL] "Can Liqwid Price Rebound Further?Core Warnings to Watch - Kabul Univer" | kw:rice
-2026-06-21 07:27 ACCEPT [Google News CB] "Bitcoin ETFs shed $4.4 billion in 13 days as the Fed's rate pivot redr" | kw:fuel
-2026-06-21 07:27 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 07:31 ACCEPT [Google News KL] "Experts warn gold prices next week will face a test at the $4,000 mark" | kw:gold,rice
-2026-06-21 07:31 ACCEPT [Google News NS] "Forecast of wheat exports from Russia in the closing season for the fi" | kw:wheat
-2026-06-21 07:31 ACCEPT [Google News CB] "Galaxy CEO says Fed rate cuts could revive Bitcoin and silence critics" | kw:fed rate,rate cut
-2026-06-21 07:31 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 08:01 ACCEPT [Google News HH] "No real spike in petrol, diesel prices in India despite global crude o" | kw:oil,crude,rice
-2026-06-21 08:01 ACCEPT [Google News HH] "Three Indian crude oil tankers en route home with over 8.6 lakh MT car" | kw:oil,crude
-2026-06-21 08:01 ACCEPT [Google News KL] "Stader Past Price Chart: Performance and Market Stats - Kabul Universi" | kw:rice
 2026-06-21 08:01 ACCEPT [Google News NS] "Export inspections of corn decline, wheat soybeans increase - Hutch Po" | kw:wheat,corn,soybean
 2026-06-21 08:01 ACCEPT [Google News CB] "Fed 'dot plot': Almost half of FOMC members project at least one inter" | kw:interest rate,rate hike,fomc
 2026-06-21 08:01 ACCEPT [Google News CB] "Will a 2026 Fed Interest Rate Increase Help or Hurt Retirees? - AOL.co" | kw:interest rate
@@ -20013,3 +19998,14 @@
 2026-07-27 11:31 ACCEPT [Google News CB] "BOJ Likely to Hold Interest Rates Steady This Week - nippon.com" | kw:interest rate,boj
 2026-07-27 11:31 ACCEPT [Google News CB] "Indonesia's central bank chief quits in surprise move | Daily Sabah - " | kw:central bank
 2026-07-27 11:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 12:01 ACCEPT [MarketWatch] "Navigating the Fed’s next move? Here’s why these trades may be an inve" | kw:federal reserve
+2026-07-27 12:01 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD is looking for direction around $4,100 - " | kw:gold,rice
+2026-07-27 12:01 ACCEPT [Google News HH] "Stock markets snap five-day fall; Sensex jumps 776 points on sharp dro" | kw:oil,crude,rice
+2026-07-27 12:01 ACCEPT [Google News KL] "Silver Price Surges Over 2% Toward $60 on Renewed US-Iran Diplomacy Ho" | kw:silver,rice
+2026-07-27 12:01 ACCEPT [Google News KL] "Laopu Gold sees earnings growth slowing as bullion retreats - FashionN" | kw:gold
+2026-07-27 12:01 ACCEPT [Google News KL] "Southern Copper (NYSE: SCCO) Posts Record Net Income - Value The Marke" | kw:copper
+2026-07-27 12:01 ACCEPT [Google News CB] "ECB expands its climate factor to shield the EU from climate-related s" | kw:central bank,ecb
+2026-07-27 12:01 ACCEPT [Google News CB] "Wall Street analysts: Warsh and FOMC likely hold or hike due to oil pr" | kw:oil,rice,fomc
+2026-07-27 12:01 ACCEPT [Google News CB] "Take Two: ECB holds rates - BNP Paribas Asset Management" | kw:ecb
+2026-07-27 12:01 ACCEPT [Google News CB] "Indonesian central bank governor steps down; Commerzbank drops resista" | kw:central bank
+2026-07-27 12:01 SKIP_MORNING already_sent date=2026-07-27
