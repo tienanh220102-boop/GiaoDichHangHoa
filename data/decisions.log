@@ -1,16 +1,3 @@
-2026-06-20 16:01 ACCEPT [Google News HH] "Gold Rate Today In Mandya, Check Live 22 And 24 Carat Gold Price - NDT" | kw:gold,rice
-2026-06-20 16:01 ACCEPT [Google News HH] "Great Nicobar Island faces fuel and LPG crisis, shortage of essential " | kw:fuel,commodities,shortage
-2026-06-20 16:01 ACCEPT [Google News HH] "New report maps East African Crude Oil Pipeline through black rhino ra" | kw:oil,crude
-2026-06-20 16:01 ACCEPT [Google News HH] "War, oil and El Nino: Triple threat may cut India Inc's profit margins" | kw:oil
-2026-06-20 16:01 ACCEPT [Google News KL] "Production decreases, revenue increases at gold mine in South Dakota’s" | kw:gold
-2026-06-20 16:01 ACCEPT [Google News KL] ""Rich Dad Poor Dad" author: Don't let price determine investment, gold" | kw:gold,rice
-2026-06-20 16:01 ACCEPT [Google News KL] "Gold posts third straight weekly decline; Indian cities mirror global " | kw:gold
-2026-06-20 16:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 16:01 SKIP_EVENING already_sent date=2026-06-20
-2026-06-20 16:12 ACCEPT [Google News HH] "Crude Oil Price Pops As Iran Closes Strait Of Hormuz - Benzinga" | kw:oil,crude,rice
-2026-06-20 16:12 ACCEPT [Google News HH] "Crude Oil Has the Right Glut on the Wrong Calendar: What It Means for " | kw:oil,crude
-2026-06-20 16:12 ACCEPT [Google News HH] "Gold Prices Drop | Local & Global Rates Fall | 10g 9430 PKR, 1 Tola 11" | kw:gold,rice
-2026-06-20 16:12 ACCEPT [Google News HH] "Anthony Lupinacci Memorial Full Photos Gold Price May 11 2026 (pYAIxd9" | kw:gold,rice
 2026-06-20 16:12 ACCEPT [Google News HH] "Gold Price Hike News LIVE: सोने के नए रेट लोगों के उड़े होश, मचा हड़कं" | kw:gold,rice
 2026-06-20 16:12 ACCEPT [Google News NS] "Is the 2026 soybean rally over? - MSN" | kw:soybean
 2026-06-20 16:12 SKIP_MORNING already_sent date=2026-06-20
@@ -20011,3 +19998,12 @@
 2026-07-27 03:01 ACCEPT [Google News CB] "Gold gains on pause in US-Iran fighting; Fed decision looms - TradingV" | kw:gold
 2026-07-27 03:01 ACCEPT [Google News CB] "Here's What Markets Are Now Saying About Fed Rate Hikes This Year - Th" | kw:fed rate,rate hike
 2026-07-27 03:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 03:31 ACCEPT [Google News HH] "SK Innovation E&S Imports First Australian Crude - Businesskorea" | kw:crude
+2026-07-27 03:31 ACCEPT [Google News HH] "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - " | kw:oil,crude,brent
+2026-07-27 03:31 ACCEPT [Google News HH] "Crude Oil Price Finds Support at Its Simple Moving Average – Analysis " | kw:oil,crude,rice
+2026-07-27 03:31 ACCEPT [Google News KL] "Silver Price Forecast: Strong Dollar Could Drive Silver Toward $50 - F" | kw:silver,rice
+2026-07-27 03:31 ACCEPT [Google News KL] "Gold and silver price today, July 27: Check rates of 24K, 22K gold in " | kw:gold,silver,rice
+2026-07-27 03:31 ACCEPT [Google News CB] "Gold gains on pause in US-Iran fighting; Fed decision looms - Reuters" | kw:gold
+2026-07-27 03:31 ACCEPT [Google News CB] "Indonesia central bank chief resigns - Financial Times" | kw:central bank
+2026-07-27 03:31 ACCEPT [Google News CB] "Gold rises on weaker dollar; traders weigh Middle East pause, Fed outl" | kw:gold
+2026-07-27 03:31 SKIP_MORNING already_sent date=2026-07-27
