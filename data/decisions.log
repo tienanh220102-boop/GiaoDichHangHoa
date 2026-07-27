@@ -1,16 +1,3 @@
-2026-06-21 05:01 ACCEPT [Google News HH] "Hawkish Fed and a fragile Iran deal leave commodity markets on shaky g" | kw:commodity
-2026-06-21 05:01 ACCEPT [Google News HH] "Why a strong El Niño leaves tropical commodities acutely exposed - MSN" | kw:commodities
-2026-06-21 05:01 ACCEPT [Google News KL] "SA Asks: Is now a good time to invest in gold or silver? (GLD:NYSEARCA" | kw:gold,silver
-2026-06-21 05:01 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 05:31 ACCEPT [Google News HH] "$Crude Oil Futures (AUG6) (CLmain.US)$$Brent Last Day Financial Future" | kw:oil,crude,brent
-2026-06-21 05:31 ACCEPT [Google News HH] "Gold Price Increases by NPR 600 Per Tola in Nepali Market - Ratopati" | kw:gold,rice
-2026-06-21 05:31 ACCEPT [Google News KL] "Hawkish Fed and a fragile Iran deal leave commodity markets on shaky g" | kw:commodity
-2026-06-21 05:31 ACCEPT [Google News KL] ""Rich Dad Poor Dad" author: Don't let price determine investment, gold" | kw:gold,rice
-2026-06-21 05:31 ACCEPT [Google News KL] "Gold price today 21. 6: Loss of up to 4 million VND/tael after a week " | kw:gold,rice
-2026-06-21 05:31 ACCEPT [Google News KL] "Where is Gold Headed After the War? - Equitymaster" | kw:gold
-2026-06-21 05:31 ACCEPT [Google News KL] "OPINION | Sky’s the limit for investors seeking some copper action - N" | kw:copper
-2026-06-21 05:31 ACCEPT [Google News KL] "Losing its shine: Hawkish Fed signals send gold to third straight week" | kw:gold
-2026-06-21 05:31 ACCEPT [Google News KL] "Gold and silver become cheaper this week: Silver prices fall ₹10,609/k" | kw:gold,silver,rice
 2026-06-21 05:31 ACCEPT [Google News KL] "21-karat gold price at JD85.3 in local market - Ammon News" | kw:gold,rice
 2026-06-21 05:31 ACCEPT [Google News KL] "What do major banks predict about gold price prospects at the end of 2" | kw:gold,rice
 2026-06-21 05:31 ACCEPT [Google News NS] "St. Onge Livestock Auction Special Sale: 6,412 Head Sold Amid Drought " | kw:drought
@@ -20011,3 +19998,22 @@
 2026-07-27 10:31 ACCEPT [Google News CB] "Housing Week Ahead: Fed Decision, Home Prices, and Delaware Luxury Rep" | kw:rice
 2026-07-27 10:31 ACCEPT [Google News CB] "NEWS: Fraudsters increasingly turning to fraud recovery scams, Central" | kw:central bank,easing
 2026-07-27 10:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 11:01 ACCEPT [BBC Business] "Oil price dives as US and Iran pause attacks" | kw:oil,rice
+2026-07-27 11:01 ACCEPT [BBC Business] "Businessman and philanthropist Sir Ian Wood dies aged 84" | kw:oil,gas
+2026-07-27 11:01 ACCEPT [OilPrice.com] "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Co" | kw:oil,fuel
+2026-07-27 11:01 ACCEPT [NASDAQ Commod] "Gold Shines As Dollar And Yields Dip On US-Iran Truce Hopes" | kw:oil,gold,rice
+2026-07-27 11:01 ACCEPT [NASDAQ Commod] "Oil Prices Plunge As US-Iran Tensions Ease" | kw:oil,rice,easing
+2026-07-27 11:01 ACCEPT [Google News HH] "Indias average crude oil basket price falls to USD 77.6/bbl in July fr" | kw:oil,crude,rice
+2026-07-27 11:01 ACCEPT [Google News HH] "Explained: Why crude oil prices tumbled over 9% to below $90/bbl in on" | kw:oil,crude,rice
+2026-07-27 11:01 ACCEPT [Google News HH] "Crude Oil Price Forecast Today , Technical Analysis (June 30): WTI, Br" | kw:oil,crude,brent
+2026-07-27 11:01 ACCEPT [Google News KL] "Current price of gold as of July 27, 2026 - Fortune" | kw:gold,rice
+2026-07-27 11:01 ACCEPT [Google News KL] "Current price of silver as of Monday, July 27, 2026 - Fortune" | kw:silver,rice
+2026-07-27 11:01 ACCEPT [Google News KL] "Why copper is becoming Asia’s next AI bottleneck - The Business Times" | kw:copper
+2026-07-27 11:01 ACCEPT [Google News KL] "Infographic: Domestic and global gold prices rise on July 27 - Nhan Da" | kw:gold,rice
+2026-07-27 11:01 ACCEPT [Google News KL] "Pakistan gold rates climb near 1% as global demand and rupee weakness " | kw:gold
+2026-07-27 11:01 ACCEPT [Google News NS] "Ohio Wheat Farmers Welcome Brazilian Trade Team - Farms.com" | kw:wheat
+2026-07-27 11:01 ACCEPT [Google News CB] "It’s Time to Reexamine Monetary Policy Rules - National Review" | kw:monetary policy
+2026-07-27 11:01 ACCEPT [Google News CB] "How Singapore's unique monetary policy works - Reuters" | kw:monetary policy
+2026-07-27 11:01 ACCEPT [Google News CB] "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting - Bloomber" | kw:oil,rice
+2026-07-27 11:01 ACCEPT [Google News CB] "BofA says yen defense needs hawkish BoJ as USD/JPY tops 163 - Investin" | kw:boj
+2026-07-27 11:01 SKIP_MORNING already_sent date=2026-07-27
