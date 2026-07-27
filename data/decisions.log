@@ -1,13 +1,3 @@
-2026-06-22 03:01 ACCEPT [Google News HH] "USD/JPY Breaks Above 161 After FOMC While Wti Crude Oil Falls - Action" | kw:oil,crude,wti
-2026-06-22 03:01 ACCEPT [Google News HH] "Crude Oil Loses Positive Momentum as Downside Risks Increase – Analysi" | kw:oil,crude
-2026-06-22 03:01 ACCEPT [Google News HH] "Gold suffers heavy sell-off! Goldman Sachs and Citigroup both lower go" | kw:gold,rice
-2026-06-22 03:01 ACCEPT [Google News HH] "Crude oil jumps above $80/bbl after Trump’s latest threat amid final p" | kw:oil,crude,gold
-2026-06-22 03:01 ACCEPT [Google News KL] "Gold and silver price today, June 22: Check rates of 24K, 22K gold in " | kw:gold,silver,rice
-2026-06-22 03:01 ACCEPT [Google News KL] "Commodity Corner: Oil slips on US-Iran peace hopes, gold rebounds - Mo" | kw:oil,gold,corn
-2026-06-22 03:01 ACCEPT [Google News KL] "Will equities dominate the next market cycle amid slowdown in Gold? - " | kw:gold
-2026-06-22 03:01 ACCEPT [Google News CB] "Gold Rises; Direction Seen Led by Geopolitics, Monetary Policy - WSJ" | kw:gold,monetary policy
-2026-06-22 03:01 ACCEPT [Google News CB] "Goldman Sachs sees structural gold buying as central bank demand hits " | kw:gold,central bank
-2026-06-22 03:01 SKIP_MORNING already_sent date=2026-06-22
 2026-06-22 03:31 ACCEPT [Google News HH] "Soybeans Attempt Rebound - TradingView" | kw:soybean
 2026-06-22 03:31 ACCEPT [Google News HH] "Brent Crude Oil is under negative pressure – Analysis – 22-06-2026 - E" | kw:oil,crude,brent
 2026-06-22 03:31 ACCEPT [Google News HH] "Oil prices rise after Iran shuts Hormuz again, Trump threatens new att" | kw:oil,wti,rice
@@ -20008,3 +19998,11 @@
 2026-07-27 20:01 ACCEPT [Google News CB] "Fed rate cut or hold? Former Boston Fed chief weighs in - Yahoo Financ" | kw:fed rate,rate cut
 2026-07-27 20:01 ACCEPT [Google News CB] "Fed Meeting Faces Inflation Test - National Mortgage Professional" | kw:inflation
 2026-07-27 20:01 ACCEPT [Google News CB] "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kev" | kw:oil
+2026-07-27 20:14 ACCEPT [NASDAQ Commod] "Crude Oil Nosedives As Middle East Tension Eases After U.S. And Iran P" | kw:oil,crude,rice
+2026-07-27 20:14 ACCEPT [Google News HH] "CBOT review: Soybeans, grains fall with crude oil - The Western Produc" | kw:oil,crude,soybean
+2026-07-27 20:14 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-27 20:14 ACCEPT [Google News HH] "Crude Oil Price Forecast: Brent Pullback Masks Growing Diesel Supply R" | kw:oil,crude,brent
+2026-07-27 20:14 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 20:14 ACCEPT [Google News NS] "Russia's gross grain harvest may decline to 139 million tons in 2026 –" | kw:harvest
+2026-07-27 20:14 ACCEPT [Google News NS] "Canada Know-Risk Market Outlook | French Corn and N. American Weather " | kw:corn
+2026-07-27 20:14 ACCEPT [Google News NS] "CBOT corn drops after reaching 15-month high on Friday By Investing.co" | kw:corn
