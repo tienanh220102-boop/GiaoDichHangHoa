@@ -1,17 +1,3 @@
-2026-06-21 16:59 ACCEPT [NASDAQ Commod] "DGCX Introduces First Same-Day Physical Gold Contract in Gulf" | kw:gold,commodities
-2026-06-21 16:59 ACCEPT [Google News HH] "US-Iran talks, crude oil movement, macro data to dictate bullion trend" | kw:oil,crude
-2026-06-21 16:59 ACCEPT [Google News HH] "India secures 70% of crude oil imports Outside Strait of Hormuz: Petro" | kw:oil,crude,petroleum
-2026-06-21 16:59 ACCEPT [Google News HH] "3 Indian-flagged crude oil tankers transit Strait of Hormuz - Rediff" | kw:oil,crude
-2026-06-21 16:59 ACCEPT [Google News HH] "Iraq's Deputy Oil Minister stated that Iraq plans to gradually restore" | kw:oil,crude
-2026-06-21 16:59 SKIP_MORNING already_sent date=2026-06-21
-2026-06-21 16:59 SKIP_EVENING already_sent date=2026-06-21
-2026-06-21 17:01 ACCEPT [OilPrice.com] "Equinor Expands Giant Troll Field as Europe Hunts for More Gas" | kw:oil,gas
-2026-06-21 17:31 ACCEPT [Google News NS] "Grain SA rejects ITAC decision to keep wheat tariff reference price un" | kw:wheat,rice,tariff
-2026-06-21 17:31 ACCEPT [Google News CB] "‘Dutch disease’ not a problem: central bank - Taipei Times" | kw:central bank
-2026-06-21 17:31 ACCEPT [Google News CB] "Ben Stokes returns as England captain after ECB concludes nightclub in" | kw:ecb
-2026-06-21 18:01 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Poised for Rally if Hormuz Stays Restricte" | kw:oil,crude
-2026-06-21 18:01 ACCEPT [Google News HH] "US-Iran talks and crude oil prices to steer stock markets this week - " | kw:oil,crude,rice
-2026-06-21 18:01 ACCEPT [Google News KL] "3 Gold Mining Stocks With High Margins And Expansion Plans - simplywal" | kw:gold
 2026-06-21 18:01 ACCEPT [Google News KL] "4154.75 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
 2026-06-21 18:01 ACCEPT [Google News KL] "Gold slides as Goldman Sachs cuts 2026 price target by $500 - MSN" | kw:gold,rice
 2026-06-21 18:01 ACCEPT [Google News NS] "Good luck eating that cotton sandwich - Farmers' Advance" | kw:cotton
@@ -20012,3 +19998,22 @@
 2026-07-27 15:01 ACCEPT [Google News NS] "Large Corn Bet Creates Opportunity, Not Price Guarantee - RFD-TV" | kw:corn,rice
 2026-07-27 15:01 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 15:01 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 15:21 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Crude Oil Price Forecast: WTI and Brent Pull Back as US-Iran Negotiati" | kw:oil,crude,brent
+2026-07-27 15:21 ACCEPT [Google News HH] "Waiting on the World to Change – Global Turmoil Spikes Energy Markets," | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Gold Price Forecast & Predictions for 2026, 2027, 2028–2030 and Beyond" | kw:gold,rice
+2026-07-27 15:21 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6 per cent" | kw:oil,crude,rice
+2026-07-27 15:21 ACCEPT [Google News KL] "KGLD: This May Be The Best ETF To Turn Gold Into Monthly Cash (BATS:KG" | kw:gold
+2026-07-27 15:21 ACCEPT [Google News KL] "US Debt Hits $39.7 Trillion: Bitcoin and Gold Debasement Trade Faces F" | kw:gold,fomc
+2026-07-27 15:21 ACCEPT [Google News NS] "Demand for Ukrainian wheat remains strong despite export halt at Great" | kw:wheat
+2026-07-27 15:21 ACCEPT [Google News CB] "SNB Expects to Keep Interest Rate at Zero Until End of 2027 - Bloomber" | kw:interest rate
+2026-07-27 15:21 ACCEPT [Google News CB] "Global oil prices hover around $90 per barrel as Fed set to make inter" | kw:oil,rice,interest rate
+2026-07-27 15:21 ACCEPT [Google News CB] "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting - Bloomber" | kw:oil,rice
+2026-07-27 15:21 ACCEPT [Google News CB] "Pakistan Holds Key Interest Rate as Iran War Clouds Outlook - Bloomber" | kw:interest rate
+2026-07-27 15:21 ACCEPT [Google News CB] "Kazimir Says ECB Must Hike at Least Once More to Quell Inflation - Blo" | kw:inflation,ecb
+2026-07-27 15:21 ACCEPT [Google News CB] "Fed meeting: Rate hikes could be back on the table amid renewed oil vo" | kw:oil,rate hike
+2026-07-27 15:21 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 15:21 SKIP_EVENING already_sent date=2026-07-27
