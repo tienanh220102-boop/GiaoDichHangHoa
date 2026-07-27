@@ -19998,3 +19998,13 @@
 2026-07-26 23:28 ACCEPT [Google News NS] "Feeder Cattle Futures Hit Two-Year Bullish Extreme as Soybeans and Sil" | kw:silver,soybean
 2026-07-26 23:28 ACCEPT [Google News CB] "European Central Bank staff start shifting roles after HR overhaul - F" | kw:central bank
 2026-07-26 23:28 ACCEPT [Google News CB] "Fed Faces Contentious Rate Decision Amid Rising Oil Prices and Tariff " | kw:oil,rice,tariff
+2026-07-27 00:01 ACCEPT [Google News HH] "Firms plan investment despite Brent crude oil price concerns - The Tim" | kw:oil,crude,brent
+2026-07-27 00:01 ACCEPT [Google News HH] "Crude oil prices fall over 5% as regional tensions cool on pause in US" | kw:oil,crude,rice
+2026-07-27 00:01 ACCEPT [Google News HH] "Farsnews | Brent Crude Oil Climbs to $94 - خبرگزاری فارس" | kw:oil,crude,brent
+2026-07-27 00:01 ACCEPT [Google News KL] "U.S.-Iran ceasefire sparks oil price decline and gold rally, as Fed ra" | kw:oil,gold,rice
+2026-07-27 00:01 ACCEPT [Google News KL] "Auric Mining's Integrated Burbanks and Munda Study Unlocks Gold Produc" | kw:gold
+2026-07-27 00:01 ACCEPT [Google News KL] "Kaiser Reef Targets 30,000oz Annual Gold Production as Maldon Growth E" | kw:gold
+2026-07-27 00:01 ACCEPT [Google News KL] "Capricorn Metals Lifts Gold Reserves to 5.2 Million Ounces and Outline" | kw:gold,corn
+2026-07-27 00:01 ACCEPT [Google News KL] "Capricorn Metals Unveils Range 500 Gold Production Aspiration as Mt Gi" | kw:gold,corn
+2026-07-27 00:01 ACCEPT [Google News CB] "Futures Rise, Oil Dives Amid Iran News - Investor's Business Daily" | kw:oil
+2026-07-27 00:02 SENT_MORNING articles=20 date=2026-07-27 force=False
