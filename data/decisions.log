@@ -1,22 +1,3 @@
-2026-06-21 18:01 ACCEPT [Google News KL] "4154.75 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
-2026-06-21 18:01 ACCEPT [Google News KL] "Gold slides as Goldman Sachs cuts 2026 price target by $500 - MSN" | kw:gold,rice
-2026-06-21 18:01 ACCEPT [Google News NS] "Good luck eating that cotton sandwich - Farmers' Advance" | kw:cotton
-2026-06-21 18:01 ACCEPT [Google News NS] "Soybean Analysis Using Fibonacci & W.D. Gann - Barchart.com" | kw:soybean
-2026-06-21 18:01 ACCEPT [Google News CB] "Japan Week Ahead: Markets Look for Signs of Follow-Up BOJ Move in A Fe" | kw:inflation,rate hike,boj
-2026-06-21 18:20 ACCEPT [Google News KL] "Production decreases, revenue increases at gold mine in South Dakota’s" | kw:gold
-2026-06-21 18:20 ACCEPT [Google News KL] "US-Iran talks, crude oil prices to guide gold and silver trend next we" | kw:oil,crude,gold
-2026-06-21 18:20 ACCEPT [Google News KL] "Central Banks' Record Gold Spree Collides With Dollar-Driven Price Rou" | kw:gold,rice,central bank
-2026-06-21 18:20 ACCEPT [Google News CB] "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Ma" | kw:interest rate
-2026-06-21 18:20 ACCEPT [Google News CB] "Ben Stokes and Gus Atkinson 'blameless for violent conduct' - ECB - BB" | kw:ecb
-2026-06-21 18:31 ACCEPT [Mining.com] "Kazatomprom CEO Meirzhan Yussupov on uranium markets, China and nuclea" | kw:fuel
-2026-06-21 18:31 ACCEPT [Google News HH] "Beloved Alaska disc golf course was built around bubbling crude oil fr" | kw:oil,crude
-2026-06-21 18:31 ACCEPT [Google News KL] "Eldorado Gold rated buy as new mines near production, boosting future " | kw:gold,rice
-2026-06-21 18:31 ACCEPT [Google News CB] "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Ma" | kw:interest rate
-2026-06-21 19:01 ACCEPT [OilPrice.com] "Whatever Happened to the Small Modular Reactor Revolution?" | kw:supply chain
-2026-06-21 19:01 ACCEPT [Google News HH] "Beloved Alaska disc golf course was built around bubbling crude oil fr" | kw:oil,crude
-2026-06-21 19:01 ACCEPT [Google News CB] "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Ma" | kw:interest rate
-2026-06-21 19:31 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Poised for Rally if Hormuz Stays Restricte" | kw:oil,crude
-2026-06-21 19:31 ACCEPT [Google News KL] "Gold and silver prices hold steady across Indian cities - MSN" | kw:gold,silver,rice
 2026-06-21 19:31 ACCEPT [Google News KL] "Bitcoin Gold Plummets 30.51% — What’s Driving This Decline? - MEXC" | kw:gold
 2026-06-21 19:31 ACCEPT [Google News NS] "Idaho Farmers Seek Relief via Farm Bill Amid Severe Water Shortages - " | kw:shortage
 2026-06-21 19:31 ACCEPT [Google News CB] "Citadel Securities: 'Strong medicine' to treat inflation— a more 'proa" | kw:inflation
@@ -20017,3 +19998,10 @@
 2026-07-27 15:21 ACCEPT [Google News CB] "Fed meeting: Rate hikes could be back on the table amid renewed oil vo" | kw:oil,rate hike
 2026-07-27 15:21 SKIP_MORNING already_sent date=2026-07-27
 2026-07-27 15:21 SKIP_EVENING already_sent date=2026-07-27
+2026-07-27 15:31 ACCEPT [Google News HH] "Gold Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and " | kw:gold,rice
+2026-07-27 15:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 5% as Mide" | kw:oil,crude,rice
+2026-07-27 15:31 ACCEPT [Google News HH] "The main contract of Brent crude oil futures has just broken through t" | kw:oil,crude,brent
+2026-07-27 15:31 ACCEPT [Google News KL] "Gold News: Gold Fades From High as FOMC and PCE Risk Cap Oil-Led Bid -" | kw:oil,gold,fomc
+2026-07-27 15:31 ACCEPT [Google News CB] "Fed meeting: Rate hikes could be back on the table amid renewed oil vo" | kw:oil,rate hike
+2026-07-27 15:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 15:31 SKIP_EVENING already_sent date=2026-07-27
