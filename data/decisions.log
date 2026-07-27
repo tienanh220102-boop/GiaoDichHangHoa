@@ -1,8 +1,3 @@
-2026-06-21 04:31 ACCEPT [Google News HH] "Eyeing Tech Beatdown Bid, AMZN OpenAI Investment & Crude Oil's Pop Sos" | kw:oil,crude
-2026-06-21 04:31 ACCEPT [Google News HH] "PAX Gold Price Now: Live AVAIL to USD Price and Trend - Kabul Universi" | kw:gold,rice
-2026-06-21 04:31 ACCEPT [Google News HH] "Three Indian-Flagged Crude Oil Tankers Secure Safe Passage Through Hor" | kw:oil,crude
-2026-06-21 04:31 ACCEPT [Google News HH] "OPEC projects long‑term oil demand growth, led by Asia - bastillepost." | kw:oil,opec
-2026-06-21 04:31 ACCEPT [Google News HH] "PAX Gold Price As of Today: Latest KSM to USD Price and Chart - Kabul " | kw:gold,rice
 2026-06-21 04:31 ACCEPT [Google News HH] "Three Indian crude oil tankers clear Strait of Hormuz — shipping minis" | kw:oil,crude,shipping
 2026-06-21 04:31 ACCEPT [Google News HH] "Crude Oil Price USD, OIL Price Live Charts, Market Cap & News - Bitget" | kw:oil,crude,rice
 2026-06-21 04:31 ACCEPT [Google News KL] "Production decreases, revenue increases at gold mine in South Dakota’s" | kw:gold
@@ -20003,3 +19998,20 @@
 2026-07-27 09:01 ACCEPT [Google News NS] "Brazilian Soybean Arrivals in China Peak; China’s US Buying Ramps Up -" | kw:soybean
 2026-07-27 09:01 ACCEPT [Google News CB] "Fed expected to hold rates steady — but an interest rate hike isn't of" | kw:interest rate,rate hike
 2026-07-27 09:01 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 09:30 ACCEPT [MarketWatch] "‘Ransom Canyon’ star Josh Duhamel: The self-described ‘doomsday preppe" | kw:rice
+2026-07-27 09:30 ACCEPT [Al Jazeera] "Death toll from Pakistan monsoon rains, floods tops 100" | kw:flood
+2026-07-27 09:31 ACCEPT [Google News HH] "OPEC Monthly Oil Market Report, July 2026 (Commodity:CL1:COM) - Seekin" | kw:oil,opec,commodity
+2026-07-27 09:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 27 - FXStreet" | kw:gold,rice
+2026-07-27 09:31 ACCEPT [Google News HH] "Oil prices fall as expectations for de-escalation strengthen after the" | kw:oil,rice
+2026-07-27 09:31 ACCEPT [Google News HH] "Gold price hiked by Tk 2,216 per bhori in Bangladesh market - New Age " | kw:gold,rice
+2026-07-27 09:31 ACCEPT [Google News KL] "Gold climbs 1% as U.S.-Iran truce pressures oil; all eyes on Fed meeti" | kw:oil,gold
+2026-07-27 09:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Fed, ETF Flows and Central Bank" | kw:gold,silver,rice
+2026-07-27 09:31 ACCEPT [Google News KL] "Oil prices slide, Gold advances after Trump halts new strikes on Iran " | kw:oil,gold,rice
+2026-07-27 09:31 ACCEPT [Google News KL] "XAU/USD outlook: Gold benefits from the latest easing of tensions in t" | kw:gold,easing
+2026-07-27 09:31 ACCEPT [Google News KL] "America Vs Atlante Quien Cree Que Gane Silver Price Today (brlk2gtUGq)" | kw:silver,rice
+2026-07-27 09:31 ACCEPT [Google News KL] "Gold Futures Rise to Rs 1,44,090 on Strong Spot Demand - Rediff MoneyW" | kw:gold
+2026-07-27 09:31 ACCEPT [Google News NS] "Soybean oil drops most in month after US halts strikes on Iran - The E" | kw:oil,soybean
+2026-07-27 09:31 ACCEPT [Google News NS] "Chungju Corn and Hongcheon Rice... McDonald’s Launches Menu Featuring " | kw:corn,rice
+2026-07-27 09:31 ACCEPT [Google News CB] "Milei outlines Central Bank reform bill aimed at monetary discipline -" | kw:central bank
+2026-07-27 09:31 ACCEPT [Google News CB] "Housing Week Ahead: Fed Decision, Home Price Data, and Spotlight on De" | kw:rice
+2026-07-27 09:31 SKIP_MORNING already_sent date=2026-07-27
