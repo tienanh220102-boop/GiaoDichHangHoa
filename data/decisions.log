@@ -1,20 +1,3 @@
-2026-06-22 04:01 ACCEPT [Google News KL] "Institutions are buying gold on dips, anticipating it will hit a new a" | kw:gold
-2026-06-22 04:01 ACCEPT [Google News KL] "Crown Plaza Hotel || San Diego California : Room Tour & Review Silver " | kw:silver,rice
-2026-06-22 04:01 ACCEPT [Google News KL] "Gold holds modest gains; Fed hike bets and Iran risks cap upside - FXS" | kw:gold
-2026-06-22 04:01 ACCEPT [Google News KL] "Gold and silver prices rise - The Rising Nepal" | kw:gold,silver,rice
-2026-06-22 04:01 ACCEPT [Google News KL] "Hong Kong Market Moves | Gold Stocks Lead Declines as Fed Rate Cut Hop" | kw:gold,rice,fed rate
-2026-06-22 04:01 ACCEPT [Google News KL] "Gold Price Today: MCX Gold Trades Above Rs 1.45 Lakh Amid US-Iran Peac" | kw:gold,rice
-2026-06-22 04:01 ACCEPT [Google News NS] "Soybean Prices Edge Up As China Buying Returns - Finimize" | kw:soybean,rice
-2026-06-22 04:01 ACCEPT [Google News NS] "‘Something really strange’: Price of fertilizer impacting farmers acro" | kw:rice
-2026-06-22 04:01 ACCEPT [Google News CB] "Watch Oil Price Decline Could Remove Some Central Bank Hawkish Bias: C" | kw:oil,rice,central bank
-2026-06-22 04:01 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 04:31 ACCEPT [Al Jazeera] "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says" | kw:lng
-2026-06-22 04:31 ACCEPT [Google News HH] "Gold Price on 21 June 2026 - Gold Price" | kw:gold,rice
-2026-06-22 04:31 ACCEPT [Google News HH] "Crude oil futures decline after US and Iran conclude first round of ta" | kw:oil,crude
-2026-06-22 04:31 ACCEPT [Google News KL] "Best Gold IRA Companies for a 401(k) Rollover in 2026: Expert Rankings" | kw:gold
-2026-06-22 04:31 ACCEPT [Google News KL] "Gold, silver prices today, June 22: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
-2026-06-22 04:31 ACCEPT [Google News KL] "Gold sticks to modest gains; bulls seem hesitant amid Fed hike bets, I" | kw:gold
-2026-06-22 04:31 ACCEPT [Google News KL] "Gold edges lower to near $4,150 on US–Iran peace uncertainty, hawkish " | kw:gold
 2026-06-22 04:31 ACCEPT [Google News KL] "Gold demand falls as duty hike keeps prices high - The Rising Nepal" | kw:gold,rice
 2026-06-22 04:31 ACCEPT [Google News NS] "Harsha criticises corn tax hike and rice imports as burden on poor - N" | kw:corn,rice
 2026-06-22 04:31 SKIP_MORNING already_sent date=2026-06-22
@@ -20015,3 +19998,13 @@
 2026-07-27 21:01 ACCEPT [Google News CB] "‘I know what he wants to do,’ Trump says of Fed’s Warsh, as president " | kw:rate cut
 2026-07-27 21:01 ACCEPT [Google News CB] "Trump says US should have the 'lowest interest rate in the world' - Re" | kw:interest rate
 2026-07-27 21:01 ACCEPT [Google News CB] "What Warsh’s Federal Reserve Task Forces Are Missing - Barron's" | kw:federal reserve
+2026-07-27 21:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-27 21:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-27 21:31 ACCEPT [Google News HH] "Corn futures drop as crude oil falls and traders take profits - Invest" | kw:oil,crude,corn
+2026-07-27 21:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-27 21:31 ACCEPT [Google News HH] "Dollar Pressured by Weakness in Crude Oil - Yahoo Finance" | kw:oil,crude
+2026-07-27 21:31 ACCEPT [Google News KL] "China’s gold stockpile could surpass U.S. within five years, BMO analy" | kw:gold
+2026-07-27 21:31 ACCEPT [Google News KL] "Gold price edges higher as US-Iran war takes break - Mining.com.au" | kw:gold,rice
+2026-07-27 21:31 ACCEPT [Google News NS] "Closing market update: Crude oil selloff weighs on grains and oilseeds" | kw:oil,crude
+2026-07-27 21:31 ACCEPT [Google News CB] "Prediction Market Traders Brace for Surprise Fed Rate Hike - Decrypt" | kw:fed rate,rate hike
+2026-07-27 21:31 ACCEPT [Google News CB] "Expert sees 50% chance of Fed rate hike this week - Yahoo Finance" | kw:fed rate,rate hike
