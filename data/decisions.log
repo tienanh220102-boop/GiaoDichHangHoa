@@ -1,24 +1,3 @@
-2026-06-20 15:01 ACCEPT [Google News HH] "Global crude oil prices decline; Brent crude slips 1.1% - Newsonair" | kw:oil,crude,brent
-2026-06-20 15:01 ACCEPT [Google News HH] "Commodities Sector Ripe for Diaspora Investment - Jamaica Information " | kw:commodities
-2026-06-20 15:01 ACCEPT [Google News HH] "Falling crude oil prices raise hope of relief at the pump - standardme" | kw:oil,crude,rice
-2026-06-20 15:01 ACCEPT [Google News HH] "Global crude oil prices register sharp weekly losses - Newsonair" | kw:oil,crude,rice
-2026-06-20 15:01 ACCEPT [Google News HH] "21-karat gold price at JD85.3 in local market - Ammon News" | kw:gold,rice
-2026-06-20 15:01 ACCEPT [Google News HH] "Thailand And India Joins Japan, China, Singapore, Bangladesh, South Ko" | kw:oil,crude,fuel
-2026-06-20 15:01 ACCEPT [Google News HH] "Antam Gold Prices Slide Further to Rp2,668,000 per Gram - Tempo.co Eng" | kw:gold,rice
-2026-06-20 15:01 ACCEPT [Google News KL] "Gold and silver drop as hawkish Fed, strong dollar hit demand - MSN" | kw:gold,silver
-2026-06-20 15:01 ACCEPT [Google News CB] "South Africa’s Kganyago Warns Inflation Expectations Are Rising - Bloo" | kw:inflation
-2026-06-20 15:01 ACCEPT [Google News CB] "America In Focus: US gas prices dip below $4 and more evidence America" | kw:gas,rice
-2026-06-20 15:01 ACCEPT [Google News CB] "Gold falls nearly 2% as Fed signals hawkish stance - MSN" | kw:gold
-2026-06-20 15:01 ACCEPT [Google News CB] "Congratulations to the 2026 Watermelon Royalty! - ECB Publishing, Inc." | kw:ecb
-2026-06-20 15:01 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 15:01 SKIP_EVENING already_sent date=2026-06-20
-2026-06-20 15:31 ACCEPT [Google News HH] "Watch How This Saudi Room Controls The World's Crude Oil : Aramco Tour" | kw:oil,crude
-2026-06-20 15:31 ACCEPT [Google News HH] "Three Indian-Flagged Crude Oil Tankers Secure Safe Passage Through Hor" | kw:oil,crude
-2026-06-20 15:31 ACCEPT [Google News CB] "What's a good mortgage interest rate this June? - MSN" | kw:interest rate
-2026-06-20 15:31 ACCEPT [Google News CB] "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief" | kw:inflation
-2026-06-20 15:31 SKIP_MORNING already_sent date=2026-06-20
-2026-06-20 15:31 SKIP_EVENING already_sent date=2026-06-20
-2026-06-20 16:01 ACCEPT [Google News HH] "Crude Oil has the right glut on the wrong calendar - Bitget" | kw:oil,crude
 2026-06-20 16:01 ACCEPT [Google News HH] "Gold Rate Today In Mandya, Check Live 22 And 24 Carat Gold Price - NDT" | kw:gold,rice
 2026-06-20 16:01 ACCEPT [Google News HH] "Great Nicobar Island faces fuel and LPG crisis, shortage of essential " | kw:fuel,commodities,shortage
 2026-06-20 16:01 ACCEPT [Google News HH] "New report maps East African Crude Oil Pipeline through black rhino ra" | kw:oil,crude
@@ -20019,3 +19998,16 @@
 2026-07-27 02:31 ACCEPT [Google News CB] "FOMC Out Next Week with Interest Rate Decision - The Globe and Mail" | kw:interest rate,rate decision,fomc
 2026-07-27 02:31 ACCEPT [Google News CB] "Indonesia Central Bank Chief Perry Warjiyo Unexpectedly Resigns - Bloo" | kw:central bank
 2026-07-27 02:31 SKIP_MORNING already_sent date=2026-07-27
+2026-07-27 03:01 ACCEPT [BBC Business] "Shein swings to $99m loss as Trump tariffs hit sales" | kw:tariff
+2026-07-27 03:01 ACCEPT [Google News HH] "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd " | kw:oil,opec
+2026-07-27 03:01 ACCEPT [Google News HH] "Oil Prices On July 27: Brent Crude Slides 5% To Trade Below $90 As US," | kw:oil,crude,brent
+2026-07-27 03:01 ACCEPT [Google News HH] "Diesel-Rich Alberta Synthetic Crude Oil Triples in Four Days - EnergyN" | kw:oil,crude
+2026-07-27 03:01 ACCEPT [Google News KL] "Gold and Silver Price Forecast: Fed Decision Could Trigger Next Breako" | kw:gold,silver,rice
+2026-07-27 03:01 ACCEPT [Google News KL] "Gold Prices Rise as US-Iran Conflict Pauses Amid Supply Concerns - Gur" | kw:gold,rice
+2026-07-27 03:01 ACCEPT [Google News KL] "Vietnam dong, gold rates - July 27 - TradingView" | kw:lng,gold
+2026-07-27 03:01 ACCEPT [Google News KL] "Gold gains on pause in US-Iran fighting; Fed decision looms - Business" | kw:gold
+2026-07-27 03:01 ACCEPT [Google News CB] "Indonesia central bank chief steps down early: govt - Yahoo Finance" | kw:central bank
+2026-07-27 03:01 ACCEPT [Google News CB] "Gold gains on pause in US-Iran fighting; Fed decision looms - CNBC" | kw:gold
+2026-07-27 03:01 ACCEPT [Google News CB] "Gold gains on pause in US-Iran fighting; Fed decision looms - TradingV" | kw:gold
+2026-07-27 03:01 ACCEPT [Google News CB] "Here's What Markets Are Now Saying About Fed Rate Hikes This Year - Th" | kw:fed rate,rate hike
+2026-07-27 03:01 SKIP_MORNING already_sent date=2026-07-27
