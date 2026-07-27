@@ -1,6 +1,3 @@
-2026-06-22 01:45 ACCEPT [Google News KL] "Guess which beaten-down ASX All Ords gold stock is pushing towards pro" | kw:gold
-2026-06-22 01:45 ACCEPT [Google News NS] "Govt Revises Commission Rates for Wheat and Paddy Procurement from Rab" | kw:wheat
-2026-06-22 01:45 ACCEPT [Google News CB] "Japan’s Takaichi Signals Acceptance of BOJ’s Latest Rate Hike - Bloomb" | kw:rate hike,boj
 2026-06-22 01:45 SKIP_MORNING already_sent date=2026-06-22
 2026-06-22 02:01 ACCEPT [Google News KL] "Gold prices drop to late 2025 levels, some consumers “hold gold for th" | kw:gold,rice,central bank
 2026-06-22 02:01 ACCEPT [Google News KL] "Gold faces pressure as US-Iran talks, Fed stance eyed - MSN" | kw:gold
@@ -20001,3 +19998,22 @@
 2026-07-27 19:01 ACCEPT [The Guardian Biz] "How the Bab al-Mandab blockade threat helped push oil back above $100" | kw:oil,crude,brent
 2026-07-27 19:01 ACCEPT [The Guardian Biz] "EasyJet profits plunge 70% as fuel costs soar amid Iran war" | kw:fuel
 2026-07-27 19:01 ACCEPT [OilPrice.com] "What If the Most Valuable Part of an EV Isn't the Car?" | kw:easing
+2026-07-27 19:30 ACCEPT [MarketWatch] "‘I know what he wants to do,’ Trump says of Fed’s Warsh, as president " | kw:rate cut,federal reserve
+2026-07-27 19:31 ACCEPT [The Guardian Biz] "Tariffs are Trump’s favorite plaything – and his justifications are ab" | kw:tariff
+2026-07-27 19:31 ACCEPT [The Guardian Biz] "Trump imposes fresh tariffs on UK, EU and dozens of other trading part" | kw:tariff
+2026-07-27 19:31 ACCEPT [The Guardian Biz] "Rising oil prices could force up UK interest rates, say economists" | kw:oil,rice,interest rate
+2026-07-27 19:31 ACCEPT [The Guardian Biz] "Trump’s latest tariffs put UK at disadvantage to EU, say experts" | kw:tariff
+2026-07-27 19:31 ACCEPT [Google News HH] "Crude Oil Forecast: US-Iran Pause Drives -7% WTI Drop - Will it Revers" | kw:oil,crude,wti
+2026-07-27 19:31 ACCEPT [Google News HH] "Stocks are drifting on Wall Street and crude oil prices drop 6% as Mid" | kw:oil,crude,rice
+2026-07-27 19:31 ACCEPT [Google News HH] "Crude Oil Forecast: US-Iran Pause Drives -7% WTI Drop - Will it Revers" | kw:oil,crude,wti
+2026-07-27 19:31 ACCEPT [Google News HH] "Crude Oil Prices Sink on Hopes for US-Iran Diplomacy - Barchart.com" | kw:oil,crude,rice
+2026-07-27 19:31 ACCEPT [Google News HH] "US Equity Indexes Mixed, Crude Oil Sinks in Midday Trading - Moomoo" | kw:oil,crude
+2026-07-27 19:31 ACCEPT [Google News HH] "Crude Oil Near $82 - TradingView" | kw:oil,crude
+2026-07-27 19:31 ACCEPT [Google News HH] "Bulgaria Denies Oil Slick Coming from Hulk of Sanctioned Tanker - The " | kw:oil,sanction
+2026-07-27 19:31 ACCEPT [Google News HH] "Stocks waver on Wall Street and crude oil prices drop 5% as Mideast te" | kw:oil,crude,rice
+2026-07-27 19:31 ACCEPT [Google News KL] "China’s gold stockpile could surpass U.S. holdings in the next five ye" | kw:gold
+2026-07-27 19:31 ACCEPT [Google News KL] "Gold Price Holds $4,050 Zone as Bulls Watch Recovery Structure After P" | kw:gold,rice
+2026-07-27 19:31 ACCEPT [Google News NS] "Kevin Mainord Elected Chair of Missouri Soybean Merchandising Council " | kw:soybean
+2026-07-27 19:31 ACCEPT [Google News CB] "Growth continues in Texas manufacturing sector as outlooks improve - F" | kw:federal reserve
+2026-07-27 19:31 ACCEPT [Google News CB] "Wall Street Faces ‘Make or Break’ Run of Earnings, Data and a Fed Rate" | kw:fed rate,rate decision
+2026-07-27 19:31 ACCEPT [Google News CB] "‘I know what he wants to do,’ Trump says of Fed’s Warsh as president p" | kw:rate cut
