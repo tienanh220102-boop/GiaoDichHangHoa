@@ -1,6 +1,3 @@
-2026-06-22 19:01 ACCEPT [NASDAQ Commod] "Crude Oil Plunges Amid Conflicting Reports On Strait Of Hormuz Status" | kw:oil,crude,rice
-2026-06-22 19:01 ACCEPT [Google News HH] "Gold price will struggle to reach $5,200/oz in 2026 without strong ETF" | kw:gold,rice
-2026-06-22 19:01 ACCEPT [Google News HH] "2001 Freeman 9 Yd TD Catch Vs CHI Gold Price In India (T4UQJUQh29) - M" | kw:gold,rice
 2026-06-22 19:01 ACCEPT [Google News HH] "OPEC forecasts 23% rise in global energy demand by 2050, oil to remain" | kw:oil,opec,fuel
 2026-06-22 19:01 ACCEPT [Google News KL] "StoneX Natural Resource Summit 4.0: Copper’s Strategic Importance - St" | kw:copper
 2026-06-22 19:01 ACCEPT [Google News KL] "Omai Gold Reports Positive Metallurgical Testwork at its Omai Project " | kw:gold
@@ -20001,3 +19998,13 @@
 2026-07-28 18:01 ACCEPT [Google News NS] "China Soybean Buying, Hot Weather Could Set the Next Direction for Gra" | kw:soybean,rice
 2026-07-28 18:01 ACCEPT [Google News NS] "USW Builds Long-Term Wheat Demand Across Sub-Saharan Africa - Grain Jo" | kw:wheat
 2026-07-28 18:01 ACCEPT [Google News CB] "Will tough talk be enough? Fed Chair Warsh faces pressure to combat in" | kw:inflation
+2026-07-28 18:31 ACCEPT [MarketWatch] "The U.S. will import Mexican cattle again. Here’s what that means for " | kw:rice
+2026-07-28 18:31 ACCEPT [OilPrice.com] "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike" | kw:gas
+2026-07-28 18:31 ACCEPT [NASDAQ Commod] "Gold Tumbles Amid Reduced Safe-Haven Demand As U.S.-Iran Continue To P" | kw:gold,rice
+2026-07-28 18:31 ACCEPT [Google News HH] "Crude Oil Volatility in Context - Barchart.com" | kw:oil,crude
+2026-07-28 18:31 ACCEPT [Google News HH] "Fed rate decision and crude oil inventories among economic data due We" | kw:oil,crude,fed rate
+2026-07-28 18:31 ACCEPT [Google News HH] "OPEC+ Is About to Pause Oil Output Hikes. Here's What It Means for Oil" | kw:oil,opec
+2026-07-28 18:31 ACCEPT [Google News NS] "Will the U.S. Biofuel Boom Push Soybean Prices Even Higher? - Agrolata" | kw:fuel,soybean,rice
+2026-07-28 18:31 ACCEPT [Google News NS] "Closing market update: Crude oil selloff weighs on grains and oilseeds" | kw:oil,crude
+2026-07-28 18:31 ACCEPT [Google News CB] "Warsh seeks to keep Fed steady amid Iran price pressures, internal div" | kw:rice
+2026-07-28 18:31 ACCEPT [Google News CB] "TD Warns Dollar Set to Drop as Market Misprices Fed Rate Risk - Bloomb" | kw:rice,fed rate
