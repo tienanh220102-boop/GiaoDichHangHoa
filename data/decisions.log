@@ -1,10 +1,3 @@
-2026-06-22 08:01 ACCEPT [RT Business] "Oil prices now determined by Trump’s mood – Fico" | kw:oil,rice
-2026-06-22 08:01 ACCEPT [ECB Press] "ECB publishes consolidated banking data for end-December 2025" | kw:ecb
-2026-06-22 08:01 ACCEPT [Google News CB] "Should the European Central Bank slow down quantitative tightening? - " | kw:central bank,quantitative,tightening
-2026-06-22 08:01 ACCEPT [Google News CB] "Gold Falls As Traders Weigh U.S.-Iran Progress, Hawkish Fed Signals - " | kw:gold
-2026-06-22 08:01 ACCEPT [Google News CB] "BOJ Dissent by Takaichi’s Pick Highlights Case for Faster Hikes - Bloo" | kw:boj
-2026-06-22 08:01 ACCEPT [Google News CB] "ECB’s Escrivá: We need to monitor for second-round effects on wages - " | kw:ecb
-2026-06-22 08:01 ACCEPT [Google News CB] "Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jer" | kw:fomc
 2026-06-22 08:01 ACCEPT [Google News CB] "1 Reason Why the Fed's Decision to Keep Interest Rates Steady Is No Ma" | kw:interest rate
 2026-06-22 08:01 ACCEPT [Google News CB] "Charles Schwab (SCHW) Stock After Recent Performance And Interest Rate" | kw:interest rate
 2026-06-22 08:01 SKIP_MORNING already_sent date=2026-06-22
@@ -20005,3 +19998,13 @@
 2026-07-28 06:01 ACCEPT [Google News KL] "Gold falls 0.81 percent to $4,041 as dollar strengthens ahead of Fed d" | kw:gold
 2026-07-28 06:01 ACCEPT [Google News CB] "What Will The Fed Decide In Its FOMC Meeting This Week? Here's What Re" | kw:fomc
 2026-07-28 06:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 06:31 ACCEPT [OilPrice.com] "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs" | kw:oil,crude,rice
+2026-07-28 06:31 ACCEPT [Google News HH] "The UAE’s departure will test OPEC - GIS Reports" | kw:opec
+2026-07-28 06:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 28 - FXStreet" | kw:wti,gold,rice
+2026-07-28 06:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,lng
+2026-07-28 06:31 ACCEPT [Google News KL] "Silver posts its biggest one-day gain in weeks as the gold-silver rati" | kw:gold,silver
+2026-07-28 06:31 ACCEPT [Google News KL] "Gold Price Forecast Today: XAU/USD Tests $4,020 Support Ahead of Fed D" | kw:gold,rice
+2026-07-28 06:31 ACCEPT [Google News KL] "Gold prices slip as firm dollar weighs; Fed decision eyed - Investing." | kw:gold,rice
+2026-07-28 06:31 ACCEPT [Google News KL] "Copper price repeats the sideways fluctuation– Forecast today – 28-7-2" | kw:copper,rice
+2026-07-28 06:31 ACCEPT [Google News CB] "Indian central bank intervention bolsters oil-led rupee rally - Reuter" | kw:oil,central bank
+2026-07-28 06:31 SKIP_MORNING already_sent date=2026-07-28
