@@ -1,6 +1,3 @@
-2026-06-22 06:31 ACCEPT [Google News KL] "Vietnam’s Gold Prices Soar Despite Global Market Decline: A Week of Up" | kw:gold,rice
-2026-06-22 06:31 ACCEPT [Google News KL] "Gold price rises by Rs 1,400 per tola, silver also up - Khabarhub" | kw:gold,silver,rice
-2026-06-22 06:31 ACCEPT [Google News KL] "Silver Futures Rise to Rs 2.35 Lakh Amid West Asia Crisis - Rediff Mon" | kw:silver
 2026-06-22 06:31 ACCEPT [Google News KL] "Gold and silver futures rise on MCX, prices soften in global market - " | kw:gold,silver,rice
 2026-06-22 06:31 ACCEPT [Google News CB] "ECB clears Stokes, reinstates him as captain for third Test - MSN" | kw:ecb
 2026-06-22 06:31 SKIP_MORNING already_sent date=2026-06-22
@@ -20001,3 +19998,6 @@
 2026-07-28 00:31 ACCEPT [Google News NS] "Missouri Soybean Merchandising Council selects new officers - Brownfie" | kw:soybean
 2026-07-28 00:31 ACCEPT [Google News CB] "Expert sees 50% chance of Fed rate hike this week - Yahoo! Finance Can" | kw:fed rate,rate hike
 2026-07-28 00:31 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 01:01 ACCEPT [Google News KL] "Ecuador Silver Project Delivers Spectacular Historic High-Grade Hits -" | kw:silver
+2026-07-28 01:01 ACCEPT [Google News NS] "Punjab-KP wheat price gap fuels smuggling fears - The News Pakistan" | kw:fuel,wheat,rice
+2026-07-28 01:01 SKIP_MORNING already_sent date=2026-07-28
