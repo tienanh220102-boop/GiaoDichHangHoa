@@ -1,6 +1,3 @@
-2026-06-22 06:31 ACCEPT [Google News KL] "Gold and silver futures rise on MCX, prices soften in global market - " | kw:gold,silver,rice
-2026-06-22 06:31 ACCEPT [Google News CB] "ECB clears Stokes, reinstates him as captain for third Test - MSN" | kw:ecb
-2026-06-22 06:31 SKIP_MORNING already_sent date=2026-06-22
 2026-06-22 07:01 ACCEPT [OilPrice.com] "Big Business Urges Faster Electrification" | kw:fuel,rice,supply chain
 2026-06-22 07:01 ACCEPT [Google News HH] "Iran boosts crude oil shipments through Strait of Hormuz to highest si" | kw:oil,crude
 2026-06-22 07:01 ACCEPT [Google News HH] "Crude Oil Futures Decline Amid Weak Global Cues - Rediff MoneyWiz" | kw:oil,crude
@@ -20001,3 +19998,13 @@
 2026-07-28 01:01 ACCEPT [Google News KL] "Ecuador Silver Project Delivers Spectacular Historic High-Grade Hits -" | kw:silver
 2026-07-28 01:01 ACCEPT [Google News NS] "Punjab-KP wheat price gap fuels smuggling fears - The News Pakistan" | kw:fuel,wheat,rice
 2026-07-28 01:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 01:31 ACCEPT [Google News HH] "Crude Oil Forecast: US-Iran Pause Drives -7% WTI Drop - Will it Revers" | kw:oil,crude,wti
+2026-07-28 01:31 ACCEPT [Google News HH] "Commodities intraday targets/key levels - TradingView" | kw:commodities
+2026-07-28 01:31 ACCEPT [Google News KL] "Jewel Cafe Expands in Singapore with New Dunearn Village Location Amid" | kw:gold,rice
+2026-07-28 01:31 ACCEPT [Google News KL] "Petrodollar System Explained: What You Need to Know - GoldSilver" | kw:gold,silver
+2026-07-28 01:31 ACCEPT [Google News KL] "Gold declines despite easing concerns over inflation, interest rate hi" | kw:gold,inflation,interest rate
+2026-07-28 01:31 ACCEPT [Google News KL] "Jewel Cafe Expands in Singapore with New Dunearn Village Location Amid" | kw:gold,rice
+2026-07-28 01:31 ACCEPT [Google News KL] "Coeur Mining (NYSE:CDE) Shares Rise as After-Hours Trading Begins; Sil" | kw:silver,rice
+2026-07-28 01:31 ACCEPT [Google News CB] "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms - Bloomberg" | kw:fed rate,rate decision
+2026-07-28 01:31 ACCEPT [Google News CB] "What to expect from Kevin Warsh’s second FOMC meeting as chair - Scots" | kw:gdp,fomc
+2026-07-28 01:31 SKIP_MORNING already_sent date=2026-07-28
