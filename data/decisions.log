@@ -1,10 +1,3 @@
-2026-06-22 08:31 ACCEPT [Google News HH] "Asia has plenty of crude oil, but refined fuels remain tight: Russell " | kw:oil,crude,fuel
-2026-06-22 08:31 ACCEPT [Google News HH] "Crude Oil Futures Decline Amid Weak Global Cues - Rediff MoneyWiz" | kw:oil,crude
-2026-06-22 08:31 ACCEPT [Google News HH] "Beloved Alaska disc golf course was built around bubbling crude oil fr" | kw:oil,crude
-2026-06-22 08:31 ACCEPT [Google News HH] "Hormuz Crisis Sparks a Middle East Pipeline Boom - Crude Oil Prices To" | kw:oil,crude,rice
-2026-06-22 08:31 ACCEPT [Google News HH] "Venezuelan crude exports jump as US sanctions relief boosts flows - Qu" | kw:crude,commodity,sanction
-2026-06-22 08:31 ACCEPT [Google News HH] "Iraq’s oil supplies to South Korea decline significantly - Iraqi News" | kw:oil
-2026-06-22 08:31 ACCEPT [Google News HH] "Indian Stock Market Opens Higher as Crude Oil Falls Below USD 80 - Ope" | kw:oil,crude
 2026-06-22 08:31 ACCEPT [Google News HH] "Crude oil prices fall up to 3 pc as US-Iran talks ease supply concerns" | kw:oil,crude,rice
 2026-06-22 08:31 ACCEPT [Google News KL] "Silver – Summer Rally Despite the Interest Rate Shock? - SMM Metal" | kw:silver,interest rate
 2026-06-22 08:31 ACCEPT [Google News KL] "Gold prices fall while silver edges higher - AzerNews" | kw:gold,silver,rice
@@ -20005,3 +19998,11 @@
 2026-07-28 07:01 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
 2026-07-28 07:01 ACCEPT [Google News CB] "Australian Central Bank Chief Says Economy Cooling, Unsure Rates High " | kw:central bank
 2026-07-28 07:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 07:31 ACCEPT [OilPrice.com] "Australia Eyes New Oil Refinery to Reduce Reliance on Imported Fuels" | kw:oil,fuel
+2026-07-28 07:31 ACCEPT [Google News HH] "Corn Falls on Monday as Crude Oil Retreats, Ratings Fall After the Clo" | kw:oil,crude,corn
+2026-07-28 07:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-28 07:31 ACCEPT [Google News KL] "Gold and Silver Prices Decline from January Peaks: August Forecast and" | kw:gold,silver,rice
+2026-07-28 07:31 ACCEPT [Google News NS] "Corn rebounds as heat dents US ratings, soybeans down - Business Recor" | kw:corn,soybean
+2026-07-28 07:31 ACCEPT [Google News CB] "Jordan Central Bank Aims to Cut Password Reliance Across Finance - Sto" | kw:central bank
+2026-07-28 07:31 ACCEPT [Google News CB] "BIO-key International and Central Bank of Jordan Advance National Biom" | kw:central bank,quantitative
+2026-07-28 07:31 SKIP_MORNING already_sent date=2026-07-28
