@@ -1,20 +1,3 @@
-2026-06-22 15:01 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 15:01 SKIP_EVENING already_sent date=2026-06-22
-2026-06-22 15:31 ACCEPT [Google News HH] "Women as Commodities - The Latin America Connection - DW.com" | kw:commodities
-2026-06-22 15:31 ACCEPT [Google News HH] "Why Soybean Oil Is Holding Strong While Crude Oil Slides - Barchart.co" | kw:oil,crude,soybean
-2026-06-22 15:31 ACCEPT [Google News HH] "Gold price back above $4,200 on US-Iran deal progress - Mining.com" | kw:gold,rice
-2026-06-22 15:31 ACCEPT [Google News HH] "North Carolina Bigs Are Becoming Hot Commodities on the Recruiting Tra" | kw:commodities
-2026-06-22 15:31 ACCEPT [Google News HH] "The Commodities Feed: Oil rises amid shaky start to US-Iran ceasefire " | kw:oil,commodities
-2026-06-22 15:31 ACCEPT [Google News KL] "Why Investors Are Turning to Silver in 2026 - investingLive" | kw:silver
-2026-06-22 15:31 ACCEPT [Google News NS] "Anti-Dumping Probe Targets Wheat Gluten Imports in Canada - Farms.com" | kw:wheat
-2026-06-22 15:31 ACCEPT [Google News NS] "Heatwave fuels rally in Euronext wheat while Chicago prices ease - ZAW" | kw:fuel,wheat,rice
-2026-06-22 15:31 ACCEPT [Google News NS] "Brazil's second corn crop harvesting accelerates, new season soybean p" | kw:corn,soybean,harvest
-2026-06-22 15:31 ACCEPT [Google News NS] "Brazil Cuts June Soybean Meal Export Forecast, but Shipments Remain We" | kw:soybean
-2026-06-22 15:31 ACCEPT [Google News CB] "Alan Greenspan, chair of Federal Reserve under 4 U.S. presidents, dies" | kw:federal reserve
-2026-06-22 15:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 15:31 SKIP_EVENING already_sent date=2026-06-22
-2026-06-22 16:01 ACCEPT [Al Jazeera] "US partially lifts Iran oil sanctions amid ‘encouraging’ talks" | kw:oil,sanction
-2026-06-22 16:01 ACCEPT [Al Jazeera] "Former US Federal Reserve Chairman Alan Greenspan dies at age 100" | kw:federal reserve
 2026-06-22 16:01 ACCEPT [OilPrice.com] "Russia Rations Fuel in Crimea as Ukraine Targets Oil Infrastructure" | kw:oil,fuel,shortage
 2026-06-22 16:01 ACCEPT [Google News HH] "Prof. Ken Ife analyzes international crude oil prices and its impact o" | kw:oil,crude,rice
 2026-06-22 16:01 ACCEPT [Google News HH] "Crude oil forecast: How much further can WTI fall? - FOREX.com" | kw:oil,crude,wti
@@ -20015,3 +19998,18 @@
 2026-07-28 14:31 ACCEPT [Google News CB] "Fed Rate Hike Fears and $465M ETF Exodus Drag Bitcoin to Weekly Low - " | kw:fed rate,rate hike
 2026-07-28 14:31 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 14:31 SKIP_EVENING already_sent date=2026-07-28
+2026-07-28 14:56 ACCEPT [BBC Business] "Energy prices rise by 19% in a year -report" | kw:rice,inflation
+2026-07-28 14:57 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD sits out the panic it was built for - FXS" | kw:gold,rice
+2026-07-28 14:57 ACCEPT [Google News HH] "Eurostat Crude Oil Supply Update May 2026: Germany and Italy at Zero, " | kw:oil,crude
+2026-07-28 14:57 ACCEPT [Google News NS] "Corn Up 4¼¢ | Tuesday, July 28, 2026 - Successful Farming" | kw:wti,corn
+2026-07-28 14:57 ACCEPT [Google News NS] "U.S. Biofuel Boom: What’s Driving Record Soybean Crush, and Will It Fu" | kw:fuel,soybean,rice
+2026-07-28 14:57 ACCEPT [Google News NS] "USA Rice’s Mexico trade mission reinforces relationships - World-Grain" | kw:rice
+2026-07-28 14:57 ACCEPT [Google News NS] "Canada Know-Risk Market Outlook | French Corn and N. American Weather " | kw:corn
+2026-07-28 14:57 ACCEPT [Google News NS] "CBOT corn drops after reaching 15-month high on Friday - Investing.com" | kw:corn
+2026-07-28 14:57 ACCEPT [Google News CB] "Will tough talk be enough? Fed Chair Warsh faces pressure to combat in" | kw:inflation
+2026-07-28 14:57 ACCEPT [Google News CB] "Forecasts for June PCE Show Cooling Inflation Ahead of Fed’s Next Meet" | kw:inflation
+2026-07-28 14:57 ACCEPT [Google News CB] "Treasury Yield Nears 5% as Fed Shifts Course - ETF Trends" | kw:treasury
+2026-07-28 14:57 ACCEPT [Google News CB] "Will New Fed Chair Kevin Warsh Shock the Market and Deliver a Surprise" | kw:rate hike
+2026-07-28 14:57 ACCEPT [Google News CB] "$4,000: Gold’s key support faces a crucial Fed test - FXStreet" | kw:gold
+2026-07-28 14:57 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 14:57 SKIP_EVENING already_sent date=2026-07-28
