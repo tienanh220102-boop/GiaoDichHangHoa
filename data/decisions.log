@@ -1,12 +1,3 @@
-2026-06-22 09:31 ACCEPT [Google News HH] "Gold Price Forecast: $4,230 Breakout Blueprint Targets 2H Ascending Tr" | kw:gold,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Truce Stability vs Policy Signa" | kw:gold,silver,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD holds gains near $66.00 on US-Iran peac" | kw:silver,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Invesco launches gold ETC - Funds Europe" | kw:gold
-2026-06-22 09:31 ACCEPT [Google News KL] "Gold Forecast 22/06: Drifted Lower (Video) - DailyForex" | kw:gold
-2026-06-22 09:31 ACCEPT [Google News KL] "Silver Price Forecast: $67.35 Breakout Target Anchors to 2H Dynamic Su" | kw:silver,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Egypt: Silver prices collectively drop on June 21 - ZAWYA" | kw:silver,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Silver Rates Today, June 22, 2026: Silver Price Holds Near Flat; 10-gr" | kw:silver,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Technical analysis of the S&P 500, EUR/GBP and silver price as they ad" | kw:silver,rice
 2026-06-22 09:31 ACCEPT [Google News KL] "India Gold Demand Slows in May–June 2026: Import Duties, Price Discoun" | kw:gold,rice
 2026-06-22 09:31 ACCEPT [Google News KL] "Egypt: Gold prices fall on June 21 - ZAWYA" | kw:gold,rice
 2026-06-22 09:31 ACCEPT [Google News NS] "Is a commodity exchange feasible in Bangladesh? - Prothom Alo English" | kw:commodity
@@ -20007,3 +19998,15 @@
 2026-07-28 10:01 ACCEPT [Google News CB] "Japan's Katayama touts 'smooth' government relations with BOJ - Reuter" | kw:boj
 2026-07-28 10:01 ACCEPT [Google News CB] "Indonesia's process to find 'fit and proper' central bank chief - Reut" | kw:central bank
 2026-07-28 10:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 10:25 ACCEPT [NASDAQ Commod] "Oil Extends Declines For Third Day Amid US-Iran Truce Hopes" | kw:oil
+2026-07-28 10:25 ACCEPT [Google News HH] "A 'Super El Niño' is expected to squeeze commodities even further this" | kw:commodities
+2026-07-28 10:25 ACCEPT [Google News HH] "Oil Market: Crude Oil Supply Glut May Emerge - Moomoo" | kw:oil,crude
+2026-07-28 10:25 ACCEPT [Google News HH] "Gold price in United Arab Emirates: Rates on July 28 - FXStreet" | kw:gold,rice
+2026-07-28 10:25 ACCEPT [Google News KL] "Africa's millionaire population grew 4.1% on gold prices as global wea" | kw:gold,rice
+2026-07-28 10:25 ACCEPT [Google News KL] "i-80 Gold Provides Update on Lone Tree Plant Refurbishment; Project Re" | kw:gold
+2026-07-28 10:25 ACCEPT [Google News CB] "Bar to Fed rate hike this week remains high even as markets see a chan" | kw:fed rate,rate hike
+2026-07-28 10:25 ACCEPT [Google News CB] "US bond market avoids big rate bets as inflation dims Fed outlook - Re" | kw:inflation
+2026-07-28 10:25 ACCEPT [Google News CB] "Fed Interest Rate Meeting Begins With a Hike on the Table and Another " | kw:interest rate
+2026-07-28 10:25 ACCEPT [Google News CB] "A Data-Bound Fed Leaves Gold and Silver Hanging on Each New Number - S" | kw:gold,silver
+2026-07-28 10:25 ACCEPT [Google News CB] "Warsh faces rate hike quandary in this week’s meeting - Washington Exa" | kw:rate hike
+2026-07-28 10:25 SKIP_MORNING already_sent date=2026-07-28
