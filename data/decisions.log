@@ -1,10 +1,3 @@
-2026-06-22 13:31 ACCEPT [Al Jazeera] "Pakistan issues nationwide alert over fears of heavy rains, floods" | kw:flood
-2026-06-22 13:31 ACCEPT [OilPrice.com] "China Builds New LNG Hub as Russian Imports Surge" | kw:gas,lng,sanction
-2026-06-22 13:31 ACCEPT [Google News HH] "Gold Price Analysis – Gold Drops at the Open - FXEmpire" | kw:gold,rice
-2026-06-22 13:31 ACCEPT [Google News KL] "Silver Price Today: Silver Rises 2.56% on June 22, 2026 - USA Today" | kw:silver,rice
-2026-06-22 13:31 ACCEPT [Google News KL] "Gold rebounds above $4,200 as markets weigh Fed hike risk, Iran progre" | kw:gold
-2026-06-22 13:31 ACCEPT [Google News KL] "Buy gold stocks as valuations are cheap amid macro tension: BofA - Inv" | kw:gold
-2026-06-22 13:31 ACCEPT [Google News KL] "Current price of gold as of June 22, 2026 - Fortune" | kw:gold,rice
 2026-06-22 13:31 ACCEPT [Google News KL] "Silver Price Analysis – Silver Drops to Kick Off the Week - FXEmpire" | kw:silver,rice
 2026-06-22 13:31 ACCEPT [Google News CB] "Jeffery Lacker on What a New Fed Treasury Accord Might Look Like - Mer" | kw:treasury
 2026-06-22 13:31 ACCEPT [Google News CB] "ECB's Lagarde plays down second-round inflation fears - Reuters" | kw:inflation,ecb
@@ -20005,3 +19998,15 @@
 2026-07-28 12:19 ACCEPT [Google News KL] "Thunder Gold Announces Warrant Exercise for CDN$1,085,416 - TradingVie" | kw:gold
 2026-07-28 12:19 ACCEPT [Google News NS] "Falling oil price drags wheat down - DCA Market Intelligence" | kw:oil,wheat,rice
 2026-07-28 12:19 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 12:31 ACCEPT [OilPrice.com] "Escalating Protests in Libya Threaten Oil and Gas Supply" | kw:oil,gas,fuel
+2026-07-28 12:31 ACCEPT [Google News HH] "WTI Crude Oil futures slide 7% as U.S.-Iran tensions ease. - CME Group" | kw:oil,crude,wti
+2026-07-28 12:31 ACCEPT [Google News HH] "Gold price outlook: $4,000 level tested amid Fed & rate risks - Invest" | kw:gold,rice
+2026-07-28 12:31 ACCEPT [Google News HH] "Gold Price Today: Gold Falls 2.17% on July 28, 2026 - USA Today" | kw:gold,rice
+2026-07-28 12:31 ACCEPT [Google News HH] "Brent Crude Oil Price Falls as Fed Rate Decision Comes Into Focus - Co" | kw:oil,crude,brent
+2026-07-28 12:31 ACCEPT [Google News NS] "Wheat futures surge on tight supplies, drought concerns - Farm Progres" | kw:wheat,drought
+2026-07-28 12:31 ACCEPT [Google News NS] "Large Wheat Options Trade Targets Sharp Price Rally - RFD-TV" | kw:wheat,rice
+2026-07-28 12:31 ACCEPT [Google News NS] "China's Strategic Soybean Auction: A Game Changer in Global Trade - De" | kw:soybean
+2026-07-28 12:31 ACCEPT [Google News NS] "UK future wheat markets break through £200/t threshold - Agriland UK" | kw:wheat
+2026-07-28 12:31 ACCEPT [Google News CB] "Brazil Inflation Slowed More Than Expected Ahead of Rate Meeting - Blo" | kw:inflation
+2026-07-28 12:31 ACCEPT [Google News CB] "Why BofA says July Fed rate hike would be "unprecedented" - Investing." | kw:fed rate,rate hike
+2026-07-28 12:31 SKIP_MORNING already_sent date=2026-07-28
