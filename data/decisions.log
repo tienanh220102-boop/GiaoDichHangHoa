@@ -1,11 +1,3 @@
-2026-06-22 08:31 ACCEPT [Google News HH] "Crude oil prices fall up to 3 pc as US-Iran talks ease supply concerns" | kw:oil,crude,rice
-2026-06-22 08:31 ACCEPT [Google News KL] "Silver – Summer Rally Despite the Interest Rate Shock? - SMM Metal" | kw:silver,interest rate
-2026-06-22 08:31 ACCEPT [Google News KL] "Gold prices fall while silver edges higher - AzerNews" | kw:gold,silver,rice
-2026-06-22 08:31 ACCEPT [Google News KL] "Morgan Stanley’s Latest Assessment: Three Variables for Gold’s Rise to" | kw:oil,gold
-2026-06-22 08:31 ACCEPT [Google News KL] "Gold, silver prices rise in domestic market - Onlinekhabar English" | kw:gold,silver,rice
-2026-06-22 08:31 ACCEPT [Google News KL] "Gold prices fall, silver rises on global markets - Azərtac" | kw:gold,silver,rice
-2026-06-22 08:31 ACCEPT [Google News NS] "2025 ARC/PLC Payment Update: What Corn, Soybean & Wheat Farmers Can Ex" | kw:wheat,corn,soybean
-2026-06-22 08:31 ACCEPT [Google News CB] "AI boom's US employment, wage impact muted so far, ECB study finds - R" | kw:ecb
 2026-06-22 08:31 ACCEPT [Google News CB] "Afreximbank signs US$500 million term loan facility with the Central B" | kw:central bank
 2026-06-22 08:31 ACCEPT [Google News CB] "A change of pace at China’s central bank - The Economist" | kw:central bank
 2026-06-22 08:31 ACCEPT [Google News CB] "Escrivá Says ECB Must Be Vigilant on Oil Price Impact on Wages - Bloom" | kw:oil,rice,ecb
@@ -20006,3 +19998,4 @@
 2026-07-28 07:31 ACCEPT [Google News CB] "Jordan Central Bank Aims to Cut Password Reliance Across Finance - Sto" | kw:central bank
 2026-07-28 07:31 ACCEPT [Google News CB] "BIO-key International and Central Bank of Jordan Advance National Biom" | kw:central bank,quantitative
 2026-07-28 07:31 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 07:37 SKIP_MORNING already_sent date=2026-07-28
