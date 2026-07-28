@@ -1,12 +1,3 @@
-2026-06-22 08:01 ACCEPT [CNBC Commodities] "Gold slumps to 6-month low even as inflation fears rise. Here's why bu" | kw:gold,rice,inflation
-2026-06-22 08:01 ACCEPT [CNBC Economy] "UK inflation holds steady at 2.8% in May" | kw:inflation,monetary policy,bank of england
-2026-06-22 08:01 ACCEPT [CNBC Economy] "ECB hikes interest rates for first time since 2023 as Iran war ramps u" | kw:inflation,central bank,interest rate
-2026-06-22 08:01 ACCEPT [CNBC Economy] "Consumer prices rose 4.2% annually in May, highest in three years" | kw:rice
-2026-06-22 08:01 ACCEPT [CNBC Economy] "Energy prices take center stage as the ECB prepares to decide on rates" | kw:rice,inflation,ecb
-2026-06-22 08:01 ACCEPT [CNBC Economy] "Iran war cost: Average U.S. household paying $450 more on gas and ener" | kw:gas
-2026-06-22 08:01 ACCEPT [OilPrice.com] "Hormuz Crisis Sparks a Middle East Pipeline Boom" | kw:oil,crude,lng
-2026-06-22 08:01 ACCEPT [OilPrice.com] "Why Small Modular Reactors Are Becoming a National Security Priority" | kw:tariff
-2026-06-22 08:01 ACCEPT [Mining.com] "Mining’s nuclear reality check: SMRs are still not on miners’ shopping" | kw:easing
 2026-06-22 08:01 ACCEPT [Mining.com] "Kristi Noem joins British Columbia copper junior in advisory role" | kw:copper
 2026-06-22 08:01 ACCEPT [Mining.com] "Fortuna wins key approval for Senegal gold project" | kw:gold
 2026-06-22 08:01 ACCEPT [Mining.com] "Barclays sees gold pullback as ‘reset’, keeps bullish outlook" | kw:gold
@@ -20007,3 +19998,10 @@
 2026-07-28 04:01 ACCEPT [Google News CB] "Japan finance minister says government's relationship with BOJ 'smooth" | kw:boj
 2026-07-28 04:01 ACCEPT [Google News CB] "RBA’s chief unsure if more rate hikes needed to tame inflation - The M" | kw:inflation,rate hike
 2026-07-28 04:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 04:31 ACCEPT [Google News HH] "Stocks open higher on Wall Street and crude oil prices drop 6% as Mide" | kw:oil,crude,rice
+2026-07-28 04:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD falls to near $57.50 despite easing Fed" | kw:silver,rice,easing
+2026-07-28 04:31 ACCEPT [Google News KL] "Gold price in Malaysia: Rates on July 28 - FXStreet" | kw:gold,rice
+2026-07-28 04:31 ACCEPT [Google News KL] "Gold, silver prices today, 28 July: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
+2026-07-28 04:31 ACCEPT [Google News CB] "RBA’s chief unsure if more rate hikes needed to tame inflation - WTVB" | kw:inflation,rate hike
+2026-07-28 04:31 ACCEPT [Google News CB] "S&P flags Indonesia policy uncertainty after central bank governor qui" | kw:wti,central bank
+2026-07-28 04:31 SKIP_MORNING already_sent date=2026-07-28
