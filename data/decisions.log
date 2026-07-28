@@ -1,12 +1,3 @@
-2026-06-22 07:31 ACCEPT [Google News CB] "Fed Pressure and Geopolitical Factors Determine the Next Direction of " | kw:gold
-2026-06-22 07:31 ACCEPT [Google News CB] "Gold clings to intraday gains near $4,200 as sliding Oil prices ease i" | kw:oil,gold,rice
-2026-06-22 07:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 08:01 ACCEPT [BBC Business] "Five ways the Iran peace deal could affect you and your money" | kw:gas,fuel,rice
-2026-06-22 08:01 ACCEPT [BBC Business] "Struggling Pizza Hut chain to be sold for $2.7bn" | kw:easing
-2026-06-22 08:01 ACCEPT [The Guardian Biz] "Federal Reserve holds rates steady but signals possible hike before ye" | kw:interest rate,rate hike,federal reserve
-2026-06-22 08:01 ACCEPT [The Guardian Biz] "EV prices in UK and EU not likely to dive due to Chinese rivalry, says" | kw:rice
-2026-06-22 08:01 ACCEPT [Al Jazeera] "Explosion at Qatar’s Ras Laffan LNG facility injures 54, leaves 18 mis" | kw:lng
-2026-06-22 08:01 ACCEPT [CNBC Commodities] "The average SpaceX buyer post-IPO is almost under water after two-day " | kw:rice
 2026-06-22 08:01 ACCEPT [CNBC Commodities] "Gold slumps to 6-month low even as inflation fears rise. Here's why bu" | kw:gold,rice,inflation
 2026-06-22 08:01 ACCEPT [CNBC Economy] "UK inflation holds steady at 2.8% in May" | kw:inflation,monetary policy,bank of england
 2026-06-22 08:01 ACCEPT [CNBC Economy] "ECB hikes interest rates for first time since 2023 as Iran war ramps u" | kw:inflation,central bank,interest rate
@@ -20007,3 +19998,12 @@
 2026-07-28 03:31 ACCEPT [Google News CB] "Monetary Policy in an Era of Shocks | Speeches - rba.gov.au" | kw:monetary policy
 2026-07-28 03:31 ACCEPT [Google News CB] "ECB's Kazimir Says At Least One More Rate Hike Is Needed - Briefs Fina" | kw:rate hike,ecb
 2026-07-28 03:31 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 04:01 ACCEPT [Al Jazeera] "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converg" | kw:sanction
+2026-07-28 04:01 ACCEPT [Google News HH] "Palm Oil Continues Recent Decline on Weaker Crude Oil - TradingView" | kw:oil,crude
+2026-07-28 04:01 ACCEPT [Google News KL] "Gold declines despite easing concerns over inflation, interest rate hi" | kw:gold,inflation,interest rate
+2026-07-28 04:01 ACCEPT [Google News KL] "Fed rate hike bets ease: Why the Silver is falling? - FXStreet" | kw:silver,fed rate,rate hike
+2026-07-28 04:01 ACCEPT [Google News KL] "Austral Resources Withdraws from Anthill Project Agreement to Focus on" | kw:copper
+2026-07-28 04:01 ACCEPT [Google News CB] "Gold slips as firm dollar weighs; focus turns to Fed meeting - CNBC" | kw:gold
+2026-07-28 04:01 ACCEPT [Google News CB] "Japan finance minister says government's relationship with BOJ 'smooth" | kw:boj
+2026-07-28 04:01 ACCEPT [Google News CB] "RBA’s chief unsure if more rate hikes needed to tame inflation - The M" | kw:inflation,rate hike
+2026-07-28 04:01 SKIP_MORNING already_sent date=2026-07-28
