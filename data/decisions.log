@@ -1,5 +1,3 @@
-2026-06-23 02:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 03:01 ACCEPT [Google News HH] "Problematic Rates Hold Back Relief Rally as Crude Oil Falls on Iran Pr" | kw:oil,crude
 2026-06-23 03:01 ACCEPT [Google News HH] "Commodity Corner: Crude oil claws back losses while gold pauses as tra" | kw:oil,crude,gold
 2026-06-23 03:01 ACCEPT [Google News HH] "Gold ETFs continue to experience outflows, and institutions have lower" | kw:gold,rice
 2026-06-23 03:01 ACCEPT [Google News KL] "AbraSilver's Definitive Feasibility Study Positions Diablillos Among t" | kw:gold,silver
@@ -20000,3 +19998,9 @@
 2026-07-28 22:53 ACCEPT [Google News KL] "Gold Price Forecast Lowered by Commerzbank Amid Iran War and Fed Tight" | kw:gold,rice,tightening
 2026-07-28 23:01 ACCEPT [OilPrice.com] "Oil Prices Ignore the Warning Signs in Physical Markets" | kw:oil,rice
 2026-07-28 23:01 ACCEPT [Google News HH] "Renewed Iran War Affects Gas Prices - Z100 Portland" | kw:gas,rice
+2026-07-28 23:31 ACCEPT [Al Jazeera] "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker" | kw:oil
+2026-07-28 23:31 ACCEPT [NASDAQ Commod] "Top 5 Canadian Mining Stocks This Week: Grid Metals Rises 56 Percent" | kw:rice,inflation,easing
+2026-07-28 23:31 ACCEPT [Google News HH] "Gold tests $4,000 as silver struggles at $60: Why a spike may be next " | kw:gold,silver
+2026-07-28 23:31 ACCEPT [Google News KL] "Gold prices in Bangladesh market drops a day after hike - New Age BD" | kw:gold,rice
+2026-07-28 23:31 ACCEPT [Google News NS] "Corn Futures Rebound as USDA Crop Ratings Drop, Lifting Grain Market S" | kw:corn
+2026-07-28 23:31 ACCEPT [Google News NS] "USA Rice’s Mexico trade mission reinforces relationships - World Grain" | kw:rice
