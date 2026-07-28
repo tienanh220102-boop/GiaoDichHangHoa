@@ -1,13 +1,3 @@
-2026-06-22 08:01 ACCEPT [NASDAQ Commod] "Crude Oil Slides As Strait Of Hormuz Reopens Following U.S.-Iran Inter" | kw:oil,crude,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Silver Price Today | Silver Spot Price Charts - SD Bullion" | kw:silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Robert Kiyosaki makes stunning prediction on gold and silver prices - " | kw:gold,silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Gold, silver prices today, June 22: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Gold prices rebound to $4,176.52 as U.S.-Iran talks progress, Fed rate" | kw:gold,rice,fed rate
-2026-06-22 08:01 ACCEPT [Google News KL] "Gold prices drop by over 20%, offers glittering buying opportunity - t" | kw:gold,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Silver Price Analysis: XAG/USD advances above $66.00, but below key re" | kw:silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Hong Kong Market Moves | Gold Stocks Lead Declines as Fed Rate Cut Hop" | kw:gold,rice,fed rate
-2026-06-22 08:01 ACCEPT [Google News KL] "Gold, silver prices climb in Nepali market - myRepublica" | kw:gold,silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Eldorado Gold Corporation: Well Positioned To Take Advantage Of Elevat" | kw:gold,rice
 2026-06-22 08:01 ACCEPT [Google News KL] "🔴 First Trade Live Updates: Stock Market | Gold & Silver Price | Stock" | kw:gold,silver,rice
 2026-06-22 08:01 ACCEPT [Google News KL] "Should You Buy ANY Xbox In 2026? Gold Price In India (VTJc3gyF2y) - Ms" | kw:gold,rice
 2026-06-22 08:01 ACCEPT [Google News KL] "Gold, silver fall as US-Iran talks and oil prices loom - MSN" | kw:oil,gold,silver
@@ -20008,3 +19998,5 @@
 2026-07-28 04:58 ACCEPT [Google News NS] "After 16 years in business: Salvi's closes its original Corn Exchange " | kw:corn
 2026-07-28 04:58 ACCEPT [Google News CB] "Indian central bank likely intervenes to bolster rupee, traders say - " | kw:central bank
 2026-07-28 04:58 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 05:01 ACCEPT [Google News HH] "THE CLOSING BELL: Stocks drift on Wall Street and crude oil prices dro" | kw:oil,crude,rice
+2026-07-28 05:01 SKIP_MORNING already_sent date=2026-07-28
