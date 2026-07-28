@@ -1,18 +1,3 @@
-2026-06-22 23:31 ACCEPT [OilPrice.com] "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets" | kw:oil,rice
-2026-06-22 23:31 ACCEPT [Google News HH] "Residents cleaning up after crude oil, salt brine spill - WFMJ" | kw:oil,crude
-2026-06-22 23:31 ACCEPT [Google News HH] "Crude Oil Prices Tumble on US-Iran Peace Progress - TradingView" | kw:oil,crude,rice
-2026-06-22 23:31 ACCEPT [Google News HH] "Outlook for Crude Oil Prices: How Much Further Can WTI Crude Fall? - 富" | kw:oil,crude,wti
-2026-06-22 23:31 ACCEPT [Google News KL] "Iran Deal. Oil Falling. A PM Out. Gold Still Above $4,100. - GoldSilve" | kw:oil,gold,silver
-2026-06-22 23:31 ACCEPT [Google News KL] "Gold rises as US-Iran peace optimism pulls oil prices lower - Reuters" | kw:oil,gold,rice
-2026-06-22 23:31 ACCEPT [Google News KL] "Gold Price Outlook H2 2026: Morgan Stanley Says ETF Demand Key Missing" | kw:gold,rice
-2026-06-22 23:31 ACCEPT [Google News KL] "Why Silver Prices Move Daily and What Market Watchers Track - CEOWORLD" | kw:silver,rice
-2026-06-22 23:31 ACCEPT [Google News CB] "Chicago Fed’s Goolsbee says too-high inflation is ‘going the wrong way" | kw:inflation
-2026-06-23 00:01 ACCEPT [OilPrice.com] "How Many Barrels of Oil Do AI Data Centers Consume on a Daily Basis?" | kw:oil
-2026-06-23 00:01 ACCEPT [Google News HH] "Crude oil adds to losses on potential progress in U.S.-Iran talks (USO" | kw:oil,crude
-2026-06-23 00:01 ACCEPT [Google News HH] "Sugar Prices Slide Amid Crude Oil Weakness - Yahoo Finance" | kw:oil,crude,rice
-2026-06-23 00:01 ACCEPT [Google News KL] "Bank of America Revises Gold Price Target Downward Amid Fed Rate Hike " | kw:gold,rice,fed rate
-2026-06-23 00:01 ACCEPT [Google News KL] "Gold holds steady near $4,200 as US–Iran peace progress offset by Fed " | kw:gold
-2026-06-23 00:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD Tests Key Fibonacci Level Near $75.75 a" | kw:silver,rice
 2026-06-23 00:01 ACCEPT [Google News CB] "Fed’s Goolsbee Says Too-High Inflation Is ‘Going the Wrong Way’ - Bloo" | kw:inflation
 2026-06-23 00:02 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
 2026-06-23 00:02 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
@@ -20013,3 +19998,12 @@
 2026-07-28 21:31 ACCEPT [Google News CB] "The Fed should hike interest rates, says SMBC’s Joe Lavorgna - CNBC" | kw:interest rate
 2026-07-28 21:31 ACCEPT [Google News CB] "Renewed inflation fears complicate Fed's next rate decision - WTVC" | kw:inflation,gdp,rate decision
 2026-07-28 21:31 ACCEPT [Google News CB] "NYSE strategist talks Fed game plan as ICE Brent Crude falls below $90" | kw:crude,brent
+2026-07-28 21:56 ACCEPT [Google News HH] "Dollar Slips as Crude Oil Prices and T-Note Yields Fall - Barchart.com" | kw:oil,crude,rice
+2026-07-28 21:56 ACCEPT [Google News HH] "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Res" | kw:oil,crude
+2026-07-28 21:56 ACCEPT [Google News HH] "US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Cr" | kw:oil,crude
+2026-07-28 21:56 ACCEPT [Google News KL] "Gold and silver slip to one-week lows ahead of Fed interest rate decis" | kw:gold,silver,interest rate
+2026-07-28 21:56 ACCEPT [Google News KL] "Haywood cuts gold forecasts but says miners remain attractive - Mining" | kw:gold
+2026-07-28 21:56 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
+2026-07-28 21:56 ACCEPT [Google News CB] "July FOMC Preview: Patience Meets Division: The Warsh Fed Faces Its Fi" | kw:fomc
+2026-07-28 21:56 ACCEPT [Google News CB] "Renewed inflation fears complicate Fed's next rate decision - KATV" | kw:inflation,rate decision
+2026-07-28 21:56 ACCEPT [Google News CB] "Fed interest-rate decision could stun Wall Street this week - thestree" | kw:rate decision
