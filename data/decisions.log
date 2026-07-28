@@ -1,9 +1,3 @@
-2026-06-23 03:01 ACCEPT [Google News HH] "Commodity Corner: Crude oil claws back losses while gold pauses as tra" | kw:oil,crude,gold
-2026-06-23 03:01 ACCEPT [Google News HH] "Gold ETFs continue to experience outflows, and institutions have lower" | kw:gold,rice
-2026-06-23 03:01 ACCEPT [Google News KL] "AbraSilver's Definitive Feasibility Study Positions Diablillos Among t" | kw:gold,silver
-2026-06-23 03:01 ACCEPT [Google News KL] "BITCOIN GOLD Price, BTG Price, Live Charts, and Marketcap: bitcoin pri" | kw:wti,gold,rice
-2026-06-23 03:01 ACCEPT [Google News CB] "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Act" | kw:federal reserve
-2026-06-23 03:01 SKIP_MORNING already_sent date=2026-06-23
 2026-06-23 03:31 ACCEPT [Al Jazeera] "Alan Greenspan, former US Federal Reserve chairman, dies at 100" | kw:federal reserve
 2026-06-23 03:31 ACCEPT [Google News HH] "WTI Crude Oil Surges as Renewed Iran Gulf Tensions and Sharp US Invent" | kw:oil,crude,wti
 2026-06-23 03:31 ACCEPT [Google News KL] "The Iran-U.S. agreement boosted gold prices by 1%, but significant div" | kw:gold,rice
@@ -20004,3 +19998,10 @@
 2026-07-28 23:31 ACCEPT [Google News KL] "Gold prices in Bangladesh market drops a day after hike - New Age BD" | kw:gold,rice
 2026-07-28 23:31 ACCEPT [Google News NS] "Corn Futures Rebound as USDA Crop Ratings Drop, Lifting Grain Market S" | kw:corn
 2026-07-28 23:31 ACCEPT [Google News NS] "USA Rice’s Mexico trade mission reinforces relationships - World Grain" | kw:rice
+2026-07-28 23:52 ACCEPT [Google News HH] "Houthi threat triggers tanker crunch as Saudi oil reroutes - S&P Globa" | kw:oil
+2026-07-28 23:52 ACCEPT [Google News NS] "Sweet corn, peaches draw shoppers to Sedalia Area Farmers Market - Sed" | kw:corn
+2026-07-28 23:52 ACCEPT [Google News NS] "Wheat firms as market players monitor Black Sea hostilities - TradingV" | kw:wheat
+2026-07-28 23:52 ACCEPT [Google News NS] "Provinces demand 2.2MMT of wheat - The Express Tribune" | kw:wheat
+2026-07-28 23:52 ACCEPT [Google News CB] "Will tough talk be enough? Fed Chair Warsh faces pressure to combat in" | kw:inflation
+2026-07-28 23:52 ACCEPT [Google News CB] "Gold Edges Lower as Traders Assess Prospects for Fed Rate Hike - Bloom" | kw:gold,fed rate,rate hike
+2026-07-28 23:52 ACCEPT [Google News CB] "Market Chatter: Argentina Central Bank Pauses Dollar Purchases After S" | kw:central bank
