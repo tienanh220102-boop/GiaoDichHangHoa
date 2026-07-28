@@ -1,11 +1,3 @@
-2026-06-22 17:31 ACCEPT [The Guardian Biz] "Job scams are growing and getting tougher to spot: ‘That’s the reality" | kw:flood
-2026-06-22 17:31 ACCEPT [The Guardian Biz] "‘Every time you turn around, there’s a new price increase’: US small-b" | kw:fuel,rice,inflation
-2026-06-22 17:31 ACCEPT [Al Jazeera] "Will a US-Iran deal transform the Iranian economy?" | kw:oil
-2026-06-22 17:31 ACCEPT [OilPrice.com] "Saudis Turn to Russian Fuel Oil as Iran War Saps Fossil Power Supplies" | kw:oil,gas,fuel
-2026-06-22 17:31 ACCEPT [Mining.com] "China lithium price slides on speculation over CATL mine restart" | kw:rice
-2026-06-22 17:31 ACCEPT [Mining.com] "Alamos logs multiple high-grade hits at Island Gold" | kw:gold
-2026-06-22 17:31 ACCEPT [Mining.com] "Gold price back above $4,200 on US-Iran deal progress" | kw:gold,rice
-2026-06-22 17:31 ACCEPT [Google News HH] "What’s Next for Crude Oil as Peace Efforts Continue? - Investing.com" | kw:oil,crude
 2026-06-22 17:31 ACCEPT [Google News HH] "As Crude Oil Prices Fall, Make This 1 Bullish Trade Instead - Barchart" | kw:oil,crude,rice
 2026-06-22 17:31 ACCEPT [Google News HH] "Crude oil trades above and below its key 200 day MA at $73.63 - invest" | kw:oil,crude
 2026-06-22 17:31 ACCEPT [Google News HH] "US issues 60-day Iran oil sales sanctions waiver - Quantum Commodity I" | kw:oil,commodity,sanction
@@ -20006,3 +19998,9 @@
 2026-07-28 16:29 ACCEPT [Google News CB] "Case: Patents/JMOL (Fed. Cir.) - Bloomberg Law News" | kw:lng
 2026-07-28 16:29 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 16:29 SKIP_EVENING already_sent date=2026-07-28
+2026-07-28 16:31 ACCEPT [Google News HH] "BGN Emerges as Key Trader in Kazakhstan’s Crude Oil Exports - Bloomber" | kw:oil,crude,wti
+2026-07-28 16:31 ACCEPT [Google News HH] "Sugar Prices Fall as Crude Oil Plunges - Barchart.com" | kw:oil,crude,rice
+2026-07-28 16:31 ACCEPT [Google News KL] "Gold Drops as Firm Dollar, Fed Uncertainty Weigh - TradingView" | kw:gold
+2026-07-28 16:31 ACCEPT [Google News CB] "S&P 500 volatility outlook around tomorrow’s Fed rate decision - Inves" | kw:fed rate,rate decision
+2026-07-28 16:31 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 16:31 SKIP_EVENING already_sent date=2026-07-28
