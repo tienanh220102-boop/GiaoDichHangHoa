@@ -1,11 +1,3 @@
-2026-06-23 01:31 ACCEPT [Google News KL] "AbraSilver's Definitive Feasibility Study Positions Diablillos Among t" | kw:gold,silver
-2026-06-23 01:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 02:01 ACCEPT [Google News HH] "Commodities intraday targets/key levels - TradingView" | kw:commodities
-2026-06-23 02:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD slips to near $64.50 due to hawkish Fed" | kw:silver,rice
-2026-06-23 02:01 ACCEPT [Google News CB] "Asia shares slip as markets reprice Fed expectations, oil gains - Reut" | kw:oil,rice
-2026-06-23 02:01 ACCEPT [Google News CB] "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low - " | kw:oil
-2026-06-23 02:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 02:31 ACCEPT [Google News HH] "Plains Expands Permian Crude Bet, Ups Spend Nearly 30% as Egress Tight" | kw:crude
 2026-06-23 02:31 ACCEPT [Google News KL] "GoPro Self Camera Of LA To Banff Trip Music Video Silver Price Today (" | kw:silver,rice
 2026-06-23 02:31 ACCEPT [Google News NS] "Crop progress: Southern state corn is now silking - Farm Progress" | kw:corn
 2026-06-23 02:31 SKIP_MORNING already_sent date=2026-06-23
@@ -20006,3 +19998,5 @@
 2026-07-28 22:31 ACCEPT [Google News KL] "Consumer Confidence Fell for the Third Month in a Row. Gold Fell Too. " | kw:gold,silver
 2026-07-28 22:31 ACCEPT [Google News CB] "Renewed inflation fears complicate Fed's next rate decision - WBFF" | kw:inflation,rate decision
 2026-07-28 22:31 ACCEPT [Google News CB] "Terry Savage: Will the new Fed Chair announce an interest rate increas" | kw:interest rate
+2026-07-28 22:53 ACCEPT [Google News HH] "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June" | kw:oil,crude
+2026-07-28 22:53 ACCEPT [Google News KL] "Gold Price Forecast Lowered by Commerzbank Amid Iran War and Fed Tight" | kw:gold,rice,tightening
