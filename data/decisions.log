@@ -1,4 +1,3 @@
-2026-06-22 08:31 ACCEPT [Google News CB] "Afreximbank signs US$500 million term loan facility with the Central B" | kw:central bank
 2026-06-22 08:31 ACCEPT [Google News CB] "A change of pace at China’s central bank - The Economist" | kw:central bank
 2026-06-22 08:31 ACCEPT [Google News CB] "Escrivá Says ECB Must Be Vigilant on Oil Price Impact on Wages - Bloom" | kw:oil,rice,ecb
 2026-06-22 08:31 ACCEPT [Google News CB] "European bonds gain as Mideast diplomacy sparks relief; ECB in focus -" | kw:ecb
@@ -19999,3 +19998,12 @@
 2026-07-28 07:31 ACCEPT [Google News CB] "BIO-key International and Central Bank of Jordan Advance National Biom" | kw:central bank,quantitative
 2026-07-28 07:31 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 07:37 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 08:01 ACCEPT [Google News HH] "Gold price prediction today: Will gold prices stay range-bound? Check " | kw:gold,rice
+2026-07-28 08:01 ACCEPT [Google News HH] "Crude Oil Futures Fall on Weak Global Cues - Rediff MoneyWiz" | kw:oil,crude
+2026-07-28 08:01 ACCEPT [Google News KL] "Month-end transactions were quiet, Shanghai spot copper premiums fell " | kw:copper
+2026-07-28 08:01 ACCEPT [Google News KL] "Silver Price Forecast Today: XAG/USD Tests $56.81 Support Ahead of Fed" | kw:silver,rice
+2026-07-28 08:01 ACCEPT [Google News KL] "Citi maintains its near-term gold price forecast at USD 4,500. - 富途牛牛" | kw:gold,rice
+2026-07-28 08:01 ACCEPT [Google News NS] "Corn over $5 or below $4? USDA numbers widen price spread - Farm Progr" | kw:corn,rice
+2026-07-28 08:01 ACCEPT [Google News NS] "Hazardous Heat in the Midwest Is Stoking Corn and Soybean Prices. What" | kw:corn,soybean,rice
+2026-07-28 08:01 ACCEPT [Google News NS] "Argentina's Wheat Output to Fall 23% as Black Sea War Disruptions Tigh" | kw:wheat
+2026-07-28 08:01 SKIP_MORNING already_sent date=2026-07-28
