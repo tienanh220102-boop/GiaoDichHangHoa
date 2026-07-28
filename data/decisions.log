@@ -1,5 +1,3 @@
-2026-06-22 08:01 ACCEPT [Google News KL] "🔴 First Trade Live Updates: Stock Market | Gold & Silver Price | Stock" | kw:gold,silver,rice
-2026-06-22 08:01 ACCEPT [Google News KL] "Should You Buy ANY Xbox In 2026? Gold Price In India (VTJc3gyF2y) - Ms" | kw:gold,rice
 2026-06-22 08:01 ACCEPT [Google News KL] "Gold, silver fall as US-Iran talks and oil prices loom - MSN" | kw:oil,gold,silver
 2026-06-22 08:01 ACCEPT [Google News KL] "Gold, silver prices rise in domestic market - The Rising Nepal" | kw:gold,silver,rice
 2026-06-22 08:01 ACCEPT [Google News KL] "The Champ - SNL Silver Price Today (eSVotC9AOq) - Fathom Journal" | kw:silver,rice
@@ -20000,3 +19998,10 @@
 2026-07-28 04:58 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 05:01 ACCEPT [Google News HH] "THE CLOSING BELL: Stocks drift on Wall Street and crude oil prices dro" | kw:oil,crude,rice
 2026-07-28 05:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 05:31 ACCEPT [Google News HH] "Stocks waver on Wall Street while crude oil prices fall for the first " | kw:oil,crude,rice
+2026-07-28 05:31 ACCEPT [Google News HH] "Crude oil prices drop as Mideast tensions cool - timesdaily.com" | kw:oil,crude,rice
+2026-07-28 05:31 ACCEPT [Google News HH] "Gold price in Philippines: Rates on July 28 - FXStreet" | kw:gold,rice
+2026-07-28 05:31 ACCEPT [Google News KL] "Gold prices decline - VnExpress International" | kw:gold,rice
+2026-07-28 05:31 ACCEPT [Google News CB] "Policy tensions grew before the sudden resignation of Indonesia's cent" | kw:central bank
+2026-07-28 05:31 ACCEPT [Google News CB] "Gold slips as firm dollar weighs; focus turns to Fed meeting - CNBC" | kw:gold
+2026-07-28 05:31 SKIP_MORNING already_sent date=2026-07-28
