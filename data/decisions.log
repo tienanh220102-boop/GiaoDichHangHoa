@@ -1,15 +1,3 @@
-2026-06-22 09:31 ACCEPT [Google News KL] "India Gold Demand Slows in May–June 2026: Import Duties, Price Discoun" | kw:gold,rice
-2026-06-22 09:31 ACCEPT [Google News KL] "Egypt: Gold prices fall on June 21 - ZAWYA" | kw:gold,rice
-2026-06-22 09:31 ACCEPT [Google News NS] "Is a commodity exchange feasible in Bangladesh? - Prothom Alo English" | kw:commodity
-2026-06-22 09:31 ACCEPT [Google News CB] "Education Department Announces Student Loan Interest Rate Reduction fo" | kw:interest rate
-2026-06-22 09:31 ACCEPT [Google News CB] "European Central Bank must monitor wage impact from rising oil prices," | kw:oil,rice,central bank
-2026-06-22 09:31 ACCEPT [Google News CB] "Economic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shi" | kw:inflation
-2026-06-22 09:31 ACCEPT [Google News CB] "Gold maintains the bearish bias following the hawkish Fed decision; fo" | kw:gold,gdp
-2026-06-22 09:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 10:01 ACCEPT [Google News HH] "Cooling crude oil prices temper Vietnam"s oil and gas stock rally - Vi" | kw:oil,crude,gas
-2026-06-22 10:01 ACCEPT [Google News HH] "Goldman Sachs revisits its gold price target after Fed meeting - AOL.c" | kw:gold,rice
-2026-06-22 10:01 ACCEPT [Google News HH] "Goldman Sachs lowers gold price forecast on no Fed cuts this year - 巴士" | kw:gold,rice
-2026-06-22 10:01 ACCEPT [Google News HH] "Commodity market live: Understanding gold, silver & crude oil price mo" | kw:oil,crude,gold
 2026-06-22 10:01 ACCEPT [Google News KL] "Silver price today: rises on June 22 - FXStreet" | kw:wti,silver,rice
 2026-06-22 10:01 ACCEPT [Google News KL] "Rising gold prices reshape engagement ring market as material value dy" | kw:gold,rice
 2026-06-22 10:01 ACCEPT [Google News NS] "Harbor Commodity All-Weather Strategy ETF Q1 2026 Commentary - Seeking" | kw:commodity
@@ -20010,3 +19998,7 @@
 2026-07-28 10:25 ACCEPT [Google News CB] "A Data-Bound Fed Leaves Gold and Silver Hanging on Each New Number - S" | kw:gold,silver
 2026-07-28 10:25 ACCEPT [Google News CB] "Warsh faces rate hike quandary in this week’s meeting - Washington Exa" | kw:rate hike
 2026-07-28 10:25 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 10:31 ACCEPT [OilPrice.com] "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Pers" | kw:oil
+2026-07-28 10:31 ACCEPT [Google News NS] "Prices for Grain and Oilseeds: June Market Overview - Новини аграрного" | kw:oil,rice
+2026-07-28 10:31 ACCEPT [Google News CB] "Market to look out for hints of next rate hike from BOJ - The Japan Ti" | kw:rate hike,boj
+2026-07-28 10:31 SKIP_MORNING already_sent date=2026-07-28
