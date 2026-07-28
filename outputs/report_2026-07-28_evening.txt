@@ -1,0 +1,72 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          80.96   -2.0%    -4.7%
+Brent        86.41   -2.2%    -5.0%
+Khí TN       2.745   -0.8%    -4.2%
+Vàng      4,033.60   -1.0%    -0.9%
+Bạc          57.60   -1.5%    -2.1%
+Đồng         6.324   -0.2%    -2.9%
+Ngô         475.50   +5.3%    +5.0%
+Lúa mì      655.00   -0.8%    -3.4%
+Đậu t.    1,208.75   +0.0%    -0.9%
+DXY         101.53   +0.1%    +0.5%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): Lúa mì 4.0× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $5.45 (1 tháng trước: $2.76) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 70.0 (1 tháng trước: 68.9) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.57 (1 tháng trước: 1.51) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-21]
+  Lúa mì (SRW): NET SHORT -7,009 (Δ tuần: +9,330)
+  Ngô: NET LONG +186,650 (Δ tuần: +55,187)
+  Đậu tương: NET LONG +175,646 (Δ tuần: +50,243)
+  Dầu WTI: NET LONG +12,514 (Δ tuần: -4,340)
+  Bạc: NET LONG +23,465 (Δ tuần: -1,609)
+  Đồng: NET LONG +73,977 (Δ tuần: +9,592)
+  Vàng XAU: NET LONG +183,910 (Δ tuần: -2,772)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+Dưới đây là báo cáo phân tích thị trường hàng hóa NGẮN GỌN, tập trung vào các nhóm hàng hóa có biến động đáng chú ý trong phiên Mỹ ngày 2026-07-28:
+
+---
+
+🌍 **VĨ MÔ**
+Thị trường hàng hóa chịu áp lực giảm từ quyết định lãi suất sắp tới của Fed, khiến đồng USD mạnh lên nhẹ và lợi suất trái phiếu kho bạc giảm. Tâm lý thị trường cũng bị ảnh hưởng bởi việc nối lại đàm phán Mỹ-Iran, làm giảm "phần bù rủi ro chiến tranh" trong giá dầu.
+
+⚡ **NĂNG LƯỢNG — Dầu WTI, Dầu Brent, Khí TN**
+Xu hướng: WTI SIDEWAY | Brent SIDEWAY | Khí TN GIẢM
+Thiên hướng KT: WTI Nghiêng giảm | Brent Nghiêng giảm | Khí TN Nghiêng giảm
+Ngưỡng giá: WTI 79.80–93.50 | Brent 84.79–102.01 | Khí TN 2.723–2.991
+Phân tích:
+• Giá dầu WTI giảm -2.00% trong phiên và -4.65% trong 5 phiên, trong khi Brent giảm -2.21% và -5.05%. Sự sụt giảm này chủ yếu do đàm phán Mỹ-Iran nối lại làm bay hơi "phần bù rủi ro chiến tranh" và thị trường tập trung vào quyết định lãi suất của Fed.
+• Khí tự nhiên giảm -0.80% trong phiên và -4.19% trong 5 phiên, tiếp tục xu hướng giảm trung hạn với giá nằm dưới đường trung bình 20 ngày và ở mức quá bán.
+Rủi ro:
+• Việc đàm phán Mỹ-Iran có thể tạo ra biến động lớn cho giá dầu tùy thuộc vào kết quả, trong khi rủi ro mùa bão ở Vịnh Mexico vẫn hiện hữu.
+
+💎 **KIM LOẠI QUÝ — Vàng, Bạc**
+Xu hướng: Vàng GIẢM | Bạc GIẢM
+Thiên hướng KT: Vàng Nghiêng giảm | Bạc Nghiêng giảm
+Ngưỡng giá: Vàng 4016.50–4152.10 | Bạc 56.900–60.019
+Phân tích:
+• Vàng giảm -1.00% trong phiên và -0.92% trong 5 phiên, trong khi Bạc giảm -1.49% và -2.10%. Cả hai kim loại quý đều chịu áp lực giảm khi thị trường chờ đợi quyết định của Fed và lợi suất trái phiếu kho bạc giảm nhẹ.
+• Dòng tiền đầu cơ rút khỏi cả Vàng và Bạc trong tuần qua, cho thấy tâm lý thận trọng hoặc chuyển dịch sang các tài sản khác.
+Rủi ro:
+• Sự biến động của đồng USD và lợi suất trái phiếu sau quyết định của Fed có thể ảnh hưởng lớn đến giá kim loại quý.
+
+🌾 **NÔNG SẢN — Ngô, Đậu tương, Lúa mì**
+Xu hướng: Ngô TĂNG | Lúa mì TĂNG | Đậu tương TĂNG
+Thiên hướng KT: Ngô Nghiêng tăng | Lúa mì Nghiêng tăng | Đậu tương Nghiêng tăng
+Ngưỡng giá: Ngô 448.75–478.25 | Lúa mì 650.50–711.25 | Đậu tương 1,205.50–1,250.50
+Phân tích:
+• Ngô tăng mạnh +5.26% trong phiên và +5.02% trong 5 phiên, được hỗ trợ bởi dòng tiền đầu cơ lớn đổ vào vị thế mua ròng trong tuần qua và đang ở vùng giá cao nhất trong 52 tuần.
+• Đậu tương đi ngang +0.02% trong phiên nhưng vẫn duy trì xu hướng tăng trung hạn, với vị thế mua ròng của quỹ đầu cơ tăng đáng kể, cho thấy kỳ vọng giá tiếp tục đi lên.
+• Lúa mì giảm -0.76% trong phiên và -3.39% trong 5 phiên, nhưng vẫn giữ xu hướng tăng trung hạn. Khối lượng giao dịch rất cao (gấp 4 lần trung bình) cho thấy sự biến động mạnh, trong khi vị thế bán ròng của quỹ đầu cơ đã giảm bớt.
+Rủi ro:
+• Đối với Ngô, việc giá tăng nóng và chỉ báo kỹ thuật cho thấy đã tăng mạnh có thể dẫn đến điều chỉnh kỹ thuật. Đối với Lúa mì, khối lượng giao dịch cực lớn trong phiên giảm có thể báo hiệu áp lực bán gia tăng.
+
+📋 **KHUYẾN NGHỊ**
+• Ngô: Có thể xem xét vị thế mua khi giá điều chỉnh về gần ngưỡng hỗ trợ 448.75¢/bushel, với điều kiện động lực tăng vẫn được duy trì.
+• Lúa mì: Cần theo dõi thêm diễn biến giá và khối lượng giao dịch quanh ngưỡng 650.50¢/bushel để xác định rõ hơn xu hướng ngắn hạn.
+• Dầu WTI: Với việc "phần bù rủi ro chiến tranh" giảm và giá đang chịu áp lực, cần theo dõi khả năng kiểm định ngưỡng hỗ trợ 79.80/bbl.
