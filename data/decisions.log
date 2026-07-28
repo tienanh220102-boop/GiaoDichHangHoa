@@ -1,6 +1,3 @@
-2026-06-22 07:13 ACCEPT [Google News HH] "Iran ramps up crude oil exports via Strait of Hormuz as Switzerland ta" | kw:oil,crude
-2026-06-22 07:13 ACCEPT [Google News KL] "Copper price moves slowly– Forecast today – 22-6-2026 - Economies.com" | kw:copper,rice
-2026-06-22 07:13 ACCEPT [Google News KL] "Gold, silver seen steady as US-Iran talks loom - MSN" | kw:gold,silver
 2026-06-22 07:13 ACCEPT [Google News KL] "Major Broker: Laopu Gold (06181.HK) Drops 5%; Nomura Says Impact of Go" | kw:gold,rice
 2026-06-22 07:13 ACCEPT [Google News NS] "Wheat rallies tough to sustain, but El Niño, supply risks remain - Far" | kw:wheat
 2026-06-22 07:13 ACCEPT [Google News NS] "Crown rot: Will mysterious corn disease rob yield this year? - Farm Pr" | kw:corn
@@ -20001,3 +19998,6 @@
 2026-07-28 01:56 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
 2026-07-28 01:56 ACCEPT [Google News CB] "Gold slips as firm dollar weighs; focus turns to Fed meeting - Reuters" | kw:gold
 2026-07-28 01:56 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 02:01 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-28 02:01 ACCEPT [Google News CB] "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms - Bloomberg" | kw:fed rate,rate decision
+2026-07-28 02:01 SKIP_MORNING already_sent date=2026-07-28
