@@ -1,17 +1,3 @@
-2026-06-22 16:31 ACCEPT [Google News KL] "SILVER Price Chart - eToro" | kw:silver,rice
-2026-06-22 16:31 ACCEPT [Google News NS] "Chinese Team Explores the Blending Versatility of U.S. Wheat Classes a" | kw:wheat
-2026-06-22 16:31 ACCEPT [Google News CB] "Bank of America expects three Fed hikes this year, says inflation is g" | kw:inflation
-2026-06-22 16:31 ACCEPT [Google News CB] "India's central bank sold net $8.9 billion in April, gold holdings unc" | kw:gold,central bank
-2026-06-22 16:31 ACCEPT [Google News CB] "The Fed will bring down the hammer on inflation with a series of rate " | kw:inflation,rate hike
-2026-06-22 16:31 ACCEPT [Google News CB] "ECB chief Lagarde plays down second-round inflation worries - reuters." | kw:inflation,ecb
-2026-06-22 16:31 SKIP_MORNING already_sent date=2026-06-22
-2026-06-22 16:31 SKIP_EVENING already_sent date=2026-06-22
-2026-06-22 17:01 ACCEPT [MarketWatch] "Caterpillar’s stock hits a milestone as roaring industrials rally swee" | kw:rice
-2026-06-22 17:01 ACCEPT [Al Jazeera] "Canada’s inflation hits 29-month high amid heightened oil prices" | kw:oil,rice,inflation
-2026-06-22 17:01 ACCEPT [OilPrice.com] "The Race to Revive Venezuela’s Vast Oil Wealth Is Underway" | kw:oil
-2026-06-22 17:01 ACCEPT [Google News HH] "Saudi Arabia Crude Oil Exports Hit Lowest on Record in April - Marine " | kw:oil,crude
-2026-06-22 17:01 ACCEPT [Google News HH] "Sugar Prices Slide Amid Crude Oil Weakness - Barchart.com" | kw:oil,crude,rice
-2026-06-22 17:01 ACCEPT [Google News HH] "Dow Surges Over 300 Points, Crude Oil Hits Over 3-Month Lows Amid Iran" | kw:oil,crude
 2026-06-22 17:01 ACCEPT [Google News HH] "Turkey Cuts Russian Crude Oil, Gas Intake - Energy Intelligence" | kw:oil,crude,gas
 2026-06-22 17:01 ACCEPT [Google News HH] "US Treasury issues general license for Iran to sell oil, petroleum pro" | kw:oil,petroleum,treasury
 2026-06-22 17:01 ACCEPT [Google News KL] "Gold rises as U.S.-Iran peace optimism pulls oil prices lower - CNBC" | kw:oil,gold,rice
@@ -20012,3 +19998,12 @@
 2026-07-28 15:31 ACCEPT [Google News CB] "Russia's central bank drafts first rules for ‘organized’ crypto tradin" | kw:central bank
 2026-07-28 15:31 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 15:31 SKIP_EVENING already_sent date=2026-07-28
+2026-07-28 16:01 ACCEPT [MarketWatch] "Your healthcare could now cost $185,500 in retirement — and that doesn" | kw:rice
+2026-07-28 16:01 ACCEPT [Google News HH] "BGN Emerges as Key Trader in Kazakhstan’s Crude Oil Exports - Bloomber" | kw:oil,crude
+2026-07-28 16:01 ACCEPT [Google News HH] "Crude Oil Volatility in Context - Barchart.com" | kw:oil,crude
+2026-07-28 16:01 ACCEPT [Google News HH] "Crude Oil Prices Pressured by Optimism Over Iran Negotiations - Barcha" | kw:oil,crude,rice
+2026-07-28 16:01 ACCEPT [Google News KL] "Gold Investment Strategy August 2026: XAU Analysis & Price Outlook - I" | kw:gold,rice
+2026-07-28 16:01 ACCEPT [Google News CB] "Will tough talk be enough? Fed Chair Warsh faces pressure to combat in" | kw:inflation
+2026-07-28 16:01 ACCEPT [Google News CB] "US Fed begins meeting with markets expecting steady interest rates - D" | kw:interest rate
+2026-07-28 16:01 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 16:01 SKIP_EVENING already_sent date=2026-07-28
