@@ -1,5 +1,3 @@
-2026-06-22 09:31 ACCEPT [Google News HH] "Commodities legend Rick Rule: Copper and oil are astonishingly cheap, " | kw:oil,gold,copper
-2026-06-22 09:31 ACCEPT [Google News HH] "Hormuz Crisis Sparks a Middle East Pipeline Boom - Crude Oil Prices To" | kw:oil,crude,rice
 2026-06-22 09:31 ACCEPT [Google News HH] "Gold Price Forecast: $4,230 Breakout Blueprint Targets 2H Ascending Tr" | kw:gold,rice
 2026-06-22 09:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Truce Stability vs Policy Signa" | kw:gold,silver,rice
 2026-06-22 09:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD holds gains near $66.00 on US-Iran peac" | kw:silver,rice
@@ -20000,3 +19998,12 @@
 2026-07-28 09:01 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 09:31 ACCEPT [OilPrice.com] "Cyprus Launches First Gas Project with Eni and TotalEnergies Backing" | kw:gas
 2026-07-28 09:31 SKIP_MORNING already_sent date=2026-07-28
+2026-07-28 10:01 ACCEPT [Google News HH] "Indian oil importers face 'dual choke point' challenge in securing fut" | kw:oil
+2026-07-28 10:01 ACCEPT [Google News KL] "A Data-Bound Fed Leaves Gold and Silver Hanging on Each New Number - S" | kw:gold,silver
+2026-07-28 10:01 ACCEPT [Google News KL] "Silver price today: falls on July 28 - FXStreet" | kw:silver,rice
+2026-07-28 10:01 ACCEPT [Google News KL] "Gold prices in Bangladesh market drops a day after hike - New Age BD" | kw:gold,rice
+2026-07-28 10:01 ACCEPT [Google News KL] "Gold price cut by Tk2,216 per bhori a day after hike - The Business St" | kw:gold,rice
+2026-07-28 10:01 ACCEPT [Google News CB] "Treasury yields edge lower ahead of Fed rates decision as oil prices t" | kw:oil,rice,fed rate
+2026-07-28 10:01 ACCEPT [Google News CB] "Japan's Katayama touts 'smooth' government relations with BOJ - Reuter" | kw:boj
+2026-07-28 10:01 ACCEPT [Google News CB] "Indonesia's process to find 'fit and proper' central bank chief - Reut" | kw:central bank
+2026-07-28 10:01 SKIP_MORNING already_sent date=2026-07-28
