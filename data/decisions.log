@@ -1,9 +1,3 @@
-2026-06-22 17:31 ACCEPT [Google News HH] "As Crude Oil Prices Fall, Make This 1 Bullish Trade Instead - Barchart" | kw:oil,crude,rice
-2026-06-22 17:31 ACCEPT [Google News HH] "Crude oil trades above and below its key 200 day MA at $73.63 - invest" | kw:oil,crude
-2026-06-22 17:31 ACCEPT [Google News HH] "US issues 60-day Iran oil sales sanctions waiver - Quantum Commodity I" | kw:oil,commodity,sanction
-2026-06-22 17:31 ACCEPT [Google News KL] "Silver price rises on US-Iran diplomatic progress, upside capped by ha" | kw:silver,rice
-2026-06-22 17:31 ACCEPT [Google News KL] "Gold price rises by Tk 4,432 a bhari - Newagebd.net" | kw:gold,rice
-2026-06-22 17:31 ACCEPT [Google News NS] "USDA Grain Bids Report June 22, 2026: Kansas, Illinois, Gulf, Portland" | kw:rice
 2026-06-22 17:31 ACCEPT [Google News NS] "Tariff cuts offer limited relief for farm equipment industry - Farm Pr" | kw:tariff
 2026-06-22 17:31 ACCEPT [Google News NS] "Doyle elected director to United Soybean Board - NEA Town Courier" | kw:soybean
 2026-06-22 18:00 ACCEPT [OilPrice.com] "The Oil Crisis Is Far From Over" | kw:oil
@@ -20004,3 +19998,13 @@
 2026-07-28 16:31 ACCEPT [Google News CB] "S&P 500 volatility outlook around tomorrow’s Fed rate decision - Inves" | kw:fed rate,rate decision
 2026-07-28 16:31 SKIP_MORNING already_sent date=2026-07-28
 2026-07-28 16:31 SKIP_EVENING already_sent date=2026-07-28
+2026-07-28 17:01 ACCEPT [OilPrice.com] "Why Did Trump Just Give Saudi Arabia the Fast Track to a Nuclear Weapo" | kw:oil,opec,rice
+2026-07-28 17:01 ACCEPT [Google News HH] "Money Matters: US crude oil prices, new car sticker prices, cyclospora" | kw:oil,crude,rice
+2026-07-28 17:01 ACCEPT [Google News HH] "Crude Oil Down Over 5%; Boeing Shares Rise After Q2 Results - Benzinga" | kw:oil,crude
+2026-07-28 17:01 ACCEPT [Google News HH] "Gold Price Today: Gold Falls 1.74% on July 28, 2026 - USA Today" | kw:gold,rice
+2026-07-28 17:01 ACCEPT [Google News KL] "Silver Price Prediction: Can Safe-Haven Demand Push Silver Above $60? " | kw:silver,rice
+2026-07-28 17:01 ACCEPT [Google News KL] "Gold Just Had Its Worst Quarter Since 2013: 3 Reasons to Buy the Dip W" | kw:gold
+2026-07-28 17:01 ACCEPT [Google News KL] "Nevada Gold Project Shows $1B NPV Potential in Updated PEA - Streetwis" | kw:gold
+2026-07-28 17:01 ACCEPT [Google News KL] "Gold Just Had Its Worst Quarter Since 2013: 3 Reasons to Buy the Dip W" | kw:gold
+2026-07-28 17:01 ACCEPT [Google News KL] "HudBay Minerals earnings on deck: Can copper rally offset slump? - Inv" | kw:copper,gdp
+2026-07-28 17:01 ACCEPT [Google News CB] "The Fed hawks are winning even without a rate hike - HousingWire" | kw:rate hike
