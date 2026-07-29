@@ -1,11 +1,3 @@
-2026-06-23 04:31 ACCEPT [CNBC Commodities] "Chairman Warsh drastically alters Fed rate statement. Here's what's ch" | kw:fed rate
-2026-06-23 04:31 ACCEPT [CNBC Economy] "Bank of England holds interest rates at 3.75% amid Iran war peace pros" | kw:monetary policy,interest rate,bank of england
-2026-06-23 04:31 ACCEPT [CNBC Economy] "UK inflation holds steady at 2.8% in May" | kw:inflation,monetary policy,bank of england
-2026-06-23 04:31 ACCEPT [CNBC Economy] "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs h" | kw:inflation
-2026-06-23 04:31 ACCEPT [CNBC Economy] "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s" | kw:rice,inflation
-2026-06-23 04:31 ACCEPT [CNBC Economy] "Energy inflation has been more persistent than expected, Fed's Goolsbe" | kw:oil,rice,inflation
-2026-06-23 04:31 ACCEPT [CNBC Economy] "ECB 'will do what is necessary' to tame inflation, Bank of France gove" | kw:inflation,central bank,rate hike
-2026-06-23 04:31 ACCEPT [OilPrice.com] "The Oil Crisis Is Far From Over" | kw:oil
 2026-06-23 04:31 ACCEPT [OilPrice.com] "The Race to Revive Venezuela’s Vast Oil Wealth Is Underway" | kw:oil
 2026-06-23 04:31 ACCEPT [EIA Energy] "U.S. jet fuel production rises after prices doubled in March" | kw:oil,crude,fuel
 2026-06-23 04:31 ACCEPT [EIA Energy] "U.S. natural gas storage capacity increased slightly in 2025" | kw:gas
@@ -20006,3 +19998,8 @@
 2026-07-29 02:31 ACCEPT [Google News NS] "GRAINS-Soybean and corn ratings rebound after heat damage to US crops " | kw:corn,soybean
 2026-07-29 02:31 ACCEPT [Google News CB] "Dollar steady ahead of Fed decision; Aussie falls after inflation data" | kw:inflation
 2026-07-29 02:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 03:01 ACCEPT [OilPrice.com] "API Reports Sharp U.S. Crude Stock Draw as SPR Hits New Low" | kw:oil,crude,petroleum
+2026-07-29 03:01 ACCEPT [Google News HH] "The Commodities Feed: Oil rises as Middle East tensions reignite - ING" | kw:oil,commodities
+2026-07-29 03:01 ACCEPT [Google News HH] "Palm Oil Rebounds As Crude Oil Firms Up - Finimize" | kw:oil,crude
+2026-07-29 03:01 ACCEPT [Google News CB] "Ministry panel recommends 4.9% minimum wage boost, supporting BOJ rate" | kw:rate hike,boj
+2026-07-29 03:01 SKIP_MORNING already_sent date=2026-07-29
