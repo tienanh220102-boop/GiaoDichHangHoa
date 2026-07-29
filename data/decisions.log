@@ -1,17 +1,3 @@
-2026-06-24 08:01 ACCEPT [Google News KL] "Gold prices hit 2-wk low as dollar rallies on Fed tightening bets - In" | kw:gold,rice,tightening
-2026-06-24 08:01 ACCEPT [Google News KL] "Gold Forecast: Bears retain control as Fed rate hike bets lift USD - F" | kw:gold,fed rate,rate hike
-2026-06-24 08:01 ACCEPT [Google News NS] "Can Brazil hold its grip on China’s soybean market? - S&P Global" | kw:soybean
-2026-06-24 08:01 ACCEPT [Google News CB] "Australia's Central Bank Still Has Work to Do to Reduce Inflation, Dep" | kw:inflation,central bank
-2026-06-24 08:01 ACCEPT [Google News CB] "Some Bank of Japan members call for faster rate hikes, summary shows -" | kw:rate hike,bank of japan
-2026-06-24 08:01 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-24 08:01 ACCEPT [Google News CB] "Euro falls to one-year low as ECB adopts more ‘dovish’ stance compared" | kw:corn,ecb
-2026-06-24 08:01 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-24 08:01 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 08:31 ACCEPT [OilPrice.com] "Qatar Says LNG Exports Could Return to Normal Within Weeks" | kw:gas,lng
-2026-06-24 08:31 ACCEPT [Google News HH] "US authorises 60-day waiver enabling Iranian crude oil exports - Enerd" | kw:oil,crude,wti
-2026-06-24 08:31 ACCEPT [Google News HH] "Oil prices are almost back to pre-war levels amid Hormuz normalisation" | kw:oil,rice
-2026-06-24 08:31 ACCEPT [Google News HH] "Gold Price Forecast: Bears retain control as Fed rate hike bets contin" | kw:gold,rice,fed rate
-2026-06-24 08:31 ACCEPT [Google News KL] "Gold Drops Below $4,100 as Tech Selloff, Inflation Hit Sentiment - Blo" | kw:gold,inflation
 2026-06-24 08:31 ACCEPT [Google News KL] "Gold prices drop to $4090 on COMEX - AzerNews" | kw:gold,rice
 2026-06-24 08:31 ACCEPT [Google News KL] "Gold ETFs Just Saw Their Biggest Weekly Inflow Since April After $7.6 " | kw:gold
 2026-06-24 08:31 ACCEPT [Google News NS] "10 essential tips to smoothly wean calves during drought - Farm Progre" | kw:drought
@@ -20012,3 +19998,11 @@
 2026-07-29 23:31 ACCEPT [Google News CB] "Fed holds interest rates steady, but three officials dissent in favor " | kw:interest rate
 2026-07-29 23:31 ACCEPT [Google News CB] "Opinion | The Fed held rates steady, but Kevin Warsh is serious about " | kw:inflation,gdp
 2026-07-29 23:31 ACCEPT [Google News CB] "A Divided Fed Holds Rates Steady, Raises Doubts About Inflation Fight " | kw:inflation
+2026-07-29 23:53 ACCEPT [Al Jazeera] "Saudi Arabia seeks international coalition against Houthis in Red Sea" | kw:oil,rice,shipping
+2026-07-29 23:54 ACCEPT [Google News NS] "Soybeans Sink as Rain Forecast Sparks Sharp Grain Market Selloff Acros" | kw:soybean
+2026-07-29 23:54 ACCEPT [Google News NS] "US soybean exporters shift to new markets as sales to China slump - S&" | kw:soybean
+2026-07-29 23:54 ACCEPT [Google News CB] "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unc" | kw:inflation
+2026-07-29 23:54 ACCEPT [Google News CB] "The Fed - July 28-29, 2026 FOMC Meeting - Federal Reserve (.gov)" | kw:federal reserve,fomc
+2026-07-29 23:54 ACCEPT [Google News CB] "Trump stands by his 'brilliant' Fed pick despite no rate cuts - Reuter" | kw:rate cut
+2026-07-29 23:54 ACCEPT [Google News CB] "Fed holds interest rates for fifth straight time - localnewslive.com" | kw:interest rate
+2026-07-29 23:54 ACCEPT [Google News CB] "Fed holds interest rates for fifth straight time - ABC7 WWSB" | kw:interest rate
