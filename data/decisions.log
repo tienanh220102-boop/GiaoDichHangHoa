@@ -1,21 +1,3 @@
-2026-06-23 19:10 ACCEPT [Google News KL] "COIN - I Want It All (Lyric Video) Silver Price Today (8W1oB871P6) - F" | kw:silver,rice
-2026-06-23 19:10 ACCEPT [Google News NS] "New plant growth regulator guide helps cotton growers strategize - Far" | kw:cotton
-2026-06-23 19:10 ACCEPT [Google News CB] "Inflation, Interest Rates, the Fed, & Your Family Budget - Advisor Per" | kw:inflation,interest rate
-2026-06-23 19:31 ACCEPT [Google News HH] "Oil Futures Extend Decline in Cautious Trade - WSJ" | kw:oil
-2026-06-23 19:31 ACCEPT [Google News KL] "What’s Next For Jonah Tong? | Straight Outta Flushing Silver Price Tod" | kw:silver,rice
-2026-06-23 19:31 ACCEPT [Google News KL] "Gold Price Drop Sparks Debate Over Crypto Outlook As Kiyosaki Awaits B" | kw:gold,rice
-2026-06-23 19:31 ACCEPT [Google News KL] "Deutsche Bank Lowers Gold Forecast: Q3 2026 Average at $4,300, Q4 at $" | kw:gold
-2026-06-23 19:31 ACCEPT [Google News CB] "These Are the 12 Fed Officials Who Are Voting on Interest Rates This W" | kw:interest rate
-2026-06-23 20:01 ACCEPT [OilPrice.com] "SpaceX Taps Bond Market for $20 Billion to Fuel AI Expansion" | kw:fuel,gold
-2026-06-23 20:01 ACCEPT [OilPrice.com] "Tankers Emerge from Dark Mode amid Tentative Hormuz Reopening" | kw:oil
-2026-06-23 20:01 ACCEPT [Mining.com] "New AbraSilver study quadruples Argentina project value" | kw:silver
-2026-06-23 20:01 ACCEPT [Google News HH] "Saudi Arabia's Decided Who Its Future Superpower Partner Is, And It's " | kw:oil,crude,rice
-2026-06-23 20:01 ACCEPT [Google News HH] "Gold Price Drop Sparks Debate Over Crypto Outlook As Kiyosaki Awaits B" | kw:gold,rice
-2026-06-23 20:01 ACCEPT [Google News KL] "BofA Says Three Rate Hikes. Silver Just Priced In the First One. - Gol" | kw:gold,silver,rice
-2026-06-23 20:01 ACCEPT [Google News KL] "Gold’s decline: It was never the war - FXStreet" | kw:gold
-2026-06-23 20:01 ACCEPT [Google News NS] "Corn and soybean bulls are limping into the critical growing month of " | kw:corn,soybean
-2026-06-23 20:01 ACCEPT [Google News CB] "ECB’s Vujcic Sees Inflation Remaining Higher for Longer - Bloomberg.co" | kw:inflation,ecb
-2026-06-23 20:01 ACCEPT [Google News CB] "Dollar Jumps to Highest Since November on Fed Rate Hike Bets - Bloombe" | kw:fed rate,rate hike
 2026-06-23 20:01 ACCEPT [Google News CB] "Two Turkey Central Bank Chief Advisers Leave Their Roles - Bloomberg.c" | kw:central bank
 2026-06-23 20:31 ACCEPT [MarketWatch] "Oil tankers are being lured back into the Strait of Hormuz by big payo" | kw:oil
 2026-06-23 20:31 ACCEPT [Google News HH] "UAE's OPEC exit highlights strategic value of Fujairah exports amid St" | kw:oil,opec,gas
@@ -20016,3 +19998,14 @@
 2026-07-29 16:31 ACCEPT [Google News CB] "Warsh Stands to Make Market History If Fed Opts for a Rate Hike - Bloo" | kw:rate hike
 2026-07-29 16:31 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 16:31 SKIP_EVENING already_sent date=2026-07-29
+2026-07-29 16:46 ACCEPT [MarketWatch] "Global oil prices top $88 a barrel after Trump vows retaliation for su" | kw:oil,rice
+2026-07-29 16:46 ACCEPT [Google News HH] "U.S. Crude Oil Stockpiles Fall More Than Expected - wsj.com" | kw:oil,crude
+2026-07-29 16:46 ACCEPT [Google News HH] "Glencore’s Traders Gain as Iran Conflict Upends Commodities Markets - " | kw:commodities
+2026-07-29 16:46 ACCEPT [Google News KL] "Gold and silver likely stuck in current range, markets overstate chanc" | kw:gold,silver,fed rate
+2026-07-29 16:46 ACCEPT [Google News CB] "Stocks Lower Ahead of Fed Rate Decision - wsj.com" | kw:fed rate,rate decision
+2026-07-29 16:46 ACCEPT [Google News CB] "Big Tech Earnings and Fed Rate Decision Put Stock Rally to the Test | " | kw:fed rate,rate decision
+2026-07-29 16:46 ACCEPT [Google News CB] "Fed live blog: All the latest from the central bank’s July decision - " | kw:central bank
+2026-07-29 16:46 ACCEPT [Google News CB] "Japanese Yen Technical Outlook: USD/JPY Poised for Breakout Ahead of F" | kw:wti,boj
+2026-07-29 16:46 ACCEPT [Google News CB] "ECB Tracker Detects No Pickup in Eurozone Wage Pressures - wsj.com" | kw:ecb
+2026-07-29 16:46 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 16:46 SKIP_EVENING already_sent date=2026-07-29
