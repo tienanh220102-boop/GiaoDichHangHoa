@@ -1,13 +1,3 @@
-2026-06-23 11:31 ACCEPT [Google News CB] "Stocks hit by Fed rate reality check; oil slips - Reuters" | kw:oil,fed rate
-2026-06-23 11:31 ACCEPT [Google News CB] "Eurozone Bond Yields Ease as ECB Signals Calm and Middle East Risks Re" | kw:ecb
-2026-06-23 11:31 ACCEPT [Google News CB] "Gold Under Pressure as Dollar Strength and Fed Expectations Curb Deman" | kw:gold
-2026-06-23 11:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 11:36 ACCEPT [Google News KL] "Gold Weekly Review: LBMA Price Falls 0.8% as Fed Tightening and Dollar" | kw:gold,rice,tightening
-2026-06-23 11:36 ACCEPT [Google News NS] "Why Soybean Oil Is Holding Strong While Crude Oil Slides - The Globe a" | kw:oil,crude,soybean
-2026-06-23 11:36 ACCEPT [Google News NS] "Wheat prices in Ukraine continue to decline, but stock market quotes h" | kw:wheat,rice
-2026-06-23 11:36 ACCEPT [Google News CB] "Nasdaq futures drop over 2% on concerns over AI buildout costs, Fed ra" | kw:fed rate
-2026-06-23 11:36 ACCEPT [Google News CB] "Asia shares, oil slip as markets reprice Fed expectations - Yahoo Fina" | kw:oil,rice
-2026-06-23 11:36 SKIP_MORNING already_sent date=2026-06-23
 2026-06-23 12:01 ACCEPT [MarketWatch] "Researchers cracked the code on predicting market bubbles. Here’s what" | kw:rice
 2026-06-23 12:01 ACCEPT [Al Jazeera] "Iran war day 116: US eases Iran sanctions; Israel kills two in Lebanon" | kw:oil,sanction
 2026-06-23 12:01 ACCEPT [Google News HH] "Gold Rate Today, June 23, 2026: Gold Price Ticks Up Again; 24K Rises ₹" | kw:gold,rice
@@ -20008,3 +19998,8 @@
 2026-07-29 11:00 ACCEPT [Google News CB] "S&P 500 futures edge higher as oil climbs; investors await Fed rates d" | kw:oil,fed rate
 2026-07-29 11:00 ACCEPT [Google News CB] "BoJ’s potential hawkish signaling overshadows upcoming rate decision -" | kw:rate decision,boj
 2026-07-29 11:00 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 11:01 ACCEPT [Google News HH] "European shares edge up on commodities boost; tech drags after SK Hyni" | kw:commodities
+2026-07-29 11:01 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - WBFF" | kw:oil,crude,gas
+2026-07-29 11:01 ACCEPT [Google News HH] "📈 China's Crude Oil Imports Collapse as Persian Gulf Supply Dries Up -" | kw:oil,crude
+2026-07-29 11:01 ACCEPT [Google News CB] "Gold ticks higher as markets brace for Fed decision - CNBC" | kw:gold
+2026-07-29 11:01 SKIP_MORNING already_sent date=2026-07-29
