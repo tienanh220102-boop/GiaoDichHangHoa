@@ -1,6 +1,3 @@
-2026-06-24 08:01 ACCEPT [Google News HH] "ICE cotton extends losses on stronger US dollar, weaker crude oil - Fi" | kw:oil,crude,cotton
-2026-06-24 08:01 ACCEPT [Google News KL] "Gold price prediction today: Why gold prices may drop further in near-" | kw:gold,rice
-2026-06-24 08:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD rebounds toward $62.00 after hitting fr" | kw:silver,rice
 2026-06-24 08:01 ACCEPT [Google News KL] "Gold prices hit 2-wk low as dollar rallies on Fed tightening bets - In" | kw:gold,rice,tightening
 2026-06-24 08:01 ACCEPT [Google News KL] "Gold Forecast: Bears retain control as Fed rate hike bets lift USD - F" | kw:gold,fed rate,rate hike
 2026-06-24 08:01 ACCEPT [Google News NS] "Can Brazil hold its grip on China’s soybean market? - S&P Global" | kw:soybean
@@ -20001,3 +19998,17 @@
 2026-07-29 23:01 ACCEPT [OilPrice.com] "U.S. Backs Madagascar’s Rare Earths Project" | kw:oil,gas
 2026-07-29 23:01 ACCEPT [Google News NS] "Grain Trends: prices drop, but have gained 29 July 2026 Premium - Iris" | kw:rice
 2026-07-29 23:01 ACCEPT [Google News CB] "Federal Reserve holds interest rates steady, but 3 officials vote for " | kw:interest rate,federal reserve
+2026-07-29 23:31 ACCEPT [BBC Business] "Interest rates expected to be held again by Bank of England" | kw:interest rate,bank of england
+2026-07-29 23:31 ACCEPT [Google News HH] "Oregon gas prices continue to climb despite lower price of crude oil d" | kw:oil,crude,gas
+2026-07-29 23:31 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 23:31 ACCEPT [Google News KL] "Everyone Is Watching the Fed. Gold Is Watching Tomorrow at 8:30 a.m. -" | kw:gold,silver
+2026-07-29 23:31 ACCEPT [Google News KL] "Iran Fired Missiles. Oil Spiked 6%. Gold Fell. The Three-Step Chain Be" | kw:oil,wti,gold
+2026-07-29 23:31 ACCEPT [Google News NS] "Missouri Soybean Association president welcomes potential aid, calls f" | kw:soybean
+2026-07-29 23:31 ACCEPT [Google News NS] "Why Did Soybean Prices Suddenly Drop Nearly 30 Cents? - Agrolatam" | kw:soybean,rice
+2026-07-29 23:31 ACCEPT [Google News NS] "Grain pricing opportunities in the midst of war and drought - farmprog" | kw:drought
+2026-07-29 23:31 ACCEPT [Google News NS] "USDA's record corn crop figures face growing skepticism - farmprogress" | kw:corn
+2026-07-29 23:31 ACCEPT [Google News NS] "Lessons learned from 9-bushel-per-acre corn yield - farmprogress.com" | kw:corn
+2026-07-29 23:31 ACCEPT [Google News CB] "A divided Fed holds interest rates steady despite stubborn inflation -" | kw:inflation,interest rate
+2026-07-29 23:31 ACCEPT [Google News CB] "Fed holds interest rates steady, but three officials dissent in favor " | kw:interest rate
+2026-07-29 23:31 ACCEPT [Google News CB] "Opinion | The Fed held rates steady, but Kevin Warsh is serious about " | kw:inflation,gdp
+2026-07-29 23:31 ACCEPT [Google News CB] "A Divided Fed Holds Rates Steady, Raises Doubts About Inflation Fight " | kw:inflation
