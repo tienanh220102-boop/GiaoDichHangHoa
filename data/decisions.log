@@ -1,5 +1,3 @@
-2026-06-23 07:01 ACCEPT [Google News HH] "Brent crude oil futures main contract fell by 1.00% intraday, quoted a" | kw:oil,crude,brent
-2026-06-23 07:01 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On June 23, nickel prices dropped sharply, " | kw:nickel,rice,dollar index
 2026-06-23 07:01 ACCEPT [Google News KL] "Gold, silver prices steady as global forces offset gains - MSN" | kw:gold,silver,rice
 2026-06-23 07:01 ACCEPT [Google News KL] "Gold prices tumble from highs. Here's what could happen next - Moneyco" | kw:gold,rice
 2026-06-23 07:01 ACCEPT [Google News CB] "Rupee flat as traders mull Fed rate path, keep eyes peeled for flow cl" | kw:fed rate
@@ -20000,3 +19998,17 @@
 2026-07-29 08:01 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 08:02 ACCEPT [Google News CB] "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage" | kw:central bank,ecb
 2026-07-29 08:02 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 08:31 ACCEPT [OilPrice.com] "U.S.-Saudi Consortium Plans $5 Billion Gulf Refinery Outside Hormuz" | kw:oil,crude,rice
+2026-07-29 08:31 ACCEPT [Google News HH] "European shares edge up on commodities boost; tech drags after SK Hyni" | kw:commodities
+2026-07-29 08:31 ACCEPT [Google News HH] "European Energy and Danske Commodities sign an agreement - EnergyWatch" | kw:commodities
+2026-07-29 08:31 ACCEPT [Google News HH] "Gold (XAU/USD) price forecast: Fed decision and dollar strength - Capi" | kw:gold,rice
+2026-07-29 08:31 ACCEPT [Google News KL] "Copper Price Forecast: China Growth and Chile Supply Drop Support Bull" | kw:copper,rice
+2026-07-29 08:31 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD returns above $58.00 as US Dollar weak" | kw:silver,rice
+2026-07-29 08:31 ACCEPT [Google News KL] "Why Gold Is Falling Even As Conflict In The Middle East Escalates - Se" | kw:gold
+2026-07-29 08:31 ACCEPT [Google News KL] "LME nickel prices strengthened in July, rising from US$16,175/mt on Ju" | kw:nickel,rice
+2026-07-29 08:31 ACCEPT [Google News CB] "Gold Wavers as Fed Rate Decision Looms and Mideast Tensions Rise - Blo" | kw:gold,fed rate,rate decision
+2026-07-29 08:31 ACCEPT [Google News CB] "Oil Gains, Chip Stocks Extend Losses Ahead of Fed Decision Day - WSJ" | kw:oil
+2026-07-29 08:31 ACCEPT [Google News CB] "Euro-Zone Wage Growth Set to Quicken Into Next Year, ECB Says - Bloomb" | kw:ecb
+2026-07-29 08:31 ACCEPT [Google News CB] "The case for a Fed rate-cut collapses - The Economist" | kw:fed rate
+2026-07-29 08:31 ACCEPT [Google News CB] "European equities advance as Fed policy decision looms (EUR:USD:) - Se" | kw:gdp
+2026-07-29 08:31 SKIP_MORNING already_sent date=2026-07-29
