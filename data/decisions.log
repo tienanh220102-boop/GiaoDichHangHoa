@@ -1,68 +1,3 @@
-2026-06-23 09:01 ACCEPT [Google News HH] "One Chart: Pivot Points and Long/Short Position Signals for Gold, Crud" | kw:oil,crude,gold
-2026-06-23 09:01 ACCEPT [Google News HH] "Gold price extends losses into fourth consecutive week: Is the safe-ha" | kw:gold,rice
-2026-06-23 09:01 ACCEPT [Google News KL] "Gold Prices Decline 0.8% Weekly Amid Hawkish Fed and Dollar Strength -" | kw:wti,gold,rice
-2026-06-23 09:01 ACCEPT [Google News CB] "ECB’s Escrivá Says Oil Starting to Ripple Through Other Sectors - Bloo" | kw:oil,ecb
-2026-06-23 09:01 ACCEPT [Google News CB] "ECB’s Lane Sees Danger Inflation Will Top 2% for Quite Some Time - Blo" | kw:inflation,ecb
-2026-06-23 09:01 ACCEPT [Google News CB] "Major Gulf bourses ease on oil, Fed rate-hike bets - Reuters" | kw:oil,fed rate
-2026-06-23 09:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 09:31 ACCEPT [BBC Business] "Do you know your 'sweat score'? The rise of hydration tech" | kw:flood
-2026-06-23 09:31 ACCEPT [BBC Business] "Australia's coal and gas exports violate our human rights, group says " | kw:gas,fuel
-2026-06-23 09:31 ACCEPT [BBC Business] "Alan Greenspan, architect of the modern American economy, dies aged 10" | kw:federal reserve
-2026-06-23 09:31 ACCEPT [BBC Business] "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities" | kw:oil,fuel,shortage
-2026-06-23 09:31 ACCEPT [BBC Business] "Brexit cost 6% of UK economy, Bank of England company data suggests" | kw:bank of england
-2026-06-23 09:31 ACCEPT [BBC Business] "Five ways the Iran peace deal could affect you and your money" | kw:gas,fuel,rice
-2026-06-23 09:31 ACCEPT [BBC Business] "Interest rates held as Bank warns of impact of high energy prices" | kw:rice,interest rate
-2026-06-23 09:31 ACCEPT [BBC Business] "Is Germany looking again at coal-powered electricity?" | kw:gas,fuel
-2026-06-23 09:31 ACCEPT [BBC Business] "'We had to get out of the way': The backlash over delivery robots" | kw:easing
-2026-06-23 09:31 ACCEPT [BBC Business] "India's 'blue gold' starts a new drinks industry" | kw:gold
-2026-06-23 09:31 ACCEPT [BBC Business] "Caribbean hot sauce producers warn of shortages and higher prices" | kw:rice,shortage
-2026-06-23 09:31 ACCEPT [OilPrice.com] "India Boosts U.S. LPG Imports to Record High" | kw:petroleum,gas,rice
-2026-06-23 09:31 ACCEPT [Google News HH] "Gold Price on 22 June 2026 - Gold Price" | kw:gold,rice
-2026-06-23 09:31 ACCEPT [Google News HH] "Forex trading: Gold, Crude Oil, US indices and USD Crude falling on Ir" | kw:oil,crude,gold
-2026-06-23 09:31 ACCEPT [Google News KL] "Gold slips over 2% as dollar holds firm on Fed rate-hike expectations " | kw:gold,fed rate
-2026-06-23 09:31 ACCEPT [Google News KL] "[SMM Nickel Sulphate Daily Comment] June 23: Downstream price acceptan" | kw:nickel,rice
-2026-06-23 09:31 ACCEPT [Google News NS] "More rain needed on southern Minnesota corn, soybean farm - Farm Progr" | kw:corn,soybean
-2026-06-23 09:31 ACCEPT [Google News CB] "ECB's Kazimir: next steps will depend on data but direction is clear -" | kw:ecb
-2026-06-23 09:31 ACCEPT [Google News CB] "Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook wei" | kw:fed rate
-2026-06-23 09:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 10:01 ACCEPT [MarketWatch] "The AI market has become a ‘rubber band’ — the question now is how far" | kw:gold
-2026-06-23 10:01 ACCEPT [CNBC Commodities] "U.S. fights with Brazil for China's giant soybean market" | kw:soybean
-2026-06-23 10:01 ACCEPT [Google News HH] "$Crude Oil Futures (AUG6) (CLmain.US)$ - Moomoo" | kw:oil,crude
-2026-06-23 10:01 ACCEPT [Google News KL] "Silver price today: falls on June 23 - FXStreet" | kw:silver,rice
-2026-06-23 10:01 ACCEPT [Google News KL] "Gold and Silver Price Forecast: US Dollar Rally Threatens Fresh 2026 L" | kw:gold,silver,rice
-2026-06-23 10:01 ACCEPT [Google News KL] "Gold may remain under pressure amid strong dollar, higher US rates: WG" | kw:gold
-2026-06-23 10:01 ACCEPT [Google News NS] "U.S. fights with Brazil for China's giant soybean market - CNBC" | kw:soybean
-2026-06-23 10:01 ACCEPT [Google News CB] "Euro zone inflation could stay high for some time even with Middle Eas" | kw:lng,inflation,ecb
-2026-06-23 10:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 10:31 ACCEPT [OilPrice.com] "Iran Moves to Tap Key Asian Markets as U.S. Waives Oil Sanctions" | kw:oil,crude,sanction
-2026-06-23 10:31 ACCEPT [Google News HH] "Oil Slides on Signs of Progress After U.S. Sanction Waiver on Tehran -" | kw:oil,sanction
-2026-06-23 10:31 ACCEPT [Google News HH] "Gold price forecast cut by 22 percent; bullion risks drop to $3,800 on" | kw:gold,rice
-2026-06-23 10:31 ACCEPT [Google News HH] "CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts " | kw:oil
-2026-06-23 10:31 ACCEPT [Google News KL] "Gold and Silver Price Forecast: US Dollar Rally Threatens Fresh 2026 L" | kw:gold,silver,rice
-2026-06-23 10:31 ACCEPT [Google News KL] "Today Gold Rate In Pakistan | 5 May 2026 Gold Price | Aaj Sooney Ki Qe" | kw:gold,rice
-2026-06-23 10:31 ACCEPT [Google News CB] "Fed hike could push yen to 165 per dollar, ex-BOJ policymaker says - R" | kw:boj
-2026-06-23 10:31 ACCEPT [Google News CB] "ECB’s Kazimir: next steps will depend on data but direction is clear -" | kw:ecb
-2026-06-23 10:31 ACCEPT [Google News CB] "Gold falls as dollar holds firm on Fed rate-hike expectations - CNBC" | kw:gold,fed rate
-2026-06-23 10:31 ACCEPT [Google News CB] "ECB’s Lane Sees Danger Inflation Will Top 2% for Some Time - Bloomberg" | kw:inflation,ecb
-2026-06-23 10:31 ACCEPT [Google News CB] "Why not to take swap lines too far. Drivers of Germany's slowdown. The" | kw:shortage
-2026-06-23 10:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 11:01 ACCEPT [MarketWatch] "Investor assumptions about the AI trade are starting to stretch realit" | kw:gold
-2026-06-23 11:01 ACCEPT [Google News HH] "WoodMac cuts brent crude oil forecast for 2027 amid phased Strait of H" | kw:oil,crude,brent
-2026-06-23 11:01 ACCEPT [Google News KL] "Gold slides nearly 2% as hawkish Fed bets lift dollar to one-year peak" | kw:gold
-2026-06-23 11:01 ACCEPT [Google News KL] "Deutsche Bank cuts gold outlook as Fed repricing weighs on prices - In" | kw:gold,rice
-2026-06-23 11:01 ACCEPT [Google News KL] "Gold price extends losses into fourth consecutive week: Is the safe-ha" | kw:gold,rice
-2026-06-23 11:01 ACCEPT [Google News KL] "Wall Street giants collectively "change their tune"! After Goldman Sac" | kw:gold,rice
-2026-06-23 11:01 ACCEPT [Google News KL] "Gemini Just Got Its Biggest Update Ever. Silver Price Today (h4dylhIwj" | kw:silver,rice
-2026-06-23 11:01 ACCEPT [Google News KL] "U.S. stocks movement: Gold stocks continue to decline pre-market as in" | kw:gold,rice
-2026-06-23 11:01 ACCEPT [Google News NS] "European wheat market reacts to heatwave - DCA Market Intelligence" | kw:wheat
-2026-06-23 11:01 ACCEPT [Google News NS] "Why Soybean Oil Is Holding Strong While Crude Oil Slides - The Globe a" | kw:oil,crude,soybean
-2026-06-23 11:01 ACCEPT [Google News CB] "Gold prices slip as stronger dollar, Fed hike bets weigh By Investing." | kw:gold,rice
-2026-06-23 11:01 ACCEPT [Google News CB] "Warsh’s Gamble: A Quieter Federal Reserve Could Mean Volatile Markets," | kw:gdp,federal reserve
-2026-06-23 11:01 ACCEPT [Google News CB] "AiCoin | 6.23 Snapshot: Whale deposits BTC, Fed rate hike expectations" | kw:fed rate,rate hike
-2026-06-23 11:01 ACCEPT [Google News CB] "Pope Leo XIV warns wars are ‘fed’ faster than people as aid money drie" | kw:lng
-2026-06-23 11:01 ACCEPT [Google News CB] "European bonds gain as Mideast diplomacy sparks relief; ECB in focus -" | kw:ecb
-2026-06-23 11:01 ACCEPT [Google News CB] "India's central bank sold net $8.9 billion in April, gold holdings unc" | kw:gold,central bank
-2026-06-23 11:01 ACCEPT [Google News CB] "ECB’s Lagarde says inflation shock warrants measured response By Inves" | kw:inflation,ecb
 2026-06-23 11:01 ACCEPT [Google News CB] "Federal Reserve Leaves Rates Unchanged; Industry Economists Weigh In -" | kw:federal reserve
 2026-06-23 11:01 ACCEPT [Google News CB] "Alan Greenspan, former Federal Reserve chairman, dies at 100 - KYOU-TV" | kw:federal reserve
 2026-06-23 11:01 ACCEPT [Google News CB] "Ben Stokes Sacked By ECB After Nightclub Incident, Names New Captain F" | kw:ecb
@@ -20063,3 +19998,16 @@
 2026-07-29 10:01 ACCEPT [Google News CB] "Fed decision ahead; Meta, Microsoft to report - what’s moving markets " | kw:wti
 2026-07-29 10:01 ACCEPT [Google News CB] "Fed Rate Decision: Live Coverage - Barron's" | kw:fed rate,rate decision
 2026-07-29 10:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 10:31 ACCEPT [OilPrice.com] "Houthis Claim Attack on Saudi Oil Tanker in Red Sea" | kw:oil
+2026-07-29 10:31 ACCEPT [NASDAQ Commod] "Oil Prices Rebound After Three-day Slump" | kw:oil,rice
+2026-07-29 10:31 ACCEPT [Google News HH] "API Reports Sharp US Crude Stock Draw as SPR Hits New Low - Investing." | kw:crude
+2026-07-29 10:31 ACCEPT [Google News HH] "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks," | kw:commodities
+2026-07-29 10:31 ACCEPT [Google News HH] "Crude Oil Futures Rebound: West Asia Tensions Drive Prices Up Over 3% " | kw:oil,crude,rice
+2026-07-29 10:31 ACCEPT [Google News KL] "Gold ticks higher as markets brace for Fed decision - Reuters" | kw:gold
+2026-07-29 10:31 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 10:31 ACCEPT [Google News NS] "Mysteel grain market daily: Nationa... - Mysteel" | kw:steel
+2026-07-29 10:31 ACCEPT [Google News NS] "Canada Ecuador Trade Deal Boosts Wheat Exports - Farms.com" | kw:wheat
+2026-07-29 10:31 ACCEPT [Google News CB] "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards h" | kw:rate decision
+2026-07-29 10:31 ACCEPT [Google News CB] "New Fed focus on money supply might aid inflation thinking at the marg" | kw:inflation
+2026-07-29 10:31 ACCEPT [Google News CB] "Oil Rises on Mideast Flare-Up as Fed Weighs Interest-Rate Decision -- " | kw:oil,rate decision
+2026-07-29 10:31 SKIP_MORNING already_sent date=2026-07-29
