@@ -1,16 +1,3 @@
-2026-06-23 05:01 ACCEPT [Google News HH] "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - En" | kw:oil,opec,lng
-2026-06-23 05:01 ACCEPT [Google News HH] "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - " | kw:oil,crude,brent
-2026-06-23 05:01 ACCEPT [Google News HH] "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next " | kw:oil,crude,rice
-2026-06-23 05:01 ACCEPT [Google News HH] "Deutsche Bank cuts gold-price forecast by 22% amid US policy concerns " | kw:gold,rice
-2026-06-23 05:01 ACCEPT [Google News NS] "Why Soybean Oil Is Holding Strong While Crude Oil Slides - The Globe a" | kw:oil,crude,soybean
-2026-06-23 05:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 05:31 ACCEPT [OilPrice.com] "Oil Prices Continue to Slide as Peace Talks Progress" | kw:oil,crude,brent
-2026-06-23 05:31 ACCEPT [Google News HH] "Gold price in Philippines: Rates on June 23 - FXStreet" | kw:gold,rice
-2026-06-23 05:31 ACCEPT [Google News KL] "What's The Right Price For Rui Hachimura? Silver Price Today (4dJpJIdD" | kw:silver,rice
-2026-06-23 05:31 ACCEPT [Google News CB] "Gold falls as dollar holds firm on Fed rate-hike expectations - Reuter" | kw:gold,fed rate
-2026-06-23 05:31 ACCEPT [Google News CB] "BofA Expects Fed to Hike Interest Rates 75 Basis Points in 2026 - Asha" | kw:interest rate,basis point
-2026-06-23 05:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 06:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude,lng
 2026-06-23 06:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude
 2026-06-23 06:01 ACCEPT [Google News HH] "Oil Rate Today, June 23, 2026: Crude Oil Extends Decline to $77.6 Afte" | kw:oil,crude
 2026-06-23 06:01 ACCEPT [Google News HH] "Goldman Sachs Cuts Gold Target to $4,900; JPMorgan, Wells Fargo Hold a" | kw:gold
@@ -20011,3 +19998,20 @@
 2026-07-29 07:31 ACCEPT [Google News CB] "Despite high inflation, Fed expected to hold rates steady for now - Eu" | kw:inflation
 2026-07-29 07:31 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
 2026-07-29 07:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 08:01 ACCEPT [BBC Business] "Ticket prices set to rise by 15p as Heathrow able to recover runway pr" | kw:rice
+2026-07-29 08:01 ACCEPT [Google News HH] "European shares edge up on commodities boost; tech drags after SK Hyni" | kw:commodities
+2026-07-29 08:01 ACCEPT [Google News HH] "Palm gains on bargain buying, crude oil rebound - TradingView" | kw:oil,crude
+2026-07-29 08:01 ACCEPT [Google News HH] "SunSirs: Crude Oil: Prices Post Largest Three-Day Drop Since 2020 as M" | kw:oil,crude,rice
+2026-07-29 08:01 ACCEPT [Google News HH] "ICE cotton declines after 5-day rally due to falling crude oil - Fibre" | kw:oil,crude,cotton
+2026-07-29 08:01 ACCEPT [Google News KL] "Silver Price Forecast: Will the Fed Shape the Trend? - Investing.com" | kw:silver,rice
+2026-07-29 08:01 ACCEPT [Google News KL] "GDX: Why Gold Miners Are A Buy After Falling More Than Gold - Seeking " | kw:gold
+2026-07-29 08:01 ACCEPT [Google News KL] "Silver Price Analysis: Will a Break $58 Confirm a New Bullish Rally? -" | kw:silver,rice
+2026-07-29 08:01 ACCEPT [Google News KL] "Gold ticks up ahead of Fed decision; oil rebound revives inflation con" | kw:oil,gold,inflation
+2026-07-29 08:01 ACCEPT [Google News KL] "JustMarkets Analyzes the Core Drivers Behind 2026 Gold Price Movements" | kw:gold,rice
+2026-07-29 08:01 ACCEPT [Google News KL] "The price of silver today is declining ahead of the Federal Reserve's " | kw:silver,rice,federal reserve
+2026-07-29 08:01 ACCEPT [ECB Press] "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage" | kw:ecb
+2026-07-29 08:01 ACCEPT [Google News CB] "Despite high inflation, Fed expected to hold rates steady for now - Eu" | kw:inflation
+2026-07-29 08:01 ACCEPT [Google News CB] "Treasury yields inch higher as Wall Street awaits Fed interest rate de" | kw:treasury,interest rate,rate decision
+2026-07-29 08:01 ACCEPT [Google News CB] "South African rand tracks subdued market peers ahead of Fed interest r" | kw:interest rate,rate decision
+2026-07-29 08:01 ACCEPT [Google News CB] "Economic Calendar: All at once! Fed rate decision and Big Tech earning" | kw:fed rate,rate decision
+2026-07-29 08:01 SKIP_MORNING already_sent date=2026-07-29
