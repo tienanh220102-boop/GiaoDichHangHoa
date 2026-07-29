@@ -1,33 +1,3 @@
-2026-06-23 15:31 ACCEPT [OilPrice.com] "Tankers Emerge from Dark Mode amid Tentative Hormuz ReopeningTankers E" | kw:oil
-2026-06-23 15:31 ACCEPT [Google News HH] "What’s driving the gold price? … and other important questions - inves" | kw:gold,rice
-2026-06-23 15:31 ACCEPT [Google News KL] "Gold and Silver Price Forecast: US Dollar Rally Threatens Fresh 2026 L" | kw:gold,silver,rice
-2026-06-23 15:31 ACCEPT [Google News KL] "Gold Retreats as Stronger Dollar and Rate Expectations Pressure Bullio" | kw:gold
-2026-06-23 15:31 ACCEPT [Google News KL] "Granada Gold Announces 64% Increase in Measured and Indicated Mineral " | kw:gold
-2026-06-23 15:31 ACCEPT [Google News KL] "Valor Gold Corp. (VGC) Opens the Market - TradingView" | kw:gold
-2026-06-23 15:31 ACCEPT [Google News KL] "Gold (XAUUSD) Price Forecast: Strong Dollar, PCE Report Threaten More " | kw:wti,gold,rice
-2026-06-23 15:31 ACCEPT [Google News KL] "FCX vs. BHP: Which Copper Mining Giant Should You Bet on Now? - Tradin" | kw:copper
-2026-06-23 15:31 ACCEPT [Google News NS] "Soybean Market Analysis: CBOT Prices, Exports, and Real Exchange Rate " | kw:soybean,rice
-2026-06-23 15:31 ACCEPT [Google News NS] "‘Severe blow’: Industry hit hard by unchanged wheat tariff - Food For " | kw:wheat,tariff
-2026-06-23 15:31 ACCEPT [Google News NS] "Will winter wheat weakly wilt weekly? - MSN" | kw:wheat
-2026-06-23 15:31 ACCEPT [Google News CB] "South Africa Central Bank Takes Aim at $5.5 Billion Cost of Cash - Blo" | kw:central bank
-2026-06-23 15:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 15:31 SKIP_EVENING already_sent date=2026-06-23
-2026-06-23 16:01 ACCEPT [MarketWatch] "Social Security urgently needs another ‘Greenspan Commission’ to save " | kw:federal reserve
-2026-06-23 16:01 ACCEPT [OilPrice.com] "Traders Question How Much Iranian Oil Can Really Return to Market" | kw:oil,commodity,sanction
-2026-06-23 16:01 ACCEPT [Google News HH] "Gulf oil tanker rates nearly double as Middle East producers ramp up e" | kw:oil
-2026-06-23 16:01 ACCEPT [Google News HH] "Chicago soybeans and corn regain ground as crude oil steadies - Tradin" | kw:oil,crude,corn
-2026-06-23 16:01 ACCEPT [Google News HH] "U.S. Permits Iranian Crude Oil Sales After 8-Year Ban - 조선일보" | kw:oil,crude
-2026-06-23 16:01 ACCEPT [Google News KL] "XAG/USD Price Forecast: Silver challenges 2026 lows - FXStreet" | kw:silver,rice
-2026-06-23 16:01 ACCEPT [Google News NS] "Corn, Wheat See More Fund Selling, Beans Bounce: Cattle Consolidate Tu" | kw:wheat,corn
-2026-06-23 16:01 ACCEPT [Google News NS] "US seeks to regain lost ground in China’s soybean market - UkrAgroCons" | kw:soybean
-2026-06-23 16:01 ACCEPT [Google News NS] "Ukrainian corn exports slow down, prices fall as harvest prospects imp" | kw:corn,rice,harvest
-2026-06-23 16:01 ACCEPT [Google News NS] "Corn prices in Ukraine remain under pressure from weak demand and low " | kw:corn,rice
-2026-06-23 16:01 ACCEPT [Google News CB] "ECB’s Vujcic Sees Inflation Remaining Higher for Longer - Bloomberg" | kw:inflation,ecb
-2026-06-23 16:01 ACCEPT [Google News CB] "Oil shock nicked US GDP but resilience was the message, Dallas Fed res" | kw:oil,gdp
-2026-06-23 16:01 ACCEPT [Google News CB] "Two Turkey Central Bank Chief Advisers Leave Their Roles - Bloomberg" | kw:central bank
-2026-06-23 16:01 ACCEPT [Google News CB] "S&P 500 Forecast: SPX falls on tech rout, Fed rate hike expectations -" | kw:fed rate,rate hike
-2026-06-23 16:01 ACCEPT [Google News CB] "Gold Slips on Higher-For-Longer Fed Rate Outlook - Yahoo Finance" | kw:gold,fed rate
-2026-06-23 16:01 SKIP_MORNING already_sent date=2026-06-23
 2026-06-23 16:01 SKIP_EVENING already_sent date=2026-06-23
 2026-06-23 16:31 ACCEPT [Google News HH] "Oil Futures Decline on Prospects of Increased Supply - WSJ" | kw:oil
 2026-06-23 16:31 ACCEPT [Google News HH] "Crude Oil Down Over 1%; US Manufacturing PMI Surges In June - Benzinga" | kw:oil,crude
@@ -20028,3 +19998,20 @@
 2026-07-29 15:18 ACCEPT [Google News CB] "Will the Fed hold rates? Nancy Lazar breaks down what's next for marke" | kw:wti
 2026-07-29 15:18 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 15:18 SKIP_EVENING already_sent date=2026-07-29
+2026-07-29 15:25 ACCEPT [Google News HH] "Montana FFA Officers Explore Global Journey of Montana Commodities - N" | kw:commodities
+2026-07-29 15:25 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,wti
+2026-07-29 15:25 ACCEPT [Google News HH] "Critical minerals have a capital, not a geology, problem: Hotter Commo" | kw:commodities
+2026-07-29 15:25 ACCEPT [Google News HH] "Markets Hold Back As Crude Oil Prices Climb - Seeking Alpha" | kw:oil,crude,rice
+2026-07-29 15:25 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,rice
+2026-07-29 15:25 ACCEPT [Google News HH] "U.S. Crude Oil Stockpiles Fall More Than Expected - marketscreener.com" | kw:oil,crude
+2026-07-29 15:25 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 15:25 ACCEPT [Google News KL] "First Majestic Silver earnings on deck amid silver price headwinds By " | kw:silver,rice
+2026-07-29 15:25 ACCEPT [Google News KL] "Gold prices fall toward $4,000 ahead of Fed decision - Anadolu Ajansı" | kw:gold,rice
+2026-07-29 15:25 ACCEPT [Google News KL] "With Inflation at 3.5%, Is Now a Good Time to Buy the SPDR Gold ETF? H" | kw:gold,inflation
+2026-07-29 15:25 ACCEPT [Google News NS] "Why Fund Yield Models Now Sit Far Above the USDA’s Corn Yield Estimate" | kw:corn
+2026-07-29 15:25 ACCEPT [Google News NS] "Sweet corn, peaches draw shoppers to Sedalia Area Farmers Market - Sed" | kw:corn
+2026-07-29 15:25 ACCEPT [Google News NS] "USDA Grain Bids July 28, 2026: Cash Prices, Basis Levels, and Export M" | kw:wti,rice
+2026-07-29 15:25 ACCEPT [Google News CB] "Fed chair Kevin Warsh faces a key test as inflation compounds the affo" | kw:inflation
+2026-07-29 15:25 ACCEPT [Google News CB] "How the Fed could be 'setting the table' for interest rate hikes in Se" | kw:interest rate,rate hike
+2026-07-29 15:25 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 15:25 SKIP_EVENING already_sent date=2026-07-29
