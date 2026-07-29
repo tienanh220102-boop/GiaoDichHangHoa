@@ -1,27 +1,3 @@
-2026-06-23 23:49 ACCEPT [Google News HH] "Energy briefs—sanctions lifted on Iran - Oklahoma Energy Today" | kw:sanction
-2026-06-23 23:49 ACCEPT [Google News KL] "Gold, silver sell off as dollar, Fed positioning pressure metals - Kit" | kw:gold,silver
-2026-06-23 23:49 ACCEPT [Google News NS] "$403.55 support anchors Corn as price trades flat - Traders Union" | kw:corn,rice
-2026-06-23 23:49 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-23 23:49 ACCEPT [Google News CB] "Strong manufacturing numbers mask a sector hedging against war and tar" | kw:tariff
-2026-06-23 23:49 ACCEPT [Google News CB] "Central bank credibility - OMFIF" | kw:central bank
-2026-06-23 23:49 ACCEPT [Google News CB] "UniCredit CEO says ECB likely to decide Italian bank has Commerzbank c" | kw:ecb
-2026-06-24 00:01 ACCEPT [OilPrice.com] "The Trillion-Dollar AI Shockwave Nobody Is Ready For" | kw:rice
-2026-06-24 00:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD Holds Above $4,100 as Bearish Momentum In" | kw:gold,rice
-2026-06-24 00:01 ACCEPT [Google News KL] "Gold Drops Below $4,100 as Tech-Led Selloff Spurs Liquidation - Bloomb" | kw:gold
-2026-06-24 00:01 ACCEPT [Google News KL] "Stefan Gleason: Gold, Fort Knox, and the Dollar’s future [Video] - FXS" | kw:gold
-2026-06-24 00:03 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
-2026-06-24 00:03 GEMINI ERROR gemini-2.5-flash-lite This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-24 00:03 SKIP_MORNING gemini_no_result date=2026-06-24
-2026-06-24 00:31 ACCEPT [Google News HH] "COMMODITY FUTURES—Comment sought... - VitalLaw.com" | kw:commodity
-2026-06-24 00:31 ACCEPT [Google News HH] "Why the Next Billion Barrels of Oil Demand Could Come From Storage - C" | kw:oil,crude,rice
-2026-06-24 00:31 ACCEPT [Google News KL] "Chinese Gold imports hit two-year high in May - FXStreet" | kw:gold
-2026-06-24 00:31 ACCEPT [Google News NS] "Iowa Soybean Association discusses market trends - Brownfield Ag News" | kw:soybean
-2026-06-24 00:31 ACCEPT [Google News CB] "Some in BOJ called for further rate hikes, June summary shows - Reuter" | kw:rate hike,boj
-2026-06-24 00:31 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-24 00:31 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-24 00:32 DIRECTION_FIX NatGas: "tăng 1.68%" → "giảm 1.68%"
-2026-06-24 00:32 SENT_MORNING articles=20 date=2026-06-24 force=False
-2026-06-24 01:01 ACCEPT [BBC Business] "Alan Greenspan, architect of the modern American economy, dies aged 10" | kw:federal reserve
 2026-06-24 01:01 ACCEPT [The Guardian Biz] "Alan Greenspan, longtime head of the US federal reserve, dies aged 100" | kw:central bank,monetary policy,federal reserve
 2026-06-24 01:01 ACCEPT [The Guardian Biz] "‘Every time you turn around, there’s a new price increase’: US small-b" | kw:fuel,rice,inflation
 2026-06-24 01:01 ACCEPT [The Guardian Biz] "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Re" | kw:federal reserve
@@ -20022,3 +19998,22 @@
 2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady for fifth-straight meeting, but inflat" | kw:inflation,interest rate
 2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady despite inflation concerns - CBS News" | kw:inflation,interest rate
 2026-07-29 19:01 ACCEPT [Google News CB] "Key Takeaways From Fed Decision to Hold Rates Steady - Bloomberg.com" | kw:wti
+2026-07-29 19:31 ACCEPT [MarketWatch] "The big focus now is on the potential for a September rate hike after " | kw:rice,rate hike
+2026-07-29 19:31 ACCEPT [NASDAQ Commod] "Crude Oil Skyrockets After Iran Targets Jordan, U.S.-Saudi Forces Hit " | kw:oil,crude,rice
+2026-07-29 19:31 ACCEPT [NASDAQ Commod] "Gold Ticks Higher As Investors Await Fed Decision Amid Fresh U.S.-Iran" | kw:oil,crude,gold
+2026-07-29 19:31 ACCEPT [NASDAQ Commod] "Québec Selects Three Miners for Filon Fast-Track Designation" | kw:oil,nickel
+2026-07-29 19:31 ACCEPT [Google News HH] "Montana FFA Officers Explore Global Journey of Montana Commodities - n" | kw:commodities
+2026-07-29 19:31 ACCEPT [Google News HH] "Crude Oil Prices Surge as US-Iran Conflict Looks to Drag On - Barchart" | kw:oil,crude,rice
+2026-07-29 19:31 ACCEPT [Google News HH] "U.S. Posts Bigger-Than-Expected Crude Oil Stock Draw -- Market Talk - " | kw:oil,crude
+2026-07-29 19:31 ACCEPT [Google News HH] "Two new crude oil programs lift Vivakor’s platform to 18.4M barrels a " | kw:oil,crude
+2026-07-29 19:31 ACCEPT [Google News KL] "Gold edges down as dollar, yields rise ahead of Fed rate decision, War" | kw:gold,fed rate,rate decision
+2026-07-29 19:31 ACCEPT [Google News KL] "Allied Gold's $5.5 billion sale to Chinese miner falls apart amid slid" | kw:gold,rice
+2026-07-29 19:31 ACCEPT [Google News KL] "Bitcoin and Gold Jump After Fed Rate Hold Splits FOMC 9 to 3 - Yahoo F" | kw:gold,fed rate,fomc
+2026-07-29 19:31 ACCEPT [Google News KL] "Copper prices edged lower on Wednesday as investors remained cautious " | kw:copper,rice
+2026-07-29 19:31 ACCEPT [Google News NS] "Export prices for Ukrainian wheat on some delivery terms fell below th" | kw:wheat,rice
+2026-07-29 19:31 ACCEPT [Google News CB] "US Fed holds interest rates steady citing ‘elevated’ inflation - aljaz" | kw:inflation,interest rate
+2026-07-29 19:31 ACCEPT [Google News CB] "Federal Reserve holds interest rates steady, but 3 officials vote for " | kw:interest rate,federal reserve
+2026-07-29 19:31 ACCEPT [Google News CB] "Fed leaves interest rate unchanged but with 3 dissents as Warsh praise" | kw:interest rate
+2026-07-29 19:31 ACCEPT [Google News CB] "Why a high-yield savings account makes sense after the Fed rate pause " | kw:fed rate,rate pause
+2026-07-29 19:31 ACCEPT [Google News CB] "Fed Holds Rates Steady, but 3 Members Favored a Rate Hike | National N" | kw:rate hike
+2026-07-29 19:31 ACCEPT [Google News CB] "WATCH LIVE: Federal Reserve Chair Kevin Warsh delivers remarks after i" | kw:interest rate,rate decision,federal reserve
