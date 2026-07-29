@@ -1,13 +1,3 @@
-2026-06-23 04:37 ACCEPT [Google News HH] "Chicago soybeans, corn edge higher as crude oil firms - TradingView" | kw:oil,crude,corn
-2026-06-23 04:37 ACCEPT [Google News HH] "Commodities: Oil Sells Off As U.S. Eases Sanctions On Iran - Seeking A" | kw:oil,commodities,sanction
-2026-06-23 04:37 ACCEPT [Google News HH] "A1#17🔀🅿Timmendorfer Strand Stellplatz Am Vogelpark Crude Oil Price (w9" | kw:oil,crude,rice
-2026-06-23 04:37 ACCEPT [Google News HH] "Gold price in India: Rates on June 23 - FXStreet" | kw:gold,rice
-2026-06-23 04:37 ACCEPT [Google News KL] "Gold rebounds above $4,200 as markets weigh Fed hike risk, Iran progre" | kw:gold
-2026-06-23 04:37 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 05:01 ACCEPT [Google News HH] "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See " | kw:oil,crude
-2026-06-23 05:01 ACCEPT [Google News HH] "Gold Futures Streaming Chart - Investing.com" | kw:gold
-2026-06-23 05:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude
-2026-06-23 05:01 ACCEPT [Google News HH] "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countri" | kw:oil
 2026-06-23 05:01 ACCEPT [Google News HH] "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - En" | kw:oil,opec,lng
 2026-06-23 05:01 ACCEPT [Google News HH] "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - " | kw:oil,crude,brent
 2026-06-23 05:01 ACCEPT [Google News HH] "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next " | kw:oil,crude,rice
@@ -20008,3 +19998,16 @@
 2026-07-29 07:01 ACCEPT [Google News CB] "Dollar eases ahead of Fed decision, Aussie falls after inflation data " | kw:inflation
 2026-07-29 07:01 ACCEPT [Google News CB] "Dollar steady ahead of Fed decision; Aussie falls after inflation data" | kw:inflation
 2026-07-29 07:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 07:31 ACCEPT [OilPrice.com] "ADNOC Defies Hormuz Risks as UAE LNG Exports Continue" | kw:gas,lng
+2026-07-29 07:31 ACCEPT [Google News HH] "Ex-Macquarie commodities trader Nick O’Kane resigns from Mercuria Ener" | kw:commodities
+2026-07-29 07:31 ACCEPT [Google News HH] "European shares edge up on commodities boost; tech drags after SK Hyni" | kw:commodities
+2026-07-29 07:31 ACCEPT [Google News KL] "Gold ticks up ahead of Fed rate decision - Reuters" | kw:gold,fed rate,rate decision
+2026-07-29 07:31 ACCEPT [Google News KL] "GDX ETF: Why Gold Miners Are A BUY After Falling More Than Gold (NYSEA" | kw:gold
+2026-07-29 07:31 ACCEPT [Google News KL] "[SMM Nickel Intermediate Products Daily Review] July 29 MHP, High-grad" | kw:nickel,rice
+2026-07-29 07:31 ACCEPT [Google News KL] "Copper Prices Weaken, Trading Heat in Copper Scrap Market Subsides [SM" | kw:copper,rice
+2026-07-29 07:31 ACCEPT [Google News KL] "Several precious metal enterprises report forecasted positive H1 perfo" | kw:gold
+2026-07-29 07:31 ACCEPT [Google News KL] "Gold Price Forecast: Fed Decision, Central Bank Buying and $4,021 Supp" | kw:gold,rice,central bank
+2026-07-29 07:31 ACCEPT [Google News CB] "Langer not contacted by ECB in hunt for England's next Test coach - ES" | kw:ecb
+2026-07-29 07:31 ACCEPT [Google News CB] "Despite high inflation, Fed expected to hold rates steady for now - Eu" | kw:inflation
+2026-07-29 07:31 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
+2026-07-29 07:31 SKIP_MORNING already_sent date=2026-07-29
