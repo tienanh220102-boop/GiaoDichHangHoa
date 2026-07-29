@@ -1,20 +1,3 @@
-2026-06-24 02:01 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-24 02:01 ACCEPT [Google News CB] "Some in BOJ Called for Further Rate Hikes, June Summary Shows - U.S. N" | kw:rate hike,boj
-2026-06-24 02:01 ACCEPT [Google News CB] "USD/JPY, Nikkei 225 Outlook: Nikkei Washout Shifts Focus to BOJ Interv" | kw:boj
-2026-06-24 02:01 ACCEPT [Google News CB] "ECB official says Middle East crisis weighs on eurozone growth, fuels " | kw:fuel,inflation,ecb
-2026-06-24 02:01 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 02:29 ACCEPT [Google News HH] "Crude Oil Trading Alert: Improved Navigation Through the Strait of Hor" | kw:oil,crude,rice
-2026-06-24 02:29 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - KDNL" | kw:oil,crude,gas
-2026-06-24 02:29 ACCEPT [Google News HH] "Gold price prediction: Why is Gold rate down today? Will bullion drop " | kw:gold,rice
-2026-06-24 02:29 ACCEPT [Google News NS] "More rain needed on southern Minnesota corn, soybean farm - Farm Progr" | kw:corn,soybean
-2026-06-24 02:29 ACCEPT [Google News CB] "BOJ Summary Affirms Rate Hike Stance as Inflation Risks Mount - Bloomb" | kw:inflation,rate hike,boj
-2026-06-24 02:29 ACCEPT [Google News CB] "MYR/USD: Malaysia Central Bank Pledges Stronger Measures to Boost Infl" | kw:central bank
-2026-06-24 02:29 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 02:31 ACCEPT [Google News KL] "Gold Drops Below $4,100 as Tech-Led Selloff Spurs Liquidation - Bloomb" | kw:gold
-2026-06-24 02:31 ACCEPT [Google News CB] "BOJ Summary Affirms Rate Hike Stance as Inflation Risks Mount - Bloomb" | kw:inflation,rate hike,boj
-2026-06-24 02:31 ACCEPT [Google News CB] "MYR/USD: Malaysia Central Bank Pledges Stronger Measures to Boost Infl" | kw:central bank
-2026-06-24 02:31 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 03:01 ACCEPT [Google News HH] "The Strait of Hormuz crisis has triggered a surge in crude oil reserve" | kw:oil,crude
 2026-06-24 03:01 ACCEPT [Google News HH] "Commodities intraday targets/key levels - TradingView" | kw:commodities
 2026-06-24 03:01 ACCEPT [Google News KL] "Gold set for steepest fall in a decade in June quarter, silver worst i" | kw:gold,silver
 2026-06-24 03:01 ACCEPT [Google News NS] "Closing Market Update: Canola shows strength, U.S. wheat falls | June " | kw:wheat
@@ -20015,3 +19998,9 @@
 2026-07-29 21:31 ACCEPT [Google News CB] "Amid Supply-Side Inflation Pressures, The Fed Holds - eyeonhousing.org" | kw:inflation
 2026-07-29 21:31 ACCEPT [Google News CB] "Jeffrey Gundlach: Fed has to raise interest rates if it wants to get i" | kw:inflation,interest rate
 2026-07-29 21:31 ACCEPT [Google News CB] "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to " | kw:inflation
+2026-07-29 21:51 ACCEPT [Google News HH] "Vivakor Updates Guidance of Crude Oil Marketing Platform to Approximat" | kw:oil,crude
+2026-07-29 21:51 ACCEPT [Google News KL] "Alamos Gold Reports Second Quarter 2026 Results - GlobeNewswire" | kw:gold
+2026-07-29 21:51 ACCEPT [Google News KL] "Endeavour Silver Announces Q2 2026 Financial Results - GlobeNewswire" | kw:silver
+2026-07-29 21:51 ACCEPT [Google News CB] "US Fed holds interest rates steady, citing ‘elevated’ inflation - alja" | kw:inflation,interest rate
+2026-07-29 21:51 ACCEPT [Google News CB] "What Today's Fed Decision Means for Mortgage Rates - U.S. News - Money" | kw:wti
+2026-07-29 21:51 ACCEPT [Google News CB] "‘The Fed’s on the case,’ Chair Warsh says as rate pause holds - RealEs" | kw:rate pause
