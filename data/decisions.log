@@ -1,13 +1,3 @@
-2026-06-23 12:31 ACCEPT [Google News KL] "Middle East Nickel Tetracarbonyl CVD Precursor - Market Analysis, Fore" | kw:nickel
-2026-06-23 12:31 ACCEPT [Google News NS] "Wheat prices in Ukraine continue to decline - АПК-Інформ" | kw:wheat,rice
-2026-06-23 12:31 ACCEPT [Google News CB] "European Shares Set to Open Lower as Fed Rate Hike Bets, Tech Weakness" | kw:fed rate,rate hike
-2026-06-23 12:31 ACCEPT [Google News CB] "European Central Bank gets parliamentary backing for digital euro - In" | kw:central bank
-2026-06-23 12:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 13:01 ACCEPT [MarketWatch] "Stock investors expect the Fed to save them. But no ‘Warsh put’ is com" | kw:central bank
-2026-06-23 13:01 ACCEPT [MarketWatch] "Everyday investors fueled the SpaceX trading frenzy. Now they face a b" | kw:fuel
-2026-06-23 13:01 ACCEPT [Google News HH] "Brent Crude Oil Hovers at $78 - TradingView" | kw:oil,crude,brent
-2026-06-23 13:01 ACCEPT [Google News HH] "Navy Officers Board Indian Crude Oil Carriers Amid Persian Gulf Tensio" | kw:oil,crude
-2026-06-23 13:01 ACCEPT [Google News KL] "Current price of silver as of Tuesday, June 23, 2026 - Fortune" | kw:silver,rice
 2026-06-23 13:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Continues to See Pressures Early - FXEm" | kw:silver,rice
 2026-06-23 13:01 ACCEPT [Google News NS] "Petrobras markets first batch of SAF produced from CORSIA-certified so" | kw:oil,soybean
 2026-06-23 13:01 ACCEPT [Google News CB] "Brazil central bank signals mix of pauses and cuts to steer inflation " | kw:inflation,central bank
@@ -20008,3 +19998,19 @@
 2026-07-29 12:01 ACCEPT [Google News CB] "Federal Reserve expected to keep rates unchanged - WUSA9" | kw:federal reserve
 2026-07-29 12:01 ACCEPT [Google News CB] "Trump Calls Warsh "Fantastic" But Says "We Should Have the Lowest Inte" | kw:interest rate
 2026-07-29 12:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 12:31 ACCEPT [Google News HH] "Vivakor Expands Crude Oil Business Again, Targets $1.5 Billion Annual " | kw:oil,crude
+2026-07-29 12:31 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ $PCHEM (5183.MY)$ - Moomoo" | kw:oil,crude
+2026-07-29 12:31 ACCEPT [Google News HH] "Gold Price Today on July 29, 2026 - USA Today" | kw:gold,rice
+2026-07-29 12:31 ACCEPT [Google News HH] "Crude Oil Futures Surge Over 3% as West Asia Tensions Revive Supply Di" | kw:oil,crude
+2026-07-29 12:31 ACCEPT [Google News HH] "Forecast update for crude oil -29-07-2026 - Economies.com" | kw:oil,crude
+2026-07-29 12:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-29 12:31 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 12:31 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 12:31 ACCEPT [Google News KL] "Explorer Intersects Extensive New Copper-Gold System in Southern Briti" | kw:gold,copper
+2026-07-29 12:31 ACCEPT [Google News KL] "Allied Gold Announces Preliminary Second Quarter 2026 Operating Result" | kw:gold
+2026-07-29 12:31 ACCEPT [Google News KL] "European Natural Resources Fund: September rate hike expectations resu" | kw:copper,commodities,rate hike
+2026-07-29 12:31 ACCEPT [Google News NS] "Spring wheat tour finds resilient Northern Plains crop - World Grain" | kw:wheat
+2026-07-29 12:31 ACCEPT [Google News CB] "The Federal Reserve is expected to keep rates unchanged for now despit" | kw:rice,federal reserve
+2026-07-29 12:31 ACCEPT [Google News CB] "US Fed expected to hold interest rates steady - Semafor" | kw:gdp,interest rate
+2026-07-29 12:31 ACCEPT [Google News CB] "Can Markets Survive Big Tech Earnings, Fed Rate Call, Iran Fears Today" | kw:lng,fed rate
+2026-07-29 12:31 SKIP_MORNING already_sent date=2026-07-29
