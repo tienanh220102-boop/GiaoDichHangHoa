@@ -1,7 +1,3 @@
-2026-06-23 04:31 ACCEPT [RT Business] "Putin envoy names ‘first victim’ of historic energy crisis" | kw:oil,rice
-2026-06-23 04:31 ACCEPT [RT Business] "OPEC+ makes first output decision after UAE exit – Reuters" | kw:opec
-2026-06-23 04:31 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
-2026-06-23 04:31 ACCEPT [Fed Monetary] "Federal Reserve issues FOMC statement" | kw:federal reserve,fomc
 2026-06-23 04:31 ACCEPT [Fed Monetary] "Federal Open Market Committee reaffirms its "Statement on Longer-Run G" | kw:monetary policy
 2026-06-23 04:31 ACCEPT [Google News CB] "Bank of America expects three Fed hikes this year, says inflation is g" | kw:inflation
 2026-06-23 04:31 ACCEPT [Google News CB] "Hearing of the Committee on Economic and Monetary Affairs of the Europ" | kw:central bank
@@ -20002,3 +19998,12 @@
 2026-07-29 05:31 ACCEPT [Google News KL] "Gold holds steady ahead of Fed's rate decision - Reuters" | kw:gold,rate decision
 2026-07-29 05:31 ACCEPT [Google News KL] "Gold edges lower ahead of Fed decision on interest rates - Yahoo Finan" | kw:gold,interest rate
 2026-07-29 05:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 06:01 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 29 - FXStreet" | kw:gold,rice
+2026-07-29 06:01 ACCEPT [Google News HH] "Gold Price Forecasts Cut for First Time Since 2023 After Record High a" | kw:gold,rice
+2026-07-29 06:01 ACCEPT [Google News HH] "Ex Macquarie commodities trader Nick O’Kane resigns from Mercuria Ener" | kw:commodities
+2026-07-29 06:01 ACCEPT [Google News HH] "Oil Prices Resist $100 Despite Middle East Supply Threats - 조선일보" | kw:oil,rice
+2026-07-29 06:01 ACCEPT [Google News KL] "Gold (XAU/USD) & Silver Price Forecast: Fed Decision Day Keeps XAU/USD" | kw:gold,silver,rice
+2026-07-29 06:01 ACCEPT [Google News CB] "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a h" | kw:fed rate,rate hike
+2026-07-29 06:01 ACCEPT [Google News CB] "BOJ needs to raise policy rate to 1.5%, former S&P Global executive sa" | kw:wti,boj,policy rate
+2026-07-29 06:01 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
+2026-07-29 06:01 SKIP_MORNING already_sent date=2026-07-29
