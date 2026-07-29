@@ -1,19 +1,3 @@
-2026-06-23 13:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Continues to See Pressures Early - FXEm" | kw:silver,rice
-2026-06-23 13:01 ACCEPT [Google News NS] "Petrobras markets first batch of SAF produced from CORSIA-certified so" | kw:oil,soybean
-2026-06-23 13:01 ACCEPT [Google News CB] "Brazil central bank signals mix of pauses and cuts to steer inflation " | kw:inflation,central bank
-2026-06-23 13:01 ACCEPT [Google News CB] "Brazil Central Bank Says Easing Hinges on New Data as Risks Rise - Blo" | kw:central bank,easing
-2026-06-23 13:01 ACCEPT [Google News CB] "Euro zone inflation could stay high even with peace deal, ECB's Lane s" | kw:lng,inflation,ecb
-2026-06-23 13:01 ACCEPT [Google News CB] "Kudlow praises Alan Greenspan's Fed legacy, highlighting prosperity an" | kw:inflation
-2026-06-23 13:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 13:01 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-23 13:01 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
-2026-06-23 13:01 GEMINI ERROR gemini-2.5-flash-lite This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-23 13:01 SKIP_EVENING gemini_no_result date=2026-06-23
-2026-06-23 13:31 ACCEPT [MarketWatch] "Stock investors expect the Fed to save them. But no ‘Warsh put’ is com" | kw:central bank
-2026-06-23 13:31 ACCEPT [EIA Energy] "UAE's exit from OPEC+ reduced the group's share of crude oil productio" | kw:oil,crude,opec
-2026-06-23 13:31 ACCEPT [Google News HH] "Crude Oil Price Analysis – Crude Oil Continues to Face Pressures - FXE" | kw:oil,crude,rice
-2026-06-23 13:31 ACCEPT [Google News HH] "Gold Price Analysis – Gold Continues to Look to the $4000 Region - FXE" | kw:gold,rice
-2026-06-23 13:31 ACCEPT [Google News KL] "Deutsche Bank Cuts Gold Price Forecast by Up to 22% - Aju Press" | kw:gold,rice
 2026-06-23 13:31 ACCEPT [Google News KL] "AI Chatbots: Last Week Tonight With John Oliver (HBO) Gold Price In In" | kw:wti,gold,rice
 2026-06-23 13:31 ACCEPT [Google News KL] "Spot Silver Plunges 3% Intraday - Bitget" | kw:silver
 2026-06-23 13:31 ACCEPT [Google News KL] "Huge News Coming Out Of Russia! If You Own Gold & Silver, Watch Now - " | kw:gold,silver
@@ -20014,3 +19998,19 @@
 2026-07-29 12:31 ACCEPT [Google News CB] "US Fed expected to hold interest rates steady - Semafor" | kw:gdp,interest rate
 2026-07-29 12:31 ACCEPT [Google News CB] "Can Markets Survive Big Tech Earnings, Fed Rate Call, Iran Fears Today" | kw:lng,fed rate
 2026-07-29 12:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 13:01 ACCEPT [Google News HH] "Vivakor Expands Crude Oil Business Again, Targets $1.5 Billion Annual " | kw:oil,crude,wti
+2026-07-29 13:01 ACCEPT [Google News HH] "Brent crude oil price on July 30, 2026 at 5:00 PM EDT - Robinhood" | kw:oil,crude,brent
+2026-07-29 13:01 ACCEPT [Google News KL] "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this" | kw:silver,rice,rate decision
+2026-07-29 13:01 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 13:01 ACCEPT [Google News KL] "Gold Prices Gain Slightly as Dollar Weakens Before Fed Decision - Stoc" | kw:gold,rice
+2026-07-29 13:01 ACCEPT [Google News KL] "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahe" | kw:gold,rice,fed rate
+2026-07-29 13:01 ACCEPT [Google News CB] "What to Watch at the Federal Reserve’s July Meeting - The New York Tim" | kw:federal reserve
+2026-07-29 13:01 ACCEPT [Google News CB] "The Federal Reserve is expected to keep rates unchanged for now despit" | kw:rice,federal reserve
+2026-07-29 13:01 ACCEPT [Google News CB] "US stats agency change set to lower Fed’s preferred inflation gauge - " | kw:inflation
+2026-07-29 13:01 ACCEPT [Google News CB] "Wall Street’s ‘great rotation’ continues ahead of Big Tech earnings an" | kw:fed rate,rate decision
+2026-07-29 13:01 ACCEPT [Google News CB] "Stocks Mostly Up Pre-Bell Ahead of Fed Rate Decision, Big Tech Earning" | kw:fed rate,rate decision
+2026-07-29 13:01 ACCEPT [Google News CB] "US markets mixed ahead of Fed decision and oil prices jump as Middle E" | kw:oil,rice
+2026-07-29 13:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 13:01 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-07-29 13:01 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
+2026-07-29 13:01 SENT_EVENING articles=20 date=2026-07-29 force=False
