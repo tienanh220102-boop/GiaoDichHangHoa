@@ -1,10 +1,3 @@
-2026-06-23 04:31 ACCEPT [Google News HH] "Sugar Prices Slide Amid Crude Oil Weakness - Yahoo Finance" | kw:oil,crude,rice
-2026-06-23 04:31 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Tumble as Iran Deal Progress Hits Oil Outl" | kw:oil,crude
-2026-06-23 04:31 ACCEPT [Google News HH] "Saudi crude oil exports fall to record low in April: database - Xinhua" | kw:oil,crude
-2026-06-23 04:31 ACCEPT [Google News HH] "Crude oil fell, metals showed mixed performance, SHFE tin, stainless s" | kw:oil,crude,silver
-2026-06-23 04:31 ACCEPT [Google News HH] "CBOT corn falls on weaker crude oil, strong dollar - TradingView" | kw:oil,crude,corn
-2026-06-23 04:31 ACCEPT [Google News KL] "Silver Price Today | Silver Spot Price Charts - SD Bullion" | kw:silver,rice
-2026-06-23 04:31 ACCEPT [Google News KL] "Deutsche Bank Cuts Gold Forecasts up to 22% as Bulls Temper View - Blo" | kw:gold
 2026-06-23 04:31 ACCEPT [Google News KL] "Gold prices slip as stronger dollar, Fed hike bets weigh - Investing.c" | kw:gold,rice
 2026-06-23 04:31 ACCEPT [Google News KL] "Wall Street was once uber bullish on gold. Now it's changing its tune " | kw:gold
 2026-06-23 04:31 ACCEPT [Google News KL] "Gold and silver face medium-term pressure from hawkish Fed, Iran-U.S. " | kw:gold,silver
@@ -20005,3 +19998,10 @@
 2026-07-29 04:01 ACCEPT [Google News NS] "Corn-Based Products Create New Opportunities for Farmers, Rural Commun" | kw:corn
 2026-07-29 04:01 ACCEPT [Google News CB] "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed " | kw:oil
 2026-07-29 04:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 04:31 ACCEPT [Google News KL] "Silver Price For Today, 28 July 2026 - Forbes" | kw:silver,rice
+2026-07-29 04:31 ACCEPT [Google News KL] "Gold, silver prices today, 29 July: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
+2026-07-29 04:31 ACCEPT [Google News CB] "Financial fair pay: UAE Central Bank brings bankers' pay under the reg" | kw:central bank
+2026-07-29 04:31 ACCEPT [Google News CB] "Gold Drops Amid Hawkish Monetary Policy Backdrop - WSJ" | kw:gold,monetary policy
+2026-07-29 04:31 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
+2026-07-29 04:31 ACCEPT [Google News CB] "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500 -" | kw:fed rate,rate hike
+2026-07-29 04:31 SKIP_MORNING already_sent date=2026-07-29
