@@ -1,6 +1,3 @@
-2026-06-23 03:31 ACCEPT [Google News KL] "[SMM Midday Review] Metals: overseas market outperformed domestic mark" | kw:gold,silver,nickel
-2026-06-23 03:31 ACCEPT [Google News KL] "Oil prices give back gains after Iranian mediators propose plan to eas" | kw:oil,rice
-2026-06-23 03:31 ACCEPT [Google News KL] "Gold rises; direction seen led by geopolitics, monetary policy - MSN" | kw:gold,monetary policy
 2026-06-23 03:31 ACCEPT [Google News KL] "Gold Rate Today in Andhra Pradesh 23rd June 2026 : 22 & 24 Carat, Gold" | kw:gold,rice
 2026-06-23 03:31 ACCEPT [Google News KL] "Trend Alert | lululemon hosts a yoga festival on the Bund; Oriental Wa" | kw:gold
 2026-06-23 03:31 ACCEPT [Google News KL] "Silver Rate Today in Gurgaon 22nd June 2026 : 1 KG, Silver Price in Gu" | kw:silver,rice
@@ -20001,3 +19998,9 @@
 2026-07-29 00:01 ACCEPT [Google News HH] "Gold Price Outlook July 2026: CPM Group Analysis on Silver, COMEX, and" | kw:gold,silver,rice
 2026-07-29 00:01 ACCEPT [Google News NS] "Why Did Corn Prices Suddenly Surge After USDA's Latest Report? - Agrol" | kw:corn,rice
 2026-07-29 00:02 SENT_MORNING articles=20 date=2026-07-29 force=False
+2026-07-29 00:31 ACCEPT [Google News HH] "[Today’s Key Economic and Crypto Events] U.S. Crude Oil Inventories - " | kw:oil,crude
+2026-07-29 00:31 ACCEPT [Google News KL] "GLD vs SLVP: Should You Invest in Gold Bullion or Silver Mining Stocks" | kw:gold,silver
+2026-07-29 00:31 ACCEPT [Google News NS] "Aussie grain prices diverge from falling global markets as war premium" | kw:rice
+2026-07-29 00:31 ACCEPT [Google News CB] "Gold Edges Lower as Traders Assess Prospects for Fed Rate Hike - Bloom" | kw:gold,fed rate,rate hike
+2026-07-29 00:31 ACCEPT [Google News CB] "Gold Ignores Lower Dollar/Oil to Focus on the Fed - KITCO" | kw:oil,gold
+2026-07-29 00:31 SKIP_MORNING already_sent date=2026-07-29
