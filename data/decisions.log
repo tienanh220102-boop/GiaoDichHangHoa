@@ -1,22 +1,3 @@
-2026-06-23 21:01 ACCEPT [Google News CB] "U.S. economy is taking a smaller hit from the Iran war oil shock - Mid" | kw:oil
-2026-06-23 21:11 ACCEPT [NASDAQ Commod] "Oil and Gas Price Update: Q2 2026 in Review" | kw:oil,crude,gas
-2026-06-23 21:11 ACCEPT [Google News HH] "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up" | kw:oil,crude,rice
-2026-06-23 21:11 ACCEPT [Google News HH] "Crude Oil Price Forecast: Will Key Support Hold or Break? - FXEmpire" | kw:oil,crude,rice
-2026-06-23 21:31 ACCEPT [Al Jazeera] "Massive fire rips through Indonesia sandal factory" | kw:gas
-2026-06-23 21:31 ACCEPT [Google News HH] "Crude Oil Prices Settle Lower as Supply Concerns Subside - Barchart.co" | kw:oil,crude,rice
-2026-06-23 21:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - WJLA" | kw:oil,crude,gas
-2026-06-23 21:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - WGXA" | kw:oil,crude,gas
-2026-06-23 21:31 ACCEPT [Google News KL] "China Gold Imports May 2026: 163 Tonnes Highest Since March 2024 | Kit" | kw:gold
-2026-06-23 21:31 ACCEPT [Google News NS] "Brazil loses ground to U.S. in soybean sales to China - Valor Internat" | kw:soybean
-2026-06-23 21:31 ACCEPT [Google News CB] "How to take advantage of temporary student loan interest rate reductio" | kw:interest rate
-2026-06-23 22:01 ACCEPT [Al Jazeera] "Paraguay’s Almiron suspended for one game after red card for covering " | kw:iron
-2026-06-23 22:01 ACCEPT [OilPrice.com] "Trump Admin Takes Aim at Oil, Gas Drilling Costs" | kw:oil,gas,easing
-2026-06-23 22:01 ACCEPT [Google News HH] "UAE’s exit from OPEC+ reduced the group’s share of crude oil productio" | kw:oil,crude,opec
-2026-06-23 22:01 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - fox4beau" | kw:oil,crude,gas
-2026-06-23 22:01 ACCEPT [Google News HH] "Gold price slumps as tech selloff reverberates through global markets " | kw:gold,rice
-2026-06-23 22:01 ACCEPT [Google News KL] "Gold tests $4,100, silver breaks under $62 as dollar pressure dominate" | kw:gold,silver
-2026-06-23 22:01 ACCEPT [Google News KL] "Gold Silver Price News | सोने में Buy On Dip? | Gold Silver Rate Today" | kw:gold,silver,rice
-2026-06-23 22:01 ACCEPT [Google News KL] "Gold Prices Near Year Lows: BMO Cuts Forecast, Eyes $5,000 by Q1 2027 " | kw:gold,rice
 2026-06-23 22:01 ACCEPT [Google News KL] "Wall Street collectively downgrades gold price forecasts as a hawkish " | kw:gold,rice,federal reserve
 2026-06-23 22:01 ACCEPT [Google News NS] "Is China Buying Beans? What Pressure Corn, Wheat and Cattle Tuesday? -" | kw:wheat,corn
 2026-06-23 22:01 ACCEPT [Google News NS] "Where town met country... Norfolk's old corn halls remembered - EDP24" | kw:corn
@@ -20017,3 +19998,31 @@
 2026-07-29 18:01 ACCEPT [Google News CB] "Dow drops 900 points as oil surges ahead of Fed rate decision - Yahoo " | kw:oil,fed rate,rate decision
 2026-07-29 18:01 ACCEPT [Google News CB] "FTSE 100 touches fresh record on oil lift; eyes on Fed, BoE - Reuters" | kw:oil
 2026-07-29 18:01 ACCEPT [Google News CB] "Two rate hikes this year should certainly be discussed by the Fed: For" | kw:rate hike
+2026-07-29 18:31 ACCEPT [BBC Business] "US interest rates held for fifth time in a row" | kw:interest rate,federal reserve
+2026-07-29 18:31 ACCEPT [CNBC Commodities] "Divided Fed holds interest rates steady, but three members voted to hi" | kw:interest rate,easing
+2026-07-29 18:31 ACCEPT [NASDAQ Commod] "Lundin's Chilean Copper Mine Paused Following Storm Damage" | kw:copper
+2026-07-29 18:31 ACCEPT [Google News HH] "Russian crude oil discounts fall in India on supply fears - Baird Mari" | kw:oil,crude
+2026-07-29 18:31 ACCEPT [Google News HH] "Gold price jumps as Federal Reserve leaves interest rates unchanged - " | kw:gold,rice,interest rate
+2026-07-29 18:31 ACCEPT [Google News HH] "Gold Price Prediction for August 2026: Bear Market or Cycle Low? - fin" | kw:gold,rice
+2026-07-29 18:31 ACCEPT [Google News KL] "Gold edges down as dollar, yields rise ahead of Fed rate decision, War" | kw:gold,fed rate,rate decision
+2026-07-29 18:31 ACCEPT [Google News KL] "Silver Institute looks at gold:silver ratio - Coin World" | kw:gold,silver
+2026-07-29 18:31 ACCEPT [Google News KL] "Investors are still cashing in unwanted gold jewelry, but panic sellin" | kw:gold
+2026-07-29 18:31 ACCEPT [Google News NS] "Corn, Soybeans Retreat on Rain Chances: Cattle Extend Gains Early Wedn" | kw:corn,soybean
+2026-07-29 18:31 ACCEPT [Google News NS] "Corn-Based Products Create New Opportunities for Farmers, Rural Commun" | kw:corn
+2026-07-29 18:31 ACCEPT [Google News NS] "Wheat firms as market players monitor Black Sea hostilities - marketsc" | kw:wheat
+2026-07-29 18:31 ACCEPT [Google News CB] "The Fed holds interest rates steady for a seventh month, underscoring " | kw:inflation,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Divided Fed holds interest rates steady, but three members voted to hi" | kw:interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "US Fed holds interest rates steady citing ‘elevated’ inflation - Al Ja" | kw:inflation,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady in split decision - Yahoo Finance" | kw:interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed issues its latest rate decision as geopolitical unrest continues -" | kw:rate decision
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates as new Iran tensions raise inflation risks - " | kw:inflation,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady as pressure builds for a hike - The Wa" | kw:interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards h" | kw:rate decision
+2026-07-29 18:31 ACCEPT [Google News CB] "Stocks Fall on Mideast Escalation Ahead of Fed Rate Decision - WSJ" | kw:fed rate,rate decision
+2026-07-29 18:31 ACCEPT [Google News CB] "Kevin Warsh’s Fed Holds Interest Rates Steady Again—But Dissent Among " | kw:interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady for fifth-straight meeting, but inflat" | kw:inflation,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Federal Reserve votes 9-3 to leave key rate unchanged despite persiste" | kw:inflation,federal reserve
+2026-07-29 18:31 ACCEPT [Google News CB] "US Fed holds interest rates steady - Semafor" | kw:gdp,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady for fifth-straight meeting, but inflat" | kw:inflation,interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady. Here's what It means for your wallet " | kw:interest rate
+2026-07-29 18:31 ACCEPT [Google News CB] "Will they or won't they? The case for and against a Fed rate hike - re" | kw:fed rate,rate hike
