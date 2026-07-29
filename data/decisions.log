@@ -19998,19 +19998,15 @@
 2026-07-29 12:31 ACCEPT [Google News CB] "US Fed expected to hold interest rates steady - Semafor" | kw:gdp,interest rate
 2026-07-29 12:31 ACCEPT [Google News CB] "Can Markets Survive Big Tech Earnings, Fed Rate Call, Iran Fears Today" | kw:lng,fed rate
 2026-07-29 12:31 SKIP_MORNING already_sent date=2026-07-29
-2026-07-29 13:01 ACCEPT [Google News HH] "Vivakor Expands Crude Oil Business Again, Targets $1.5 Billion Annual " | kw:oil,crude,wti
-2026-07-29 13:01 ACCEPT [Google News HH] "Brent crude oil price on July 30, 2026 at 5:00 PM EDT - Robinhood" | kw:oil,crude,brent
-2026-07-29 13:01 ACCEPT [Google News KL] "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this" | kw:silver,rice,rate decision
-2026-07-29 13:01 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
-2026-07-29 13:01 ACCEPT [Google News KL] "Gold Prices Gain Slightly as Dollar Weakens Before Fed Decision - Stoc" | kw:gold,rice
-2026-07-29 13:01 ACCEPT [Google News KL] "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahe" | kw:gold,rice,fed rate
-2026-07-29 13:01 ACCEPT [Google News CB] "What to Watch at the Federal Reserve’s July Meeting - The New York Tim" | kw:federal reserve
-2026-07-29 13:01 ACCEPT [Google News CB] "The Federal Reserve is expected to keep rates unchanged for now despit" | kw:rice,federal reserve
-2026-07-29 13:01 ACCEPT [Google News CB] "US stats agency change set to lower Fed’s preferred inflation gauge - " | kw:inflation
-2026-07-29 13:01 ACCEPT [Google News CB] "Wall Street’s ‘great rotation’ continues ahead of Big Tech earnings an" | kw:fed rate,rate decision
-2026-07-29 13:01 ACCEPT [Google News CB] "Stocks Mostly Up Pre-Bell Ahead of Fed Rate Decision, Big Tech Earning" | kw:fed rate,rate decision
-2026-07-29 13:01 ACCEPT [Google News CB] "US markets mixed ahead of Fed decision and oil prices jump as Middle E" | kw:oil,rice
-2026-07-29 13:01 SKIP_MORNING already_sent date=2026-07-29
-2026-07-29 13:01 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-07-29 13:01 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
-2026-07-29 13:01 SENT_EVENING articles=20 date=2026-07-29 force=False
+2026-07-29 13:02 ACCEPT [Google News KL] "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this" | kw:silver,rice,rate decision
+2026-07-29 13:02 ACCEPT [Google News KL] "Gold holds above $4,000 as Fed decision keeps traders defensive - Kitc" | kw:gold
+2026-07-29 13:02 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 13:02 ACCEPT [Google News KL] "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahe" | kw:gold,rice,fed rate
+2026-07-29 13:02 ACCEPT [Google News KL] "Gold Prices Gain Slightly as Dollar Weakens Before Fed Decision - Stoc" | kw:gold,rice
+2026-07-29 13:02 ACCEPT [Google News CB] "What to Watch at the Federal Reserve’s July Meeting - The New York Tim" | kw:federal reserve
+2026-07-29 13:02 ACCEPT [Google News CB] "The Federal Reserve is expected to keep rates unchanged for now despit" | kw:rice,federal reserve
+2026-07-29 13:02 ACCEPT [Google News CB] "US stats agency change set to lower Fed’s preferred inflation gauge - " | kw:inflation
+2026-07-29 13:02 ACCEPT [Google News CB] "Wall Street’s ‘great rotation’ continues ahead of Big Tech earnings an" | kw:fed rate,rate decision
+2026-07-29 13:02 ACCEPT [Google News CB] "Stocks Mostly Up Pre-Bell Ahead of Fed Rate Decision, Big Tech Earning" | kw:fed rate,rate decision
+2026-07-29 13:02 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 13:02 SENT_EVENING articles=20 date=2026-07-29 force=False
