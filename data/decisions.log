@@ -1,5 +1,3 @@
-2026-06-23 03:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 04:01 ACCEPT [Google News HH] "Outlook for Crude Oil Prices: How Much Further Can WTI Crude Fall? - M" | kw:oil,crude,wti
 2026-06-23 04:01 ACCEPT [Google News HH] "US Authorizes Iranian Oil Sales Amid Talks on Final Peace Deal - Energ" | kw:oil
 2026-06-23 04:01 ACCEPT [Google News KL] "Gold, silver prices today: Check retail rates of 24K, 22K, 18K gold, 9" | kw:gold,silver,rice
 2026-06-23 04:01 ACCEPT [Google News KL] "Dragged Down by Stronger US Dollar, New York Gold Prices Surge and The" | kw:gold,rice
@@ -20000,3 +19998,8 @@
 2026-07-29 00:31 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 01:01 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - Moomoo" | kw:oil,crude
 2026-07-29 01:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 01:31 ACCEPT [Google News HH] "Canadian financial close: C$ firm despite crude oil losses - Farmtario" | kw:oil,crude
+2026-07-29 01:31 ACCEPT [Google News KL] "Gold edges lower ahead of Fed decision on interest rates - Reuters" | kw:gold,interest rate
+2026-07-29 01:31 ACCEPT [Google News CB] "Gold Holds Decline as Traders Assess Prospects for Fed Rate Hike - Blo" | kw:gold,fed rate,rate hike
+2026-07-29 01:31 ACCEPT [Google News CB] "Bank of Japan should 'endorse' Takaichi's growth project with 100 bps " | kw:rate hike,bank of japan
+2026-07-29 01:31 SKIP_MORNING already_sent date=2026-07-29
