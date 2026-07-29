@@ -1,8 +1,3 @@
-2026-06-23 04:31 ACCEPT [BBC Business] "Do you know your 'sweat score'? The rise of hydration tech" | kw:flood
-2026-06-23 04:31 ACCEPT [BBC Business] "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities" | kw:oil,fuel,shortage
-2026-06-23 04:31 ACCEPT [The Guardian Biz] "Job scams are growing and getting tougher to spot: ‘That’s the reality" | kw:flood
-2026-06-23 04:31 ACCEPT [The Guardian Biz] "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines" | kw:drought
-2026-06-23 04:31 ACCEPT [CNBC Commodities] "Markets are set for a much more hawkish Warsh Fed than expected" | kw:inflation
 2026-06-23 04:31 ACCEPT [CNBC Commodities] "Chairman Warsh drastically alters Fed rate statement. Here's what's ch" | kw:fed rate
 2026-06-23 04:31 ACCEPT [CNBC Economy] "Bank of England holds interest rates at 3.75% amid Iran war peace pros" | kw:monetary policy,interest rate,bank of england
 2026-06-23 04:31 ACCEPT [CNBC Economy] "UK inflation holds steady at 2.8% in May" | kw:inflation,monetary policy,bank of england
@@ -20003,3 +19998,11 @@
 2026-07-29 02:01 ACCEPT [Google News CB] "Gold Holds Decline as Traders Assess Prospects for Fed Rate Hike - Blo" | kw:gold,fed rate,rate hike
 2026-07-29 02:01 ACCEPT [Google News CB] "Japan Signals Steady Minimum Wage Gains, Backing BOJ’s Hike Path - Blo" | kw:boj
 2026-07-29 02:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 02:31 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - Moomoo" | kw:oil,crude
+2026-07-29 02:31 ACCEPT [Google News KL] "Earnings call transcript: Horizon Gold Q4 2026 DFS lifts project value" | kw:gold
+2026-07-29 02:31 ACCEPT [Google News KL] "Earnings call transcript: Ramelius Resources posts strong Q4 2026 gold" | kw:gold
+2026-07-29 02:31 ACCEPT [Google News KL] "Gold holds losses near $4,000 due to Middle East tensions, Fed rate un" | kw:gold,fed rate
+2026-07-29 02:31 ACCEPT [Google News NS] "GRAINS-Soybean and corn ratings rebound after heat damage to US crops " | kw:corn,soybean
+2026-07-29 02:31 ACCEPT [Google News NS] "GRAINS-Soybean and corn ratings rebound after heat damage to US crops " | kw:corn,soybean
+2026-07-29 02:31 ACCEPT [Google News CB] "Dollar steady ahead of Fed decision; Aussie falls after inflation data" | kw:inflation
+2026-07-29 02:31 SKIP_MORNING already_sent date=2026-07-29
