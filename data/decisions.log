@@ -1,20 +1,3 @@
-2026-06-23 06:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude
-2026-06-23 06:01 ACCEPT [Google News HH] "Oil Rate Today, June 23, 2026: Crude Oil Extends Decline to $77.6 Afte" | kw:oil,crude
-2026-06-23 06:01 ACCEPT [Google News HH] "Goldman Sachs Cuts Gold Target to $4,900; JPMorgan, Wells Fargo Hold a" | kw:gold
-2026-06-23 06:01 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Gold Retests $4,130 as Silver F" | kw:gold,silver,rice
-2026-06-23 06:01 ACCEPT [Google News KL] "Gold price prediction today: Why is gold not rising too much despite l" | kw:oil,gold,rice
-2026-06-23 06:01 ACCEPT [Google News CB] "BofA Expects Fed to Hike Interest Rates 75 Basis Points in 2026 - Asha" | kw:interest rate,basis point
-2026-06-23 06:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 06:31 ACCEPT [BBC Business] "Ticket reseller StubHub fined for not showing buyers full prices" | kw:rice
-2026-06-23 06:31 ACCEPT [Google News HH] "Crude Oil Forecast 23/06: Jumps and Falls Right Away (Video) - DailyFo" | kw:oil,crude
-2026-06-23 06:31 ACCEPT [Google News KL] "Commodities: Deutsche Bank cuts its Q3 gold price forecast by 22% to U" | kw:gold,rice,commodities
-2026-06-23 06:31 ACCEPT [Google News KL] "Gold price back above $4,200: scenario planning notes for mine project" | kw:gold,rice
-2026-06-23 06:31 ACCEPT [Google News CB] "Gold falls as dollar holds firm on Fed rate-hike expectations - CNBC" | kw:gold,fed rate
-2026-06-23 06:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 07:01 ACCEPT [OilPrice.com] "UK Has Enough Electricity for Winter Despite Energy Market Turmoil" | kw:oil
-2026-06-23 07:01 ACCEPT [Google News HH] "$Crude Oil Futures (AUG6) (CLmain.US)$ Are u one of them at the top wa" | kw:oil,crude
-2026-06-23 07:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude
-2026-06-23 07:01 ACCEPT [Google News HH] "UAE, Saudi SPLIT Official; Abu Dhabi EXITS OPEC As Iran War Intensifie" | kw:opec
 2026-06-23 07:01 ACCEPT [Google News HH] "Brent crude oil futures main contract fell by 1.00% intraday, quoted a" | kw:oil,crude,brent
 2026-06-23 07:01 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On June 23, nickel prices dropped sharply, " | kw:nickel,rice,dollar index
 2026-06-23 07:01 ACCEPT [Google News KL] "Gold, silver prices steady as global forces offset gains - MSN" | kw:gold,silver,rice
@@ -20015,3 +19998,5 @@
 2026-07-29 08:01 ACCEPT [Google News CB] "South African rand tracks subdued market peers ahead of Fed interest r" | kw:interest rate,rate decision
 2026-07-29 08:01 ACCEPT [Google News CB] "Economic Calendar: All at once! Fed rate decision and Big Tech earning" | kw:fed rate,rate decision
 2026-07-29 08:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 08:02 ACCEPT [Google News CB] "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage" | kw:central bank,ecb
+2026-07-29 08:02 SKIP_MORNING already_sent date=2026-07-29
