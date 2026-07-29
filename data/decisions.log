@@ -1,16 +1,3 @@
-2026-06-23 11:01 ACCEPT [Google News CB] "Federal Reserve Leaves Rates Unchanged; Industry Economists Weigh In -" | kw:federal reserve
-2026-06-23 11:01 ACCEPT [Google News CB] "Alan Greenspan, former Federal Reserve chairman, dies at 100 - KYOU-TV" | kw:federal reserve
-2026-06-23 11:01 ACCEPT [Google News CB] "Ben Stokes Sacked By ECB After Nightclub Incident, Names New Captain F" | kw:ecb
-2026-06-23 11:01 ACCEPT [Google News CB] "Inflation is surging, Trump wants rate cuts -- and Kevin Warsh is caug" | kw:inflation,rate cut
-2026-06-23 11:01 ACCEPT [Google News CB] "AI boom's US employment, wage impact muted so far, ECB study finds - D" | kw:ecb
-2026-06-23 11:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 11:31 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD hovers above $4,100 amid growing bearish " | kw:gold,rice
-2026-06-23 11:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on June 23 - FXStreet" | kw:gold,rice
-2026-06-23 11:31 ACCEPT [Google News HH] "Crude Oil Futures Rise Amid West Asia Tensions - Rediff MoneyWiz" | kw:oil,crude
-2026-06-23 11:31 ACCEPT [Google News KL] "Gold and Silver Face a New Test as the Fed Turns Hawkish - CoinWeek" | kw:gold,silver
-2026-06-23 11:31 ACCEPT [Google News KL] "TSX futures down 1% as oil, gold prices fall - marketscreener.com" | kw:oil,gold,rice
-2026-06-23 11:31 ACCEPT [Google News CB] "ECB secures key parliamentary backing for digital euro - Reuters" | kw:ecb
-2026-06-23 11:31 ACCEPT [Google News CB] "Rupee slips as Fed rate expectations boost dollar, dent global stocks " | kw:fed rate
 2026-06-23 11:31 ACCEPT [Google News CB] "Stocks hit by Fed rate reality check; oil slips - Reuters" | kw:oil,fed rate
 2026-06-23 11:31 ACCEPT [Google News CB] "Eurozone Bond Yields Ease as ECB Signals Calm and Middle East Risks Re" | kw:ecb
 2026-06-23 11:31 ACCEPT [Google News CB] "Gold Under Pressure as Dollar Strength and Fed Expectations Curb Deman" | kw:gold
@@ -20011,3 +19998,13 @@
 2026-07-29 10:31 ACCEPT [Google News CB] "New Fed focus on money supply might aid inflation thinking at the marg" | kw:inflation
 2026-07-29 10:31 ACCEPT [Google News CB] "Oil Rises on Mideast Flare-Up as Fed Weighs Interest-Rate Decision -- " | kw:oil,rate decision
 2026-07-29 10:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 10:59 ACCEPT [MarketWatch] "Oil is up 40% and tech is tumbling. Why it’s time to go all-in on stoc" | kw:oil
+2026-07-29 11:00 ACCEPT [NASDAQ Commod] "Gold Tad Higher As Dollar Slips Ahead Of Fed Decision" | kw:gold,rice,rate decision
+2026-07-29 11:00 ACCEPT [Google News HH] "Crude Oil Futures Surge Over 3% as West Asia Tensions Revive Supply Di" | kw:oil,crude
+2026-07-29 11:00 ACCEPT [Google News HH] "7-28-26 Al Kluis with Kluis Commodities - Radio 570 WNAX" | kw:commodities
+2026-07-29 11:00 ACCEPT [Google News KL] "Laopu Gold’s cooling growth tests its luxury credentials - Jing Daily" | kw:gold
+2026-07-29 11:00 ACCEPT [Google News KL] "Gold edges up ahead of Fed decision as softer dollar offsets inflation" | kw:gold,inflation
+2026-07-29 11:00 ACCEPT [Google News NS] "AI Can't Replace Corn Price Risk Management - agronews.com" | kw:corn,rice
+2026-07-29 11:00 ACCEPT [Google News CB] "S&P 500 futures edge higher as oil climbs; investors await Fed rates d" | kw:oil,fed rate
+2026-07-29 11:00 ACCEPT [Google News CB] "BoJ’s potential hawkish signaling overshadows upcoming rate decision -" | kw:rate decision,boj
+2026-07-29 11:00 SKIP_MORNING already_sent date=2026-07-29
