@@ -1,17 +1,3 @@
-2026-06-23 07:01 ACCEPT [Google News KL] "Gold, silver prices steady as global forces offset gains - MSN" | kw:gold,silver,rice
-2026-06-23 07:01 ACCEPT [Google News KL] "Gold prices tumble from highs. Here's what could happen next - Moneyco" | kw:gold,rice
-2026-06-23 07:01 ACCEPT [Google News CB] "Rupee flat as traders mull Fed rate path, keep eyes peeled for flow cl" | kw:fed rate
-2026-06-23 07:01 ACCEPT [Google News CB] "European shares set to open lower as Fed rate hike bets, tech weakness" | kw:fed rate,rate hike
-2026-06-23 07:01 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 07:31 ACCEPT [Google News HH] "China INE crude oil futures main contract just broke through the 490.0" | kw:oil,crude
-2026-06-23 07:31 ACCEPT [Google News KL] "Gold prices fall 2% as stronger dollar, Fed hike bets weigh - Investin" | kw:gold,rice
-2026-06-23 07:31 ACCEPT [Google News KL] "Copper: Prices supported by tightening stocks – ING - FXStreet" | kw:copper,rice,tightening
-2026-06-23 07:31 ACCEPT [Google News KL] "Copper prices and premiums both fell, while restocking increased and m" | kw:copper,rice
-2026-06-23 07:31 ACCEPT [Google News KL] "Chart of the Day: Gold under pressure again from the Fed and inflation" | kw:gold,inflation
-2026-06-23 07:31 ACCEPT [Google News KL] "Gold prices fall on COMEX - AzerNews" | kw:gold,rice
-2026-06-23 07:31 ACCEPT [Google News CB] "European shares set to open lower as Fed rate hike bets, tech weakness" | kw:fed rate,rate hike
-2026-06-23 07:31 ACCEPT [Google News CB] "3 Fed Rate Hikes Now on Bank of America’s 2026 Radar - Yahoo Finance" | kw:fed rate,rate hike
-2026-06-23 07:31 SKIP_MORNING already_sent date=2026-06-23
 2026-06-23 08:01 ACCEPT [Google News HH] "Crude oil unwind hits a hurdle - FOREX.com" | kw:oil,crude
 2026-06-23 08:01 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD nears seven-month lows at $61.00 as US" | kw:silver,rice
 2026-06-23 08:01 ACCEPT [Google News KL] "XAU/USD: Gold Prices Seek Direction as Traders Weigh Interest Rate Pro" | kw:gold,rice,interest rate
@@ -20012,3 +19998,10 @@
 2026-07-29 08:31 ACCEPT [Google News CB] "The case for a Fed rate-cut collapses - The Economist" | kw:fed rate
 2026-07-29 08:31 ACCEPT [Google News CB] "European equities advance as Fed policy decision looms (EUR:USD:) - Se" | kw:gdp
 2026-07-29 08:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 09:01 ACCEPT [Google News HH] "Commodities: Oil Rises As Middle East Tensions Reignite - Seeking Alph" | kw:oil,commodities
+2026-07-29 09:01 ACCEPT [Google News HH] "Danske Commodities: New agreement is "incredibly important" - EnergyWa" | kw:commodities
+2026-07-29 09:01 ACCEPT [Google News NS] "Why Fund Yield Models Now Sit Far Above the USDA’s Corn Yield Estimate" | kw:corn
+2026-07-29 09:01 ACCEPT [Google News NS] "Mysteel grain market daily: Nationa... - Mysteel" | kw:steel
+2026-07-29 09:01 ACCEPT [Google News CB] "ECB Tracker Detects No Pickup in Eurozone Wage Pressures - WSJ" | kw:ecb
+2026-07-29 09:01 ACCEPT [Google News CB] "Fed Rate Decision: Live Coverage - Barron's" | kw:fed rate,rate decision
+2026-07-29 09:01 SKIP_MORNING already_sent date=2026-07-29
