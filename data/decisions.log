@@ -1,33 +1,3 @@
-2026-06-23 17:31 ACCEPT [Mining.com] "BHP and Rio Tinto test electric trucks to clean up iron ore" | kw:iron
-2026-06-23 17:31 ACCEPT [Google News HH] "Deutsche Bank cuts 2026 gold price targets to $4,300/oz for Q3, $4,800" | kw:gold,rice
-2026-06-23 17:31 ACCEPT [Google News KL] "Gold falls as rate-hike bets boost dollar to one-year high - Reuters" | kw:gold
-2026-06-23 17:31 ACCEPT [Google News NS] "‘Severe blow’: Industry hit hard by unchanged wheat tariff - Food For " | kw:wheat,tariff
-2026-06-23 17:31 ACCEPT [Google News CB] "May PCE Expected to Show Rising Inflation - Morningstar" | kw:inflation
-2026-06-23 18:01 ACCEPT [OilPrice.com] "El Niño, War, and Fertilizer Costs Create a Dangerous Inflation Cockta" | kw:inflation
-2026-06-23 18:01 ACCEPT [Google News HH] "Crude Oil Prices Fall as Oil Supplies Flow Through the Strait of Hormu" | kw:oil,crude,rice
-2026-06-23 18:01 ACCEPT [Google News HH] "Non-Opec-Plus: Liquids Production Climbs, Exports Soar - Energy Intell" | kw:opec
-2026-06-23 18:01 ACCEPT [Google News HH] "June Crude Oil Price Trend Analysis: Multiple Negative Factors Weigh o" | kw:oil,crude,rice
-2026-06-23 18:01 ACCEPT [Google News HH] "BMO cuts gold price forecast as Fed’s hawkish shift weighs on precious" | kw:gold,rice
-2026-06-23 18:01 ACCEPT [Google News HH] "June Crude Oil Price Trend Analysis: Multiple Bearish Factors Weigh, Y" | kw:oil,crude,rice
-2026-06-23 18:01 ACCEPT [Google News KL] "Since 2001, Gold Prices Have Presented A Seasonality In The 2nd Half T" | kw:gold,rice
-2026-06-23 18:01 ACCEPT [Google News KL] "Gold Prices Plunge With Central Bank Selling - Seeking Alpha" | kw:gold,rice,central bank
-2026-06-23 18:01 ACCEPT [Google News CB] "Dollar Jumps to Highest Since November on Fed Rate Hike Bets - Bloombe" | kw:fed rate,rate hike
-2026-06-23 18:01 ACCEPT [Google News CB] "Brazil central bank signals mixing pauses with cuts to steer inflation" | kw:inflation,central bank
-2026-06-23 18:31 ACCEPT [MarketWatch] "SpaceX stock’s wild price swings since its IPO show how risky leverage" | kw:rice
-2026-06-23 18:31 ACCEPT [OilPrice.com] "Tanker Owners Are Having the Best Week of the Hormuz Crisis" | kw:crude,shipping
-2026-06-23 18:31 ACCEPT [NASDAQ Commod] "Gold Tumbles Despite Slump In Crude Oil Price As U.S. Dollar Strengthe" | kw:oil,crude,gold
-2026-06-23 18:31 ACCEPT [Google News HH] "Why has the gold price fallen? - Yahoo Finance" | kw:gold,rice
-2026-06-23 18:31 ACCEPT [Google News HH] "Gold price slides as AI rout fuels US Dollar flight - FXStreet" | kw:fuel,gold,rice
-2026-06-23 18:31 ACCEPT [Google News CB] "Bank of America now calls for three rate hikes in 2026 after Kevin War" | kw:rate hike
-2026-06-23 18:31 ACCEPT [Google News CB] "Fed Tightening Ahead? This Dividend ETF Offers Protection. - The Motle" | kw:tightening
-2026-06-23 18:31 ACCEPT [Google News CB] "Dallas Fed: U.S. Economy Better Equipped To Withstand Major Oil Supply" | kw:oil
-2026-06-23 19:01 ACCEPT [Google News HH] "Crude oil futures settled below the 200 day moving average - investing" | kw:oil,crude
-2026-06-23 19:01 ACCEPT [Google News HH] "Gold Price Drop Sparks Debate Over Crypto Outlook As Kiyosaki Awaits B" | kw:gold,rice
-2026-06-23 19:01 ACCEPT [Google News KL] "The Technicals: Getting Closer to a Bottom, but Not There Yet - Schiff" | kw:gold
-2026-06-23 19:01 ACCEPT [Google News KL] "New AbraSilver study quadruples Argentina project value - Mining.com" | kw:silver
-2026-06-23 19:10 ACCEPT [NASDAQ Commod] "Crude Oil Slides Amid Resumption Of Shipping Traffic Across The Strait" | kw:oil,crude,rice
-2026-06-23 19:10 ACCEPT [Google News KL] "Gold and silver price warning: new risks are building fast! - KITCO" | kw:gold,silver,rice
-2026-06-23 19:10 ACCEPT [Google News KL] "Bank of America’s latest gold outlook sends a different signal - thest" | kw:gold
 2026-06-23 19:10 ACCEPT [Google News KL] "COIN - I Want It All (Lyric Video) Silver Price Today (8W1oB871P6) - F" | kw:silver,rice
 2026-06-23 19:10 ACCEPT [Google News NS] "New plant growth regulator guide helps cotton growers strategize - Far" | kw:cotton
 2026-06-23 19:10 ACCEPT [Google News CB] "Inflation, Interest Rates, the Fed, & Your Family Budget - Advisor Per" | kw:inflation,interest rate
@@ -20028,3 +19998,21 @@
 2026-07-29 16:01 ACCEPT [Google News CB] "Oil Jumps 7% As Trump Threatens Iran Hours Before Fed Decision - Crude" | kw:oil,crude,rice
 2026-07-29 16:01 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 16:01 SKIP_EVENING already_sent date=2026-07-29
+2026-07-29 16:30 ACCEPT [MarketWatch] "A key cryptocurrency bill could flop because of Trump’s crypto venture" | kw:rice
+2026-07-29 16:31 ACCEPT [OilPrice.com] "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Mark" | kw:oil,commodity
+2026-07-29 16:31 ACCEPT [Google News HH] "U.S. Stocks Move Sharply Lower As Crude Oil Prices Soar - RTTNews" | kw:oil,crude,rice
+2026-07-29 16:31 ACCEPT [Google News HH] "Canada Commodities: Oil Higher as US-Iran Hostilities Resume, Saudi Ar" | kw:oil,commodities
+2026-07-29 16:31 ACCEPT [Google News HH] "Crude Oil Surges 7%; General Dynamics Posts Upbeat Earnings - Benzinga" | kw:oil,crude
+2026-07-29 16:31 ACCEPT [Google News HH] "Gold Price Prediction for August 2026: Bear Market or Cycle Low? - BeI" | kw:gold,rice
+2026-07-29 16:31 ACCEPT [Google News HH] "US Oil Inventories Sag as Hormuz Turmoil Rages On - Crude Oil Prices T" | kw:oil,crude,rice
+2026-07-29 16:31 ACCEPT [Google News KL] "First Majestic Silver earnings on deck amid silver price headwinds - I" | kw:silver,rice
+2026-07-29 16:31 ACCEPT [Google News KL] "Allied Gold's $5.5 billion sale to Chinese gold miner falls apart amid" | kw:gold,rice
+2026-07-29 16:31 ACCEPT [Google News KL] "Chile’s deadly storm adds growing pressure to copper prices - mining.c" | kw:copper,rice
+2026-07-29 16:31 ACCEPT [Google News NS] "FARMERS MARKET CORN - fox13memphis.com" | kw:corn
+2026-07-29 16:31 ACCEPT [Google News NS] "Soybean and rapeseed oil quotes respond to oil price spikes, but physi" | kw:oil,soybean,rice
+2026-07-29 16:31 ACCEPT [Google News NS] "Melbourne wheat price hits a 14-month high - The Weekly Times" | kw:wheat,rice,gdp
+2026-07-29 16:31 ACCEPT [Google News CB] "Neil Dutta on Fed interest rates decision: ‘If I had to pick, I would " | kw:interest rate
+2026-07-29 16:31 ACCEPT [Google News CB] "BoJ independence reinforces Sanaenomics’ credibility - omfif.org" | kw:boj
+2026-07-29 16:31 ACCEPT [Google News CB] "Warsh Stands to Make Market History If Fed Opts for a Rate Hike - Bloo" | kw:rate hike
+2026-07-29 16:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 16:31 SKIP_EVENING already_sent date=2026-07-29
