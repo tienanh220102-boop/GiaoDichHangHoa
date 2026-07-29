@@ -1,7 +1,3 @@
-2026-06-23 04:31 ACCEPT [RT Business] "Defying Western pressure: Russia and China deepen economic partnership" | kw:sanction
-2026-06-23 04:31 ACCEPT [RT Business] "Japanese auto giant takes historic hit amid EV pullback" | kw:tariff
-2026-06-23 04:31 ACCEPT [RT Business] "Why the ECB may be forced to raise rates despite weak EU economy" | kw:central bank,interest rate,ecb
-2026-06-23 04:31 ACCEPT [RT Business] "Netflix sued for spying on children" | kw:harvest
 2026-06-23 04:31 ACCEPT [RT Business] "Putin envoy names ‘first victim’ of historic energy crisis" | kw:oil,rice
 2026-06-23 04:31 ACCEPT [RT Business] "OPEC+ makes first output decision after UAE exit – Reuters" | kw:opec
 2026-06-23 04:31 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
@@ -20002,3 +19998,7 @@
 2026-07-29 05:12 ACCEPT [Google News KL] "Gold prices fall to $4,025.27 as investors await Fed rate decision - E" | kw:gold,rice,fed rate
 2026-07-29 05:12 ACCEPT [Google News NS] "U.S. rice production falls to lowest level since 1987 - Farm Progress" | kw:rice
 2026-07-29 05:12 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 05:31 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-29 05:31 ACCEPT [Google News KL] "Gold holds steady ahead of Fed's rate decision - Reuters" | kw:gold,rate decision
+2026-07-29 05:31 ACCEPT [Google News KL] "Gold edges lower ahead of Fed decision on interest rates - Yahoo Finan" | kw:gold,interest rate
+2026-07-29 05:31 SKIP_MORNING already_sent date=2026-07-29
