@@ -1,13 +1,3 @@
-2026-06-23 04:31 ACCEPT [EIA Energy] "Most planned natural gas pipeline capacity additions in 2026 and 2027 " | kw:gas
-2026-06-23 04:31 ACCEPT [NASDAQ Commod] "Top 5 Canadian Mining Stocks This Week: Lighthouse Gold Shines with 78" | kw:gold,copper,iron
-2026-06-23 04:31 ACCEPT [NASDAQ Commod] "David Nicholas: Gold's Next 30 Days — 10 Percent Price Pop?" | kw:gold,silver,rice
-2026-06-23 04:31 ACCEPT [Google News HH] "India taps ONGC to accelerate SPR expansion amid global oil supply dis" | kw:oil
-2026-06-23 04:31 ACCEPT [Google News HH] "Gold price not likely to reach $5,200/oz target without stronger ETF i" | kw:gold,rice
-2026-06-23 04:31 ACCEPT [Google News HH] "Residents cleaning up after crude oil, salt brine spill - WFMJ" | kw:oil,crude
-2026-06-23 04:31 ACCEPT [Google News HH] "As Crude Oil Prices Fall, Make This 1 Bullish Trade Instead - Barchart" | kw:oil,crude,rice
-2026-06-23 04:31 ACCEPT [Google News HH] "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets - Crude Oi" | kw:oil,crude,rice
-2026-06-23 04:31 ACCEPT [Google News HH] "Commodities intraday targets/key levels - TradingView" | kw:commodities
-2026-06-23 04:31 ACCEPT [Google News HH] "Turkey Cuts Russian Crude Oil, Gas Intake - Energy Intelligence" | kw:oil,crude,gas
 2026-06-23 04:31 ACCEPT [Google News HH] "Sugar Prices Slide Amid Crude Oil Weakness - Yahoo Finance" | kw:oil,crude,rice
 2026-06-23 04:31 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Tumble as Iran Deal Progress Hits Oil Outl" | kw:oil,crude
 2026-06-23 04:31 ACCEPT [Google News HH] "Saudi crude oil exports fall to record low in April: database - Xinhua" | kw:oil,crude
@@ -20008,3 +19998,10 @@
 2026-07-29 03:31 ACCEPT [Google News CB] "Japan Signals Steady Minimum Wage Gains, Backing BOJ’s Hike Path - Blo" | kw:boj
 2026-07-29 03:31 ACCEPT [Google News CB] "Bitcoin, Ethereum, XRP, Dogecoin Gain Ahead of Fed Rate Cut Decision: " | kw:fed rate,rate cut
 2026-07-29 03:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 04:01 ACCEPT [Google News KL] "Gold prices steady ahead of Fed decision; oil rebound revives inflatio" | kw:oil,gold,rice
+2026-07-29 04:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD looks to the Fed for the next big move - " | kw:gold,rice
+2026-07-29 04:01 ACCEPT [Google News NS] "Black Sea attacks revive fears of grain market turmoil - euractiv.com" | kw:oil
+2026-07-29 04:01 ACCEPT [Google News NS] "US soybean exporters shift to new markets as sales to China slump - S&" | kw:soybean
+2026-07-29 04:01 ACCEPT [Google News NS] "Corn-Based Products Create New Opportunities for Farmers, Rural Commun" | kw:corn
+2026-07-29 04:01 ACCEPT [Google News CB] "Rupee's RBI-spurred rally faces twin headwinds of oil volatility, Fed " | kw:oil
+2026-07-29 04:01 SKIP_MORNING already_sent date=2026-07-29
