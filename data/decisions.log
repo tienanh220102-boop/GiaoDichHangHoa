@@ -1,9 +1,3 @@
-2026-06-23 03:31 ACCEPT [Google News KL] "Gold Rate Today in Andhra Pradesh 23rd June 2026 : 22 & 24 Carat, Gold" | kw:gold,rice
-2026-06-23 03:31 ACCEPT [Google News KL] "Trend Alert | lululemon hosts a yoga festival on the Bund; Oriental Wa" | kw:gold
-2026-06-23 03:31 ACCEPT [Google News KL] "Silver Rate Today in Gurgaon 22nd June 2026 : 1 KG, Silver Price in Gu" | kw:silver,rice
-2026-06-23 03:31 ACCEPT [Google News KL] "Experts call for lowering taxes to help make gold recycling attractive" | kw:gold
-2026-06-23 03:31 ACCEPT [Google News KL] "Production decreases, revenue increases at gold mine in South Dakota’s" | kw:gold
-2026-06-23 03:31 ACCEPT [Google News NS] "Could Iran replace China as US soybean market? Farmers aren’t buying T" | kw:soybean
 2026-06-23 03:31 SKIP_MORNING already_sent date=2026-06-23
 2026-06-23 04:01 ACCEPT [Google News HH] "Outlook for Crude Oil Prices: How Much Further Can WTI Crude Fall? - M" | kw:oil,crude,wti
 2026-06-23 04:01 ACCEPT [Google News HH] "US Authorizes Iranian Oil Sales Amid Talks on Final Peace Deal - Energ" | kw:oil
@@ -20004,3 +19998,5 @@
 2026-07-29 00:31 ACCEPT [Google News CB] "Gold Edges Lower as Traders Assess Prospects for Fed Rate Hike - Bloom" | kw:gold,fed rate,rate hike
 2026-07-29 00:31 ACCEPT [Google News CB] "Gold Ignores Lower Dollar/Oil to Focus on the Fed - KITCO" | kw:oil,gold
 2026-07-29 00:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 01:01 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - Moomoo" | kw:oil,crude
+2026-07-29 01:01 SKIP_MORNING already_sent date=2026-07-29
