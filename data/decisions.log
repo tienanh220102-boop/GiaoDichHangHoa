@@ -1,31 +1,3 @@
-2026-06-23 22:01 ACCEPT [Google News KL] "Wall Street collectively downgrades gold price forecasts as a hawkish " | kw:gold,rice,federal reserve
-2026-06-23 22:01 ACCEPT [Google News NS] "Is China Buying Beans? What Pressure Corn, Wheat and Cattle Tuesday? -" | kw:wheat,corn
-2026-06-23 22:01 ACCEPT [Google News NS] "Where town met country... Norfolk's old corn halls remembered - EDP24" | kw:corn
-2026-06-23 22:01 ACCEPT [Google News CB] "How Investors May Respond To Bank of America (BAC) Projecting Three Fe" | kw:fed rate,rate hike
-2026-06-23 22:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - National" | kw:oil,crude,gas
-2026-06-23 22:31 ACCEPT [Google News HH] "Iran oil hitting market should push prices into $60 range, says Greenl" | kw:oil,rice,commodities
-2026-06-23 22:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - KVAL" | kw:oil,crude,gas
-2026-06-23 22:31 ACCEPT [Google News HH] "Oil News: Will Dip Buyers Defend Crude Oil at the 200-Day Moving Avera" | kw:oil,crude
-2026-06-23 22:31 ACCEPT [Google News HH] "Macquarie slashes Brent crude oil price forecast for 2026 and 2027 - C" | kw:oil,crude,brent
-2026-06-23 22:31 ACCEPT [Google News HH] "Hedge funds increase short bets on Brent crude oil to $18B, highest in" | kw:oil,crude,brent
-2026-06-23 22:31 ACCEPT [Google News KL] "Silver Price Forecast: Bulls Brace for $60 Defense as Dollar Surges to" | kw:silver,rice
-2026-06-23 22:31 ACCEPT [Google News NS] "China team gets hands-on look at U.S. wheat - Capital Press" | kw:lng,wheat
-2026-06-23 22:31 ACCEPT [Google News NS] "Crop Progress Highlights: Corn and Soybean Crops Advance as Winter Whe" | kw:wheat,corn,soybean
-2026-06-23 22:31 ACCEPT [Google News NS] "Heatwave in Europe could intensify pressure on the global wheat market" | kw:lng,wheat
-2026-06-23 22:31 ACCEPT [Google News NS] "U.S. Corn and Soybeans Gain Early Momentum as Crop Conditions Hold Str" | kw:corn,soybean
-2026-06-23 22:31 ACCEPT [Google News NS] "US soybean export council CEO says participation in CISCE aims to main" | kw:soybean,supply chain
-2026-06-23 22:44 ACCEPT [Google News HH] "Lubbock gas prices drop ahead of Fourth of July travel - fox34.com" | kw:gas,rice
-2026-06-23 22:44 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - WSET" | kw:oil,crude,gas
-2026-06-23 22:44 ACCEPT [Google News HH] "Oil News: Will Dip Buyers Defend Crude Oil at the 200-Day Moving Avera" | kw:oil,crude
-2026-06-23 22:44 ACCEPT [Google News HH] "CME : WTI Crude Oil futures fell to a seventh lower low. - marketscree" | kw:oil,crude,wti
-2026-06-23 22:44 ACCEPT [Google News NS] "Crops Analysis | Corn futures carve contract low closes - Pro Farmer" | kw:corn
-2026-06-23 23:01 ACCEPT [OilPrice.com] "Why the Next Billion Barrels of Oil Demand Could Come From Storage" | kw:oil,crude
-2026-06-23 23:01 ACCEPT [Google News HH] "Gold Price Nears $4,000 as Stronger US Dollar Tests Bullish Momentum -" | kw:gold,rice
-2026-06-23 23:31 ACCEPT [BBC Business] "Stanford was their golden ticket - could AI help or hinder that?" | kw:gold
-2026-06-23 23:31 ACCEPT [Google News KL] "Gold loses ground to near $4,100 as inflation concerns, Fed rate hike " | kw:gold,inflation,fed rate
-2026-06-23 23:31 ACCEPT [Google News KL] "World Molybdenum-Silver Contacts - Market Analysis, Forecast, Size, Tr" | kw:silver
-2026-06-23 23:31 ACCEPT [Google News NS] "Market Snapshot | Corn, wheat grind lower - Pro Farmer" | kw:wheat,corn
-2026-06-23 23:49 ACCEPT [Google News HH] "Crude oil extends decline on prospects of increased Middle East supply" | kw:oil,crude
 2026-06-23 23:49 ACCEPT [Google News HH] "Energy briefs—sanctions lifted on Iran - Oklahoma Energy Today" | kw:sanction
 2026-06-23 23:49 ACCEPT [Google News KL] "Gold, silver sell off as dollar, Fed positioning pressure metals - Kit" | kw:gold,silver
 2026-06-23 23:49 ACCEPT [Google News NS] "$403.55 support anchors Corn as price trades flat - Traders Union" | kw:corn,rice
@@ -20026,3 +19998,27 @@
 2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady for fifth-straight meeting, but inflat" | kw:inflation,interest rate
 2026-07-29 18:31 ACCEPT [Google News CB] "Fed holds interest rates steady. Here's what It means for your wallet " | kw:interest rate
 2026-07-29 18:31 ACCEPT [Google News CB] "Will they or won't they? The case for and against a Fed rate hike - re" | kw:fed rate,rate hike
+2026-07-29 19:01 ACCEPT [Al Jazeera] "Bordeaux wildfire battle continues amid extreme heat" | kw:fuel
+2026-07-29 19:01 ACCEPT [Al Jazeera] "US Fed holds interest rates steady citing ‘elevated’ inflation" | kw:rice,inflation,interest rate
+2026-07-29 19:01 ACCEPT [Al Jazeera] "Fire erupts on ships at Egypt’s Damietta port" | kw:oil
+2026-07-29 19:01 ACCEPT [Google News HH] "US Crude Oil Inventories Fall More than Expected - tradingview.com" | kw:oil,crude
+2026-07-29 19:01 ACCEPT [Google News HH] "Gold price rebounds from sub-$4,000 dip as split Fed holds fire, silve" | kw:gold,silver,rice
+2026-07-29 19:01 ACCEPT [Google News HH] "US crude oil inventories drop sharply by 7.167 million barrels, far ex" | kw:oil,crude
+2026-07-29 19:01 ACCEPT [Google News HH] "Gold Price Today on July 29, 2026 - usatoday.com" | kw:gold,rice
+2026-07-29 19:01 ACCEPT [Google News HH] "Dow Tumbles Over 850 Points – Trump's Latest Iran Warning Sends Crude " | kw:oil,crude,rice
+2026-07-29 19:01 ACCEPT [Google News HH] "US EIA CRUDE OIL INVENTORIES -7.2 MLN BARRELS IN LATEST WEEK FROM PREV" | kw:oil,crude
+2026-07-29 19:01 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 19:01 ACCEPT [Google News KL] "Allied Gold's $5.5 billion sale to Chinese miner falls apart amid slid" | kw:gold,rice
+2026-07-29 19:01 ACCEPT [Google News KL] "Gold price prediction today: What factors will determine gold's moveme" | kw:gold,rice
+2026-07-29 19:01 ACCEPT [Google News KL] "Gold surges after Fed holds as hawkish dissent fuels volatility - fxst" | kw:fuel,gold
+2026-07-29 19:01 ACCEPT [Google News NS] "Wheat firms as market players monitor Black Sea hostilities - tradingv" | kw:wheat
+2026-07-29 19:01 ACCEPT [Google News NS] "Corn rebounds as heat dents US ratings, soybeans down - Business Recor" | kw:corn,soybean
+2026-07-29 19:01 ACCEPT [Google News CB] "A divided Federal Reserve holds interest rates steady despite high inf" | kw:inflation,interest rate,federal reserve
+2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady as economy weathers resurgent inflatio" | kw:inflation,interest rate
+2026-07-29 19:01 ACCEPT [Google News CB] "Federal Reserve holds interest rates steady, but 3 officials vote for " | kw:interest rate,federal reserve
+2026-07-29 19:01 ACCEPT [Google News CB] "Kevin Warsh’s Fed Holds Interest Rates Steady Again—But Dissent Among " | kw:interest rate
+2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady despite Trump’s renewed calls to lower" | kw:interest rate
+2026-07-29 19:01 ACCEPT [Google News CB] "Why a high-yield savings account makes sense after the Fed rate pause " | kw:fed rate,rate pause
+2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady for fifth-straight meeting, but inflat" | kw:inflation,interest rate
+2026-07-29 19:01 ACCEPT [Google News CB] "Fed holds interest rates steady despite inflation concerns - CBS News" | kw:inflation,interest rate
+2026-07-29 19:01 ACCEPT [Google News CB] "Key Takeaways From Fed Decision to Hold Rates Steady - Bloomberg.com" | kw:wti
