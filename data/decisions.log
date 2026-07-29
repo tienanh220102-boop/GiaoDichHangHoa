@@ -1,14 +1,3 @@
-2026-06-23 20:01 ACCEPT [Google News CB] "Two Turkey Central Bank Chief Advisers Leave Their Roles - Bloomberg.c" | kw:central bank
-2026-06-23 20:31 ACCEPT [MarketWatch] "Oil tankers are being lured back into the Strait of Hormuz by big payo" | kw:oil
-2026-06-23 20:31 ACCEPT [Google News HH] "UAE's OPEC exit highlights strategic value of Fujairah exports amid St" | kw:oil,opec,gas
-2026-06-23 20:31 ACCEPT [Google News KL] "China gold imports hit 26-month high in May, up 76% YTD - KITCO" | kw:gold
-2026-06-23 20:31 ACCEPT [Google News KL] "Is the Silver Rally Over? Tavi Costa Breaks Down the Selloff - GoldSil" | kw:gold,silver
-2026-06-23 20:31 ACCEPT [Google News NS] "U.S. fights with Brazil for China's giant soybean market - CNBC" | kw:soybean
-2026-06-23 20:31 ACCEPT [Google News NS] "Closing Market Update: Canola shows strength, U.S. wheat falls | June " | kw:wheat
-2026-06-23 20:31 ACCEPT [Google News NS] "Brazil loses ground to U.S. in soybean sales to China - Valor Internat" | kw:soybean
-2026-06-23 20:31 ACCEPT [Google News CB] "ECB reviews Yorkshire’s £1.75m payment to CEO’s company over Hundred s" | kw:ecb
-2026-06-23 21:01 ACCEPT [OilPrice.com] "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up" | kw:oil,crude,petroleum
-2026-06-23 21:01 ACCEPT [OilPrice.com] "Pemex Wants Petrobras' Deepwater Magic" | kw:oil
 2026-06-23 21:01 ACCEPT [Google News HH] "EOG Resources Sees $80/bbl Crude Oil Average into 2028 - Hart Energy" | kw:oil,crude
 2026-06-23 21:01 ACCEPT [Google News HH] "6-23-26 Bob Linneman with Kluis Commodities - Radio 570 WNAX" | kw:commodities
 2026-06-23 21:01 ACCEPT [Google News HH] "Oil News: Will Dip Buyers Defend Crude Oil at the 200-Day Moving Avera" | kw:oil,crude
@@ -20009,3 +19998,13 @@
 2026-07-29 16:46 ACCEPT [Google News CB] "ECB Tracker Detects No Pickup in Eurozone Wage Pressures - wsj.com" | kw:ecb
 2026-07-29 16:46 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 16:46 SKIP_EVENING already_sent date=2026-07-29
+2026-07-29 17:01 ACCEPT [OilPrice.com] "Guyana’s Oil Boom Matters More Than Ever" | kw:oil
+2026-07-29 17:01 ACCEPT [Google News HH] "Lower crude oil prices reduced U.S.-Canada energy trade value in 2025 " | kw:oil,crude,rice
+2026-07-29 17:01 ACCEPT [Google News HH] "Critical minerals have a capital, not a geology, problem: Hotter Commo" | kw:commodities
+2026-07-29 17:01 ACCEPT [Google News HH] "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next " | kw:oil,crude,rice
+2026-07-29 17:01 ACCEPT [Google News HH] "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the " | kw:gold,rice
+2026-07-29 17:01 ACCEPT [Google News KL] "Nevada Gold Project Shows $1B NPV Potential in Updated PEA - streetwis" | kw:gold
+2026-07-29 17:01 ACCEPT [Google News KL] "Explorer Intersects Extensive New Copper-Gold System in Southern Briti" | kw:gold,copper
+2026-07-29 17:01 ACCEPT [Google News NS] "U.S. Corn Condition Ratings Plunge 4% in a Week, Worst Drop in Three Y" | kw:corn,inflation
+2026-07-29 17:01 ACCEPT [Google News NS] "US corn could replace Ukrainian supplies on the Egyptian market - UkrA" | kw:corn
+2026-07-29 17:01 ACCEPT [Google News CB] "Why Berkshire Hathaway Would Win if the Fed Lifts Interest Rates - Bar" | kw:interest rate
