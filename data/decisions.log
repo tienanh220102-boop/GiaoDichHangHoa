@@ -1,12 +1,3 @@
-2026-06-23 04:31 ACCEPT [Fed Monetary] "Federal Open Market Committee reaffirms its "Statement on Longer-Run G" | kw:monetary policy
-2026-06-23 04:31 ACCEPT [Google News CB] "Bank of America expects three Fed hikes this year, says inflation is g" | kw:inflation
-2026-06-23 04:31 ACCEPT [Google News CB] "Hearing of the Committee on Economic and Monetary Affairs of the Europ" | kw:central bank
-2026-06-23 04:31 ACCEPT [Google News CB] "Lagarde Sees No Need for More Forceful ECB Response to War - Bloomberg" | kw:ecb
-2026-06-23 04:31 ACCEPT [Google News CB] "Asia shares slip as markets reprice Fed expectations, oil gains - Reut" | kw:oil,rice
-2026-06-23 04:31 ACCEPT [Google News CB] "Warsh Begins a New Era at the Federal Reserve | National News | U.S. N" | kw:federal reserve
-2026-06-23 04:31 ACCEPT [Google News CB] "Student loan interest rate cut aims to ease repayment costs as delinqu" | kw:interest rate,rate cut
-2026-06-23 04:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 04:37 ACCEPT [Mining.com] "British Columbia gold miner sues province over “stripped” mining right" | kw:gold,iron
 2026-06-23 04:37 ACCEPT [Mining.com] "China lithium price slides on speculation over CATL mine restart" | kw:rice
 2026-06-23 04:37 ACCEPT [Mining.com] "Kazatomprom CEO Meirzhan Yussupov on uranium markets, China and nuclea" | kw:fuel
 2026-06-23 04:37 ACCEPT [Mining.com] "Goldman cuts gold price forecast down to $4,900" | kw:gold,rice
@@ -20007,3 +19998,10 @@
 2026-07-29 06:01 ACCEPT [Google News CB] "BOJ needs to raise policy rate to 1.5%, former S&P Global executive sa" | kw:wti,boj,policy rate
 2026-07-29 06:01 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
 2026-07-29 06:01 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 06:31 ACCEPT [OilPrice.com] "New Zealand Awards First Offshore Oil License Since Ending Drilling Ba" | kw:oil,gas
+2026-07-29 06:31 ACCEPT [Google News HH] "OPEC Prepares to Stop Raising Oil Output Targets - Crude Oil Prices To" | kw:oil,crude,opec
+2026-07-29 06:31 ACCEPT [Google News KL] "Silver Price Analysis: XAGUSD Falls to $57.10 After 10R Short Setup - " | kw:silver,rice
+2026-07-29 06:31 ACCEPT [Google News KL] "Gold prices fall - VnExpress International" | kw:gold,rice
+2026-07-29 06:31 ACCEPT [Google News CB] "Gold holds steady ahead of Fed's rate decision - CNBC" | kw:gold,rate decision
+2026-07-29 06:31 ACCEPT [Google News CB] "India's central bank support gives rupee respite, but oil risks loom -" | kw:oil,central bank
+2026-07-29 06:31 SKIP_MORNING already_sent date=2026-07-29
