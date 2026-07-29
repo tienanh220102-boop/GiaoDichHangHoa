@@ -1,10 +1,3 @@
-2026-06-23 04:31 ACCEPT [Google News KL] "Gold prices slip as stronger dollar, Fed hike bets weigh - Investing.c" | kw:gold,rice
-2026-06-23 04:31 ACCEPT [Google News KL] "Wall Street was once uber bullish on gold. Now it's changing its tune " | kw:gold
-2026-06-23 04:31 ACCEPT [Google News KL] "Gold and silver face medium-term pressure from hawkish Fed, Iran-U.S. " | kw:gold,silver
-2026-06-23 04:31 ACCEPT [Google News KL] "Gold price not likely to reach $5,200/oz target without stronger ETF i" | kw:gold,rice
-2026-06-23 04:31 ACCEPT [Google News KL] "Gold Price Today on June 22, 2026 - USA Today" | kw:gold,rice
-2026-06-23 04:31 ACCEPT [Google News KL] "PCE Drops Thursday. Here’s What It Means for Gold. - GoldSilver" | kw:gold,silver
-2026-06-23 04:31 ACCEPT [Google News KL] "GoPro Self Camera Of LA To Banff Trip Music Video Silver Price Today (" | kw:silver,rice
 2026-06-23 04:31 ACCEPT [Google News KL] "Gold price in Malaysia: Rates on June 23 - FXStreet" | kw:gold,rice
 2026-06-23 04:31 ACCEPT [Google News KL] "Manchester City 2-4 Aston Villa (AET) (2012-13) Silver Price Today (7b" | kw:silver,rice
 2026-06-23 04:31 ACCEPT [Google News KL] "Silver price rises on US-Iran diplomatic progress, upside capped by ha" | kw:silver,rice
@@ -20005,3 +19998,11 @@
 2026-07-29 04:31 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
 2026-07-29 04:31 ACCEPT [Google News CB] "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500 -" | kw:fed rate,rate hike
 2026-07-29 04:31 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 05:01 ACCEPT [Google News HH] "Gold price in India: Rates on July 29 - FXStreet" | kw:gold,rice
+2026-07-29 05:01 ACCEPT [Google News HH] "Crude oil futures jump after US-Saudi strikes on Iran-backed targets -" | kw:oil,crude
+2026-07-29 05:01 ACCEPT [Google News HH] "Gold price in United Arab Emirates: Rates on July 29 - FXStreet" | kw:gold,rice
+2026-07-29 05:01 ACCEPT [Google News HH] "US dollar declines, crude oil surges, base metals broadly rise, lithiu" | kw:oil,crude
+2026-07-29 05:01 ACCEPT [Google News KL] "Gold Is Down $48. Here Are the Five Reasons Why. - GoldSilver" | kw:gold,silver
+2026-07-29 05:01 ACCEPT [Google News KL] "Gold prices steady ahead of Fed decision; oil rebound revives inflatio" | kw:oil,gold,rice
+2026-07-29 05:01 ACCEPT [Google News CB] "Despite frustration over high prices, Federal Reserve is expected to k" | kw:rice,federal reserve
+2026-07-29 05:01 SKIP_MORNING already_sent date=2026-07-29
