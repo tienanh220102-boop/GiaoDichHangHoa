@@ -1,20 +1,3 @@
-2026-06-23 14:30 ACCEPT [Google News KL] "US Fed's 'Inflation Problem' Sees Gold Sink, Silver Tests 6-Month Low " | kw:gold,silver,inflation
-2026-06-23 14:30 ACCEPT [Google News KL] "Gold falls 2% as rate-hike bets boost dollar to one-year high - Reuter" | kw:gold
-2026-06-23 14:30 ACCEPT [Google News KL] "World Alkaline Copper Quaternary Treatment - Market Analysis, Forecast" | kw:copper
-2026-06-23 14:30 ACCEPT [Google News NS] "Maryland Soybean Board Accepting Proposals to Strengthen Soybean Deman" | kw:lng,soybean
-2026-06-23 14:30 ACCEPT [Google News NS] "U.S. fights with Brazil for China's giant soybean market - Forex Facto" | kw:soybean
-2026-06-23 14:30 ACCEPT [Google News CB] "Brazil Central Bank Says Easing Hinges on New Data as Risks Rise - Blo" | kw:central bank,easing
-2026-06-23 14:30 ACCEPT [Google News CB] "Brazil Central Bank Signals Mix of Pauses and Cuts to Steer Inflation " | kw:inflation,central bank
-2026-06-23 14:30 ACCEPT [Google News CB] "Goldman hints at Fed’s next interest-rate bet under Warsh - thestreet." | kw:gold
-2026-06-23 14:30 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 14:30 SKIP_EVENING already_sent date=2026-06-23
-2026-06-23 14:31 ACCEPT [Google News CB] "South Africa Central Bank Takes Aim at $5.5 Billion Cost of Cash - Blo" | kw:central bank
-2026-06-23 14:31 ACCEPT [Google News CB] "Alan Greenspan, Fed Chief Whose Policies Fueled Economic Inequality, D" | kw:fuel
-2026-06-23 14:31 SKIP_MORNING already_sent date=2026-06-23
-2026-06-23 14:31 SKIP_EVENING already_sent date=2026-06-23
-2026-06-23 15:31 ACCEPT [MarketWatch] "SpaceX succumbs to gravity as the stock briefly dips below its debut p" | kw:rice
-2026-06-23 15:31 ACCEPT [OilPrice.com] "Novak: Russia Considers Complete Ban on Diesel Exports" | kw:fuel,rice,shortage
-2026-06-23 15:31 ACCEPT [OilPrice.com] "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next" | kw:rice
 2026-06-23 15:31 ACCEPT [OilPrice.com] "Tankers Emerge from Dark Mode amid Tentative Hormuz ReopeningTankers E" | kw:oil
 2026-06-23 15:31 ACCEPT [Google News HH] "What’s driving the gold price? … and other important questions - inves" | kw:gold,rice
 2026-06-23 15:31 ACCEPT [Google News KL] "Gold and Silver Price Forecast: US Dollar Rally Threatens Fresh 2026 L" | kw:gold,silver,rice
@@ -20015,3 +19998,33 @@
 2026-07-29 14:31 ACCEPT [Google News CB] "US stats agency change set to lower Fed’s preferred inflation gauge - " | kw:inflation
 2026-07-29 14:31 SKIP_MORNING already_sent date=2026-07-29
 2026-07-29 14:31 SKIP_EVENING already_sent date=2026-07-29
+2026-07-29 15:18 ACCEPT [Al Jazeera] "How a seaweed bloom is affecting tourism in Mexico" | kw:gas
+2026-07-29 15:18 ACCEPT [OilPrice.com] "US Oil Inventories Sag as Hormuz Turmoil Rages On" | kw:oil,crude
+2026-07-29 15:18 ACCEPT [NASDAQ Commod] "U.S. Crude Oil Inventories Pull Back Much More Than Expected" | kw:oil,crude
+2026-07-29 15:18 ACCEPT [Google News HH] "Vivakor Raises Crude Oil Marketing Platform Guidance to Approximately " | kw:oil,crude
+2026-07-29 15:18 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,rice
+2026-07-29 15:18 ACCEPT [Google News HH] "IFAD, IsDB and the OPEC Fund: Partnering for resilience - IFAD" | kw:opec
+2026-07-29 15:18 ACCEPT [Google News HH] "Crude oil inventories fall -7.167M versus -1.272M estimate. Crude oil " | kw:oil,crude
+2026-07-29 15:18 ACCEPT [Google News HH] "Dow Tumbles Over 850 Points – Trump's Latest Iran Warning Sends Crude " | kw:oil,crude,rice
+2026-07-29 15:18 ACCEPT [Google News HH] "Gold Price Today: Can $4,000 Hold as Traders Await the Fed? - investin" | kw:gold,rice
+2026-07-29 15:18 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,rice
+2026-07-29 15:18 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,rice
+2026-07-29 15:18 ACCEPT [Google News HH] "Crude Oil Inventories Drop Sharply, Surpassing Expectations By Investi" | kw:oil,crude
+2026-07-29 15:18 ACCEPT [Google News HH] "Vivakor Updates Guidance of Crude Oil Marketing Platform to Approximat" | kw:oil,crude
+2026-07-29 15:18 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-29 15:18 ACCEPT [Google News KL] "Gold prices fall toward $4,000 ahead of Fed decision - aa.com.tr" | kw:gold,rice
+2026-07-29 15:18 ACCEPT [Google News KL] "Silver price today: rises on July 29 - fxstreet.com" | kw:silver,rice
+2026-07-29 15:18 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD returns above $58.00 as US Dollar weak" | kw:silver,rice
+2026-07-29 15:18 ACCEPT [Google News KL] "Gold price in Saudi Arabia: Rates on July 29 - fxstreet.com" | kw:gold,rice
+2026-07-29 15:18 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed p" | kw:oil,silver,rice
+2026-07-29 15:18 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - The Western Producer" | kw:rice
+2026-07-29 15:18 ACCEPT [Google News CB] "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage" | kw:ecb
+2026-07-29 15:18 ACCEPT [Google News CB] "WATCH LIVE: Fed chair Warsh holds news conference after latest interes" | kw:interest rate,rate decision
+2026-07-29 15:18 ACCEPT [Google News CB] "Fed Likely Holding Interest Rates Steady Today—Here’s What To Watch Fo" | kw:interest rate
+2026-07-29 15:18 ACCEPT [Google News CB] "BoJ’s potential hawkish signaling overshadows upcoming rate decision -" | kw:rate decision,boj
+2026-07-29 15:18 ACCEPT [Google News CB] "The Fed faces interest rate decision as Dow drops 400 points - upi.com" | kw:interest rate,rate decision
+2026-07-29 15:18 ACCEPT [Google News CB] "BoJ independence reinforces Sanaenomics’ credibility - OMFIF" | kw:boj
+2026-07-29 15:18 ACCEPT [Google News CB] "ING Says Dollar to Take Cue from Oil Prices If Fed Holds Rate - Bloomb" | kw:oil,rice
+2026-07-29 15:18 ACCEPT [Google News CB] "Will the Fed hold rates? Nancy Lazar breaks down what's next for marke" | kw:wti
+2026-07-29 15:18 SKIP_MORNING already_sent date=2026-07-29
+2026-07-29 15:18 SKIP_EVENING already_sent date=2026-07-29
