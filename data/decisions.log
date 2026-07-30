@@ -1,11 +1,3 @@
-2026-06-24 17:25 ACCEPT [Google News KL] "Analysts Reduce 2026 Gold Forecast as Price Tumbles to New Low - jckon" | kw:gold,rice
-2026-06-24 17:25 ACCEPT [Google News KL] "Gold prices today drop near two-week low as strong dollar; Fed rate hi" | kw:gold,rice,fed rate
-2026-06-24 17:25 ACCEPT [Google News KL] "Gold hits over seven-month low as dollar firms, rate hike bets rise - " | kw:gold,rate hike
-2026-06-24 17:25 ACCEPT [Google News KL] "First Majestic Silver (AG) Shares Drop Amid Silver Price Decline - Gur" | kw:silver,rice
-2026-06-24 17:25 ACCEPT [Google News NS] "Corn Inspections Ease While Soybeans, Wheat Move Higher - RFD-TV" | kw:wheat,corn,soybean
-2026-06-24 17:25 ACCEPT [Google News CB] "Stocks Ignore Oil Slump As Tech, Fed, and AI Worries Weigh - Barron's" | kw:oil
-2026-06-24 17:25 ACCEPT [Google News CB] "Fed has no intention of raising the policy rate, says Ironsides Macroe" | kw:iron,policy rate
-2026-06-24 17:31 ACCEPT [Google News KL] "Silver’s 50% Crash Hits Oversold Levels: Should You Buy The Dip? - iSh" | kw:silver
 2026-06-24 18:01 ACCEPT [Google News HH] "Crude Oil Prices Sink as Global Oil Supplies Recover - Barchart.com" | kw:oil,crude,rice
 2026-06-24 18:01 ACCEPT [Google News HH] "Iowa Gasoline Prices Drop 12 Cents as Crude Oil Declines - westerniowa" | kw:oil,crude,gas
 2026-06-24 18:01 ACCEPT [Google News HH] "Gold Price Falls Below US$4,000, How Low Can it Go? - Investing News N" | kw:gold,rice
@@ -20006,3 +19998,13 @@
 2026-07-30 11:50 ACCEPT [Google News CB] "Wall Street reacts brutally to Fed chair Warsh’s interest rate hold: ‘" | kw:interest rate
 2026-07-30 11:50 ACCEPT [Google News CB] "The Fed Chair’s 2% Inflation Rhetoric Is Starting to Feel Empty - Bloo" | kw:inflation
 2026-07-30 11:50 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 12:01 ACCEPT [Google News HH] "EIA: lower crude oil prices reduced US-Canada energy trade value in 20" | kw:oil,crude,rice
+2026-07-30 12:01 ACCEPT [Google News HH] "TEP to bolster local top commodities in transmigration areas: Ministry" | kw:commodities
+2026-07-30 12:01 ACCEPT [Google News HH] "Crude Oil Prices Soar as US-Iran Tensions Escalate - finance.yahoo.com" | kw:oil,crude,rice
+2026-07-30 12:01 ACCEPT [Google News KL] "Gold extends gains in Baghdad and Erbil - Shafaq News | Latest breakin" | kw:gold
+2026-07-30 12:01 ACCEPT [Google News KL] "JustMarkets Analyzes the Core Drivers Behind 2026 Gold Price Movements" | kw:gold,rice
+2026-07-30 12:01 ACCEPT [Google News NS] "U.S. Wheat Quality: Winning Beyond Price ﻿﻿ - KSAL News" | kw:wheat,rice
+2026-07-30 12:01 ACCEPT [Google News NS] "Moldovan Grain Exports in June: Volumes, Destinations, and Prices - lo" | kw:rice
+2026-07-30 12:01 ACCEPT [Google News CB] "U.S. Treasury Yields Soar as Market Struggles to Interpret Fed - WSJ" | kw:treasury
+2026-07-30 12:01 ACCEPT [Google News CB] "Gold gains on softer dollar as markets assess Fed stance, Middle East " | kw:gold
+2026-07-30 12:01 SKIP_MORNING already_sent date=2026-07-30
