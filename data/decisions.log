@@ -1,15 +1,3 @@
-2026-06-25 07:01 ACCEPT [Google News CB] "Bonds, Precious Metals Markets Converge on Inflation Concerns - CME Gr" | kw:inflation
-2026-06-25 07:01 ACCEPT [Google News CB] "BOJ’s Tamura Calls for Raising Interest Rate Every Few Months - Bloomb" | kw:interest rate,boj
-2026-06-25 07:01 ACCEPT [Google News CB] "Gold under pressure near 7-month low as Fed rate-hike bets boost dolla" | kw:gold,fed rate
-2026-06-25 07:01 ACCEPT [Google News CB] "PBOC Plans Overnight Reverse Repo in Next Stage of Policy Shift - Bloo" | kw:pboc
-2026-06-25 07:01 ACCEPT [Google News CB] "BOJ’s Tamura Calls for Raising Interest Rate Every Few Months - Bloomb" | kw:interest rate,boj
-2026-06-25 07:01 ACCEPT [Google News CB] "BOJ Sees AI Export Boom Cushioning Economy From Oil Price Shock - Bloo" | kw:oil,rice,boj
-2026-06-25 07:01 ACCEPT [Google News CB] "Will Falling Oil Prices Be Enough to Solve the Fed’s Inflation Problem" | kw:oil,rice,inflation
-2026-06-25 07:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 07:31 ACCEPT [BBC Business] "Oil price falls to levels not seen since before Iran war" | kw:oil,rice
-2026-06-25 07:31 ACCEPT [OilPrice.com] "Qatar Signs Crude Deal With Taiwan as Gulf Oil Trade Recovers" | kw:oil,crude
-2026-06-25 07:31 ACCEPT [Google News KL] "Gold: Rates repricing weighs on haven appeal – BNY - FXStreet" | kw:gold
-2026-06-25 07:31 ACCEPT [Google News NS] "Energy, El Niño and Geopolitics Fuel Bullish Grain Market - AG INFORMA" | kw:fuel
 2026-06-25 07:31 ACCEPT [Google News NS] "Tar spot detected early in Kansas; scout cornfields now - Farm Progres" | kw:corn
 2026-06-25 07:31 ACCEPT [Google News NS] "Cultured Wheat-Based Mold Inhibitors for Bakery Market to Reach USD 26" | kw:wheat
 2026-06-25 07:31 ACCEPT [Google News CB] "ECB will need to raise rates further, Schnabel says - Reuters" | kw:ecb
@@ -20010,3 +19998,9 @@
 2026-07-30 20:31 ACCEPT [Google News CB] "Ed Yardeni: Bond market wants Fed to be more vigilant on inflation - C" | kw:inflation
 2026-07-30 20:31 ACCEPT [Google News CB] "Fed likely to raise rates later this year, says Payne Capital's Courtn" | kw:lng
 2026-07-30 20:31 ACCEPT [Google News CB] "Bond Vigilantes Push Back Against the Fed’s Inertia. Who Pays the Pric" | kw:rice
+2026-07-30 21:01 ACCEPT [OilPrice.com] "War Sends Saudi Oil Output Down and Revenue Up" | kw:oil
+2026-07-30 21:01 ACCEPT [Google News KL] "Silver’s Price Target Cuts Do Not End the Structural Deficit Case - In" | kw:silver,rice
+2026-07-30 21:01 ACCEPT [Google News KL] "Kinross's Lobo-Marte gold project initial capex soars to US$1.8bn in C" | kw:gold
+2026-07-30 21:01 ACCEPT [Google News NS] "Wheat Closes in the Green | Thursday, July 30, 2026 - Successful Farmi" | kw:wheat
+2026-07-30 21:01 ACCEPT [Google News NS] "Why Did Soybean Prices Suddenly Drop Nearly 30 Cents? - agrolatam.com" | kw:soybean,rice
+2026-07-30 21:01 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
