@@ -1,14 +1,3 @@
-2026-06-24 20:31 ACCEPT [Google News CB] "Federal Reserve says U.S. banks can withstand $708 billion in losses a" | kw:federal reserve
-2026-06-24 20:31 ACCEPT [Google News CB] "Energy firms increase activity as oil prices rise - Midland Reporter-T" | kw:oil,rice
-2026-06-24 21:01 ACCEPT [OilPrice.com] "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine" | kw:gold,coffee
-2026-06-24 21:01 ACCEPT [NASDAQ Commod] "Microsoft Turns to Chevron Natural Gas to Power Texas AI Data Center" | kw:gas,fuel
-2026-06-24 21:01 ACCEPT [Google News HH] "LatAm FX hits two-week low as dollar strengthens, commodities pressure" | kw:commodities
-2026-06-24 21:01 ACCEPT [Google News CB] "ECB’s Zigman Says Price Stability Is Key, Cheaper Oil Will Help - Bloo" | kw:oil,rice,ecb
-2026-06-24 21:01 ACCEPT [Google News CB] "Fed’s Bowman Finalizes Moves to Reshape Bank-Supervision Unit - Bloomb" | kw:wti
-2026-06-24 21:01 ACCEPT [Google News CB] "CIO sees inflation easing and therefore no rate hikes from Fed - Yahoo" | kw:inflation,rate hike,easing
-2026-06-24 21:01 ACCEPT [Google News CB] "All 32 of the nation's biggest banks clear the Fed's annual 'stress te" | kw:lng
-2026-06-24 21:07 ACCEPT [CNBC Commodities] "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises divid" | kw:gold,federal reserve
-2026-06-24 21:07 ACCEPT [Mining.com] "Treasure Hunt – Nova Scotia: Canada’s first mining frontier" | kw:flood
 2026-06-24 21:07 ACCEPT [Mining.com] "Anglo American, Codelco to add 2.7Mt copper with no new mine" | kw:copper,easing
 2026-06-24 21:07 ACCEPT [Mining.com] "Faraday drilling expands Copper Creek potential" | kw:copper
 2026-06-24 21:07 ACCEPT [Mining.com] "Ground view Kazakhstan: The visibility bargain" | kw:steel
@@ -20009,3 +19998,18 @@
 2026-07-30 15:32 ACCEPT [Google News CB] "The Fed Chair’s 2% Inflation Rhetoric Is Starting to Feel Empty - Bloo" | kw:inflation
 2026-07-30 15:32 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 15:32 SKIP_EVENING already_sent date=2026-07-30
+2026-07-30 16:01 ACCEPT [Google News HH] "Cushing crude oil stocks dropped more to critically dangerous levels -" | kw:oil,crude
+2026-07-30 16:01 ACCEPT [Google News HH] "Crude Oil Analysis: WTI Technical Setup & Price Trends - barchart.com" | kw:oil,crude,wti
+2026-07-30 16:01 ACCEPT [Google News HH] "Crude Oil Prices Slip on Ongoing US-Iran Negotiations - barchart.com" | kw:oil,crude,rice
+2026-07-30 16:01 ACCEPT [Google News HH] "Shell Turns Refineries Up to 11 During Oil-Price Surge -- Commodities " | kw:oil,rice,commodities
+2026-07-30 16:01 ACCEPT [Google News HH] "Canada Commodities: Oil Edges Down Despite Widening Middle East Confli" | kw:oil,commodities
+2026-07-30 16:01 ACCEPT [Google News HH] "CVE Q2 Earnings Increase Y/Y on Higher Pricing & Oil Sands Volumes - T" | kw:oil
+2026-07-30 16:01 ACCEPT [Google News KL] "Copper price jumps on tightening supply, mining stocks rally - Mining." | kw:copper,rice,tightening
+2026-07-30 16:01 ACCEPT [Google News KL] "Spot gold pares gains slightly after U.S. economic data last up 0.2% -" | kw:gold
+2026-07-30 16:01 ACCEPT [Google News NS] "Wheat Soars, Pulling up Corn and Soybeans: Outside Markets See Fed Fal" | kw:wheat,corn,soybean
+2026-07-30 16:01 ACCEPT [Google News NS] "Move on 2026 and 2027 grain prices before Aug. 12 USDA report - Farm P" | kw:rice
+2026-07-30 16:01 ACCEPT [Google News NS] "New Kansas-grown wheat could make its way to your pasta - tonganoxiemi" | kw:wheat
+2026-07-30 16:01 ACCEPT [Google News NS] "Ukraine's oilseed market slumped following attacks on ports - ua.news" | kw:oil
+2026-07-30 16:01 ACCEPT [Google News CB] "Fed's favored inflation gauge showed prices pulled back in June - foxb" | kw:rice,inflation
+2026-07-30 16:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 16:01 SKIP_EVENING already_sent date=2026-07-30
