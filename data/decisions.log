@@ -1,15 +1,3 @@
-2026-06-24 19:31 ACCEPT [Google News KL] "Gold prices tumble to near 2-week lows amid expectations of higher int" | kw:gold,rice,interest rate
-2026-06-24 19:31 ACCEPT [Google News NS] "After the Bell | Winter wheat gives up early-session gains - Pro Farme" | kw:wheat
-2026-06-24 19:31 ACCEPT [Google News NS] "Black Sea Wheat Exports and Dry Bulk Shipping: Freight Market Uncertai" | kw:wheat,freight,shipping
-2026-06-24 19:31 ACCEPT [Google News NS] "Prairie wheat weekly: Wheat prices make modest movements on either sid" | kw:wheat,rice
-2026-06-24 20:01 ACCEPT [MarketWatch] "Oil prices fall back to preconflict levels, but Trump’s comments on Ir" | kw:oil,rice
-2026-06-24 20:01 ACCEPT [OilPrice.com] "China’s Crude Imports Plunge To Lowest Level Since 2018" | kw:oil,crude,rice
-2026-06-24 20:01 ACCEPT [Google News HH] "Brent Crude Oil is down by 5% - TradingView" | kw:oil,crude,brent
-2026-06-24 20:01 ACCEPT [Google News HH] "Lack of refined fuel is forcing Russia to export record crude oil volu" | kw:oil,crude,fuel
-2026-06-24 20:01 ACCEPT [Google News NS] "GO FARM’ FARMER’S MARKET: Patriotic jam trios, fresh sweet corn arrive" | kw:corn
-2026-06-24 20:01 ACCEPT [Google News CB] "Climate change and the energy transition could change monetary policy " | kw:central bank,monetary policy
-2026-06-24 20:01 ACCEPT [Google News CB] "Opinion: Inflation is about more than oil. These two hidden triggers c" | kw:oil,inflation,fed rate
-2026-06-24 20:31 ACCEPT [MarketWatch] "These hidden PCE triggers could force a Fed rate hike — and shock the " | kw:inflation,fed rate,rate hike
 2026-06-24 20:31 ACCEPT [MarketWatch] "Gold, silver and bitcoin are getting rocked, and angry investors can b" | kw:gold,silver,rate hike
 2026-06-24 20:31 ACCEPT [CNBC Commodities] "Federal Reserve says U.S. banks can withstand $708 billion in losses a" | kw:federal reserve
 2026-06-24 20:31 ACCEPT [NASDAQ Commod] "MINE Stock Crowded With Sellers" | kw:gold
@@ -20010,3 +19998,14 @@
 2026-07-30 15:01 ACCEPT [Google News CB] "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the P" | kw:rice
 2026-07-30 15:01 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 15:01 SKIP_EVENING already_sent date=2026-07-30
+2026-07-30 15:31 ACCEPT [Google News HH] "Canada Commodities: Oil Edges Down Despite Widening Middle East Confli" | kw:oil,commodities
+2026-07-30 15:31 ACCEPT [Google News HH] "Crude oil prices hover near key EMAs amid Middle East tensions and mar" | kw:oil,crude,lng
+2026-07-30 15:31 ACCEPT [Google News KL] "Endeavour Mining reports record cash flow supported by high gold price" | kw:gold,rice
+2026-07-30 15:31 ACCEPT [Google News NS] "Grains juggling weather, wheat rally and China demand - brownfieldagne" | kw:wheat
+2026-07-30 15:31 ACCEPT [Google News NS] "From the Ground Up: Brazos Valley Corn and Cotton Crops - KBTX News 3" | kw:corn,cotton
+2026-07-30 15:31 ACCEPT [Google News CB] "U.S. economy grows a sluggish 1.5% in second quarter while inflation r" | kw:inflation
+2026-07-30 15:31 ACCEPT [Google News CB] "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the P" | kw:rice
+2026-07-30 15:31 ACCEPT [Google News CB] "Treasury yields continue to rise as Wall Street calls out Fed's 'infla" | kw:inflation,treasury
+2026-07-30 15:31 ACCEPT [Google News CB] "Nigeria Central Bank Sees Transition to Inflation Target by 2028 - blo" | kw:inflation,central bank
+2026-07-30 15:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 15:31 SKIP_EVENING already_sent date=2026-07-30
