@@ -1,18 +1,3 @@
-2026-06-24 21:07 ACCEPT [Mining.com] "Anglo American, Codelco to add 2.7Mt copper with no new mine" | kw:copper,easing
-2026-06-24 21:07 ACCEPT [Mining.com] "Faraday drilling expands Copper Creek potential" | kw:copper
-2026-06-24 21:07 ACCEPT [Mining.com] "Ground view Kazakhstan: The visibility bargain" | kw:steel
-2026-06-24 21:07 ACCEPT [Mining.com] "US sanctions shut Canada’s only cobalt refinery" | kw:nickel,sanction
-2026-06-24 21:07 ACCEPT [Mining.com] "Timeline: The Oyu Tolgoi saga" | kw:gold,copper
-2026-06-24 21:08 ACCEPT [Google News KL] "Contango Silver & Gold Provides Project Updates - Sahm" | kw:gold,silver
-2026-06-24 21:08 ACCEPT [Google News KL] "🔴 Gold Buyers Need To Hear This! Fed's About To Shock The GOLD World -" | kw:gold
-2026-06-24 21:08 ACCEPT [Google News KL] "Gold steady as US-Iran deal details emerge, Fed verdict awaited - MSN" | kw:gold
-2026-06-24 21:08 ACCEPT [Google News KL] "Katana Price Today in Australia | KAT to AUD Live Price & Chart - Bina" | kw:rice
-2026-06-24 21:08 ACCEPT [Google News KL] "Used 2015 Sky Silver Metallic Toyota Kluger GXL Wagon For Sale - drive" | kw:silver
-2026-06-24 21:08 ACCEPT [Google News KL] "Gold Futures Decline as US Dollar Strengthens - HarianBasis.co" | kw:gold
-2026-06-24 21:08 ACCEPT [Google News KL] "US Stock Market Today: Dow Climbs, Nasdaq & S&P 500 Crashes on Tech We" | kw:oil,crude,gold
-2026-06-24 21:08 ACCEPT [Google News NS] "A Hidden Threat Could Slash Wheat Profits as Harvest Nears Across the " | kw:wheat,harvest
-2026-06-24 21:08 ACCEPT [Google News CB] "The Fed may raise interest rates within months. Here's what it means f" | kw:interest rate
-2026-06-24 21:08 ACCEPT [Google News CB] "Opinion: These hidden PCE triggers could force a Fed rate hike — and s" | kw:fed rate,rate hike
 2026-06-24 21:08 ACCEPT [Google News CB] "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises divid" | kw:gold
 2026-06-24 21:31 ACCEPT [NASDAQ Commod] "Uranium Price Update: Q2 2026 in Review" | kw:fuel,rice
 2026-06-24 21:31 ACCEPT [Google News HH] "Crude Oil Prices Fall Sharply as Persian Gulf Oil Flows Accelerate - B" | kw:oil,crude,rice
@@ -20013,3 +19998,18 @@
 2026-07-30 16:01 ACCEPT [Google News CB] "Fed's favored inflation gauge showed prices pulled back in June - foxb" | kw:rice,inflation
 2026-07-30 16:01 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 16:01 SKIP_EVENING already_sent date=2026-07-30
+2026-07-30 16:31 ACCEPT [MarketWatch] "Mortgage rates jump to their highest level in a year and show few sign" | kw:interest rate,federal reserve
+2026-07-30 16:31 ACCEPT [The Guardian Biz] "Let them eat SUVs: Trump White House orders fleet of luxury cars as Am" | kw:gas,rice
+2026-07-30 16:31 ACCEPT [Al Jazeera] "US GDP growth dips as inflation and trade deficits pressure economy" | kw:inflation,gdp
+2026-07-30 16:31 ACCEPT [OilPrice.com] "Russia Extends Diesel and Gasoline Export Bans Into 2027" | kw:gas,fuel,rice
+2026-07-30 16:31 ACCEPT [Google News HH] "How a sharp yen surge ripples across global stocks, bonds, and commodi" | kw:commodities
+2026-07-30 16:31 ACCEPT [Google News HH] "Crude Oil Prices Slip on Ongoing US-Iran Negotiations - Barchart.com" | kw:oil,crude,rice
+2026-07-30 16:31 ACCEPT [Google News HH] "Japan turns to Canadian crude as Asia feels Hormuz supply pinch - alja" | kw:crude
+2026-07-30 16:31 ACCEPT [Google News NS] "Grains juggling weather, wheat rally and China demand - Brownfield Ag " | kw:wheat
+2026-07-30 16:31 ACCEPT [Google News NS] "Wheat price jump attracting acres - Brownfield Ag News" | kw:wheat,rice
+2026-07-30 16:31 ACCEPT [Google News NS] "Ukraine's oilseed market slumped following attacks on ports - UA.NEWS" | kw:oil
+2026-07-30 16:31 ACCEPT [Google News CB] "Are Central Bank Financial Stability Reports Useful? An AI-Based Analy" | kw:central bank
+2026-07-30 16:31 ACCEPT [Google News CB] "Fed holds interest rates as inflation tensions mount - The Week" | kw:inflation,interest rate
+2026-07-30 16:31 ACCEPT [Google News CB] "Dow tumbles as stocks react to Fed's decision - FOX5 Vegas" | kw:gas
+2026-07-30 16:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 16:31 SKIP_EVENING already_sent date=2026-07-30
