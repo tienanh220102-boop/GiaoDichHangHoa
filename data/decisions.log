@@ -1,11 +1,3 @@
-2026-06-24 14:31 ACCEPT [Google News CB] "CFOs grow more concerned about inflation: Duke-Fed survey - CFO.com" | kw:inflation
-2026-06-24 14:31 ACCEPT [Google News CB] "The Fed Just Raised Its Inflation Forecast. For One Retired Couple, a " | kw:inflation
-2026-06-24 14:31 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 14:31 SKIP_EVENING already_sent date=2026-06-24
-2026-06-24 15:01 ACCEPT [OilPrice.com] "U.S. Crude Inventories Post Another Major Draw" | kw:oil,crude
-2026-06-24 15:01 ACCEPT [Google News HH] "Crude Oil Inventories Decline Less Than Expected, Impacting Prices - I" | kw:oil,crude,rice
-2026-06-24 15:01 ACCEPT [Google News HH] "Crude Oil Analysis: $73 Support Holds as Borrowed Supply Faces Rollove" | kw:oil,crude
-2026-06-24 15:01 ACCEPT [Google News HH] "US crude oil inventories drop 6.1 million barrels last week By Investi" | kw:oil,crude
 2026-06-24 15:01 ACCEPT [Google News HH] "Crude Oil Falls Below $75, Its Lowest Level Since Iran War Started - T" | kw:oil,crude
 2026-06-24 15:01 ACCEPT [Google News HH] "Trump calls for probe into gasoline price ‘gouging’ as crude oil price" | kw:oil,crude,gas
 2026-06-24 15:01 ACCEPT [Google News KL] "Gold, silver and bitcoin tumble as debasement trade unwinds - CoinDesk" | kw:gold,silver
@@ -20006,3 +19998,11 @@
 2026-07-30 08:01 ACCEPT [Google News CB] "Gold slips as higher Treasury yields offset focus on Warsh's inflation" | kw:gold,inflation,treasury
 2026-07-30 08:01 ACCEPT [Google News CB] "South Sudan's president removes central bank governor - Reuters" | kw:central bank
 2026-07-30 08:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 08:31 ACCEPT [BBC Business] "Wiped out by a hurricane, this US community is now a global energy gia" | kw:gas
+2026-07-30 08:31 ACCEPT [Google News HH] "US crude oil inventories down 1.7% in week ending July 24 - Anadolu Aj" | kw:oil,crude
+2026-07-30 08:31 ACCEPT [Google News KL] "https://youtu.be/a7toaymwNlI?si=KsGIBQuni54PVr55 #gold #silver #usfed " | kw:gold,silver,interest rate
+2026-07-30 08:31 ACCEPT [Google News KL] "Gold market shows resilience as price momentum cools in Q2 - World Gol" | kw:gold,rice
+2026-07-30 08:31 ACCEPT [Google News KL] "Why Silver flips on its head on Thursday? - FXStreet" | kw:silver
+2026-07-30 08:31 ACCEPT [Google News NS] "Mexico Advances White Corn Commercialization Strategy - mexicobusiness" | kw:corn
+2026-07-30 08:31 ACCEPT [Google News NS] "ECC approves 1m tonnes wheat import - tribune.com.pk" | kw:wheat
+2026-07-30 08:31 SKIP_MORNING already_sent date=2026-07-30
