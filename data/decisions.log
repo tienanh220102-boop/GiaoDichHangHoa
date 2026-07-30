@@ -1,9 +1,3 @@
-2026-06-25 06:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 07:01 ACCEPT [Al Jazeera] "Iran war live: IRGC says ships taking new Hormuz route will be in dang" | kw:shipping
-2026-06-25 07:01 ACCEPT [Google News HH] "August WTI Crude Oil futures dropped as tensions eased. - CME Group" | kw:oil,crude,lng
-2026-06-25 07:01 ACCEPT [Google News HH] "Crude Oil Futures Separate From Reality as Asia Physical Market Buckle" | kw:oil,crude
-2026-06-25 07:01 ACCEPT [Google News KL] "Gold, silver price prediction: Should you buy the dip as gold, silver " | kw:gold,silver,rice
-2026-06-25 07:01 ACCEPT [Google News NS] "Prairie wheat weekly: Wheat prices make modest movements on either sid" | kw:wheat,rice
 2026-06-25 07:01 ACCEPT [Google News CB] "Bonds, Precious Metals Markets Converge on Inflation Concerns - CME Gr" | kw:inflation
 2026-06-25 07:01 ACCEPT [Google News CB] "BOJ’s Tamura Calls for Raising Interest Rate Every Few Months - Bloomb" | kw:interest rate,boj
 2026-06-25 07:01 ACCEPT [Google News CB] "Gold under pressure near 7-month low as Fed rate-hike bets boost dolla" | kw:gold,fed rate
@@ -20004,3 +19998,15 @@
 2026-07-30 20:11 ACCEPT [Google News NS] "Black Sea tensions lift Turkish corn prices ahead of harvest - S&P Glo" | kw:lng,corn,rice
 2026-07-30 20:11 ACCEPT [Google News NS] "Prairie Wheat Weekly: Spring wheat prices down, durum mixed - producer" | kw:wheat,rice
 2026-07-30 20:11 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
+2026-07-30 20:31 ACCEPT [Google News KL] "Capstone Copper Reports Second Quarter 2026 Results - Business Wire" | kw:copper
+2026-07-30 20:31 ACCEPT [Google News KL] "Earnings call transcript: Endeavour Silver posts strong Q2 2026 sales," | kw:silver
+2026-07-30 20:31 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - The Western Producer" | kw:rice
+2026-07-30 20:31 ACCEPT [Google News NS] "USDA Grain Bids: Cash Prices, Basis Levels, and Export Quotes for July" | kw:rice
+2026-07-30 20:31 ACCEPT [Google News NS] "Russia may strengthen its presence in traditional EU wheat export mark" | kw:wheat
+2026-07-30 20:31 ACCEPT [Google News CB] "Markets whipsaw as Trump, Fed face new inflation risks - The Hill" | kw:inflation
+2026-07-30 20:31 ACCEPT [Google News CB] "The Fed doesn't have an inflation crystal ball, but it does have "stic" | kw:rice,inflation
+2026-07-30 20:31 ACCEPT [Google News CB] "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’" | kw:inflation
+2026-07-30 20:31 ACCEPT [Google News CB] "Fed Rate Hike Could Come as Early as September, Macquarie Says - Yahoo" | kw:fed rate,rate hike
+2026-07-30 20:31 ACCEPT [Google News CB] "Ed Yardeni: Bond market wants Fed to be more vigilant on inflation - C" | kw:inflation
+2026-07-30 20:31 ACCEPT [Google News CB] "Fed likely to raise rates later this year, says Payne Capital's Courtn" | kw:lng
+2026-07-30 20:31 ACCEPT [Google News CB] "Bond Vigilantes Push Back Against the Fed’s Inertia. Who Pays the Pric" | kw:rice
