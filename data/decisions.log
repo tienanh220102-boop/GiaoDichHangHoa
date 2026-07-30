@@ -1,17 +1,3 @@
-2026-06-24 13:31 ACCEPT [OilPrice.com] "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets" | kw:oil,fuel,rice
-2026-06-24 13:31 ACCEPT [Google News HH] "Trump isn't happy that gas prices are falling more slowly than crude o" | kw:oil,crude,gas
-2026-06-24 13:31 ACCEPT [Google News HH] "| Falling crude oil weighs on polyester, viscose yarn prices in India " | kw:oil,crude,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Silver prices today, Wednesday, June 24, 2026: Silver falls below $60 " | kw:silver,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Current price of silver as of Wednesday, June 24, 2026 - Fortune" | kw:silver,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold Price Breaks Below $4,000 as Multi-Year Rally Grinds to a Halt - " | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Current price of gold as of June 24, 2026 - Fortune" | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold breaks $4,000 as dollar rally pressures metals - KITCO" | kw:gold
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold tumbles as US dollar rises, investors price in hawkish Fed - Yaho" | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold price prediction today: Why gold prices may drop further in near-" | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold prices fall below $4,000 per ounce for 1st time since November 20" | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News KL] "Gold Prices Slip to 2-Week Low: What Triggered Today’s Sharp Bullion S" | kw:gold,rice
-2026-06-24 13:31 ACCEPT [Google News NS] "Violent Storms Hit the Corn Belt and Raise Fears of Major Yield Losses" | kw:corn
-2026-06-24 13:31 ACCEPT [Google News CB] "Gold extends fall to two-week low on firm dollar, Fed rate hike bets -" | kw:gold,fed rate,rate hike
 2026-06-24 13:31 ACCEPT [Google News CB] "Gold falls below $4,000/oz on strong dollar, hawkish Fed signals - Reu" | kw:gold
 2026-06-24 13:31 ACCEPT [Google News CB] "Thai central bank keeps key interest rate unchanged, as expected - Reu" | kw:central bank,interest rate
 2026-06-24 13:31 ACCEPT [Google News CB] "Kevin Warsh Makes Small but Important Changes at the Fed. Here's Why T" | kw:fomc
@@ -20012,3 +19998,5 @@
 2026-07-30 06:01 ACCEPT [Google News CB] "J.P.Morgan brings forward Fed rate hike call to December after July ho" | kw:fed rate,rate hike
 2026-07-30 06:01 ACCEPT [Google News CB] "New Fed focus on money supply might aid inflation thinking at the marg" | kw:inflation
 2026-07-30 06:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 06:31 ACCEPT [OilPrice.com] "Japan Buys Rare Canadian Oil Cargo" | kw:oil,crude
+2026-07-30 06:31 SKIP_MORNING already_sent date=2026-07-30
