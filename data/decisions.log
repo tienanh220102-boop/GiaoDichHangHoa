@@ -1,12 +1,3 @@
-2026-06-24 14:31 ACCEPT [Google News KL] "Gold Breaks Below $4,000 as Multi-Year Rally Grinds to a Halt - Bloomb" | kw:gold
-2026-06-24 14:31 ACCEPT [Google News KL] "Gold drops below key $4,000 level as dollar firms, rate hike bets rise" | kw:wti,gold,rate hike
-2026-06-24 14:31 ACCEPT [Google News KL] "ING Cuts Gold and Silver Forecasts as Rising Yields and Stronger Dolla" | kw:gold,silver,rice
-2026-06-24 14:31 ACCEPT [Google News KL] "Gold ETFs could see fresh outflows on rising bets on Fed monetary tigh" | kw:gold,tightening
-2026-06-24 14:31 ACCEPT [Google News KL] "Gold tumbles to $4,000 over worries of Fed rak - Yahoo Finance" | kw:gold
-2026-06-24 14:31 ACCEPT [Google News KL] "First Majestic Silver (AG) Shares Drop Amid Silver Price Decline - Gur" | kw:silver,rice
-2026-06-24 14:31 ACCEPT [Google News KL] "Gold prices briefly fell below 4,000—amid panic, is this a chasm or an" | kw:gold,rice
-2026-06-24 14:31 ACCEPT [Google News KL] "Silver (XAG) Forecast: Testing 50% of All-Time High, Will Long-Term Bu" | kw:silver
-2026-06-24 14:31 ACCEPT [Google News NS] "Is China Buying Beans? What Pressured Corn, Wheat and Cattle Tuesday? " | kw:wheat,corn
 2026-06-24 14:31 ACCEPT [Google News CB] "CFOs grow more concerned about inflation: Duke-Fed survey - CFO.com" | kw:inflation
 2026-06-24 14:31 ACCEPT [Google News CB] "The Fed Just Raised Its Inflation Forecast. For One Retired Couple, a " | kw:inflation
 2026-06-24 14:31 SKIP_MORNING already_sent date=2026-06-24
@@ -20007,3 +19998,11 @@
 2026-07-30 07:31 ACCEPT [Google News NS] "Wars plus weather scare put wheat on bullish track - Farm Progress" | kw:wheat
 2026-07-30 07:31 ACCEPT [Google News NS] "6 steps to better soybean cyst nematode samples - Farm Progress" | kw:soybean
 2026-07-30 07:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 08:01 ACCEPT [Google News KL] "Endeavour Mining reports record cash flow supported by high gold price" | kw:gold,rice
+2026-07-30 08:01 ACCEPT [Google News KL] "Gold (XAU/USD) & Silver Price Forecast: Warsh Signals Inflation Fight " | kw:gold,silver,rice
+2026-07-30 08:01 ACCEPT [Google News KL] "Gold and Silver Cool Down, Faith Funds Face Reality - financemagnates." | kw:gold,silver
+2026-07-30 08:01 ACCEPT [Google News NS] "Wheat futures rebounded as Soybean and Corn futures declined. - cmegro" | kw:wheat,corn,soybean
+2026-07-30 08:01 ACCEPT [Google News NS] "Mozambique Grain Institute outlines strategy to intervene as agricultu" | kw:gdp
+2026-07-30 08:01 ACCEPT [Google News CB] "Gold slips as higher Treasury yields offset focus on Warsh's inflation" | kw:gold,inflation,treasury
+2026-07-30 08:01 ACCEPT [Google News CB] "South Sudan's president removes central bank governor - Reuters" | kw:central bank
+2026-07-30 08:01 SKIP_MORNING already_sent date=2026-07-30
