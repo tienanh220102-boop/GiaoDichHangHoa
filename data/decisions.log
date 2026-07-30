@@ -1,22 +1,3 @@
-2026-06-24 17:01 ACCEPT [Google News HH] "Midday Need to Know: Crude oil slides, housing bill signing postponed " | kw:oil,crude
-2026-06-24 17:01 ACCEPT [Google News HH] "Gold Price Today: Gold Falls 4.33% on June 24, 2026 - USA Today" | kw:gold,rice
-2026-06-24 17:01 ACCEPT [Google News HH] "Brent Crude Oil Price Falls Below $75 Amid Rising Strait of Hormuz Shi" | kw:oil,crude,brent
-2026-06-24 17:01 ACCEPT [Google News HH] "KAIST's Membrane Separates Crude Oil Without Heating - 조선일보" | kw:oil,crude
-2026-06-24 17:01 ACCEPT [Google News KL] "Silver Price Today: Silver Falls 9.77% on June 24, 2026 - USA Today" | kw:silver,rice
-2026-06-24 17:01 ACCEPT [Google News KL] "Gold prices drops to seven-month low as dollar rallies on Fed tighteni" | kw:gold,rice,tightening
-2026-06-24 17:01 ACCEPT [Google News KL] "Silver price hits yearly low as Fed hike bets rise before PCE data - F" | kw:silver,rice
-2026-06-24 17:01 ACCEPT [Google News KL] "Gold Breaks Below $4,000 as Multi-Year Rally Grinds to a Halt - Bloomb" | kw:gold
-2026-06-24 17:01 ACCEPT [Google News NS] "History suggests corn prices face uphill battle this summer - Brownfie" | kw:corn,rice
-2026-06-24 17:01 ACCEPT [Google News NS] "Ideal Moisture for Soybeans: How to Mitigate Loss with Harvest Adjustm" | kw:soybean,harvest
-2026-06-24 17:01 ACCEPT [Google News NS] "Commodity market daily recap - St Joseph Post" | kw:commodity
-2026-06-24 17:01 ACCEPT [Google News CB] "ECB’s Schnabel Sees Need for Further Hiking to Meet 2% Target - Bloomb" | kw:ecb
-2026-06-24 17:01 ACCEPT [Google News CB] "Chile Central Bank Vows Caution in Policy as Price Risks Decline - Blo" | kw:rice,central bank
-2026-06-24 17:25 ACCEPT [Al Jazeera] "Has the worst of the Hormuz crisis passed?" | kw:oil,rice
-2026-06-24 17:25 ACCEPT [Google News HH] "OPEC Fund launches landmark climate finance compact, unveils US$1.5 bi" | kw:opec
-2026-06-24 17:25 ACCEPT [Google News HH] "Charted: How Many Years of Supply Life Are Left for Commodities? - Vis" | kw:commodities
-2026-06-24 17:25 ACCEPT [Google News HH] "U.S. Crude Inventories Post Another Major Draw - Crude Oil Prices Toda" | kw:oil,crude,rice
-2026-06-24 17:25 ACCEPT [Google News KL] "Gold hits over seven-month low as dollar firms, rate hike bets rise - " | kw:wti,gold,rate hike
-2026-06-24 17:25 ACCEPT [Google News KL] "Gold, silver and bitcoin tumble as 'debasement' trade unwinds - CoinDe" | kw:gold,silver
 2026-06-24 17:25 ACCEPT [Google News KL] "Analysts Reduce 2026 Gold Forecast as Price Tumbles to New Low - jckon" | kw:gold,rice
 2026-06-24 17:25 ACCEPT [Google News KL] "Gold prices today drop near two-week low as strong dollar; Fed rate hi" | kw:gold,rice,fed rate
 2026-06-24 17:25 ACCEPT [Google News KL] "Gold hits over seven-month low as dollar firms, rate hike bets rise - " | kw:gold,rate hike
@@ -20017,3 +19998,11 @@
 2026-07-30 11:31 ACCEPT [Google News NS] "From Corn Silk Tea to Barley and Chicory Roasted Drinks: Alternative C" | kw:corn,coffee
 2026-07-30 11:31 ACCEPT [Google News NS] "Black Sea port shutdown to hit wheat exports hardest, says Vilia - Lat" | kw:wheat
 2026-07-30 11:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 11:50 ACCEPT [Google News HH] "Crude Oil Analysis: WTI Technical Setup & Price Trends - Barchart.com" | kw:oil,crude,wti
+2026-07-30 11:50 ACCEPT [Google News KL] "Q2 2026 earnings surge at First Majestic Silver (NYSE: AG) - Stock Tit" | kw:silver
+2026-07-30 11:50 ACCEPT [Google News KL] "Gold prices climb while silver falls on COMEX - AzerNews" | kw:gold,silver,rice
+2026-07-30 11:50 ACCEPT [Google News CB] "Autos lead rise in Indian shares; Fed, oil cap gains - Reuters" | kw:oil
+2026-07-30 11:50 ACCEPT [Google News CB] "Bank of England holds UK interest rate steady at 3.75% — but policymak" | kw:inflation,interest rate,bank of england
+2026-07-30 11:50 ACCEPT [Google News CB] "Wall Street reacts brutally to Fed chair Warsh’s interest rate hold: ‘" | kw:interest rate
+2026-07-30 11:50 ACCEPT [Google News CB] "The Fed Chair’s 2% Inflation Rhetoric Is Starting to Feel Empty - Bloo" | kw:inflation
+2026-07-30 11:50 SKIP_MORNING already_sent date=2026-07-30
