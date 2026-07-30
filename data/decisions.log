@@ -1,17 +1,3 @@
-2026-06-24 19:08 ACCEPT [ECB Press] "ECB reports on progress towards euro adoption" | kw:ecb
-2026-06-24 19:08 ACCEPT [ECB Press] "ECB publishes consolidated banking data for end-December 2025" | kw:ecb
-2026-06-24 19:08 ACCEPT [Google News CB] "ECB’s Zigman Says Price Stability Is Key, Cheaper Oil Will Help - Bloo" | kw:oil,rice,ecb
-2026-06-24 19:08 ACCEPT [Google News CB] "Fed’s Bowman Finalizes Moves to Reshape Bank-Supervision Unit - Bloomb" | kw:wti
-2026-06-24 19:08 ACCEPT [Google News CB] "Economists see El Niño lifting Brazil inflation, central bank survey s" | kw:inflation,central bank
-2026-06-24 19:08 ACCEPT [Google News CB] "Gold falls below $4,000/oz on strong dollar, hawkish Fed signals - Reu" | kw:gold
-2026-06-24 19:08 ACCEPT [Google News CB] "Chile Central Bank Vows Caution in Policy as Price Risks Decline - Blo" | kw:rice,central bank
-2026-06-24 19:08 ACCEPT [Google News CB] "India's central bank issues revised rules on banks computation of FX r" | kw:central bank
-2026-06-24 19:08 ACCEPT [Google News CB] "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Bu" | kw:gold,central bank
-2026-06-24 19:31 ACCEPT [MarketWatch] "Inflation is about more than oil. These two hidden triggers could forc" | kw:oil,inflation,fed rate
-2026-06-24 19:31 ACCEPT [Google News HH] "OPEC Fund launches landmark climate finance compact, unveils US$1.5 bi" | kw:opec
-2026-06-24 19:31 ACCEPT [Google News HH] "Lack of refined fuel is forcing Russia to export record crude oil volu" | kw:oil,crude,fuel
-2026-06-24 19:31 ACCEPT [Google News KL] "Gold tumbles below $4,000 over worries of Fed rate hikes - Yahoo Finan" | kw:gold,fed rate,rate hike
-2026-06-24 19:31 ACCEPT [Google News KL] "Silver drops below $60 per ounce as rate hike concerns weigh on precio" | kw:silver,rate hike
 2026-06-24 19:31 ACCEPT [Google News KL] "Gold prices tumble to near 2-week lows amid expectations of higher int" | kw:gold,rice,interest rate
 2026-06-24 19:31 ACCEPT [Google News NS] "After the Bell | Winter wheat gives up early-session gains - Pro Farme" | kw:wheat
 2026-06-24 19:31 ACCEPT [Google News NS] "Black Sea Wheat Exports and Dry Bulk Shipping: Freight Market Uncertai" | kw:wheat,freight,shipping
@@ -20012,3 +19998,15 @@
 2026-07-30 14:31 ACCEPT [Google News CB] "Fed-favored PCE inflation gauge falls for first time since pandemic. T" | kw:inflation
 2026-07-30 14:31 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 14:31 SKIP_EVENING already_sent date=2026-07-30
+2026-07-30 15:01 ACCEPT [MarketWatch] "Americans are spending plenty — but they’re saving much less" | kw:inflation
+2026-07-30 15:01 ACCEPT [Google News HH] "How a sharp yen surge ripples across global stocks, bonds, and commodi" | kw:commodities
+2026-07-30 15:01 ACCEPT [Google News HH] "Japan turns to Canadian crude as Asia feels Hormuz supply pinch - Al J" | kw:crude
+2026-07-30 15:01 ACCEPT [Google News HH] "WGC: Investment demand falls as gold price momentum softens - cnbcafri" | kw:gold,rice
+2026-07-30 15:01 ACCEPT [Google News KL] "Gold prices going nowhere in a hurry as BoE leaves rates unchanged - k" | kw:gold,rice
+2026-07-30 15:01 ACCEPT [Google News KL] "Gold prices remain stuck as U.S. weekly jobless claims remain below 20" | kw:gold,rice
+2026-07-30 15:01 ACCEPT [Google News KL] "Gold steadies as GDP, PCE keep Fed-rate risk alive - Kitco AM Report -" | kw:gold,gdp
+2026-07-30 15:01 ACCEPT [Google News KL] "Could China's Gold Reserves Surpass the U.S. Within Five Years? - Link" | kw:gold
+2026-07-30 15:01 ACCEPT [Google News KL] "Gold prices today are rising sharply with increasing expectations rega" | kw:wti,gold,rice
+2026-07-30 15:01 ACCEPT [Google News CB] "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the P" | kw:rice
+2026-07-30 15:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 15:01 SKIP_EVENING already_sent date=2026-07-30
