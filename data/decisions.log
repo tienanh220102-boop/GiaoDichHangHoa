@@ -1,4 +1,3 @@
-2026-06-24 10:31 ACCEPT [Google News CB] "Azerbaijan central bank holds key rate steady at 6.5% - Investing.com" | kw:central bank
 2026-06-24 10:31 ACCEPT [Google News CB] "Thailand central bank holds key rate at 1.00% as expected - Investing." | kw:central bank
 2026-06-24 10:31 SKIP_MORNING already_sent date=2026-06-24
 2026-06-24 11:01 ACCEPT [NASDAQ Commod] "Gold Hovers Near Two-week Low Amid US-Iran Peace Uncertainty" | kw:gold,rate hike,federal reserve
@@ -19999,3 +19998,13 @@
 2026-07-30 01:40 ACCEPT [Google News CB] "Japan's price expert predicts BOJ shift to more aggressive inflation f" | kw:rice,inflation,boj
 2026-07-30 01:40 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 02:02 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 02:30 ACCEPT [BBC Business] "The once destroyed community that's now a global energy giant" | kw:gas
+2026-07-30 02:31 ACCEPT [Al Jazeera] "Japan turns to Canadian crude as Asia feels Hormuz supply pinch" | kw:oil,crude
+2026-07-30 02:31 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ By end of year .Probably we wil" | kw:oil,crude
+2026-07-30 02:31 ACCEPT [Google News HH] "Japan turns to Canadian crude as Asia feels Hormuz supply pinch - Al J" | kw:crude
+2026-07-30 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: Escalating tensions in the Middle East, coupl" | kw:oil,crude,rice
+2026-07-30 02:31 ACCEPT [Google News KL] "Institutional Gold Buying Accelerates Despite Hawkish Fed Expectations" | kw:gold
+2026-07-30 02:31 ACCEPT [Google News NS] "Soybean and rapeseed oil quotes respond to oil price spikes, but physi" | kw:oil,soybean,rice
+2026-07-30 02:31 ACCEPT [Google News CB] "Analysis: Fed Chairman Warsh's credibility in question after leaving i" | kw:interest rate
+2026-07-30 02:31 ACCEPT [Google News CB] "Fed holds interest rates for fifth straight time - Upper Michigan's So" | kw:wti,interest rate
+2026-07-30 02:31 SKIP_MORNING already_sent date=2026-07-30
