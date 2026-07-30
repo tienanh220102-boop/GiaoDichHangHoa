@@ -1,13 +1,3 @@
-2026-06-24 13:01 ACCEPT [Google News HH] "Bright Smart Securities & Commodities Group: Net profit rose 8.5% on h" | kw:commodities
-2026-06-24 13:01 ACCEPT [Google News KL] "The IPO market is so hot a 140-year-old silver mine just went public -" | kw:silver
-2026-06-24 13:01 ACCEPT [Google News KL] "Gold drops nearly 2% on stronger dollar, growing bets on Fed tightenin" | kw:gold,tightening
-2026-06-24 13:01 ACCEPT [Google News KL] "After the June FOMC meeting, is there still room for gold and copper? " | kw:gold,copper,fomc
-2026-06-24 13:01 ACCEPT [Google News KL] "Gold, Silver Prices Decline in Delhi: Dollar Rally & Rate Hikes - Redi" | kw:gold,silver,rice
-2026-06-24 13:01 ACCEPT [Google News KL] "Traders look for bottom in gold - MSN" | kw:gold
-2026-06-24 13:01 ACCEPT [Google News KL] "Gold Trading T+0: Dubai Gold & Commodities Exchange (DGCX) Launches Sa" | kw:gold,commodities
-2026-06-24 13:01 ACCEPT [Google News KL] "Radico Khaitan Ltd. Futures: Live Radico Khaitan Ltd. Futures Contract" | kw:rice
-2026-06-24 13:01 ACCEPT [Google News KL] "Smartphone prices likely to drop by up to Rs 16,000 - dailyausaf.com" | kw:rice
-2026-06-24 13:01 ACCEPT [Google News NS] "Wheat acreage in Russia set to hit lowest level in 12 years – forecast" | kw:wheat
 2026-06-24 13:01 ACCEPT [Google News CB] "Gold slips to two-week low as Fed rate-hike bets buoy dollar - CNBC" | kw:gold,fed rate
 2026-06-24 13:01 ACCEPT [Google News CB] "Kevin Warsh Makes Small but Important Changes at the Fed. Here's Why T" | kw:fomc
 2026-06-24 13:01 SKIP_MORNING already_sent date=2026-06-24
@@ -20008,3 +19998,6 @@
 2026-07-30 04:49 ACCEPT [Google News KL] "Global surge in copper theft snares telecoms and trains - Financial Ti" | kw:copper
 2026-07-30 04:49 ACCEPT [Google News KL] "Gold, Silver Prices Dip — But Wall Street Sees 'Most Bullish Set-Up' F" | kw:gold,silver,rice
 2026-07-30 04:49 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 05:01 ACCEPT [Google News HH] "Brent crude oil price on July 30, 2026 at 5:00 PM EDT - robinhood.com" | kw:oil,crude,brent
+2026-07-30 05:01 ACCEPT [Google News KL] "Gold rose after the Fed's decision to keep interest rates unchanged - " | kw:gold,interest rate
+2026-07-30 05:01 SKIP_MORNING already_sent date=2026-07-30
