@@ -1,16 +1,3 @@
-2026-06-25 06:01 ACCEPT [Google News NS] "Corn Closes Down More Than 2¢ | Wednesday, June 24, 2026 - Successful " | kw:corn
-2026-06-25 06:01 ACCEPT [Google News CB] "Hawkish BOJ policymaker calls for rate hike once every few months - hi" | kw:rate hike,boj
-2026-06-25 06:01 ACCEPT [Google News CB] "Tech Futures Soar On Micron; Fed Inflation Data Due - Investor's Busin" | kw:inflation
-2026-06-25 06:01 ACCEPT [Google News CB] "Gold languishes near 7-month low as Fed tightening bets boost dollar -" | kw:gold,tightening
-2026-06-25 06:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 06:31 ACCEPT [Mining.com] "Endurance Gold hits high-grade step-outs at Reliance project" | kw:gold
-2026-06-25 06:31 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD hovers at seven-month lows around $57 " | kw:silver,rice,inflation
-2026-06-25 06:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Gold Breaks $3,980 as Silver Di" | kw:gold,silver,rice
-2026-06-25 06:31 ACCEPT [Google News NS] "Grain markets steady, wheat seen firming - metroindia.net" | kw:wheat
-2026-06-25 06:31 ACCEPT [Google News CB] "CBDCs gain ground as monetary policy falters - GIS Reports" | kw:monetary policy
-2026-06-25 06:31 ACCEPT [Google News CB] "Gold languishes near 7-month low as Fed tightening bets boost dollar -" | kw:gold,tightening
-2026-06-25 06:31 ACCEPT [Google News CB] "Iran peace deal no silver bullet for Fed's inflation dilemma - Reuters" | kw:silver,inflation
-2026-06-25 06:31 ACCEPT [Google News CB] "Will Greater Monetary Policy Uncertainty Lead To Tighter Financial Con" | kw:monetary policy
 2026-06-25 06:31 SKIP_MORNING already_sent date=2026-06-25
 2026-06-25 07:01 ACCEPT [Al Jazeera] "Iran war live: IRGC says ships taking new Hormuz route will be in dang" | kw:shipping
 2026-06-25 07:01 ACCEPT [Google News HH] "August WTI Crude Oil futures dropped as tensions eased. - CME Group" | kw:oil,crude,lng
@@ -20011,3 +19998,9 @@
 2026-07-30 20:01 ACCEPT [Google News CB] "Bond markets flinch at Fed’s non-guidance - Semafor" | kw:lng
 2026-07-30 20:01 ACCEPT [Google News CB] "How AI Is Complicating Federal Reserve Interest-Rate Decisions - forbe" | kw:rate decision,federal reserve
 2026-07-30 20:01 ACCEPT [Google News CB] "Bolivia Central Bank to Buy, Sell Dollars to Stabilize FX Rate - Bloom" | kw:central bank
+2026-07-30 20:11 ACCEPT [Google News HH] "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch - oilprice.c" | kw:oil,fuel,rice
+2026-07-30 20:11 ACCEPT [Google News KL] "Silver Price Forecast: XAG eyes $60.00 as rebound builds - FXStreet" | kw:silver,rice
+2026-07-30 20:11 ACCEPT [Google News KL] "Street cut its Silver targets: The price fell, the deficit held - FXSt" | kw:silver,rice
+2026-07-30 20:11 ACCEPT [Google News NS] "Black Sea tensions lift Turkish corn prices ahead of harvest - S&P Glo" | kw:lng,corn,rice
+2026-07-30 20:11 ACCEPT [Google News NS] "Prairie Wheat Weekly: Spring wheat prices down, durum mixed - producer" | kw:wheat,rice
+2026-07-30 20:11 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
