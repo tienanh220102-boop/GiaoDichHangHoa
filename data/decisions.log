@@ -1,11 +1,3 @@
-2026-06-24 15:01 ACCEPT [Google News NS] "Barley prices in Ukraine are under pressure from increasing supply of " | kw:rice,easing
-2026-06-24 15:02 ACCEPT [Google News CB] "Federal student loans have a new interest rate discount — here's who q" | kw:interest rate
-2026-06-24 15:02 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 15:02 SKIP_EVENING already_sent date=2026-06-24
-2026-06-24 15:16 ACCEPT [Google News HH] "US crude oil inventories drop to lowest level since 1984 - Investing.c" | kw:oil,crude
-2026-06-24 15:16 ACCEPT [Google News HH] "RECAPPING: US EIA CRUDE OIL INVENTORIES DOWN 6.1 MLN BARRELS IN LATEST" | kw:oil,crude
-2026-06-24 15:16 ACCEPT [Google News HH] "US crude oil stockpile fell to the lowest since 1984 last week, EIA sa" | kw:oil,crude
-2026-06-24 15:16 ACCEPT [Google News HH] "US Crude Oil Inventories Fall More than Expected - TradingView" | kw:oil,crude
 2026-06-24 15:16 ACCEPT [Google News HH] "US crude oil inventories drop to lowest level since 1984 By Investing." | kw:oil,crude
 2026-06-24 15:16 ACCEPT [Google News HH] "WTI Crude Falls Below $70 Mark; Trump Says Strait of Hormuz Won't Char" | kw:crude,wti
 2026-06-24 15:16 ACCEPT [Google News HH] "KAIST Team Develops Membrane to Separate Crude Oil Without Heating - 조" | kw:oil,crude
@@ -20006,3 +19998,11 @@
 2026-07-30 09:01 ACCEPT [Google News NS] "Wheat Futures (WHEAT-F) Is up 2.23% on Jul 30: Why It Happened - tradi" | kw:wheat
 2026-07-30 09:01 ACCEPT [Google News CB] "US borrowing costs hit 19-year high as Fed holds interest rates - The " | kw:interest rate
 2026-07-30 09:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 09:31 ACCEPT [Google News HH] "Palm oil rose on Wednesday amid a rebound in crude oil prices and stro" | kw:oil,crude,rice
+2026-07-30 09:31 ACCEPT [Google News HH] "U.S. crude oil inventories decrease by 7.2 million barrels - Oil & Gas" | kw:oil,crude,gas
+2026-07-30 09:31 ACCEPT [Google News KL] "Gold Price Rises After Fed Holds Interest Rates Steady - Investing.com" | kw:gold,rice,interest rate
+2026-07-30 09:31 ACCEPT [Google News KL] "Gold Price Forecast: FOMC Holds Fed Rate at 3.50%-3.75%, XAU/USD Climb" | kw:gold,rice,fed rate
+2026-07-30 09:31 ACCEPT [Google News KL] "FACTBOX - China’s gold imports jump 89% in first half as prices retrea" | kw:gold,rice
+2026-07-30 09:31 ACCEPT [Google News NS] "From Corn Silk Tea to Barley and Chicory Roasted Drinks: Alternative C" | kw:corn,coffee
+2026-07-30 09:31 ACCEPT [Google News CB] "US borrowing costs hit 19-year high as Fed holds interest rates - theg" | kw:interest rate
+2026-07-30 09:31 SKIP_MORNING already_sent date=2026-07-30
