@@ -1,0 +1,79 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          84.25   +6.3%    -3.0%
+Brent        90.29   +7.4%    -4.0%
+Khí TN       2.724   +2.3%    -6.9%
+Vàng      4,148.60   +2.8%    +0.0%
+Bạc          58.58   +2.2%    -2.4%
+Đồng         6.385   +1.0%    -1.0%
+Ngô         471.00   +2.7%    +1.9%
+Lúa mì      660.00   -0.4%    -6.5%
+Đậu t.    1,191.50   -1.7%    -3.4%
+DXY         100.78   -0.6%    -0.3%
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $6.04 (1 tháng trước: $2.40) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 70.8 (1 tháng trước: 69.1) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.54 (1 tháng trước: 1.52) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-21]
+  Lúa mì (SRW): NET SHORT -7,009 (Δ tuần: +9,330)
+  Ngô: NET LONG +186,650 (Δ tuần: +55,187)
+  Đậu tương: NET LONG +175,646 (Δ tuần: +50,243)
+  Dầu WTI: NET LONG +12,514 (Δ tuần: -4,340)
+  Bạc: NET LONG +23,465 (Δ tuần: -1,609)
+  Đồng: NET LONG +73,977 (Δ tuần: +9,592)
+  Vàng XAU: NET LONG +183,910 (Δ tuần: -2,772)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+Dưới đây là báo cáo thị trường hàng hóa phiên sáng ngày 2026-07-30:
+
+🌍 **VĨ MÔ**
+Quyết định của Cục Dự trữ Liên bang (Fed) giữ nguyên lãi suất đã làm suy yếu đồng USD (-0.59%), tạo động lực tăng giá cho các mặt hàng định giá bằng đồng bạc xanh. Singapore cũng thắt chặt chính sách tiền tệ do lo ngại lạm phát từ giá dầu tăng.
+
+🛢️ **NĂNG LƯỢNG** — Dầu WTI/Brent, Khí tự nhiên
+Xu hướng: WTI SIDEWAY | Brent SIDEWAY | Khí TN GIẢM
+Thiên hướng KT: WTI Trung tính | Brent Trung tính | Khí TN Nghiêng giảm
+Ngưỡng giá: WTI 78.72–93.50 | Brent 83.98–102.01 | Khí TN 2.635–2.991
+Phân tích:
+• Dầu WTI TĂNG 6.30% và Brent TĂNG 7.37% trong phiên, phục hồi mạnh mẽ sau khi GIẢM lần lượt 2.97% và 4.02% trong 5 phiên trước. Đà tăng này được thúc đẩy bởi quyết định của Fed giữ nguyên lãi suất, làm suy yếu đồng USD và giảm áp lực lên giá dầu.
+• Khí tự nhiên cũng TĂNG 2.33% trong phiên, nhưng vẫn GIẢM 6.87% trong 5 phiên và duy trì xu hướng GIẢM trung hạn, cho thấy sự phục hồi có thể chưa bền vững.
+Rủi ro:
+• Mặc dù giá dầu tăng mạnh, sự chênh lệch lớn giữa Brent và WTI ($6.04) cho thấy nguồn cung WTI tương đối dồi dào, có thể hạn chế đà tăng bền vững.
+
+💍 **KIM LOẠI QUÝ** — Vàng, Bạc
+Xu hướng: Vàng SIDEWAY | Bạc GIẢM
+Thiên hướng KT: Vàng Trung tính | Bạc Nghiêng giảm
+Ngưỡng giá: Vàng 4025.70–4158.00 | Bạc 57.296–58.760
+Phân tích:
+• Vàng TĂNG 2.78% trong phiên và ĐI NGANG 0.04% trong 5 phiên, được hưởng lợi trực tiếp từ quyết định giữ nguyên lãi suất của Fed và đồng USD suy yếu.
+• Bạc cũng TĂNG 2.24% trong phiên, nhưng vẫn tăng 2.40% trong 5 phiên và đang trong xu hướng GIẢM trung hạn, cho thấy sự phục hồi có thể chỉ là tạm thời.
+Rủi ro:
+• Các nhà phân tích cho rằng thị trường đang đánh giá quá cao khả năng Fed tăng lãi suất, điều này có thể khiến vàng và bạc mắc kẹt trong phạm vi hiện tại.
+
+⚙️ **KIM LOẠI CÔNG NGHIỆP** — Đồng
+Xu hướng: Đồng SIDEWAY
+Thiên hướng KT: Đồng Trung tính
+Ngưỡng giá: Đồng 6.2660–6.4160
+Phân tích:
+• Đồng TĂNG 0.99% trong phiên, được hỗ trợ bởi tâm lý "risk-on" trên thị trường sau quyết định của Fed và đồng USD suy yếu.
+• Các quỹ đầu cơ đã tăng đáng kể vị thế mua ròng đối với đồng trong tuần trước, cho thấy kỳ vọng vào sự phục hồi của giá.
+Rủi ro:
+• Mặc dù có sự tăng giá trong phiên, đồng vẫn tăng 1.03% trong 5 phiên, cho thấy áp lực giảm giá vẫn còn.
+
+🌾 **NÔNG SẢN** — Ngô, Lúa mì, Đậu tương
+Xu hướng: Ngô TĂNG | Lúa mì TĂNG | Đậu tương SIDEWAY
+Thiên hướng KT: Ngô Nghiêng tăng | Lúa mì Trung tính | Đậu tương Trung tính
+Ngưỡng giá: Ngô 448.75–483.50 | Lúa mì 650.50–711.25 | Đậu tương 1190.00–1250.50
+Phân tích:
+• Ngô tiếp tục TĂNG 2.73% trong phiên và TĂNG 1.95% trong 5 phiên, duy trì xu hướng TĂNG trung hạn. Các quỹ đầu cơ đã tăng mạnh vị thế mua ròng, phản ánh lo ngại về nguồn cung trong mùa vụ.
+• Lúa mì GIẢM 0.38% trong phiên và GIẢM 6.48% trong 5 phiên, trong khi đậu tương cũng GIẢM 1.69% trong phiên và GIẢM 3.37% trong 5 phiên.
+Rủi ro:
+• Mùa thu hoạch lúa mì ở Bắc Bán Cầu có thể tiếp tục gây áp lực lên giá, trong khi biến động thời tiết ở Mỹ vẫn là yếu tố rủi ro chính cho ngô và đậu tương.
+
+📋 **KHUYẾN NGHỊ**
+• **Dầu WTI/Brent:** Có thể xem xét vị thế mua ngắn hạn khi giá WTI duy trì trên $84.00 và Brent trên $90.00, với điều kiện đồng USD tiếp tục suy yếu.
+• **Vàng:** Có thể xem xét vị thế mua khi giá duy trì trên $4100/oz, tận dụng đà suy yếu của đồng USD.
+• **Ngô:** Tiếp tục theo dõi vị thế mua khi giá duy trì trên 470¢/bushel, với rủi ro từ yếu tố thời tiết mùa vụ.
+
+⚙️ Ghi chú hệ thống: đã tự hiệu chỉnh 2 mô tả hướng giá cho khớp số liệu gốc. Nên kiểm tra lại các câu liên quan (có thể còn từ "lên/xuống" chưa đồng bộ).
