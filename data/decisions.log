@@ -1,9 +1,3 @@
-2026-06-25 07:31 ACCEPT [Google News NS] "Tar spot detected early in Kansas; scout cornfields now - Farm Progres" | kw:corn
-2026-06-25 07:31 ACCEPT [Google News NS] "Cultured Wheat-Based Mold Inhibitors for Bakery Market to Reach USD 26" | kw:wheat
-2026-06-25 07:31 ACCEPT [Google News CB] "ECB will need to raise rates further, Schnabel says - Reuters" | kw:ecb
-2026-06-25 07:31 ACCEPT [Google News CB] "ECB will need to raise rates further, Schnabel says - Yahoo! Finance C" | kw:ecb
-2026-06-25 07:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 07:35 ACCEPT [Google News HH] "Crude Oil Returns to Prewar Levels as Traders Reassess Risk Premiums -" | kw:oil,crude,lng
 2026-06-25 07:35 ACCEPT [Google News HH] "Iraq Weighed Leaving OPEC, but Now Plans to Stay and Seek Higher Outpu" | kw:opec
 2026-06-25 07:35 ACCEPT [Google News KL] "[SMM Nickel Midday Review] June 25: Nickel prices fall below the 130,0" | kw:nickel,rice
 2026-06-25 07:35 ACCEPT [Google News CB] "US core PCE inflation set to tick up, giving Fed more reasons to raise" | kw:inflation
@@ -20004,3 +19998,17 @@
 2026-07-30 21:01 ACCEPT [Google News NS] "Wheat Closes in the Green | Thursday, July 30, 2026 - Successful Farmi" | kw:wheat
 2026-07-30 21:01 ACCEPT [Google News NS] "Why Did Soybean Prices Suddenly Drop Nearly 30 Cents? - agrolatam.com" | kw:soybean,rice
 2026-07-30 21:01 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
+2026-07-30 21:31 ACCEPT [BBC Business] "Burnham says he told Trump UK will be pragmatic about North Sea oil" | kw:oil
+2026-07-30 21:31 ACCEPT [NASDAQ Commod] "Steve Penny: Silver at Key Inflection Point, What's Next for Price?" | kw:oil,gold,silver
+2026-07-30 21:31 ACCEPT [Google News HH] "U.S. equity markets rebounded sharply on the 30th, supported by lower " | kw:oil,crude,rice
+2026-07-30 21:31 ACCEPT [Google News HH] "Crude Oil Price Forecast: Bullish Momentum Builds Inside Triangle - FX" | kw:oil,crude,rice
+2026-07-30 21:31 ACCEPT [Google News HH] "US Crude Oil Inventories Drop by 7.2 Million Barrels Amid Middle East " | kw:oil,crude
+2026-07-30 21:31 ACCEPT [Google News HH] "Crude Oil Falls on Profit-Taking, But Middle East Risks Remain Firm; G" | kw:oil,crude,gold
+2026-07-30 21:31 ACCEPT [Google News KL] "Oil Spiked 8%. Gold Went Up Anyway. Here Is Why This Time Is Different" | kw:oil,gold,silver
+2026-07-30 21:31 ACCEPT [Google News KL] "Eldorado Gold (NYSE: EGO) grows Q2 earnings as Skouries nears start-up" | kw:gold
+2026-07-30 21:31 ACCEPT [Google News KL] "Eldorado Gold (NYSE: EGO) grows H1 earnings, advances Skouries - Stock" | kw:gold
+2026-07-30 21:31 ACCEPT [Google News KL] "Gold jumps as suspected Yen intervention crushes US Dollar as Fed bets" | kw:gold
+2026-07-30 21:31 ACCEPT [Google News NS] "Crops Analysis | Wheat futures firm slightly - Pro Farmer" | kw:wheat
+2026-07-30 21:31 ACCEPT [Google News NS] "Commodity markets daily recap - St Joseph Post" | kw:commodity
+2026-07-30 21:31 ACCEPT [Google News NS] "Top taken off U.S. spring wheat crop - Farmtario" | kw:wheat
+2026-07-30 21:31 ACCEPT [Google News CB] "Markets whipsaw as Trump, Fed face new inflation risks - thehill.com" | kw:inflation
