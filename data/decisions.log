@@ -1,15 +1,3 @@
-2026-06-25 03:55 ACCEPT [Google News CB] "BOJ’s Tamura Calls for Raising Interest Rate Every Few Months - Bloomb" | kw:interest rate,boj
-2026-06-25 03:55 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 04:01 ACCEPT [Google News HH] "Oil News: Crude Oil Outlook Sours as Physical Discounts Spread Globall" | kw:oil,crude
-2026-06-25 04:01 ACCEPT [Google News HH] "Price to sales forward of Davis Commodities Limited – OTC:DTCKF - Trad" | kw:rice,commodities
-2026-06-25 04:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 04:31 ACCEPT [Google News HH] "Oil News: Crude Oil Outlook Sours as Physical Discounts Spread Globall" | kw:oil,crude
-2026-06-25 04:31 ACCEPT [Google News KL] "Gold Price Forecast: Impending Death Cross hints at more XAU/USD downs" | kw:gold,rice
-2026-06-25 04:31 ACCEPT [Google News NS] "Weather continues to put pressure on corn, soybeans - Brownfield Ag Ne" | kw:corn,soybean
-2026-06-25 04:31 ACCEPT [Google News NS] "Wheat Fades Back on Wednesday - Barchart.com" | kw:wheat
-2026-06-25 04:31 ACCEPT [Google News CB] "Japan Government Pushes BOJ to Support Growth, Raising Questions Over " | kw:rate hike,boj
-2026-06-25 04:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 05:01 ACCEPT [Google News HH] "Gold price in India: Rates on June 25 - FXStreet" | kw:gold,rice
 2026-06-25 05:01 ACCEPT [Google News KL] "Gold and silver price today, June 25: Check rates of 24K, 22K gold in " | kw:gold,silver,rice
 2026-06-25 05:01 ACCEPT [Google News CB] "Rate hikes needed every few months, hawkish BOJ board member says - Th" | kw:rate hike,boj
 2026-06-25 05:01 ACCEPT [Google News CB] "Gold Edges Higher, But Fed Rate-Hike Expectations Weigh - WSJ" | kw:gold,fed rate
@@ -20010,3 +19998,10 @@
 2026-07-30 18:31 ACCEPT [Google News CB] "Americans feel the sting of high prices every day, so why does the Fed" | kw:rice,inflation
 2026-07-30 18:31 ACCEPT [Google News CB] "What the Fed’s Latest Rate Decision Means for Car Shoppers - Kelley Bl" | kw:rate decision
 2026-07-30 18:31 ACCEPT [Google News CB] "PCE inflation cools more than expected in June, muddying the Fed’s pol" | kw:inflation
+2026-07-30 18:53 ACCEPT [Google News HH] "Global oil shock offers boost for EV switching, fossil phaseout: IEA -" | kw:oil,lng
+2026-07-30 18:53 ACCEPT [Google News HH] "Crude Oil is pricing a Hormuz deal, not a peace deal - FXStreet" | kw:oil,crude
+2026-07-30 18:53 ACCEPT [Google News HH] "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch - Crude Oil " | kw:oil,crude,fuel
+2026-07-30 18:53 ACCEPT [Google News KL] "Could Alamos Gold (TSX:AGI) Be 43% Below Fair Value Following Q2 Resul" | kw:gold
+2026-07-30 18:53 ACCEPT [Google News KL] "Gold demand proves resilient despite Q2 selloff as central banks retur" | kw:gold,central bank
+2026-07-30 18:53 ACCEPT [Google News NS] "Market Volatility and Geopolitical Pressures Drive Grain Price Swings," | kw:rice
+2026-07-30 18:53 ACCEPT [Google News CB] "3 savings moves to make after the latest Fed rate pause - CBS News" | kw:fed rate,rate pause
