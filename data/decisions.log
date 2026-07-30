@@ -1,16 +1,3 @@
-2026-06-24 18:01 ACCEPT [Google News CB] "Goldman’s Lindsay Rosner Says There’s a ‘Decent Chance’ the Fed Hikes " | kw:gold
-2026-06-24 18:01 ACCEPT [Google News CB] "Fed’s Bowman Finalizes Moves to Reshape Bank-Supervision Unit - Bloomb" | kw:wti
-2026-06-24 18:31 ACCEPT [MarketWatch] "Americans are as worried as ever about layoffs and losing their jobs. " | kw:fuel
-2026-06-24 18:31 ACCEPT [Al Jazeera] "Flash floods hit India’s Arunachal Pradesh" | kw:flood
-2026-06-24 18:31 ACCEPT [EIA Energy] "U.S. commercial crude oil inventories have decreased in June" | kw:oil,crude,gas
-2026-06-24 18:31 ACCEPT [NASDAQ Commod] "Gold Slumps Amid Growing High Fed Interest Rate Concerns, Strengthenin" | kw:gold,rice,interest rate
-2026-06-24 18:31 ACCEPT [Google News HH] "U.S. commercial crude oil inventories have decreased in June - U.S. En" | kw:oil,crude
-2026-06-24 18:31 ACCEPT [Google News HH] "Gold price breaks below $4,000 as US Dollar hits 13-month high - FXStr" | kw:gold,rice
-2026-06-24 18:31 ACCEPT [Google News HH] "US Equity Indexes Mixed Amid Gains in Consumer Discretionary, Industri" | kw:oil,crude
-2026-06-24 18:31 ACCEPT [Google News KL] "Gold’s 28% correction is painful, but history suggests the bull market" | kw:gold
-2026-06-24 18:31 ACCEPT [Google News NS] "Watch for corn to rise above 200-day moving average later this year - " | kw:corn
-2026-06-24 18:31 ACCEPT [Google News CB] "ECB’s Zigman Says Price Stability Is Key, Cheaper Oil Will Help - Bloo" | kw:oil,rice,ecb
-2026-06-24 18:31 ACCEPT [Google News CB] "US dollar rises to 13-month high on Fed rate hike views - Reuters" | kw:fed rate,rate hike
 2026-06-24 19:01 ACCEPT [MarketWatch] "Gas prices aren’t falling fast enough for Trump. Here’s when drivers c" | kw:gas,rice
 2026-06-24 19:01 ACCEPT [OilPrice.com] "Norway's Oil Output Beats Forecasts Again Despite Pullback from April " | kw:oil,crude,petroleum
 2026-06-24 19:01 ACCEPT [Mining.com] "NexMetals upgrades Selkirk copper resource to 1.1B lb." | kw:copper
@@ -20011,3 +19998,27 @@
 2026-07-30 12:31 ACCEPT [Google News CB] "Inside the FOMC: Former Fed official explains why the decision might'v" | kw:fomc
 2026-07-30 12:31 ACCEPT [Google News CB] "Why the Bond Market Is Getting the Last Word in Its Fight With the Fed" | kw:zinc
 2026-07-30 12:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 13:01 ACCEPT [MarketWatch] "GDP shows the economy grew 1.5% in the second quarter — but it’s even " | kw:gdp
+2026-07-30 13:01 ACCEPT [MarketWatch] "Fed-favored PCE inflation gauge falls for first time since pandemic, b" | kw:gas,rice,inflation
+2026-07-30 13:01 ACCEPT [The Guardian Biz] "US borrowing costs hit 19-year high as Fed holds interest rates" | kw:inflation,interest rate
+2026-07-30 13:01 ACCEPT [The Guardian Biz] "Bank of England holds interest rates at 3.75% as inflation fears mount" | kw:oil,rice,inflation
+2026-07-30 13:01 ACCEPT [CNBC Economy] "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at " | kw:inflation
+2026-07-30 13:01 ACCEPT [Google News HH] "Snapper Creek Energy Expands Its Global Commodities Platform With Stag" | kw:commodities
+2026-07-30 13:01 ACCEPT [Google News HH] "Are Dairy Commodities Cheap or Expensive? - czapp.com" | kw:commodities
+2026-07-30 13:01 ACCEPT [Google News HH] "Market Forecasts – Yield Fluctuations Drive Setups Across FX and Commo" | kw:commodities
+2026-07-30 13:01 ACCEPT [Google News HH] "Kuwait Crude Oil Price Rises by USD 1.93 per Barrel - fananews.com" | kw:oil,crude,rice
+2026-07-30 13:01 ACCEPT [Google News KL] "Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 a" | kw:gold,rice
+2026-07-30 13:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Stalls Below $60 as Death Cross Limits " | kw:silver,rice
+2026-07-30 13:01 ACCEPT [Google News KL] "Silver prices today, Thursday, July 30, 2026: Silver prices remain bel" | kw:silver,rice
+2026-07-30 13:01 ACCEPT [Google News KL] "Gold Demand Trends: India Focus Q2 2026 - World Gold Council" | kw:gold
+2026-07-30 13:01 ACCEPT [Google News KL] "Gold prices remain stuck as U.S. weekly jobless claims remain below 20" | kw:gold,rice
+2026-07-30 13:01 ACCEPT [Google News KL] "Gold Holds $4,000 as Fed Rate Gamble Rattles Precious Metals - coinwee" | kw:gold,fed rate
+2026-07-30 13:01 ACCEPT [Google News KL] "Endeavour Mining reports record cash flow supported by high gold price" | kw:gold,rice
+2026-07-30 13:01 ACCEPT [Google News NS] "North Dakota wheat tour drops U.S. spring wheat yield estimates - prod" | kw:wheat
+2026-07-30 13:01 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - producer.com" | kw:rice
+2026-07-30 13:01 ACCEPT [Google News CB] "Fed leaves interest rate unchanged, but could a hike come later this y" | kw:interest rate
+2026-07-30 13:01 ACCEPT [Google News CB] "Treasury yields stay elevated as Wall Street calls out Fed's 'inflatio" | kw:inflation,treasury
+2026-07-30 13:01 ACCEPT [Google News CB] "US Equity Futures Rise Pre-Bell Amid Latest Big Tech Earnings, Fed Rat" | kw:fed rate,rate decision
+2026-07-30 13:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 13:02 DIRECTION_FIX Wheat: "giảm 2.55%" → "tăng 2.55%"
+2026-07-30 13:02 SENT_EVENING articles=20 date=2026-07-30 force=False
