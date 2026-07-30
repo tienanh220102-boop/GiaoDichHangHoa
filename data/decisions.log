@@ -1,11 +1,3 @@
-2026-06-24 15:16 ACCEPT [Google News HH] "US crude oil inventories drop to lowest level since 1984 By Investing." | kw:oil,crude
-2026-06-24 15:16 ACCEPT [Google News HH] "WTI Crude Falls Below $70 Mark; Trump Says Strait of Hormuz Won't Char" | kw:crude,wti
-2026-06-24 15:16 ACCEPT [Google News HH] "KAIST Team Develops Membrane to Separate Crude Oil Without Heating - 조" | kw:oil,crude
-2026-06-24 15:16 ACCEPT [Google News KL] "Gold and Silver Price Crash - Coinpedia" | kw:gold,silver,rice
-2026-06-24 15:16 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 15:16 SKIP_EVENING already_sent date=2026-06-24
-2026-06-24 15:31 ACCEPT [OilPrice.com] "Moscow Refinery May Stay Offline Until 2027" | kw:oil,fuel,shortage
-2026-06-24 15:31 ACCEPT [Google News HH] "EPA Extends Comment Period on Proposal to Maintain Current Rules on Cr" | kw:oil,crude,gas
 2026-06-24 15:31 ACCEPT [Google News HH] "U.S. Crude Oil Inventories Fall, Product Stocks Rise - WSJ" | kw:oil,crude
 2026-06-24 15:31 ACCEPT [Google News HH] "Crude oil fractionation by means of mesoporous polyacrylonitrile membr" | kw:oil,crude
 2026-06-24 15:31 ACCEPT [Google News HH] "Gold Price Analysis: Will Sellers Succeed In Breaking Crucial Support?" | kw:gold,rice
@@ -20006,3 +19998,13 @@
 2026-07-30 09:31 ACCEPT [Google News NS] "From Corn Silk Tea to Barley and Chicory Roasted Drinks: Alternative C" | kw:corn,coffee
 2026-07-30 09:31 ACCEPT [Google News CB] "US borrowing costs hit 19-year high as Fed holds interest rates - theg" | kw:interest rate
 2026-07-30 09:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 09:58 ACCEPT [Google News KL] "Silver price today: falls on July 30 - FXStreet" | kw:silver,rice
+2026-07-30 09:58 ACCEPT [Google News KL] "Gold Holds $4,000 as Fed Rate Gamble Rattles Precious Metals - CoinWee" | kw:gold,fed rate
+2026-07-30 09:58 ACCEPT [Google News KL] "Watch Anglo American CEO Says Performance Bolstered by Higher Copper P" | kw:copper,rice
+2026-07-30 09:58 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On July 30, nickel prices shot up and pulle" | kw:nickel,rice,interest rate
+2026-07-30 09:58 ACCEPT [Google News NS] "Limit waterhemp seed in soybeans with weeding by hand - Farm Progress" | kw:soybean
+2026-07-30 09:58 ACCEPT [Google News NS] "Corn prices in Ukraine continue to fall following a decline in Chicago" | kw:corn,rice
+2026-07-30 09:58 ACCEPT [Google News CB] "What the Fed's interest rate decision means for your money - WCNC" | kw:gdp,interest rate,rate decision
+2026-07-30 09:58 ACCEPT [Google News CB] "Tariffs, debt, and a stubborn Fed are squeezing consumers - Fortune" | kw:tariff
+2026-07-30 09:58 ACCEPT [Google News CB] "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to " | kw:inflation
+2026-07-30 09:58 SKIP_MORNING already_sent date=2026-07-30
