@@ -1,16 +1,3 @@
-2026-06-24 11:01 ACCEPT [Google News CB] "Rupee cushioned by central bank hand even as dollar strength dents Asi" | kw:central bank
-2026-06-24 11:01 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 11:31 ACCEPT [The Guardian Biz] "Elon Musk’s trillionaire status at risk; oil price lowest since Iran w" | kw:oil,rice
-2026-06-24 11:31 ACCEPT [The Guardian Biz] "Europe’s heatwave drives electricity prices to new highs as demand soa" | kw:rice
-2026-06-24 11:31 ACCEPT [Google News HH] "EIA: UAE’s exit from OPEC+ reduced the group’s share of crude oil prod" | kw:oil,crude,opec
-2026-06-24 11:31 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD heads for the $4,000 level as US Dollar m" | kw:gold,rice
-2026-06-24 11:31 ACCEPT [Google News KL] "Gold’s Correction Prompts A Forecast Reset - Seeking Alpha" | kw:gold
-2026-06-24 11:31 ACCEPT [Google News KL] "Gold bears target $4,000 as stronger US Dollar and Fed rate-hike bets " | kw:gold,fed rate
-2026-06-24 11:31 ACCEPT [Google News KL] "Georgia the Latest Country to Join the Central Bank Gold Rush - Linked" | kw:gold,central bank
-2026-06-24 11:31 ACCEPT [Google News KL] "Hong Kong Market Moves | Gold Stocks Extend Decline as Rising Interest" | kw:gold,rice,interest rate
-2026-06-24 11:31 ACCEPT [Google News NS] "Wheat Under Pressure On Global Trade News, Higher Dollar - American Ag" | kw:wheat
-2026-06-24 11:31 ACCEPT [Google News NS] "Soybean oil quotes in Chicago continue to decline, but the vegetable o" | kw:oil,soybean
-2026-06-24 11:31 ACCEPT [Google News NS] "Michael Selig draws line between crypto perps and corn futures - Crypt" | kw:corn
 2026-06-24 11:31 ACCEPT [Google News CB] "Your Fed, Your Voice: Wade Litton | Video Profile - Federal Reserve Ba" | kw:federal reserve
 2026-06-24 11:31 ACCEPT [Google News CB] "Euro sinks to one-year low as falling oil prices ease pressure on ECB " | kw:oil,rice,ecb
 2026-06-24 11:31 SKIP_MORNING already_sent date=2026-06-24
@@ -20011,3 +19998,14 @@
 2026-07-30 03:02 ACCEPT [Google News CB] "Japan’s price expert predicts BOJ shift to more aggressive inflation f" | kw:rice,inflation,boj
 2026-07-30 03:02 ACCEPT [Google News CB] "Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision" | kw:fed rate,rate decision
 2026-07-30 03:02 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 03:31 ACCEPT [The Guardian Biz] "Fed holds interest rates steady despite Trump’s renewed calls to lower" | kw:rice,inflation,central bank
+2026-07-30 03:31 ACCEPT [Google News HH] "Gold Price Overcomes Technical Pressures and Continues to Rise – Analy" | kw:gold,rice
+2026-07-30 03:31 ACCEPT [Google News KL] "Gold forecasts fall, but central bank buying expected to cushion retre" | kw:gold,central bank
+2026-07-30 03:31 ACCEPT [Google News KL] "Nickel Miners News For The Month Of July 2026 - Seeking Alpha" | kw:nickel
+2026-07-30 03:31 ACCEPT [Google News KL] "Silver Price Strengthens Bullish Prospects After Easing Overbought Con" | kw:silver,rice,easing
+2026-07-30 03:31 ACCEPT [Google News NS] "Soybean processing, refining lift Bunge Q2 2026 results - feedstuffs.c" | kw:soybean
+2026-07-30 03:31 ACCEPT [Google News NS] "ECC approves 1m tonnes wheat import - The Express Tribune" | kw:wheat
+2026-07-30 03:31 ACCEPT [Google News CB] "Fed’s Interest Rate Decision: July 29, 2026 - advisorperspectives.com" | kw:interest rate,rate decision
+2026-07-30 03:31 ACCEPT [Google News CB] "CNBC Daily Open: From geopolitics to monetary policy, fighting takes c" | kw:monetary policy
+2026-07-30 03:31 ACCEPT [Google News CB] "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unc" | kw:wti,inflation
+2026-07-30 03:31 SKIP_MORNING already_sent date=2026-07-30
