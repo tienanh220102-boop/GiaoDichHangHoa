@@ -1,12 +1,3 @@
-2026-06-24 12:31 ACCEPT [OilPrice.com] "VLCC Earnings Near $470,000 a Day as Hormuz Hopes Drive Tanker Frenzy" | kw:oil,crude
-2026-06-24 12:31 ACCEPT [Google News HH] "Gold Price Today: Gold Falls 3.30% on June 24, 2026 - USA Today" | kw:gold,rice
-2026-06-24 12:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - National" | kw:oil,crude,gas
-2026-06-24 12:31 ACCEPT [Google News HH] "Bearish sentiment in stocks and commodities persists - AKM.RU" | kw:commodities
-2026-06-24 12:31 ACCEPT [Google News KL] "Gold prices today, Wednesday, June 24: Prices sliding below $4,100 thi" | kw:gold,rice
-2026-06-24 12:31 ACCEPT [Google News KL] "Silver breaks below $60 amid stronger US Dollar, Fed rate-hike bets - " | kw:silver,fed rate
-2026-06-24 12:31 ACCEPT [Google News NS] "China increases imports of rapeseed oil from Russia amid reduced purch" | kw:oil
-2026-06-24 12:31 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 13:01 ACCEPT [Al Jazeera] "World Cup 2026: Messi, Mbappe, Haaland contest best ever Golden Boot r" | kw:gold
 2026-06-24 13:01 ACCEPT [Google News HH] "Bright Smart Securities & Commodities Group: Net profit rose 8.5% on h" | kw:commodities
 2026-06-24 13:01 ACCEPT [Google News KL] "The IPO market is so hot a 140-year-old silver mine just went public -" | kw:silver
 2026-06-24 13:01 ACCEPT [Google News KL] "Gold drops nearly 2% on stronger dollar, growing bets on Fed tightenin" | kw:gold,tightening
@@ -20007,3 +19998,13 @@
 2026-07-30 04:31 ACCEPT [Google News NS] "ECC approves urgent 1m-tonne wheat import - Dawn" | kw:wheat
 2026-07-30 04:31 ACCEPT [Google News CB] "Indian shares open flat on Fed rates uncertainty - Reuters" | kw:fed rate
 2026-07-30 04:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 04:49 ACCEPT [Google News HH] "Palm opens lower on weaker rival oils, crude oil prices - tradingview." | kw:oil,crude,rice
+2026-07-30 04:49 ACCEPT [Google News HH] "Stocks drift on Wall Street and crude oil prices drop as Mideast tensi" | kw:oil,crude,rice
+2026-07-30 04:49 ACCEPT [Google News HH] "Crude oil prices jump again and US stocks slip ahead a decision from t" | kw:oil,crude,wti
+2026-07-30 04:49 ACCEPT [Google News HH] "Gold price in India: Rates on July 30 - FXStreet" | kw:gold,rice
+2026-07-30 04:49 ACCEPT [Google News HH] "EIA Crude Oil Inventories Drop Sharply, Exceeding Expectations (July 2" | kw:oil,crude
+2026-07-30 04:49 ACCEPT [Google News HH] "US Crude Oil Inventories Fall More than Expected - tradingview.com" | kw:oil,crude
+2026-07-30 04:49 ACCEPT [Google News HH] "Crude Oil Prices Surge as US-Iran Conflict Looks to Drag On - tradingv" | kw:oil,crude,rice
+2026-07-30 04:49 ACCEPT [Google News KL] "Global surge in copper theft snares telecoms and trains - Financial Ti" | kw:copper
+2026-07-30 04:49 ACCEPT [Google News KL] "Gold, Silver Prices Dip — But Wall Street Sees 'Most Bullish Set-Up' F" | kw:gold,silver,rice
+2026-07-30 04:49 SKIP_MORNING already_sent date=2026-07-30
