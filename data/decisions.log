@@ -1,7 +1,3 @@
-2026-06-25 08:01 ACCEPT [Google News NS] "Brazil loses ground to U.S. in soybean sales to China - DatamarNews" | kw:soybean
-2026-06-25 08:01 ACCEPT [ECB Press] "ECB to integrate non-financial credit claim portfolios into general co" | kw:ecb
-2026-06-25 08:01 ACCEPT [Google News CB] "ECB will need to raise rates further, Schnabel says - Yahoo Finance" | kw:ecb
-2026-06-25 08:01 ACCEPT [Google News CB] "ECB Will Need to Raise Interest Rates Again, Schnabel Says - WSJ" | kw:interest rate,ecb
 2026-06-25 08:01 ACCEPT [Google News CB] "The Fed Isn't Cutting Interest Rates Anytime Soon -- and Kevin Warsh I" | kw:interest rate
 2026-06-25 08:01 SKIP_MORNING already_sent date=2026-06-25
 2026-06-25 08:31 ACCEPT [BBC Business] "Price cuts on family summer days out come into force" | kw:rice
@@ -20002,3 +19998,18 @@
 2026-07-30 21:39 ACCEPT [Google News KL] "Kinross's Lobo-Marte gold project initial capex soars to US$1.8bn in C" | kw:gold
 2026-07-30 21:39 ACCEPT [Google News NS] "Hand-Weeding Waterhemp Emerges as the Best Late-Season Soybean Strateg" | kw:soybean
 2026-07-30 21:39 ACCEPT [Google News CB] "BOJ to keep rates steady, deliver hawkish signal as price pressures mo" | kw:rice,boj
+2026-07-30 22:06 ACCEPT [Al Jazeera] "Why is US GDP growth slowing, and how can it be reversed?" | kw:oil,rice,tariff
+2026-07-30 22:06 ACCEPT [Google News HH] "Crude Oil is pricing a Hormuz deal, not a peace deal - fxstreet.com" | kw:oil,crude
+2026-07-30 22:06 ACCEPT [Google News HH] "South Florida commodities brokerages reach combination deal - bizjourn" | kw:commodities
+2026-07-30 22:06 ACCEPT [Google News HH] "Why Global Diesel Markets Have Stopped Following Crude Oil's Lead - st" | kw:oil,crude
+2026-07-30 22:06 ACCEPT [Google News KL] "Eldorado Gold Reports Solid Q2 2026 Financial and Operational Results;" | kw:gold
+2026-07-30 22:06 ACCEPT [Google News KL] "Silver Price Forecast: XAG eyes $60.00 as rebound builds - fxstreet.co" | kw:silver,rice
+2026-07-30 22:06 ACCEPT [Google News KL] "Oil Spiked 8%. Gold Went Up Anyway. Here Is Why This Time Is Different" | kw:oil,gold,silver
+2026-07-30 22:06 ACCEPT [Google News KL] "Gold jumps as suspected Yen intervention crushes US Dollar as Fed bets" | kw:gold
+2026-07-30 22:06 ACCEPT [Google News KL] "Kinross Gold’s Lobo-Marte cost jumps 67% as NPV more than triples - Mi" | kw:gold
+2026-07-30 22:06 ACCEPT [Google News KL] "Ivanhoe Mines Q2 2026 slides: record zinc output, copper guidance tigh" | kw:lng,copper,zinc
+2026-07-30 22:06 ACCEPT [Google News NS] "Wheat Soars, Pulling up Corn and Soybeans: Outside Markets See Fed Fal" | kw:wheat,corn,soybean
+2026-07-30 22:06 ACCEPT [Google News NS] "Hand-Weeding Waterhemp Emerges as the Best Late-Season Soybean Strateg" | kw:soybean
+2026-07-30 22:07 ACCEPT [Google News CB] "Will the Fed raise interest rates this year? Divided economists weigh " | kw:interest rate
+2026-07-30 22:07 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
+2026-07-30 22:07 ACCEPT [Google News CB] "US economy grows sluggish 1.5% in second quarter as inflation tops Fed" | kw:inflation
