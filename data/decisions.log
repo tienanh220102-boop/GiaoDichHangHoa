@@ -1,5 +1,3 @@
-2026-06-24 13:31 ACCEPT [Google News CB] "Gold falls below $4,000/oz on strong dollar, hawkish Fed signals - Reu" | kw:gold
-2026-06-24 13:31 ACCEPT [Google News CB] "Thai central bank keeps key interest rate unchanged, as expected - Reu" | kw:central bank,interest rate
 2026-06-24 13:31 ACCEPT [Google News CB] "Kevin Warsh Makes Small but Important Changes at the Fed. Here's Why T" | kw:fomc
 2026-06-24 13:31 SKIP_MORNING already_sent date=2026-06-24
 2026-06-24 13:31 SKIP_EVENING already_sent date=2026-06-24
@@ -20000,3 +19998,23 @@
 2026-07-30 06:01 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 06:31 ACCEPT [OilPrice.com] "Japan Buys Rare Canadian Oil Cargo" | kw:oil,crude
 2026-07-30 06:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 07:01 ACCEPT [Google News HH] "Why Global Diesel Markets Have Stopped Following Crude Oil's Lead - St" | kw:oil,crude
+2026-07-30 07:01 ACCEPT [Google News HH] "Can WTI Crude Oil Break Above the $85.00 Resistance? - Investing.com" | kw:oil,crude,wti
+2026-07-30 07:01 ACCEPT [Google News HH] "EIA reports a big draw in US crude oil stocks - engine.online" | kw:oil,crude
+2026-07-30 07:01 ACCEPT [Google News HH] "Why Did WTI Crude Oil Fall Despite Escalating Middle East Tensions? - " | kw:oil,crude,wti
+2026-07-30 07:01 ACCEPT [Google News HH] "Gold and Silver Cool Down, Faith Funds Face Reality - TradingView" | kw:gold,silver
+2026-07-30 07:01 ACCEPT [Google News KL] "Gold Demand Trends: Q2 2026 - World Gold Council" | kw:gold
+2026-07-30 07:01 ACCEPT [Google News KL] "Anglo American Posts Profit Jump on Record Copper Prices - Bloomberg.c" | kw:copper,rice
+2026-07-30 07:01 ACCEPT [Google News KL] "HK’s gold imports set to rise after hitting 11-year high last month: a" | kw:gold
+2026-07-30 07:01 ACCEPT [Google News KL] "Gold's Euphoria Has Passed. That's An Opportunity - Seeking Alpha" | kw:gold
+2026-07-30 07:01 ACCEPT [Google News KL] "BHP and Rio Tinto pivot to copper as metal boosts profits - Межа. Нови" | kw:copper
+2026-07-30 07:01 ACCEPT [Google News KL] "Gold Is Up $40. Here Is What the 9-3 Fed Vote Actually Means. - GoldSi" | kw:gold,silver
+2026-07-30 07:01 ACCEPT [Google News KL] "Copper price is fluctuating below the barrier– Forecast today – 30-7-2" | kw:copper,rice
+2026-07-30 07:01 ACCEPT [Google News NS] "Soybeans Sink on Weather, Pulling Down Corn and Wheat: Cattle Continue" | kw:wheat,corn,soybean
+2026-07-30 07:01 ACCEPT [Google News NS] "Wheat Futures (WHEAT-F) Is up 2.23% on Jul 30: Why It Happened - Tradi" | kw:wheat
+2026-07-30 07:01 ACCEPT [Google News NS] "Corn, Soybeans Retreat on Rain Chances: Cattle Extend Gains Early Wedn" | kw:corn,soybean
+2026-07-30 07:01 ACCEPT [Google News NS] "ECC approves urgent 1m-tonne wheat import - Dawn" | kw:wheat
+2026-07-30 07:01 ACCEPT [Google News NS] "Pakistan considers importing 1 mln tons of wheat amid supply shortage " | kw:wheat,shortage
+2026-07-30 07:01 ACCEPT [Google News CB] "Indian shares muted on Fed rates uncertainty - Reuters" | kw:fed rate
+2026-07-30 07:01 ACCEPT [Google News CB] "J.P.Morgan brings forward Fed rate hike call to December after July ho" | kw:fed rate,rate hike
+2026-07-30 07:01 SKIP_MORNING already_sent date=2026-07-30
