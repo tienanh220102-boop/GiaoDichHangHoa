@@ -1,7 +1,3 @@
-2026-06-24 13:01 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-24 13:01 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
-2026-06-24 13:02 SENT_EVENING articles=20 date=2026-06-24 force=False
-2026-06-24 13:31 ACCEPT [The Guardian Biz] "Pound hits lowest level of the year against the dollar, as oil price f" | kw:oil,rice
 2026-06-24 13:31 ACCEPT [OilPrice.com] "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets" | kw:oil,fuel,rice
 2026-06-24 13:31 ACCEPT [Google News HH] "Trump isn't happy that gas prices are falling more slowly than crude o" | kw:oil,crude,gas
 2026-06-24 13:31 ACCEPT [Google News HH] "| Falling crude oil weighs on polyester, viscose yarn prices in India " | kw:oil,crude,rice
@@ -20002,3 +19998,17 @@
 2026-07-30 05:31 ACCEPT [Google News HH] "Crude oil futures fall despite continued US-Iran strikes - BusinessLin" | kw:oil,crude
 2026-07-30 05:31 ACCEPT [Google News KL] "Gold, silver price prediction: Where are gold and silver prices headin" | kw:gold,silver,rice
 2026-07-30 05:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 06:01 ACCEPT [Al Jazeera] "War and shortages push Gaza hospitals to breaking point" | kw:shortage
+2026-07-30 06:01 ACCEPT [Google News HH] "Hedge fund Squarepoint is still ramping up its commodities trading bus" | kw:commodities
+2026-07-30 06:01 ACCEPT [Google News HH] "Crude Oil Prices Soar as US-Iran Tensions Escalate - Yahoo Finance" | kw:oil,crude,rice
+2026-07-30 06:01 ACCEPT [Google News HH] "Gold Price Overcomes Technical Pressures and Continues to Rise – Analy" | kw:gold,rice
+2026-07-30 06:01 ACCEPT [Google News KL] "Gold slips as higher Treasury yields offset focus on Warsh's inflation" | kw:gold,inflation,treasury
+2026-07-30 06:01 ACCEPT [Google News KL] "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outl" | kw:gold,silver,rice
+2026-07-30 06:01 ACCEPT [Google News KL] "Gold Fell 47 Percent in the 1970s Before Its Biggest Run. The Chart Lo" | kw:gold,silver
+2026-07-30 06:01 ACCEPT [Google News KL] "Gold rose after the Fed's decision to keep interest rates unchanged - " | kw:gold,interest rate
+2026-07-30 06:01 ACCEPT [Google News KL] "Silver Price Strengthens Bullish Prospects After Easing Overbought Con" | kw:silver,rice,easing
+2026-07-30 06:01 ACCEPT [Google News KL] "Gold Price Forecast: FOMC Holds Fed Rate at 3.50%-3.75%, XAU/USD Climb" | kw:gold,rice,fed rate
+2026-07-30 06:01 ACCEPT [Google News CB] "Indian shares muted on Fed rates uncertainty - reuters.com" | kw:fed rate
+2026-07-30 06:01 ACCEPT [Google News CB] "J.P.Morgan brings forward Fed rate hike call to December after July ho" | kw:fed rate,rate hike
+2026-07-30 06:01 ACCEPT [Google News CB] "New Fed focus on money supply might aid inflation thinking at the marg" | kw:inflation
+2026-07-30 06:01 SKIP_MORNING already_sent date=2026-07-30
