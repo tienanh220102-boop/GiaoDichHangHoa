@@ -1,16 +1,3 @@
-2026-06-24 15:31 SKIP_EVENING already_sent date=2026-06-24
-2026-06-24 16:01 ACCEPT [Google News HH] "OFAC Temporarily Lifts Certain Oil Sanctions Against Iran - thompsonhi" | kw:oil,sanction
-2026-06-24 16:01 ACCEPT [Google News HH] "OPEC Fund launches landmark climate finance compact, unveils US$1.5 bi" | kw:opec
-2026-06-24 16:01 ACCEPT [Google News HH] "Trump calls for probe into gasoline price ‘gouging’ as crude oil price" | kw:oil,crude,gas
-2026-06-24 16:01 ACCEPT [Google News HH] "EIA: US crude oil inventories down by 6.1M barrels - Breakingthenews.n" | kw:oil,crude
-2026-06-24 16:01 ACCEPT [Google News KL] "Gold selloff opens door to investors, miners have upside: BofA - Minin" | kw:gold
-2026-06-24 16:01 ACCEPT [Google News KL] "Gold price falls below $4,000, precious metal mining stocks plunge - B" | kw:gold,rice
-2026-06-24 16:01 SKIP_MORNING already_sent date=2026-06-24
-2026-06-24 16:01 SKIP_EVENING already_sent date=2026-06-24
-2026-06-24 16:31 ACCEPT [MarketWatch] "U.S. oil prices fall back to preconflict levels as physical flow throu" | kw:oil,rice
-2026-06-24 16:31 ACCEPT [OilPrice.com] "Rosneft Proposes Oil Firms to Refine 30% of Crude in Russia to Ease Fu" | kw:oil,crude,fuel
-2026-06-24 16:31 ACCEPT [Mining.com] "Gold selloff opens door to investors, miners have upside: BofA" | kw:gold,rice
-2026-06-24 16:31 ACCEPT [Mining.com] "Faraday drilling expands Copper Creek potential" | kw:copper
 2026-06-24 16:31 ACCEPT [Google News HH] "Dow Soars Over 550 Points, Crude Oil Prices Tumble To Pre-Iran War Lev" | kw:oil,crude,rice
 2026-06-24 16:31 ACCEPT [Google News HH] "Gold Price Breaks Below $4000 For The First Time in 2026 - Yahoo Finan" | kw:gold,rice
 2026-06-24 16:31 ACCEPT [Google News HH] "Crude Oil Falls Below $70 - TradingView" | kw:oil,crude
@@ -20011,3 +19998,10 @@
 2026-07-30 10:01 ACCEPT [Google News NS] "Argentina will harvest a record corn crop in 2025/26 MY - електронна з" | kw:corn,harvest
 2026-07-30 10:01 ACCEPT [Google News CB] "The US Federal Reserve has kept its key interest rate unchanged - GMK " | kw:interest rate,federal reserve
 2026-07-30 10:01 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 10:31 ACCEPT [NASDAQ Commod] "Oil Prices Hold Steady After Rally" | kw:oil,rice
+2026-07-30 10:31 ACCEPT [Google News HH] "European shares edge up on commodities boost; tech drags after SK Hyni" | kw:commodities
+2026-07-30 10:31 ACCEPT [Google News KL] "Gold Demand Trends: Q2 2026 - gold.org" | kw:gold
+2026-07-30 10:31 ACCEPT [Google News KL] "Gold steadies as markets assess Fed rate stance, Middle East situation" | kw:gold,fed rate
+2026-07-30 10:31 ACCEPT [Google News KL] "Gold market shows resilience as price momentum cools in Q2 - gold.org" | kw:gold,rice
+2026-07-30 10:31 ACCEPT [Google News KL] "Endeavour Mining reports record cash flow supported by high gold price" | kw:gold,rice
+2026-07-30 10:31 SKIP_MORNING already_sent date=2026-07-30
