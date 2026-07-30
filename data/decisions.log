@@ -1,27 +1,3 @@
-2026-06-24 19:01 ACCEPT [MarketWatch] "Gas prices aren’t falling fast enough for Trump. Here’s when drivers c" | kw:gas,rice
-2026-06-24 19:01 ACCEPT [OilPrice.com] "Norway's Oil Output Beats Forecasts Again Despite Pullback from April " | kw:oil,crude,petroleum
-2026-06-24 19:01 ACCEPT [Mining.com] "NexMetals upgrades Selkirk copper resource to 1.1B lb." | kw:copper
-2026-06-24 19:01 ACCEPT [Mining.com] "Newcore Gold tanks as Enchi pre-feasibility disappoints" | kw:gold
-2026-06-24 19:01 ACCEPT [Mining.com] "Anglo American, Codelco to add 2.7Mt copper with no new mine" | kw:copper,easing
-2026-06-24 19:01 ACCEPT [Google News HH] "Crude oil futures settle at $70.34. Stays below the 200 day MA. - inve" | kw:oil,crude
-2026-06-24 19:01 ACCEPT [Google News HH] "Deutsche Bank Found Gold’s Price Floor. It’s Not the Buyers You Think." | kw:gold,silver,rice
-2026-06-24 19:01 ACCEPT [Google News CB] "Economists see El Niño lifting Brazil inflation, central bank survey s" | kw:inflation,central bank
-2026-06-24 19:01 ACCEPT [Google News CB] "Oil Price Outlook Improves as Energy Activity Jumps Across Texas - For" | kw:oil,rice
-2026-06-24 19:01 ACCEPT [Google News CB] "Fed Says Basis Trade Key Driver of Hedge Fund Treasury Exposure - Bloo" | kw:treasury
-2026-06-24 19:08 ACCEPT [The Guardian Biz] "California drivers sue gas stations for allegedly using AI to inflate " | kw:gas,rice
-2026-06-24 19:08 ACCEPT [The Guardian Biz] "‘It’s a scam’: Americans express unease over SpaceX’s influence on ret" | kw:rice
-2026-06-24 19:08 ACCEPT [The Guardian Biz] "Europe’s heatwave drives electricity prices to new highs as demand soa" | kw:rice
-2026-06-24 19:08 ACCEPT [Al Jazeera] "Flash floods hit India’s Arunachal Pradesh" | kw:flood
-2026-06-24 19:08 ACCEPT [CNBC Commodities] "The average SpaceX buyer post-IPO is almost under water after two-day " | kw:rice
-2026-06-24 19:08 ACCEPT [CNBC Commodities] "Fed holds rates steady, pares down statement to remove cutting bias" | kw:interest rate,rate decision,federal reserve
-2026-06-24 19:08 ACCEPT [CNBC Commodities] "The new oil? Inside the effort to turn AI computing power into a trade" | kw:oil,commodity
-2026-06-24 19:08 ACCEPT [CNBC Economy] "Wholesale prices rose 1.1% in May, more than expected, on surge in ene" | kw:rice
-2026-06-24 19:08 ACCEPT [CNBC Economy] "Consumer prices rose 4.2% annually in May, highest in three years" | kw:rice
-2026-06-24 19:08 ACCEPT [CNBC Economy] "Household worries over finances hit highest level since July 2022, New" | kw:inflation,central bank
-2026-06-24 19:08 ACCEPT [CNBC Economy] "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs h" | kw:inflation
-2026-06-24 19:08 ACCEPT [CNBC Economy] "ECB 'will do what is necessary' to tame inflation, Bank of France gove" | kw:inflation,central bank,rate hike
-2026-06-24 19:08 ACCEPT [OilPrice.com] "Canada Building West’s First Grid-Scale SMR" | kw:steel
-2026-06-24 19:08 ACCEPT [OilPrice.com] "U.S. Crude Inventories Post Another Major Draw" | kw:oil,crude
 2026-06-24 19:08 ACCEPT [OilPrice.com] "VLCC Earnings Near $470,000 a Day as Hormuz Hopes Drive Tanker Frenzy" | kw:oil,crude
 2026-06-24 19:08 ACCEPT [OilPrice.com] "India Cuts Coal Imports as Power Plants Turn to Domestic Fuel" | kw:fuel
 2026-06-24 19:08 ACCEPT [OilPrice.com] "Qatar Says LNG Exports Could Return to Normal Within Weeks" | kw:gas,lng
@@ -20022,3 +19998,23 @@
 2026-07-30 13:01 SKIP_MORNING already_sent date=2026-07-30
 2026-07-30 13:02 DIRECTION_FIX Wheat: "giảm 2.55%" → "tăng 2.55%"
 2026-07-30 13:02 SENT_EVENING articles=20 date=2026-07-30 force=False
+2026-07-30 13:29 ACCEPT [MarketWatch] "GDP grew so-so 1.5% in the second quarter, but don’t be fooled. The ec" | kw:gdp
+2026-07-30 13:29 ACCEPT [BBC Business] "Bank holds interest rates but says it is ready to raise them if Iran w" | kw:interest rate
+2026-07-30 13:29 ACCEPT [The Guardian Biz] "US economy grows sluggish 1.5% in second quarter as inflation tops Fed" | kw:inflation,interest rate,federal reserve
+2026-07-30 13:29 ACCEPT [NASDAQ Commod] "Masco Q2 Earnings Call Highlights" | kw:tariff
+2026-07-30 13:29 ACCEPT [Google News HH] "Japan turns to Canadian crude as Asia feels Hormuz supply pinch - alja" | kw:crude
+2026-07-30 13:29 ACCEPT [Google News HH] "Low Probability, High Impact: Citi Issues Nine Extreme Risk Alerts for" | kw:commodities
+2026-07-30 13:29 ACCEPT [Google News HH] "Kuwait Crude Oil Price Rises by USD 1.93 per Barrel - Fana News -" | kw:oil,crude,rice
+2026-07-30 13:29 ACCEPT [Google News KL] "Silver prices today, Thursday, July 30, 2026: Silver prices remain bel" | kw:silver,rice
+2026-07-30 13:29 ACCEPT [Google News KL] "Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 a" | kw:gold,rice
+2026-07-30 13:29 ACCEPT [Google News KL] "Gold steadies as GDP, PCE keep Fed-rate risk alive - Kitco AM Report -" | kw:gold,gdp
+2026-07-30 13:29 ACCEPT [Google News NS] "Wheat futures surge on tight supplies, drought concerns - farmprogress" | kw:wheat,drought
+2026-07-30 13:29 ACCEPT [Google News NS] "Limit waterhemp seed in soybeans with weeding by hand - farmprogress.c" | kw:soybean
+2026-07-30 13:29 ACCEPT [Google News CB] "US dollar slips against yen as focus shifts to inflation data - Reuter" | kw:inflation
+2026-07-30 13:29 ACCEPT [Google News CB] "Fed’s Preferred Inflation Gauge Eased in June - The New York Times" | kw:inflation
+2026-07-30 13:29 ACCEPT [Google News CB] "Fed leaves interest rate unchanged but with 3 dissents as Warsh praise" | kw:interest rate
+2026-07-30 13:29 ACCEPT [Google News CB] "Fed's favored inflation gauge showed prices pulled back in June - Fox " | kw:rice,inflation
+2026-07-30 13:29 ACCEPT [Google News CB] "Fed holds interest rates steady as economy weathers resurgent inflatio" | kw:inflation,interest rate
+2026-07-30 13:29 ACCEPT [Google News CB] "Fed's favored inflation gauge shows prices edged down in June but rema" | kw:rice,inflation
+2026-07-30 13:29 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 13:29 SKIP_EVENING already_sent date=2026-07-30
