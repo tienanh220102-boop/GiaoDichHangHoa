@@ -1,10 +1,3 @@
-2026-06-24 16:31 ACCEPT [Google News HH] "Dow Soars Over 550 Points, Crude Oil Prices Tumble To Pre-Iran War Lev" | kw:oil,crude,rice
-2026-06-24 16:31 ACCEPT [Google News HH] "Gold Price Breaks Below $4000 For The First Time in 2026 - Yahoo Finan" | kw:gold,rice
-2026-06-24 16:31 ACCEPT [Google News HH] "Crude Oil Falls Below $70 - TradingView" | kw:oil,crude
-2026-06-24 16:31 ACCEPT [Google News HH] "US Equity Indexes Rise Amid Slumping Crude Oil, Treasury Yields - mark" | kw:oil,crude,treasury
-2026-06-24 16:31 ACCEPT [Google News HH] "How To Use Google Sheets To Track Gold Price Automatically (IMPORTXML)" | kw:gold,rice
-2026-06-24 16:31 ACCEPT [Google News KL] "Gold and Silver Sink to 7-Month Lows Even as Bond Yields Tumble - Bull" | kw:gold,silver
-2026-06-24 16:31 ACCEPT [Google News KL] "The Price of Gold Sinks Under $4,000 for the First Time Since November" | kw:gold,rice
 2026-06-24 16:31 ACCEPT [Google News KL] "Central Bank Gold Purchases Hit 1,000t Average: WGC Survey - Mexico Bu" | kw:gold,central bank
 2026-06-24 16:31 ACCEPT [Google News KL] "Gold And Silver Have Further To Fall- When I Plan On Buying Again (NYS" | kw:gold,silver
 2026-06-24 16:31 ACCEPT [Google News NS] "Why Lower Corn Prices May Not Last Through Summer - Successful Farming" | kw:corn,rice
@@ -20005,3 +19998,14 @@
 2026-07-30 10:31 ACCEPT [Google News KL] "Gold market shows resilience as price momentum cools in Q2 - gold.org" | kw:gold,rice
 2026-07-30 10:31 ACCEPT [Google News KL] "Endeavour Mining reports record cash flow supported by high gold price" | kw:gold,rice
 2026-07-30 10:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 11:01 ACCEPT [BBC Business] "Interest rates held at 3.75% by Bank of England" | kw:interest rate,bank of england
+2026-07-30 11:01 ACCEPT [Al Jazeera] "Why is Saudi Arabia forming a coalition to protect the Red Sea?" | kw:shipping
+2026-07-30 11:01 ACCEPT [NASDAQ Commod] "Gold Marginally Higher Ahead Of PCE Price Data" | kw:gold,rice,monetary policy
+2026-07-30 11:01 ACCEPT [Google News HH] "Africa’s largest refinery will consume 2.5% of the world’s traded crud" | kw:oil,crude
+2026-07-30 11:01 ACCEPT [Google News HH] "Crude oil rebounds to ₹8,224 on MCX as US-Iran tensions stoke supply f" | kw:oil,crude
+2026-07-30 11:01 ACCEPT [Google News KL] "Current price of silver as of Thursday, July 30, 2026 - Fortune" | kw:silver,rice
+2026-07-30 11:01 ACCEPT [Google News KL] "Gold price rises, silver falls in domestic market - myrepublica.nagari" | kw:gold,silver,rice
+2026-07-30 11:01 ACCEPT [Google News KL] "Gold prices rise in local, global markets - The Express Tribune" | kw:gold,rice
+2026-07-30 11:01 ACCEPT [Google News CB] "U.S. Treasury Yields Soar as Market Struggles to Interpret Fed - wsj.c" | kw:treasury
+2026-07-30 11:01 ACCEPT [Google News CB] "Investors warn Bank of Japan faces test to inflation-fighting credibil" | kw:inflation,bank of japan
+2026-07-30 11:01 SKIP_MORNING already_sent date=2026-07-30
