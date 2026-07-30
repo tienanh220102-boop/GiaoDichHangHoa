@@ -1,10 +1,3 @@
-2026-06-25 05:01 ACCEPT [Google News KL] "Gold and silver price today, June 25: Check rates of 24K, 22K gold in " | kw:gold,silver,rice
-2026-06-25 05:01 ACCEPT [Google News CB] "Rate hikes needed every few months, hawkish BOJ board member says - Th" | kw:rate hike,boj
-2026-06-25 05:01 ACCEPT [Google News CB] "Gold Edges Higher, But Fed Rate-Hike Expectations Weigh - WSJ" | kw:gold,fed rate
-2026-06-25 05:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 05:31 ACCEPT [OilPrice.com] "Natural Gas Prices Set to Ease as Qatar Restores LNG Output" | kw:gas,lng,rice
-2026-06-25 05:31 ACCEPT [Google News HH] "Gold price in Philippines: Rates on June 25 - FXStreet" | kw:gold,rice
-2026-06-25 05:31 ACCEPT [Google News HH] "Trump expresses frustration that gas prices aren’t reflecting falling " | kw:oil,crude,gas
 2026-06-25 05:31 ACCEPT [Google News KL] "Vista Gold STock: Cheap For A Reason, But Still A Powerful Gold Option" | kw:gold
 2026-06-25 05:31 ACCEPT [Google News CB] "EXCLUSIVE: Japan's government blueprint nudges BOJ to fuel demand, clo" | kw:fuel,boj
 2026-06-25 05:31 ACCEPT [Google News CB] "China central bank to add tool to better manage short-term liquidity -" | kw:central bank
@@ -20005,3 +19998,6 @@
 2026-07-30 18:53 ACCEPT [Google News KL] "Gold demand proves resilient despite Q2 selloff as central banks retur" | kw:gold,central bank
 2026-07-30 18:53 ACCEPT [Google News NS] "Market Volatility and Geopolitical Pressures Drive Grain Price Swings," | kw:rice
 2026-07-30 18:53 ACCEPT [Google News CB] "3 savings moves to make after the latest Fed rate pause - CBS News" | kw:fed rate,rate pause
+2026-07-30 19:01 ACCEPT [OilPrice.com] "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic" | kw:oil,shipping
+2026-07-30 19:01 ACCEPT [NASDAQ Commod] "Crude Oil Dips Amid Profit Taking As Iran, Oman Discuss Strait Of Horm" | kw:oil,crude,rice
+2026-07-30 19:01 ACCEPT [Google News CB] "Treasury yields continue to rise as Wall Street calls out Fed's 'infla" | kw:inflation,treasury
