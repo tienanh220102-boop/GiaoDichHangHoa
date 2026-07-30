@@ -1,7 +1,3 @@
-2026-06-25 03:01 ACCEPT [Google News CB] "BoJ Hawk Tamura Calls for Rate Hike Every Few Months - TradingView" | kw:rate hike,boj
-2026-06-25 03:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 03:31 ACCEPT [Google News HH] "Gold price stabilizes near $4,000 after sharp drop - Українські Націон" | kw:gold,rice
-2026-06-25 03:31 ACCEPT [Google News HH] "Enterprise value to revenue forward of Davis Commodities Limited – OTC" | kw:commodities
 2026-06-25 03:31 ACCEPT [Google News KL] "Silver Price Slumps to New Yearly Low as Fed Rate Hike Fears Intensify" | kw:silver,rice,fed rate
 2026-06-25 03:31 ACCEPT [Google News NS] "Peruvian Mountain's 5,200 Aligned Holes May Unveil Ancient Indigenous " | kw:corn,cotton
 2026-06-25 03:31 ACCEPT [Google News CB] "Hawkish BOJ policymaker calls for rate hike once every few months By R" | kw:rate hike,boj
@@ -20002,3 +19998,15 @@
 2026-07-30 17:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 30 - fxstreet.com" | kw:gold,rice
 2026-07-30 17:31 ACCEPT [Google News KL] "Gold price in Philippines: Rates on July 30 - fxstreet.com" | kw:gold,rice
 2026-07-30 17:31 ACCEPT [Google News CB] "Fed’s Preferred Inflation Gauge Eased in June - The New York Times" | kw:inflation
+2026-07-30 18:01 ACCEPT [NASDAQ Commod] "Gold Surges As Investors Parse Fed's Interest Rate Decision Amid Middl" | kw:gold,rice,interest rate
+2026-07-30 18:01 ACCEPT [Google News HH] "Glencore wins processing contract for Germany's Wilhelmshaven oil refi" | kw:oil
+2026-07-30 18:01 ACCEPT [Google News HH] "Gold Price Today: Gold Rises 2.31% on July 30, 2026 - usatoday.com" | kw:gold,rice
+2026-07-30 18:01 ACCEPT [Google News HH] "Angola sees increased volumes, value of hydrocarbons exports in 2Q - Q" | kw:commodity
+2026-07-30 18:01 ACCEPT [Google News KL] "Gold Demand Trends: Q2 2026 - gold.org" | kw:gold
+2026-07-30 18:01 ACCEPT [Google News KL] "Copper Price Forecast: US Tariff Premium Signals $6.70 Next - FXEmpire" | kw:copper,rice,tariff
+2026-07-30 18:01 ACCEPT [Google News KL] "Gold market shows resilience as price momentum cools in Q2 - gold.org" | kw:gold,rice
+2026-07-30 18:01 ACCEPT [Google News KL] "Gold rises on weaker U.S. dollar, soft inflation data - cnbc.com" | kw:gold,inflation
+2026-07-30 18:01 ACCEPT [Google News NS] "Prairie Wheat Weekly: Spring wheat prices down, durum mixed - The West" | kw:wheat,rice
+2026-07-30 18:01 ACCEPT [Google News CB] "Are Central Bank Financial Stability Reports Useful? An AI-Based Analy" | kw:central bank
+2026-07-30 18:01 ACCEPT [Google News CB] "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance - The " | kw:inflation
+2026-07-30 18:01 ACCEPT [Google News CB] "Bank of England holds UK interest rate steady at 3.75% — but policymak" | kw:inflation,interest rate,bank of england
