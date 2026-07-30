@@ -1,11 +1,3 @@
-2026-06-24 15:01 ACCEPT [Google News HH] "Crude Oil Falls Below $75, Its Lowest Level Since Iran War Started - T" | kw:oil,crude
-2026-06-24 15:01 ACCEPT [Google News HH] "Trump calls for probe into gasoline price ‘gouging’ as crude oil price" | kw:oil,crude,gas
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold, silver and bitcoin tumble as debasement trade unwinds - CoinDesk" | kw:gold,silver
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold tumbles to $4,000 over worries of Fed rate hikes - Yahoo Finance" | kw:gold,fed rate,rate hike
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold weakens to a seven-month low as Fed rate-hike bets boost the US D" | kw:gold,fed rate
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold falls below the $4,000 mark as a stronger U.S. dollar and expecta" | kw:gold,interest rate,rate hike
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold ETFs could see fresh outflows on rising bets on Fed monetary tigh" | kw:gold,tightening
-2026-06-24 15:01 ACCEPT [Google News KL] "Gold and Silver Price Crash - Coinpedia" | kw:gold,silver,rice
 2026-06-24 15:01 ACCEPT [Google News NS] "Barley prices in Ukraine are under pressure from increasing supply of " | kw:rice,easing
 2026-06-24 15:02 ACCEPT [Google News CB] "Federal student loans have a new interest rate discount — here's who q" | kw:interest rate
 2026-06-24 15:02 SKIP_MORNING already_sent date=2026-06-24
@@ -20006,3 +19998,11 @@
 2026-07-30 08:31 ACCEPT [Google News NS] "Mexico Advances White Corn Commercialization Strategy - mexicobusiness" | kw:corn
 2026-07-30 08:31 ACCEPT [Google News NS] "ECC approves 1m tonnes wheat import - tribune.com.pk" | kw:wheat
 2026-07-30 08:31 SKIP_MORNING already_sent date=2026-07-30
+2026-07-30 09:01 ACCEPT [OilPrice.com] "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge" | kw:oil,gas,rice
+2026-07-30 09:01 ACCEPT [Google News HH] "US crude oil inventories down 1.7% in week ending July 24 - aa.com.tr" | kw:oil,crude
+2026-07-30 09:01 ACCEPT [Google News HH] "Gold Price Rises After Fed Holds Interest Rates Steady - Investing.com" | kw:gold,rice,interest rate
+2026-07-30 09:01 ACCEPT [Google News KL] "HK’s gold imports set to rise after hitting 11-year high last month: a" | kw:gold
+2026-07-30 09:01 ACCEPT [Google News KL] "Gold Price Forecast: Can Gold Hold $4,020 as Fed Rate Hike Expectation" | kw:gold,rice,fed rate
+2026-07-30 09:01 ACCEPT [Google News NS] "Wheat Futures (WHEAT-F) Is up 2.23% on Jul 30: Why It Happened - tradi" | kw:wheat
+2026-07-30 09:01 ACCEPT [Google News CB] "US borrowing costs hit 19-year high as Fed holds interest rates - The " | kw:interest rate
+2026-07-30 09:01 SKIP_MORNING already_sent date=2026-07-30
