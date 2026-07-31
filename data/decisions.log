@@ -1,18 +1,3 @@
-2026-06-26 10:01 ACCEPT [Google News CB] "ECB to scrap 40 regulatory guides; Cathay United Bank chair quits afte" | kw:ecb
-2026-06-26 10:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 10:15 ACCEPT [Al Jazeera] "Russia reports downing 660 Ukrainian drones, denies seeking Belarus wa" | kw:fuel,shortage
-2026-06-26 10:15 ACCEPT [Google News KL] "Gold and silver prices fall: What’s behind the decline? - Economy Midd" | kw:gold,silver,rice
-2026-06-26 10:15 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD edges up, nearing $58 as the US Dollar" | kw:silver,rice
-2026-06-26 10:15 ACCEPT [Google News CB] "Market Minute: What does the Dallas Fed trimmed mean tell us about inf" | kw:inflation
-2026-06-26 10:15 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 10:31 ACCEPT [OilPrice.com] "Hormuz Shipping Confidence Is Still Shaky" | kw:crude,shipping
-2026-06-26 10:31 ACCEPT [Google News HH] "U.S. crude oil falls below $70, resuming losses after attack on cargo " | kw:oil,crude
-2026-06-26 10:31 ACCEPT [Google News HH] "Hit by War, Iraq Urges OPEC to Raise Its Production Quotas - energynew" | kw:opec
-2026-06-26 10:31 ACCEPT [Google News KL] "Gold heads for fourth weekly drop as traders reassess Fed rate outlook" | kw:gold,fed rate
-2026-06-26 10:31 ACCEPT [Google News KL] "【SMM Copper Cathode Rod Express】China's copper rod producers are activ" | kw:copper
-2026-06-26 10:31 ACCEPT [Google News NS] "Romania strengthens position in MENA wheat markets - UkrAgroConsult" | kw:wheat
-2026-06-26 10:31 ACCEPT [Google News CB] "Inflation Watch - The American Action Forum" | kw:inflation
-2026-06-26 10:31 ACCEPT [Google News CB] "Economists Lift US Core Inflation Forecasts, See Fed on Hold - Bloombe" | kw:inflation
 2026-06-26 10:31 ACCEPT [Google News CB] "Climate risks 'no longer peripheral' to inflation and monetary policy " | kw:inflation,monetary policy
 2026-06-26 10:31 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 11:01 ACCEPT [OilPrice.com] "China’s Crude Imports Set to Hit Weakest Level Since 2016" | kw:oil,crude
@@ -20013,3 +19998,10 @@
 2026-07-31 17:01 ACCEPT [Google News CB] "AI and Productivity: What Firms Are Saying on Earnings Calls - Federal" | kw:federal reserve
 2026-07-31 17:01 ACCEPT [Google News CB] "Kevin Warsh's first big press conference shines a spotlight on confusi" | kw:inflation
 2026-07-31 17:01 ACCEPT [Google News CB] "Here's why the 3 dissenters on the Fed wanted to raise interest rates " | kw:interest rate
+2026-07-31 17:20 ACCEPT [MarketWatch] "Here’s how Big Oil cashed in on the historic supply crunch" | kw:oil
+2026-07-31 17:20 ACCEPT [OilPrice.com] "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel" | kw:oil,gas,wti
+2026-07-31 17:21 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says - " | kw:oil,crude
+2026-07-31 17:21 ACCEPT [Google News HH] "Kinross Earnings: Strong Gold Price Offsets Lower Volumes and Rising U" | kw:gold,rice
+2026-07-31 17:21 ACCEPT [Google News KL] "Storms and global supply shortages push copper prices toward new recor" | kw:copper,rice,shortage
+2026-07-31 17:21 ACCEPT [Google News CB] "As Warsh’s Fed faces pressure to act on inflation, these indicators sh" | kw:inflation,gdp
+2026-07-31 17:21 ACCEPT [Google News CB] "More on the Fed’s New Game of Monetary Policy Football - Bloomberg.com" | kw:monetary policy
