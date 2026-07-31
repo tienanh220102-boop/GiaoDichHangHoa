@@ -1,12 +1,3 @@
-2026-06-25 11:31 ACCEPT [Google News CB] "Why Is the Federal Reserve Paying Banks Billions in Interest? - The Da" | kw:federal reserve
-2026-06-25 11:31 ACCEPT [Google News CB] "BOJ to Raise Rates Every Few Months: Policymaker Tamura - nippon.com" | kw:boj
-2026-06-25 11:31 ACCEPT [Google News CB] "With No Interest Rate Cut, Should You Sell SoFi Stock? - Yahoo Finance" | kw:interest rate,rate cut
-2026-06-25 11:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 12:01 ACCEPT [MarketWatch] "Why Iraq’s threat to leave OPEC may be the final nail in the cartel’s " | kw:opec
-2026-06-25 12:01 ACCEPT [MarketWatch] "‘GTA 6’ preorders are live — and pack an unpleasant surprise for gamer" | kw:rice
-2026-06-25 12:01 ACCEPT [Google News HH] "Iraqi Oil Ministry denies reports of potential OPEC exit, urges output" | kw:oil,opec
-2026-06-25 12:01 ACCEPT [Google News HH] "Iraq denies reports of OPEC exit, reaffirms commitment to group - Türk" | kw:opec
-2026-06-25 12:01 ACCEPT [Google News HH] "Iraq warns it might leave OPEC if oil quota not raised, sources say - " | kw:oil,opec
 2026-06-25 12:01 ACCEPT [Google News HH] "Forex trading a bullish USD – WTI Crude Oil, Gold, and Silver falling " | kw:oil,crude,wti
 2026-06-25 12:01 ACCEPT [Google News HH] "Iraq retracts threat to leave OPEC over output limits - Crypto Briefin" | kw:opec
 2026-06-25 12:01 ACCEPT [Google News HH] "Iraq dismisses OPEC exit reports - Shafaq News | Latest breaking news " | kw:opec
@@ -20007,3 +19998,12 @@
 2026-07-31 02:01 ACCEPT [Google News CB] "Can the Bank of Japan reinforce the Japanese Yen’s intervention-led re" | kw:bank of japan
 2026-07-31 02:01 ACCEPT [Google News CB] "Q2 GDP and June Inflation Support September Fed Hold - The Conference " | kw:inflation,gdp
 2026-07-31 02:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: Anticipated U.S.-Iran Talks Ease Supply Conce" | kw:oil,crude,wti
+2026-07-31 02:31 ACCEPT [Google News HH] "Crude Oil Outlook: What the 1973 Oil Embargo Tells Us About the 2026 H" | kw:oil,crude,embargo
+2026-07-31 02:31 ACCEPT [Google News KL] "Capricorn Metals Hits Higher Gold Prices, Lower Output - finimize.com" | kw:gold,corn,rice
+2026-07-31 02:31 ACCEPT [Google News KL] "Gold Forecast: Looks to snap four-month losing streak but sellers refu" | kw:gold
+2026-07-31 02:31 ACCEPT [Google News CB] "JGBs Edge Lower Ahead of BOJ’s Rate Decision - wsj.com" | kw:rate decision,boj
+2026-07-31 02:31 ACCEPT [Google News CB] "BOJ to keep rates steady, deliver hawkish signal as price pressures mo" | kw:rice,boj
+2026-07-31 02:31 ACCEPT [Google News CB] "Why The Fed Isn’t Going To Contain Real Inflation - Forbes" | kw:inflation
+2026-07-31 02:31 ACCEPT [Google News CB] "Can the Bank of Japan reinforce the Japanese Yen’s intervention-led re" | kw:bank of japan
+2026-07-31 02:31 SKIP_MORNING already_sent date=2026-07-31
