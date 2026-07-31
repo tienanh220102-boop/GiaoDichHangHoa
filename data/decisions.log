@@ -1,6 +1,3 @@
-2026-06-25 15:31 ACCEPT [MarketWatch] "First-quarter GDP gets big boost, but it’s not really great news" | kw:gdp
-2026-06-25 15:31 ACCEPT [MarketWatch] "Apple’s MacBooks and iPads are getting more expensive as the memory cr" | kw:rice
-2026-06-25 15:31 ACCEPT [MarketWatch] "Consumer spending rises again — and now cheaper gas is on the way" | kw:gas,inflation
 2026-06-25 15:31 ACCEPT [BBC Business] "Apple hikes MacBook and iPad prices, blaming rising chip costs" | kw:rice
 2026-06-25 15:31 ACCEPT [BBC Business] "Trump accuses big oil firms of price-gouging drivers" | kw:oil,fuel,rice
 2026-06-25 15:31 ACCEPT [BBC Business] "Do you know your 'sweat score'? The rise of hydration tech" | kw:flood
@@ -20001,3 +19998,25 @@
 2026-07-31 06:01 ACCEPT [Google News KL] "Why Is Gold Price Down Today? XAU/USD Slips to $4,077 as BoJ Holds Rat" | kw:gold,rice,boj
 2026-07-31 06:01 ACCEPT [Google News CB] "USD/JPY outlook: BOJ holds steady as intervention risk builds - forex." | kw:boj
 2026-07-31 06:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 06:30 ACCEPT [Al Jazeera] "How US Senate Russia sanctions could spell 100% tariffs for India, Chi" | kw:tariff,sanction
+2026-07-31 06:30 ACCEPT [OilPrice.com] "Caspian Oil Pipeline Shuts Down Again After Black Sea Drone Attack" | kw:oil
+2026-07-31 06:31 ACCEPT [Google News HH] "Commodities: Oil Slips As More Crude Flows Out Of Persian Gulf - Seeki" | kw:oil,crude,commodities
+2026-07-31 06:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 31 - FXStreet" | kw:gold,rice
+2026-07-31 06:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D19 Aug '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-07-31 06:31 ACCEPT [Google News HH] "Crude oil fell, base metals mostly rose, SHFE tin and palladium rose n" | kw:oil,crude
+2026-07-31 06:31 ACCEPT [Google News HH] "Nigeria is home to the world's largest single-train crude oil refinery" | kw:oil,crude
+2026-07-31 06:31 ACCEPT [Google News HH] "Kazakhstan in talks with Russia on Russian crude oil refining at local" | kw:oil,crude
+2026-07-31 06:31 ACCEPT [Google News KL] "Gold price in Philippines: Rates on July 31 - FXStreet" | kw:gold,rice
+2026-07-31 06:31 ACCEPT [Google News KL] "Gold (XAU/USD) & Silver Price Forecast: World Gold Council Reports Str" | kw:gold,silver,rice
+2026-07-31 06:31 ACCEPT [Google News KL] "DAILY: Rising macro uncertainty lea... - Mysteel" | kw:lng,steel
+2026-07-31 06:31 ACCEPT [Google News KL] "Silver Price For Today, 30 July 2026 - forbes.com" | kw:silver,rice
+2026-07-31 06:31 ACCEPT [Google News KL] "A weakening US dollar supported copper prices, and overnight copper pr" | kw:copper,rice
+2026-07-31 06:31 ACCEPT [Google News CB] "Bank of Japan Holds Interest Rate Steady at 1% as Expected - Bloomberg" | kw:interest rate,bank of japan
+2026-07-31 06:31 ACCEPT [Google News CB] "Strategists Await Ueda Guidance After BOJ’s Steady Decision - Bloomber" | kw:boj
+2026-07-31 06:31 ACCEPT [Google News CB] "Stocks surge, yen awaits BOJ presser after intervention boost - Reuter" | kw:boj
+2026-07-31 06:31 ACCEPT [Google News CB] "BOJ Holds Rate Steady With Upward Revision to Economic Outlook - Bloom" | kw:boj
+2026-07-31 06:31 ACCEPT [Google News CB] "Watch BOJ Holds Rate Steady And Upgrades View on Economy - Bloomberg.c" | kw:boj
+2026-07-31 06:31 ACCEPT [Google News CB] "USD/JPY outlook: BOJ holds steady as intervention risk builds - FOREX." | kw:gdp,boj
+2026-07-31 06:31 ACCEPT [Google News CB] "Why The Fed Isn’t Going To Contain Real Inflation - forbes.com" | kw:inflation
+2026-07-31 06:31 ACCEPT [Google News CB] "Kevin Warsh says Fed will 'deliver price stability' after decision to " | kw:rice
+2026-07-31 06:31 SKIP_MORNING already_sent date=2026-07-31
