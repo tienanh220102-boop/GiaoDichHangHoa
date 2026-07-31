@@ -1,15 +1,3 @@
-2026-06-25 11:31 ACCEPT [Google News HH] "Price to earnings forward of Davis Commodities Limited – OTC:DTCKF - T" | kw:rice,commodities
-2026-06-25 11:31 ACCEPT [Google News HH] "Iraq says reports of possible OPEC exit do not reflect official positi" | kw:opec
-2026-06-25 11:31 ACCEPT [Google News HH] "Oil touches pre-war levels on rising Middle East supply - Reuters" | kw:oil
-2026-06-25 11:31 ACCEPT [Google News HH] "Iraq signals possible OPEC withdrawal if quotas remain unchanged - Cal" | kw:opec
-2026-06-25 11:31 ACCEPT [Google News KL] "Why gold prices fell below $4,000 - Axios" | kw:gold,rice
-2026-06-25 11:31 ACCEPT [Google News KL] "Hemlo Mining Corp. Announces Increased Mineral Resource Estimate for t" | kw:gold
-2026-06-25 11:31 ACCEPT [Google News KL] "Gold price falls back to the 3,000s range and retraces 30% in half a y" | kw:gold,rice
-2026-06-25 11:31 ACCEPT [Google News NS] "World soybean prices are putting pressure on the Ukrainian market: pro" | kw:soybean,rice
-2026-06-25 11:31 ACCEPT [Google News CB] "Banking Analytics: U.S. Banks Increase Treasury Securities Holdings in" | kw:treasury,federal reserve
-2026-06-25 11:31 ACCEPT [Google News CB] "Oil and gas activity picks up despite Iran uncertainty, Dallas Fed say" | kw:oil,gas
-2026-06-25 11:31 ACCEPT [Google News CB] "With No Interest Rate Cut, Should You Sell SoFi Stock? - The Motley Fo" | kw:interest rate,rate cut
-2026-06-25 11:31 ACCEPT [Google News CB] "Gold lingers near 7-month low as Fed hike bets boost dollar - Reuters" | kw:gold
 2026-06-25 11:31 ACCEPT [Google News CB] "Why Is the Federal Reserve Paying Banks Billions in Interest? - The Da" | kw:federal reserve
 2026-06-25 11:31 ACCEPT [Google News CB] "BOJ to Raise Rates Every Few Months: Policymaker Tamura - nippon.com" | kw:boj
 2026-06-25 11:31 ACCEPT [Google News CB] "With No Interest Rate Cut, Should You Sell SoFi Stock? - Yahoo Finance" | kw:interest rate,rate cut
@@ -20010,3 +19998,12 @@
 2026-07-31 01:31 ACCEPT [Google News CB] "Why the Fed and the Bank of England Drew Opposite Market Verdicts - St" | kw:bank of england
 2026-07-31 01:31 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
 2026-07-31 01:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 02:01 ACCEPT [Google News HH] "Crude Oil Forecast: US-Iran Pause Drives -7% WTI Drop - Will it Revers" | kw:oil,crude,wti
+2026-07-31 02:01 ACCEPT [Google News KL] "Freeport-McMoRan (FCX) Lifted Sales Guidance, Is The Copper Upside Alr" | kw:copper,rice
+2026-07-31 02:01 ACCEPT [Google News KL] "Geopolitical Risks Repeatedly Overlap with Persistent Supply Tightness" | kw:copper,rice
+2026-07-31 02:01 ACCEPT [Google News NS] "Wheat futures surge on tight supplies, drought concerns - Farm Progres" | kw:wheat,drought
+2026-07-31 02:01 ACCEPT [Google News CB] "Gold on track to end four-month slump as investors weigh Fed signals -" | kw:gold
+2026-07-31 02:01 ACCEPT [Google News CB] "Why the Fed and the Bank of England Drew Opposite Market Verdicts - St" | kw:bank of england
+2026-07-31 02:01 ACCEPT [Google News CB] "Can the Bank of Japan reinforce the Japanese Yen’s intervention-led re" | kw:bank of japan
+2026-07-31 02:01 ACCEPT [Google News CB] "Q2 GDP and June Inflation Support September Fed Hold - The Conference " | kw:inflation,gdp
+2026-07-31 02:01 SKIP_MORNING already_sent date=2026-07-31
