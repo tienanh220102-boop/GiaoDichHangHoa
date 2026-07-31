@@ -1,22 +1,3 @@
-2026-06-26 04:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 05:01 ACCEPT [OilPrice.com] "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds" | kw:oil,crude,brent
-2026-06-26 05:01 ACCEPT [Google News HH] "Crude Oil WTI Futures Chart - Investing.com" | kw:oil,crude,wti
-2026-06-26 05:01 ACCEPT [Google News HH] "Crude Oil WTI Futures Technical Analysis - Investing.com" | kw:oil,crude,wti
-2026-06-26 05:01 ACCEPT [Google News HH] "Gold price in India: Rates on June 26 - FXStreet" | kw:gold,rice
-2026-06-26 05:01 ACCEPT [Google News HH] "Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of " | kw:oil,crude,rice
-2026-06-26 05:01 ACCEPT [Google News KL] "Gold and Silver Price Forecast: PCE Data Triggers Rebound from Support" | kw:gold,silver,rice
-2026-06-26 05:01 ACCEPT [Google News KL] "Why Silver is exposed to a fresh downside leg below $55.60? - FXStreet" | kw:silver
-2026-06-26 05:01 ACCEPT [Google News KL] "Why Is Silver Price Dropping While Its Deficit Hit a Record - EBC Fina" | kw:silver,rice
-2026-06-26 05:01 ACCEPT [Google News NS] "US 2026 corn crop off to good start as farmers weigh fertilizer costs," | kw:corn,rice
-2026-06-26 05:01 ACCEPT [Google News NS] "Corn Futures (CORN-F) Is up 2.17% on Jun 26: Why It Happened - Trading" | kw:corn
-2026-06-26 05:01 ACCEPT [Google News CB] "Outlook for Fed interest rates shifts in a hawkish direction - Financi" | kw:interest rate
-2026-06-26 05:01 ACCEPT [Google News CB] "Gold poised for fourth weekly loss on hawkish Fed bets - Reuters" | kw:gold
-2026-06-26 05:01 ACCEPT [Google News CB] "Bitcoin, Ethereum, XRP, Dogecoin Slump As Fed's Favourite Inflation Ba" | kw:inflation
-2026-06-26 05:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 05:31 ACCEPT [Google News HH] "Gold price in Philippines: Rates on June 26 - FXStreet" | kw:gold,rice
-2026-06-26 05:31 ACCEPT [Google News HH] "OPEC Losing Control—Will Oil Prices Plummet? - Moomoo" | kw:oil,opec,rice
-2026-06-26 05:31 ACCEPT [Google News HH] "OPEC sees oil demand rising to 124 million bpd by 2050 despite EV grow" | kw:oil,opec,wti
-2026-06-26 05:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Gold Retests $4,010 as Silver B" | kw:gold,silver,rice
 2026-06-26 05:31 ACCEPT [Google News KL] "Copper soars but smelters can't bank on it to survive - Reuters" | kw:copper
 2026-06-26 05:31 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On June 26, nickel prices fell sharply, and" | kw:nickel,rice
 2026-06-26 05:31 ACCEPT [Google News KL] "Macquarie: Lowers year-end gold price forecast to $4,300, expects gold" | kw:gold,rice
@@ -20017,3 +19998,26 @@
 2026-07-31 14:31 ACCEPT [Google News CB] "Lawler: Update on the GSEs: Agency MBS Holdings Decline, Interest Rate" | kw:interest rate
 2026-07-31 14:31 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 14:31 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 15:01 ACCEPT [OilPrice.com] "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in" | kw:oil,crude
+2026-07-31 15:01 ACCEPT [Google News HH] "UAE to overhaul how it prices all crude oil after big swings - Transpo" | kw:oil,crude,rice
+2026-07-31 15:01 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D27 Jul '26 Futures Price History - ba" | kw:oil,crude,rice
+2026-07-31 15:01 ACCEPT [Google News HH] "Forecast update for crude oil -31-07-2026 - economies.com" | kw:oil,crude
+2026-07-31 15:01 ACCEPT [Google News KL] "Silver Price Analysis – Silver Stalls at $60 Resistance as Dollar Gain" | kw:silver,rice
+2026-07-31 15:01 ACCEPT [Google News KL] "Best 5 Gold Stocks for August 2026 - dailyforex.com" | kw:gold
+2026-07-31 15:01 ACCEPT [Google News KL] "Gold Price Regains Its Positive Momentum – Analysis – 31-07-2026 - eco" | kw:gold,rice
+2026-07-31 15:01 ACCEPT [Google News KL] "Copper Price Shows No Change – Forecast today – 31-7-2026 - economies." | kw:copper,rice
+2026-07-31 15:01 ACCEPT [Google News NS] "Wheat Futures Rally on Black Sea Escalation as Market Tests Key Resist" | kw:wheat
+2026-07-31 15:01 ACCEPT [Google News NS] "PNW Wheat & Barley Barge Shipments: Weekly and Crop Year Update (July " | kw:wheat
+2026-07-31 15:01 ACCEPT [Google News NS] "Black Sea tensions lift Turkish corn prices ahead of harvest - spgloba" | kw:lng,corn,rice
+2026-07-31 15:01 ACCEPT [Google News NS] "CBOT review: Soybeans and corn down, wheat up - producer.com" | kw:wheat,corn,soybean
+2026-07-31 15:01 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake | CNN Busi" | kw:interest rate
+2026-07-31 15:01 ACCEPT [Google News CB] "Fed's Hammack says tighter monetary policy needed to cool inflation - " | kw:inflation,monetary policy
+2026-07-31 15:01 ACCEPT [Google News CB] "BOJ nods to chance of early rate hike as Tokyo props up yen - reuters." | kw:rate hike,boj
+2026-07-31 15:01 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market's 're" | kw:inflation
+2026-07-31 15:01 ACCEPT [Google News CB] "US Treasury yield curve 'twist' reflects view Fed may not hike again -" | kw:lng,treasury
+2026-07-31 15:01 ACCEPT [Google News CB] "Indian central bank's FX forward book shrinks slightly to $103.3 billi" | kw:central bank
+2026-07-31 15:01 ACCEPT [Google News CB] "Wars, cyberattacks could challenge euro zone banks' fx liquidity, ECB " | kw:ecb
+2026-07-31 15:01 ACCEPT [Google News CB] "Oil refining margins have added to Europe's fuel price rise, ECB blog " | kw:oil,fuel,rice
+2026-07-31 15:01 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
+2026-07-31 15:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 15:01 SKIP_EVENING already_sent date=2026-07-31
