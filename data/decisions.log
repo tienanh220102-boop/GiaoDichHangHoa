@@ -1,8 +1,3 @@
-2026-06-26 13:31 ACCEPT [Google News CB] "Outlook for Fed interest rates shifts in a hawkish direction - Financi" | kw:interest rate
-2026-06-26 13:31 ACCEPT [Google News CB] "Core Inflation's Persistence Raises Questions For The Fed’s Strategy -" | kw:inflation
-2026-06-26 13:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 13:31 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 14:01 ACCEPT [MarketWatch] "A world rejecting OPEC’s control could usher in sub-$50-a-barrel oil p" | kw:oil,opec,rice
 2026-06-26 14:01 ACCEPT [BBC Business] "What's happening to petrol prices now oil is back to pre-Iran war leve" | kw:oil,fuel,rice
 2026-06-26 14:01 ACCEPT [CNBC Commodities] "Warsh reaches within the Fed for latest advisory appointments" | kw:central bank,monetary policy
 2026-06-26 14:01 ACCEPT [OilPrice.com] "What Happened to Big Oil's Green Pivot?" | kw:oil
@@ -20003,3 +19998,9 @@
 2026-07-31 23:31 ACCEPT [Google News KL] "HL Stock Trades Sideways As Financial Strength Supports Silver Play - " | kw:silver
 2026-07-31 23:31 ACCEPT [Google News CB] "Fed dissenters warn inflation could become entrenched without monetary" | kw:inflation,monetary policy,tightening
 2026-07-31 23:31 ACCEPT [Google News CB] "Bond sell-off sent warning on Federal Reserve’s credibility, says top " | kw:central bank,federal reserve
+2026-07-31 23:54 ACCEPT [Al Jazeera] "US proposes cuts to Colorado River use for Arizona, California and Nev" | kw:shortage
+2026-07-31 23:54 ACCEPT [Google News HH] "Hormuz Reopening Could be OPEC’s Undoing: Bousso - energynow.com" | kw:opec
+2026-07-31 23:54 ACCEPT [Google News HH] "Global Commodities Roundup: Market Talk - moomoo.com" | kw:commodities
+2026-07-31 23:54 ACCEPT [Google News HH] "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel - oilpr" | kw:oil,fuel,wti
+2026-07-31 23:54 ACCEPT [Google News KL] "Gold Prices Stall Near $4,000, but Miners’ Record Cash Flow Tells a Di" | kw:gold,rice
+2026-07-31 23:54 ACCEPT [Google News NS] "Weather pushes spring wheat prices in late July - AgUpdate" | kw:wheat,rice
