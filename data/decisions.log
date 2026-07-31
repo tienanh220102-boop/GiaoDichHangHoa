@@ -1,14 +1,3 @@
-2026-06-26 13:01 ACCEPT [Al Jazeera] "Ukraine decimates Russian logistics, bringing chaos to Crimea" | kw:oil
-2026-06-26 13:01 ACCEPT [Al Jazeera] "World aids rescue effort as Venezuela quake death toll hits 589" | kw:flood
-2026-06-26 13:01 ACCEPT [OilPrice.com] "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens" | kw:oil,crude,rice
-2026-06-26 13:01 ACCEPT [Google News HH] "In the short term, ferrous commodities will continue to consolidate ne" | kw:steel,commodities
-2026-06-26 13:01 ACCEPT [Google News KL] "Current price of silver as of Friday, June 26, 2026 - Fortune" | kw:silver,rice
-2026-06-26 13:01 ACCEPT [Google News KL] "Silver Price Forecast: RSI stays in oversold territory as XAG/USD stru" | kw:silver,rice
-2026-06-26 13:01 ACCEPT [Google News KL] "OTC Markets Group Welcomes Nevada King Gold Corp. to OTCQX - Investing" | kw:gold
-2026-06-26 13:01 ACCEPT [Google News KL] "Has gold bottomed out? Three key takeaways for the second half of 2026" | kw:gold
-2026-06-26 13:01 ACCEPT [RT Business] "US issues energy threat to EU" | kw:gas,lng
-2026-06-26 13:01 ACCEPT [Google News CB] "Gold heads for fourth weekly drop as traders reassess Fed rate outlook" | kw:gold,fed rate
-2026-06-26 13:01 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 13:02 SENT_EVENING articles=20 date=2026-06-26 force=False
 2026-06-26 13:02 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
 2026-06-26 13:02 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
@@ -20009,3 +19998,13 @@
 2026-07-31 19:31 ACCEPT [Google News CB] "Why Fed dissenters are supporting rate hikes - Los Angeles Times" | kw:rate hike
 2026-07-31 19:31 ACCEPT [Google News CB] "Scoop up more yield amid Fed rate uncertainty with these portfolio twe" | kw:fed rate
 2026-07-31 19:31 ACCEPT [Google News CB] "Three Fed dissenters say rate hike is needed to curb inflation - Yahoo" | kw:inflation,rate hike
+2026-07-31 20:01 ACCEPT [OilPrice.com] "Abqaiq Is a Warning That Oil Markets May Be Misreading" | kw:oil
+2026-07-31 20:01 ACCEPT [Google News HH] "U.A.E. Changes How It Prices Its Crude Oil Grades - wsj.com" | kw:oil,crude,rice
+2026-07-31 20:01 ACCEPT [Google News HH] "US Equity Indexes Rise Amid Amazon-Fueled Gains in Consumer Discretion" | kw:oil,crude,fuel
+2026-07-31 20:01 ACCEPT [Google News KL] "Hawkish Fed Hold Caps Gold's Rally as War Risk Supports $4,050 - Gold " | kw:gold,rice
+2026-07-31 20:01 ACCEPT [Google News KL] "Gold slides as US yields surge, keeping $4,100 out of reach - FXStreet" | kw:gold
+2026-07-31 20:01 ACCEPT [Google News NS] "Ukrainian corn supply at the start of the season to be the largest in " | kw:corn
+2026-07-31 20:01 ACCEPT [Google News NS] "Wheat markets gain momentum as Black Sea war heats up - The Western Pr" | kw:wheat
+2026-07-31 20:01 ACCEPT [Google News NS] "Feed corn prices in Ukraine continue to decline – APK-Inform - apk-inf" | kw:corn,rice
+2026-07-31 20:01 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
+2026-07-31 20:01 ACCEPT [Google News CB] "Three Fed Officials Say Inflation Should Have Prompted Higher Rates - " | kw:inflation
