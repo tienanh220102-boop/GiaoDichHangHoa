@@ -1,33 +1,3 @@
-2026-06-26 09:01 ACCEPT [Google News NS] "Chinese State Buyers Take US Soybeans; Private Traders Turn to Brazil " | kw:soybean
-2026-06-26 09:01 ACCEPT [Google News NS] "USDA corn and soybean projections for 2026/2027 – June 2026 - Swine ne" | kw:corn,soybean
-2026-06-26 09:01 ACCEPT [Google News CB] "ECB softens governance expectations for banks to ease burden - Reuters" | kw:ecb
-2026-06-26 09:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 09:31 ACCEPT [The Guardian Biz] "As billionaires’ wealth soars, US workers struggle: ‘The rich keep get" | kw:rice
-2026-06-26 09:31 ACCEPT [Al Jazeera] "World aids rescue effort as Venezuela quake death toll hits 235" | kw:flood
-2026-06-26 09:31 ACCEPT [OilPrice.com] "Qatar's LNG Recovery Picks Up Speed as Tankers Mass at Ras Laffan" | kw:gas,lng
-2026-06-26 09:31 ACCEPT [Google News HH] "U.S. Crude Oil Inventories Drop for 11th Straight Week - Industrial In" | kw:oil,crude
-2026-06-26 09:31 ACCEPT [Google News HH] "Qatar offers crude oil for July-August loading via tender, sources say" | kw:oil,crude
-2026-06-26 09:31 ACCEPT [Google News HH] "Overseas Research Selection Daily Report 0626 | Goldman Sachs: Gulf cr" | kw:oil,crude,gold
-2026-06-26 09:31 ACCEPT [Google News KL] "Why Has Gold Fallen So Much? - Robin J Brooks | Substack" | kw:gold
-2026-06-26 09:31 ACCEPT [Google News KL] "Why Eldorado Gold Stock Was Diving This Week - The Motley Fool" | kw:gold
-2026-06-26 09:31 ACCEPT [Google News KL] "Hawkish Fed Meets Geopolitical Cooling, Copper Prices Pull Back to Sev" | kw:copper,rice
-2026-06-26 09:31 ACCEPT [Google News KL] "Reasons for the decline in gold prices: Rising real interest rates in " | kw:gold,rice,interest rate
-2026-06-26 09:31 ACCEPT [Google News KL] "Gold Slips for Fourth Week as Stronger Dollar and Fed Rate Hikes Loom " | kw:gold,fed rate,rate hike
-2026-06-26 09:31 ACCEPT [Google News KL] "Mohamed El-Erian Says Gold Needs One Key Buyer To Break Out Of Its $4," | kw:gold
-2026-06-26 09:31 ACCEPT [Google News CB] "ECB to integrate non-financial credit claim portfolios into collateral" | kw:ecb
-2026-06-26 09:31 ACCEPT [Google News CB] "Traders Pare ECB Rate Bets to Below Quarter-Point Hike in 2026 - Bloom" | kw:ecb
-2026-06-26 09:31 ACCEPT [Google News CB] "Inflation rises to new 3-year high - Northwest Arkansas Democrat-Gazet" | kw:inflation
-2026-06-26 09:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 10:01 ACCEPT [CNBC Economy] "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – " | kw:shipping
-2026-06-26 10:01 ACCEPT [OilPrice.com] "Qatar Offers First Crude Loadings to Buyers Since War Began" | kw:crude
-2026-06-26 10:01 ACCEPT [Google News HH] "Oil slides 2% as markets look past fresh Iran tensions and focus on su" | kw:oil
-2026-06-26 10:01 ACCEPT [Google News HH] "Brent crude oil price on June 29, 2026 at 5:00 PM EDT - Robinhood" | kw:oil,crude,brent
-2026-06-26 10:01 ACCEPT [Google News HH] "West Texas Intermediate Crude Oil Futures Drop 3.5% to $69.43, Brent F" | kw:oil,crude,brent
-2026-06-26 10:01 ACCEPT [Google News KL] "From Industrial Metal to National Asset: The Case for Copper in a Geop" | kw:copper
-2026-06-26 10:01 ACCEPT [Google News KL] "Silver price today: rises on June 26 - FXStreet" | kw:silver,rice
-2026-06-26 10:01 ACCEPT [Google News KL] "Institution: The Federal Reserve will not take any action this year an" | kw:gold,rice,federal reserve
-2026-06-26 10:01 ACCEPT [Google News KL] "Rising copper prices fail to boost smelter profits - mezha.net" | kw:copper,rice
-2026-06-26 10:01 ACCEPT [Google News KL] "Gold prices rise - VnExpress International" | kw:gold,rice
 2026-06-26 10:01 ACCEPT [Google News CB] "ECB to scrap 40 regulatory guides; Cathay United Bank chair quits afte" | kw:ecb
 2026-06-26 10:01 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 10:15 ACCEPT [Al Jazeera] "Russia reports downing 660 Ukrainian drones, denies seeking Belarus wa" | kw:fuel,shortage
@@ -20028,3 +19998,18 @@
 2026-07-31 16:31 ACCEPT [Google News CB] "Here's why the 3 dissenters on the Fed wanted to raise interest rates " | kw:interest rate
 2026-07-31 16:31 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 16:31 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 17:01 ACCEPT [CNBC Economy] "As Warsh’s Fed faces pressure to act on inflation, these indicators sh" | kw:inflation
+2026-07-31 17:01 ACCEPT [Google News HH] "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment - Ene" | kw:oil,opec
+2026-07-31 17:01 ACCEPT [Google News HH] "Indian cabinet approves $8.8B to expand offshore oil and gas explorati" | kw:oil,gas
+2026-07-31 17:01 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says - " | kw:oil,crude
+2026-07-31 17:01 ACCEPT [Google News KL] "Silver Price Outlook: Cooler PCE and Strong Positioning Target $63-$68" | kw:silver,rice
+2026-07-31 17:01 ACCEPT [Google News KL] "Silver Mining M&A Booms: US$14.3B Surge in Deals - investingnews.com" | kw:silver
+2026-07-31 17:01 ACCEPT [Google News KL] "Silver Price Today on July 31, 2026 - USA Today" | kw:silver,rice
+2026-07-31 17:01 ACCEPT [Google News KL] "La Parrilla Silver Mine Ships First Concentrates to Samsung - Streetwi" | kw:silver
+2026-07-31 17:01 ACCEPT [Google News KL] "DAILY: Rising macro uncertainty lea... - mysteel.net" | kw:lng,steel
+2026-07-31 17:01 ACCEPT [Google News NS] "Mysteel soybean and relatives marke... - mysteel.net" | kw:steel,soybean
+2026-07-31 17:01 ACCEPT [Google News NS] "Mysteel China edible oils market da... - mysteel.net" | kw:oil,steel
+2026-07-31 17:01 ACCEPT [Google News CB] "Statement from Dallas Fed President Lorie Logan on FOMC dissent - dall" | kw:fomc
+2026-07-31 17:01 ACCEPT [Google News CB] "AI and Productivity: What Firms Are Saying on Earnings Calls - Federal" | kw:federal reserve
+2026-07-31 17:01 ACCEPT [Google News CB] "Kevin Warsh's first big press conference shines a spotlight on confusi" | kw:inflation
+2026-07-31 17:01 ACCEPT [Google News CB] "Here's why the 3 dissenters on the Fed wanted to raise interest rates " | kw:interest rate
