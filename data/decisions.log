@@ -1,8 +1,3 @@
-2026-06-26 13:31 ACCEPT [RT Business] "Gas at $4: Understanding America’s strange obsession" | kw:gas,fuel,rice
-2026-06-26 13:31 ACCEPT [RT Business] "Potato futures are soaring – should the world be worried?" | kw:fuel,rice
-2026-06-26 13:31 ACCEPT [RT Business] "Netflix sued for spying on children" | kw:harvest
-2026-06-26 13:31 ACCEPT [RT Business] "Oil prices now determined by Trump’s mood – Fico" | kw:oil,rice
-2026-06-26 13:31 ACCEPT [ECB Press] "ECB Consumer Expectations Survey results – May 2026" | kw:ecb
 2026-06-26 13:31 ACCEPT [ECB Press] "ECB to integrate non-financial credit claim portfolios into general co" | kw:ecb
 2026-06-26 13:31 ACCEPT [Google News CB] "Market Minute: What does the Dallas Fed trimmed mean tell us about inf" | kw:inflation
 2026-06-26 13:31 ACCEPT [Google News CB] "Fed likely to 'stay put' on rates in 2026 after hot inflation data - Y" | kw:inflation
@@ -20003,3 +19998,7 @@
 2026-07-31 22:31 ACCEPT [Google News KL] "Wall Street trisected on gold’s near-term prospects, Main Street bulls" | kw:gold
 2026-07-31 22:31 ACCEPT [Google News NS] "Wheat, soybeans, corn see more losses to end the week - Brownfield Ag " | kw:wheat,corn,soybean
 2026-07-31 22:31 ACCEPT [Google News NS] "Feed Grain Weekly: South Alta. prices plunge as harvest begins - The W" | kw:rice,harvest
+2026-07-31 22:52 ACCEPT [Google News HH] "Crude Oil Shrugs Off the Selloff as Barrels Vanish - FOREX.com" | kw:oil,crude
+2026-07-31 22:52 ACCEPT [Google News HH] "EIA: China draws crude stocks as imports slide 32% - Oil & Gas Journal" | kw:oil,crude,gas
+2026-07-31 22:52 ACCEPT [Google News NS] "Courtney Knupp named new CEO of United Soybean Board - farmprogress.co" | kw:soybean
+2026-07-31 22:52 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - The Western Producer" | kw:rice
