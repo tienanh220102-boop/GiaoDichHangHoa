@@ -1,10 +1,3 @@
-2026-06-26 10:31 ACCEPT [Google News CB] "Climate risks 'no longer peripheral' to inflation and monetary policy " | kw:inflation,monetary policy
-2026-06-26 10:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 11:01 ACCEPT [OilPrice.com] "China’s Crude Imports Set to Hit Weakest Level Since 2016" | kw:oil,crude
-2026-06-26 11:01 ACCEPT [NASDAQ Commod] "Gold Headed For Fourth Weekly Loss On Rate Hike Concerns" | kw:gold,rate hike
-2026-06-26 11:01 ACCEPT [NASDAQ Commod] "Oil Prices Decline Despite Vessel Attack Near Oman" | kw:oil,rice,easing
-2026-06-26 11:01 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD holds immediate support below $4,000 as U" | kw:gold,rice
-2026-06-26 11:01 ACCEPT [Google News HH] "India Gold Price Today: Yellow Metal Declines, Bitcoin World Data Show" | kw:gold,rice
 2026-06-26 11:01 ACCEPT [Google News HH] "Baghdad Called OPEC’s Bluff on the Worst Possible Day - houseofsaud.co" | kw:opec
 2026-06-26 11:01 ACCEPT [Google News KL] "Why Hecla Mining (HL) Is Down 5.1% After Silver Falls Below US$60 An O" | kw:silver
 2026-06-26 11:01 ACCEPT [Google News KL] "Gold price drops below 880 yuan, gold rush returns to jewelry stores! " | kw:gold,rice
@@ -20005,3 +19998,10 @@
 2026-07-31 17:21 ACCEPT [Google News KL] "Storms and global supply shortages push copper prices toward new recor" | kw:copper,rice,shortage
 2026-07-31 17:21 ACCEPT [Google News CB] "As Warsh’s Fed faces pressure to act on inflation, these indicators sh" | kw:inflation,gdp
 2026-07-31 17:21 ACCEPT [Google News CB] "More on the Fed’s New Game of Monetary Policy Football - Bloomberg.com" | kw:monetary policy
+2026-07-31 17:31 ACCEPT [Google News HH] "OPEC Owes Its Existence To The Texas Railroad Commission - jalopnik.co" | kw:opec
+2026-07-31 17:31 ACCEPT [Google News HH] "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - " | kw:oil,crude,brent
+2026-07-31 17:31 ACCEPT [Google News KL] "Gold Demand Trends: Q2 2026 - Seeking Alpha" | kw:gold
+2026-07-31 17:31 ACCEPT [Google News KL] "La Parrilla Silver Mine Ships First Concentrates to Samsung - streetwi" | kw:silver
+2026-07-31 17:31 ACCEPT [Google News NS] "Is the Corn Rally Over or Just Getting Started? - agriculture.com" | kw:corn
+2026-07-31 17:31 ACCEPT [Google News NS] "Wheat markets gain momentum as Black Sea war heats up - producer.com" | kw:wheat
+2026-07-31 17:31 ACCEPT [Google News NS] "Corn Down 3¾¢ | Friday, July 31, 2026 - agriculture.com" | kw:wti,corn
