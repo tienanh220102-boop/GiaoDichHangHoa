@@ -1,17 +1,3 @@
-2026-06-26 07:31 ACCEPT [Google News HH] "Russia to Send Crude Oil and Fuel to Cuba soon, Izvestia Reports - Ene" | kw:oil,crude,fuel
-2026-06-26 07:31 ACCEPT [Google News HH] "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - Energ" | kw:oil,opec
-2026-06-26 07:31 ACCEPT [Google News KL] "Wall Street is abandoning its most bullish gold calls after a sharp se" | kw:gold
-2026-06-26 07:31 ACCEPT [Google News KL] "Silver price falls to $57 an ounce as downward trend intensifies - pv " | kw:silver,rice
-2026-06-26 07:31 ACCEPT [Google News KL] "Gold Forecast 26/06: Dollar Strength Pressures XAU (Video) - DailyFore" | kw:gold
-2026-06-26 07:31 ACCEPT [Google News CB] "ECB streamlines supervisory guidance to improve clarity and transparen" | kw:ecb
-2026-06-26 07:31 ACCEPT [Google News CB] "China's central bank urges banks to boost lending as demand remains we" | kw:central bank
-2026-06-26 07:31 ACCEPT [Google News CB] "ECB to Scrap 40 Supervisory Publications to Banks to Cut Burden - Bloo" | kw:ecb
-2026-06-26 07:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 08:01 ACCEPT [Google News HH] "Iraq to consider all options if OPEC quota is not raised, has weighed " | kw:oil,opec,gas
-2026-06-26 08:01 ACCEPT [Google News HH] "A new fault line in OPEC: Why Iraq wants a bigger slice of the oil pie" | kw:oil,opec
-2026-06-26 08:01 ACCEPT [Google News HH] "Palm oil prices fell on Thursday following a drop in crude oil prices " | kw:oil,crude,rice
-2026-06-26 08:01 ACCEPT [Google News KL] "Silver Price Forecasts: XAG/USD edges up, nearing $58 as the US Dollar" | kw:silver,rice
-2026-06-26 08:01 ACCEPT [Google News KL] "Gold Price Forecast: PCE Data Weakens Fed Rate Hike Expectations, Can " | kw:gold,rice,fed rate
 2026-06-26 08:01 ACCEPT [Google News NS] "Why Black Sea wheat prices remain elevated despite a strong crop outlo" | kw:wheat,rice
 2026-06-26 08:01 ACCEPT [ECB Press] "ECB Consumer Expectations Survey results – May 2026" | kw:ecb
 2026-06-26 08:01 ACCEPT [Google News CB] "Philippine Central Bank Hikes Rates to Get Inflation Back on Target - " | kw:inflation,central bank
@@ -20012,3 +19998,6 @@
 2026-07-31 15:31 ACCEPT [Google News CB] "Fed's Hammack says tighter monetary policy needed to cool inflation - " | kw:inflation,monetary policy
 2026-07-31 15:31 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 15:31 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 15:35 ACCEPT [Google News HH] "Crude Oil Shrugs Off the Selloff as Barrels Vanish - FOREX.com" | kw:oil,crude
+2026-07-31 15:35 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 15:35 SKIP_EVENING already_sent date=2026-07-31
