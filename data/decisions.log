@@ -1,16 +1,3 @@
-2026-06-25 15:01 ACCEPT [Google News HH] "Baghdad Urges OPEC to Raise Iraq's Production Quota - Asharq Al-Awsat " | kw:opec
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq Threatens to Exit OPEC - marketscreener.com" | kw:opec
-2026-06-25 15:01 ACCEPT [Google News KL] "Gold Plunge Stalls as China Shuts Retail Trading, Curbs Inflows to Hot" | kw:gold
-2026-06-25 15:01 ACCEPT [Google News NS] "Soybeans Up More Than 9¢ | Thursday, June 25, 2026 - Successful Farmin" | kw:soybean
-2026-06-25 15:01 ACCEPT [Google News NS] "How Record D4 RIN Prices Are Redrawing the Global Soybean Value Chain " | kw:soybean,rice
-2026-06-25 15:01 ACCEPT [Google News NS] "Corn Likely to See Greatest Impact From European Drought - DTN Progres" | kw:corn,drought
-2026-06-25 15:01 ACCEPT [Google News NS] "Satake sustains success - World-Grain.com" | kw:wti
-2026-06-25 15:01 ACCEPT [Google News CB] "Trump wants lower interest rates. Wall Street is now betting they're g" | kw:interest rate
-2026-06-25 15:01 ACCEPT [Google News CB] "Brazil Central Bank Raises Economic Growth Forecast as Stimulus Flows " | kw:central bank
-2026-06-25 15:01 ACCEPT [Google News CB] "ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level - Bloo" | kw:oil,ecb
-2026-06-25 15:01 ACCEPT [Google News CB] "ECB board member floats further rate hikes as bank wary over Iran deal" | kw:rate hike,ecb
-2026-06-25 15:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 15:01 SKIP_EVENING already_sent date=2026-06-25
 2026-06-25 15:31 ACCEPT [MarketWatch] "First-quarter GDP gets big boost, but it’s not really great news" | kw:gdp
 2026-06-25 15:31 ACCEPT [MarketWatch] "Apple’s MacBooks and iPads are getting more expensive as the memory cr" | kw:rice
 2026-06-25 15:31 ACCEPT [MarketWatch] "Consumer spending rises again — and now cheaper gas is on the way" | kw:gas,inflation
@@ -20011,3 +19998,6 @@
 2026-07-31 05:56 ACCEPT [Google News CB] "BOJ stands pat, but should it have hiked? Analyst weighs in on weakeni" | kw:wti,boj
 2026-07-31 05:56 ACCEPT [Google News CB] "Morning Bid: Yen sinks as BOJ holds - and it's the KOSPI's best day - " | kw:boj
 2026-07-31 05:56 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 06:01 ACCEPT [Google News KL] "Why Is Gold Price Down Today? XAU/USD Slips to $4,077 as BoJ Holds Rat" | kw:gold,rice,boj
+2026-07-31 06:01 ACCEPT [Google News CB] "USD/JPY outlook: BOJ holds steady as intervention risk builds - forex." | kw:boj
+2026-07-31 06:01 SKIP_MORNING already_sent date=2026-07-31
