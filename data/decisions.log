@@ -1,11 +1,3 @@
-2026-06-25 19:31 ACCEPT [Google News CB] "Chicago Fed President Goolsbee says inflation is too high, calls Warsh" | kw:inflation
-2026-06-25 19:31 ACCEPT [Google News CB] "Mexico Holds Key Interest Rate at 6.5% After Two Years of Cuts - Bloom" | kw:interest rate
-2026-06-25 19:31 ACCEPT [Google News CB] "Fed’s Goolsbee Sees Glimmers of Hope In Latest Inflation Report - Bloo" | kw:inflation
-2026-06-25 19:31 ACCEPT [Google News CB] "Japan banks hesitate to buy JGBs as BOJ steps back - Nikkei Asia" | kw:boj
-2026-06-25 20:01 ACCEPT [BBC Business] "Apple hikes some prices by nearly 20% while Xbox raises console cost" | kw:rice
-2026-06-25 20:01 ACCEPT [CNBC Commodities] "Chicago Fed President Goolsbee says inflation is too high; Williams se" | kw:rice,inflation,interest rate
-2026-06-25 20:01 ACCEPT [OilPrice.com] "Asia's Crude Buying Spree Is Running Out of Steam" | kw:crude,freight
-2026-06-25 20:01 ACCEPT [Google News HH] "Gold price could struggle through 2026 as it loses safe-haven status t" | kw:gold,rice
 2026-06-25 20:01 ACCEPT [Google News HH] "Deadly earthquakes rock Venezuela, Iraq reportedly threatens OPEC-xit," | kw:opec
 2026-06-25 20:01 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Rebound After Oman Shipping Attack Revives" | kw:oil,crude,shipping
 2026-06-25 20:01 ACCEPT [Google News HH] "Enterprise value to EBIT forward of Davis Commodities Limited – OTC:DT" | kw:commodities
@@ -20006,3 +19998,23 @@
 2026-07-31 10:01 ACCEPT [Google News CB] "Hawkish BOJ Raises the Stakes for Japan and Takaichi - Bloomberg.com" | kw:boj
 2026-07-31 10:01 ACCEPT [Google News CB] "The Federal Reserve's Latest Interest Rate Decision Featured Something" | kw:interest rate,rate decision,federal reserve
 2026-07-31 10:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 10:31 ACCEPT [NASDAQ Commod] "Gold Prices Decline As Fed Uncertainty Weighs" | kw:gold,rice,federal reserve
+2026-07-31 10:31 ACCEPT [NASDAQ Commod] "Oil On Track For Biggest Monthly Gain Since March" | kw:oil,rice
+2026-07-31 10:31 ACCEPT [Google News HH] "Go With The Flow – Major Changes Disrupting Global Crude Oil and Refin" | kw:oil,crude
+2026-07-31 10:31 ACCEPT [Google News HH] "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages - " | kw:oil,crude,fuel
+2026-07-31 10:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on July 31 - fxstreet.com" | kw:gold,rice
+2026-07-31 10:31 ACCEPT [Google News HH] "Crude Oil At Turning Point: What Happens After Trump’s War Power Clock" | kw:oil,crude
+2026-07-31 10:31 ACCEPT [Google News KL] "Silver price today: falls on July 31 - fxstreet.com" | kw:silver,rice
+2026-07-31 10:31 ACCEPT [Google News KL] "Silver price today: Silver falls, according to FXStreet data - TMGM tr" | kw:silver,rice
+2026-07-31 10:31 ACCEPT [Google News KL] "Record Gold Prices and Cost-of-Living Pressures Drive Surge in Online " | kw:gold,rice
+2026-07-31 10:31 ACCEPT [Google News KL] "Canadian copper miner Capstone posts record Q1 adjusted net income to " | kw:copper
+2026-07-31 10:31 ACCEPT [Google News NS] "Kazakhstan looks to Morocco to expand wheat exports across Africa - mi" | kw:wheat
+2026-07-31 10:31 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
+2026-07-31 10:31 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
+2026-07-31 10:31 ACCEPT [Google News CB] "BOJ Keeps September Rate Hike in Play After Hold, FX Action - Bloomber" | kw:rate hike,boj
+2026-07-31 10:31 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market's 're" | kw:inflation
+2026-07-31 10:31 ACCEPT [Google News CB] "Ueda Speech: BoJ Governor discusses policy outlook after the expected " | kw:interest rate,boj
+2026-07-31 10:31 ACCEPT [Google News CB] "BOJ Data Suggest Japan Intervention of About 8.45 Trillion Yen - Bloom" | kw:boj
+2026-07-31 10:31 ACCEPT [Google News CB] "At the Fed, ‘Warsh can suppress dissent only so much,’ over credibilit" | kw:interest rate
+2026-07-31 10:31 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - financ" | kw:boj
+2026-07-31 10:31 SKIP_MORNING already_sent date=2026-07-31
