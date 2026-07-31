@@ -1,11 +1,3 @@
-2026-06-26 02:01 ACCEPT [Google News KL] "Explorer Uncovers High-Grade Gold-Silver Hit at Hokkaido, Japan Projec" | kw:gold,silver
-2026-06-26 02:01 ACCEPT [Google News NS] "Commodity markets daily recap - St Joseph Post" | kw:commodity,gdp
-2026-06-26 02:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 02:31 ACCEPT [Google News HH] "Commodities: Oil Bounces Back After Vessel Hit In Strait Of Hormuz - S" | kw:oil,commodities
-2026-06-26 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: Shipping Security in the Strait of Hormuz Und" | kw:oil,crude,rice
-2026-06-26 02:31 ACCEPT [Google News KL] "Gold Junior Secures Major Non-Dilutive Funding for Tanzania Gold Proje" | kw:lng,gold
-2026-06-26 02:31 ACCEPT [Google News NS] "European corn prices firm as heat wave and euro-dollar rates drive mar" | kw:corn,rice
-2026-06-26 02:31 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 02:33 ACCEPT [Google News KL] "Why is the Global X Copper Miners ETF (COPX) Surging - Kavout | AI" | kw:copper
 2026-06-26 02:33 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 03:01 ACCEPT [Al Jazeera] "Oil prices climb after attack in Strait of Hormuz halts evacuation pla" | kw:oil,crude,brent
@@ -20006,3 +19998,20 @@
 2026-07-31 13:12 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - KTEN" | kw:interest rate
 2026-07-31 13:12 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 13:12 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 13:31 ACCEPT [MarketWatch] "Why 3 Fed dissenters say waiting to raise interest rates could make in" | kw:inflation,interest rate
+2026-07-31 13:31 ACCEPT [Al Jazeera] "The waiting game: Gaza’s CT scan shortage causing worries and worse" | kw:shortage
+2026-07-31 13:31 ACCEPT [OilPrice.com] "Shell Sells Cyprus Gas Stake to MOL for $720 Million" | kw:oil,gas,lng
+2026-07-31 13:31 ACCEPT [Google News HH] "Crude Oil (CLW00) Future Contract Prices & News - Google Finance - Goo" | kw:oil,crude,rice
+2026-07-31 13:31 ACCEPT [Google News HH] "Crude Oil Surges After U.S. Strikes on Iranian Targets - Briefs Financ" | kw:oil,crude
+2026-07-31 13:31 ACCEPT [Google News HH] "Why Is WTI Crude Oil Up Today? Trump Russia Deadline Keeps Oil Above $" | kw:oil,crude,wti
+2026-07-31 13:31 ACCEPT [Google News KL] "Current price of gold as of July 31, 2026 - Fortune" | kw:gold,rice
+2026-07-31 13:31 ACCEPT [Google News KL] "HK expands gold influence as Asia’s demand continues to grow - chinada" | kw:gold
+2026-07-31 13:31 ACCEPT [Google News CB] "Fed's Hammack says tighter monetary policy needed to cool inflation - " | kw:inflation,monetary policy
+2026-07-31 13:31 ACCEPT [Google News CB] "US Treasury yield curve 'twist' reflects view Fed may not hike again -" | kw:lng,treasury
+2026-07-31 13:31 ACCEPT [Google News CB] "Indian central bank's FX forward book shrinks slightly to $103.3 billi" | kw:central bank
+2026-07-31 13:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - CNN" | kw:interest rate
+2026-07-31 13:31 ACCEPT [Google News CB] "Fed dissenters speak: Why they backed higher interest rates - MarketWa" | kw:interest rate
+2026-07-31 13:31 ACCEPT [Google News CB] "Federal Reserve rate dissenters warn of challenges in taming inflation" | kw:inflation,federal reserve
+2026-07-31 13:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - KWWL" | kw:interest rate
+2026-07-31 13:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 13:31 SKIP_EVENING already_sent date=2026-07-31
