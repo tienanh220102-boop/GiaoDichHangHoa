@@ -1,10 +1,3 @@
-2026-06-25 10:31 ACCEPT [Google News HH] "Top Iraqi official signals potential OPEC withdrawal amid dispute over" | kw:opec
-2026-06-25 10:31 ACCEPT [Google News HH] "Iraq Oil Ministry warns of OPEC exit over production quota - Shafaq Ne" | kw:oil,opec
-2026-06-25 10:31 ACCEPT [Google News HH] "Iraq studies OPEC exit to boost oil output - Shafaq News | Latest brea" | kw:oil,opec
-2026-06-25 10:31 ACCEPT [Google News KL] "Gold hovers around $4,000, silver holds below $60 — has the shimmer wo" | kw:gold,silver
-2026-06-25 10:31 ACCEPT [Google News KL] "FLORIDA CANYON FEASIBILITY STUDY DELIVERS SUBSTANTIAL INCREASE IN MINE" | kw:gold
-2026-06-25 10:31 ACCEPT [Google News KL] "Hemlo Mining Corp. Announces Increased Mineral Resource Estimate for t" | kw:gold
-2026-06-25 10:31 ACCEPT [Google News KL] "Gold holds below $4,000, silver below $60 — has the shimmer worn off t" | kw:gold,silver
 2026-06-25 10:31 ACCEPT [Google News KL] "Why Gold Is Going Down? XAU/USD Price Falls Below $4,000 for First Tim" | kw:gold,rice
 2026-06-25 10:31 ACCEPT [Google News CB] "Lower oil prices may be the Fed's next problem: Chart of the Day - Yah" | kw:oil,rice
 2026-06-25 10:31 ACCEPT [Google News CB] "US bond market expects rate hikes the Fed may never deliver - Reuters" | kw:rate hike
@@ -20005,3 +19998,13 @@
 2026-07-31 00:01 ACCEPT [Google News NS] "What Caused Wheat to Spike? Will it Pull Corn and Soybeans Along for t" | kw:wheat,corn,soybean
 2026-07-31 00:01 ACCEPT [Google News CB] "Tokyo Inflation Quickens, Keeping BOJ on Interest Rate Hike Path - Blo" | kw:inflation,interest rate,rate hike
 2026-07-31 00:02 SENT_MORNING articles=20 date=2026-07-31 force=False
+2026-07-31 00:31 ACCEPT [Google News HH] "Crude Oil Dips Amid Profit Taking As Iran, Oman Discuss Strait Of Horm" | kw:oil,crude
+2026-07-31 00:31 ACCEPT [Google News HH] "Crude Oil Prices Slip on Ongoing US-Iran Negotiations - tradingview.co" | kw:oil,crude,rice
+2026-07-31 00:31 ACCEPT [Google News KL] "Gold holds above $4,100 as softer PCE offsets hawkish Fed - Kitco PM R" | kw:gold
+2026-07-31 00:31 ACCEPT [Google News KL] "First Majestic Silver Corp (AG) (Q2 2026) Earnings Call Highligh - Gur" | kw:silver
+2026-07-31 00:31 ACCEPT [Google News CB] "BOJ to keep rates steady, deliver hawkish signal as government props u" | kw:boj
+2026-07-31 00:31 ACCEPT [Google News CB] "Will the Fed raise interest rates this year? Divided economists weigh " | kw:interest rate
+2026-07-31 00:31 ACCEPT [Google News CB] "Why the Fed and the Bank of England Drew Opposite Market Verdicts - st" | kw:bank of england
+2026-07-31 00:31 ACCEPT [Google News CB] "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX" | kw:fomc,boj
+2026-07-31 00:31 ACCEPT [Google News CB] "Fed likely to raise rates later this year, says Payne Capital's Courtn" | kw:lng
+2026-07-31 00:31 SKIP_MORNING already_sent date=2026-07-31
