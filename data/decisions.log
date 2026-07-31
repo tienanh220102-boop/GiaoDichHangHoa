@@ -1,10 +1,3 @@
-2026-06-25 21:31 ACCEPT [Google News HH] "Rhona O'Connell: Gold Price Drop — Why it Happened, What's Next - Inve" | kw:gold,rice
-2026-06-25 21:31 ACCEPT [Google News KL] "Gold holds $4,000 as Fed hawkishness offsets renewed Gulf risk - Kitco" | kw:gold
-2026-06-25 21:31 ACCEPT [Google News KL] "Tracking the Price of Gold - FOX 5 DC" | kw:gold,rice
-2026-06-25 21:31 ACCEPT [Google News KL] "BofA Walks Back Bullish Gold Forecast Amid Fed Rate Pressures - Mexico" | kw:gold,fed rate
-2026-06-25 21:31 ACCEPT [Google News KL] "PSLV: This Is Where Silver Bulls Go Big (Commodity:XAGUSD:CUR) - Seeki" | kw:silver,commodity
-2026-06-25 21:31 ACCEPT [Google News KL] "Mayfair Gold (NYSE American: MINE) backs board, incentive plan and out" | kw:gold
-2026-06-25 21:31 ACCEPT [Google News KL] "AIPAC-Bought Candidate Laura Fine CALLED OUT During Speech Silver Pric" | kw:silver,rice
 2026-06-25 21:31 ACCEPT [Google News NS] "Trump's Wheat War BACKFIRES — Canada Cuts Off America's Food Supply Wh" | kw:wheat
 2026-06-25 21:31 ACCEPT [Google News CB] "Mexico Holds Key Interest Rate at 6.5% After Two Years of Cuts - Bloom" | kw:interest rate
 2026-06-25 21:31 ACCEPT [Google News CB] "Fed’s Goolsbee Sees Glimmers of Hope In Latest Inflation Report - Bloo" | kw:inflation
@@ -20005,3 +19998,10 @@
 2026-07-31 11:22 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
 2026-07-31 11:22 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
 2026-07-31 11:22 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 11:31 ACCEPT [OilPrice.com] "Six Saudi Oil Tankers Reroute Around Africa to Dodge Houthi Threat" | kw:oil,crude,shipping
+2026-07-31 11:31 ACCEPT [Google News HH] "Commentary: Will the Iran war kill OPEC? - Indiana Gazette Online" | kw:opec
+2026-07-31 11:31 ACCEPT [Google News HH] "Danske Commodities: A fundamental change has taken place - energywatch" | kw:commodities
+2026-07-31 11:31 ACCEPT [Google News NS] "EU grain harvest nearly 10% smaller due to drought - dcamarketintellig" | kw:harvest,drought
+2026-07-31 11:31 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market’s ‘re" | kw:inflation
+2026-07-31 11:31 ACCEPT [Google News CB] "Oil refining margins have added to Europe's fuel price rise, ECB blog " | kw:oil,fuel,rice
+2026-07-31 11:31 SKIP_MORNING already_sent date=2026-07-31
