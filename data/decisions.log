@@ -1,26 +1,3 @@
-2026-06-25 13:01 ACCEPT [Google News KL] "Gold falls to a seven-month low—Who is setting the price below $4,000?" | kw:gold,rice
-2026-06-25 13:01 ACCEPT [Google News CB] "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s" | kw:inflation
-2026-06-25 13:01 ACCEPT [Google News CB] "The Fed's preferred inflation gauge shows prices rising at fastest pac" | kw:rice,inflation
-2026-06-25 13:01 ACCEPT [Google News CB] "Gold falls below $4,000 on Fed rate hike bets under Kevin Warsh - qz.c" | kw:gold,fed rate,rate hike
-2026-06-25 13:01 ACCEPT [Google News CB] "Fed's preferred inflation measure hits three-year high, keeping talk o" | kw:inflation,rate hike
-2026-06-25 13:01 ACCEPT [Google News CB] "Traders trim bets on July Fed rate hike after data - Reuters" | kw:fed rate,rate hike
-2026-06-25 13:01 ACCEPT [Google News CB] "Fed's preferred inflation gauge jumps to 3-year high in latest sign of" | kw:inflation
-2026-06-25 13:01 ACCEPT [Google News CB] "Fed's favored inflation gauge accelerated in May amid energy price sho" | kw:rice,inflation
-2026-06-25 13:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 13:02 SENT_EVENING articles=20 date=2026-06-25 force=False
-2026-06-25 13:11 ACCEPT [MarketWatch] "U.S. inflation tops 4%, PCE shows, but tumbling oil prices to bring pr" | kw:oil,rice,inflation
-2026-06-25 13:11 ACCEPT [Google News HH] "Vivakor Expands Annualized Contracted Revenue to - GlobeNewswire" | kw:rice
-2026-06-25 13:11 ACCEPT [Google News KL] "Current price of gold as of June 25, 2026 - Fortune" | kw:gold,rice
-2026-06-25 13:11 ACCEPT [Google News NS] "Wheat Showing Slight Losses Early on Thursday - Barchart.com" | kw:wheat
-2026-06-25 13:11 ACCEPT [Google News CB] "Oil and gas activity picks up despite Iran uncertainty, Dallas Fed say" | kw:oil,gas
-2026-06-25 13:11 ACCEPT [Google News CB] "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s" | kw:inflation
-2026-06-25 13:11 ACCEPT [Google News CB] "Fed’s Preferred Inflation Gauge Climbs Above Target Range - WSJ" | kw:inflation
-2026-06-25 13:11 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 13:11 SKIP_EVENING already_sent date=2026-06-25
-2026-06-25 13:31 ACCEPT [The Guardian Biz] "Datacentres are growing target of global climate-related legal cases, " | kw:iron,easing
-2026-06-25 13:31 ACCEPT [Al Jazeera] "Venezuela quakes: How will sanctions impact aid operations?" | kw:sanction
-2026-06-25 13:31 ACCEPT [OilPrice.com] "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease" | kw:oil,crude,rice
-2026-06-25 13:31 ACCEPT [Mining.com] "Metals.io opens cobalt, nickel to retail investors" | kw:nickel,commodities
 2026-06-25 13:31 ACCEPT [Google News KL] "Current price of silver as of Thursday, June 25, 2026 - Fortune" | kw:silver,rice
 2026-06-25 13:31 ACCEPT [Google News KL] "Gold steadies above $4,000 as Fed hike odds reset markets - Kitco AM R" | kw:gold
 2026-06-25 13:31 ACCEPT [Google News KL] "Silver Price Analysis – Silver Continues to Look Threatened - FXEmpire" | kw:silver,rice
@@ -20021,3 +19998,23 @@
 2026-07-31 04:01 ACCEPT [Google News CB] "Watch BOJ Holds Rate Steady And Upgrades View on Economy - bloomberg.c" | kw:boj
 2026-07-31 04:01 ACCEPT [Google News CB] "3 savings moves to make after the latest Fed rate pause - cbsnews.com" | kw:fed rate,rate pause
 2026-07-31 04:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 04:31 ACCEPT [Google News HH] "Crude oil fell, base metals mostly rose, SHFE tin and palladium rose n" | kw:oil,crude
+2026-07-31 04:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: Anticipated U.S.-Iran Talks Ease Supply Conce" | kw:oil,crude,wti
+2026-07-31 04:31 ACCEPT [Google News KL] "Gold Trading Alert: Gold Price Surges Past the $4,100 Mark! Four 'Hidd" | kw:gold,rice
+2026-07-31 04:31 ACCEPT [Google News KL] "Freeport-McMoRan (FCX) Lifted Sales Guidance, Is The Copper Upside Alr" | kw:copper,rice
+2026-07-31 04:31 ACCEPT [Google News KL] "Fed’s ‘hawkish hold’ stabilizes gold and silver, but likely leaves mar" | kw:gold,silver
+2026-07-31 04:31 ACCEPT [Google News KL] "Gold holds above $4,100 as softer PCE offsets hawkish Fed - Kitco PM R" | kw:gold
+2026-07-31 04:31 ACCEPT [Google News KL] "Gold steadies as GDP, PCE keep Fed-rate risk alive - Kitco AM Report -" | kw:gold,gdp
+2026-07-31 04:31 ACCEPT [Google News KL] "Gold, silver prices today, 31 July: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
+2026-07-31 04:31 ACCEPT [Google News KL] "Gold and silver price today, July 31: Check rates of 24K, 22K gold in " | kw:gold,silver,rice
+2026-07-31 04:31 ACCEPT [Google News NS] "Crops Analysis | Wheat futures firm slightly - profarmer.com" | kw:wheat
+2026-07-31 04:31 ACCEPT [Google News NS] "CBOT review: Soybeans and corn down, wheat up - producer.com" | kw:wheat,corn,soybean
+2026-07-31 04:31 ACCEPT [Google News CB] "BOJ holds rates at 1%, warns of underlying inflation exceeding 2% targ" | kw:inflation,boj
+2026-07-31 04:31 ACCEPT [Google News CB] "Yen remains under pressure after BOJ kept rates unchanged - Reuters" | kw:boj
+2026-07-31 04:31 ACCEPT [Google News CB] "Investors react to BOJ’s decision to hold rates - WTVB" | kw:boj
+2026-07-31 04:31 ACCEPT [Google News CB] "BOJ keeps rates steady, delivers hawkish signal as government props up" | kw:boj
+2026-07-31 04:31 ACCEPT [Google News CB] "Markets await BOJ's Ueda's post-meeting commentary for 'sufficiently h" | kw:boj
+2026-07-31 04:31 ACCEPT [Google News CB] "BOJ Keeps Policy Unchanged, Ups GDP Growth Outlook - nippon.com" | kw:gdp,boj
+2026-07-31 04:31 ACCEPT [Google News CB] "Kevin Warsh says Fed will 'deliver price stability' after decision to " | kw:rice
+2026-07-31 04:31 ACCEPT [Google News CB] "Watch BOJ Holds Rate Steady And Upgrades View on Economy - Bloomberg" | kw:boj
+2026-07-31 04:31 SKIP_MORNING already_sent date=2026-07-31
