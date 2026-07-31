@@ -1,12 +1,3 @@
-2026-06-25 12:01 ACCEPT [Google News HH] "Forex trading a bullish USD – WTI Crude Oil, Gold, and Silver falling " | kw:oil,crude,wti
-2026-06-25 12:01 ACCEPT [Google News HH] "Iraq retracts threat to leave OPEC over output limits - Crypto Briefin" | kw:opec
-2026-06-25 12:01 ACCEPT [Google News HH] "Iraq dismisses OPEC exit reports - Shafaq News | Latest breaking news " | kw:opec
-2026-06-25 12:01 ACCEPT [Google News HH] "OPEC's second-largest oil producer is pressuring to raise its producti" | kw:oil,opec
-2026-06-25 12:01 ACCEPT [Google News KL] "Gold prices today, Thursday, June 25, 2026: Prices fall below $4,000 f" | kw:gold,rice
-2026-06-25 12:01 ACCEPT [Google News KL] "Gold, silver prices slip as strong dollar, Fed outlook weigh - MSN" | kw:gold,silver,rice
-2026-06-25 12:01 ACCEPT [Google News KL] "Axo Metals Eyes Near-Term Gold Production at San Antonio With Septembe" | kw:gold
-2026-06-25 12:01 ACCEPT [Google News KL] "Why Gold Is Going Down? XAU/USD Price Falls Below $4,000 for First Tim" | kw:gold,rice
-2026-06-25 12:01 ACCEPT [Google News NS] "Demand for Ukrainian corn remains low, despite the fact that the quota" | kw:corn
 2026-06-25 12:01 ACCEPT [Google News NS] "Oil prices fall to 3.5-month low as Iranian exports surge - електронна" | kw:oil,rice
 2026-06-25 12:01 ACCEPT [ECB Press] "Piero Cipollone: Central bank money for the digital era" | kw:central bank
 2026-06-25 12:01 ACCEPT [Google News CB] "The Fed Isn't Cutting Interest Rates Anytime Soon -- and Kevin Warsh I" | kw:interest rate
@@ -20007,3 +19998,13 @@
 2026-07-31 02:31 ACCEPT [Google News CB] "Why The Fed Isn’t Going To Contain Real Inflation - Forbes" | kw:inflation
 2026-07-31 02:31 ACCEPT [Google News CB] "Can the Bank of Japan reinforce the Japanese Yen’s intervention-led re" | kw:bank of japan
 2026-07-31 02:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 02:39 ACCEPT [Google News HH] "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See " | kw:oil,crude
+2026-07-31 02:39 ACCEPT [Google News HH] "Asia Has Plenty of Crude Oil, But Refined Fuels Remain Tight: Russell " | kw:oil,crude,fuel
+2026-07-31 02:39 ACCEPT [Google News HH] "Lost Gulf Oil Exports Far Smaller Than Thought, Traders and Shippers S" | kw:oil
+2026-07-31 02:39 ACCEPT [Google News KL] "Gold Prices Decline Amid Rate Speculation - GuruFocus" | kw:gold,rice
+2026-07-31 02:39 ACCEPT [Google News KL] "Geopolitical Risks Repeatedly Overlap with Persistent Supply Tightness" | kw:copper,rice
+2026-07-31 02:39 ACCEPT [Google News KL] "Gold Forecast: Looks to snap four-month losing streak but sellers refu" | kw:gold
+2026-07-31 02:39 ACCEPT [Google News NS] "Wheat price jump attracting acres - brownfieldagnews.com" | kw:wheat,rice
+2026-07-31 02:39 ACCEPT [Google News CB] "Argentina’s Milei unveils bill to shield central bank from political p" | kw:central bank
+2026-07-31 02:39 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
+2026-07-31 02:39 SKIP_MORNING already_sent date=2026-07-31
