@@ -1,15 +1,3 @@
-2026-06-25 12:31 ACCEPT [Google News CB] "ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level - Bloo" | kw:oil,ecb
-2026-06-25 12:31 ACCEPT [Google News CB] "US core PCE inflation expected to rise in May amid increasing Fed rate" | kw:inflation,fed rate,rate hike
-2026-06-25 12:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 13:01 ACCEPT [MarketWatch] "Consumer spending rises again — and now cheaper gas is on the way" | kw:gas,inflation
-2026-06-25 13:01 ACCEPT [MarketWatch] "U.S. inflation tops 4%, but tumbling oil prices to bring price relief " | kw:oil,rice,inflation
-2026-06-25 13:01 ACCEPT [CNBC Economy] "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s" | kw:rice,inflation
-2026-06-25 13:01 ACCEPT [Google News HH] "US commercial crude oil inventories have decreased in June - Hydrocarb" | kw:oil,crude
-2026-06-25 13:01 ACCEPT [Google News HH] "Iraq weighing all options, including exit from OPEC, if production quo" | kw:opec
-2026-06-25 13:01 ACCEPT [Google News HH] "Crude oil supply from the Middle East rebounds rapidly! Oil prices era" | kw:oil,crude,rice
-2026-06-25 13:01 ACCEPT [Google News KL] "Gold prices struggling as U.S. economy remains resilient and inflation" | kw:gold,rice,inflation
-2026-06-25 13:01 ACCEPT [Google News KL] "Kinross Gold: The Bull Case Keeps Getting Stronger Despite Gold’s Pull" | kw:gold
-2026-06-25 13:01 ACCEPT [Google News KL] "Gold, Silver Prices Drop in Delhi Amid Weak Global Cues - Rediff Money" | kw:gold,silver,rice
 2026-06-25 13:01 ACCEPT [Google News KL] "Gold falls to a seven-month low—Who is setting the price below $4,000?" | kw:gold,rice
 2026-06-25 13:01 ACCEPT [Google News CB] "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s" | kw:inflation
 2026-06-25 13:01 ACCEPT [Google News CB] "The Fed's preferred inflation gauge shows prices rising at fastest pac" | kw:rice,inflation
@@ -20010,3 +19998,26 @@
 2026-07-31 03:31 ACCEPT [Google News CB] "Japanese Yen Surges as MOF Steals the BOJ's Thunder After FOMC - FOREX" | kw:fomc,boj
 2026-07-31 03:31 ACCEPT [Google News CB] "Monetary Policy Report - July 2026 - bankofengland.co.uk" | kw:monetary policy
 2026-07-31 03:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 04:01 ACCEPT [Google News KL] "Gold and Silver Price Forecast: XAUUSD Rebound Faces Key Resistance - " | kw:gold,silver,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD declines to near $58.40 as US Dollar re" | kw:silver,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "Current price of gold as of July 30, 2026 - fortune.com" | kw:gold,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "Silver Price For Today, 30 July 2026 - Forbes" | kw:silver,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "Current price of silver as of Thursday, July 30, 2026 - fortune.com" | kw:silver,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "FCX Looks 32.7% Overvalued on GF Value™ as Copper Prices Surge - GuruF" | kw:copper,rice
+2026-07-31 04:01 ACCEPT [Google News KL] "Vietnam dong, gold rates - July 31 - marketscreener.com" | kw:gold
+2026-07-31 04:01 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - canadiancattlemen.ca" | kw:rice
+2026-07-31 04:01 ACCEPT [Google News CB] "BOJ holds rates at 1%, warns of underlying inflation exceeding 2% targ" | kw:inflation,boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Spooked investors demand clarity on Fed’s anti-inflation strategy - wa" | kw:inflation
+2026-07-31 04:01 ACCEPT [Google News CB] "BOJ keeps rates steady, signals further rate hikes - The Mighty 790 KF" | kw:rate hike,boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Bank of Japan holds interest rate steady at 1.00% as expected - FXStre" | kw:interest rate,bank of japan
+2026-07-31 04:01 ACCEPT [Google News CB] "URGENT: BOJ keeps key interest rate unchanged, lifts economic outlook " | kw:interest rate,boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Yen’s Focus on BOJ Gov. Ueda’s Guidance - wsj.com" | kw:boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Bank of Japan Holds Interest Rate Steady at 1% as Expected - bloomberg" | kw:interest rate,bank of japan
+2026-07-31 04:01 ACCEPT [Google News CB] "Yen Surges After Japan Intervened in Market Again Ahead of BOJ - bloom" | kw:boj
+2026-07-31 04:01 ACCEPT [Google News CB] "VIEW Investors react to BOJ's decision to hold rates - Reuters" | kw:boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Tokyo Inflation Quickens, Keeping BOJ on Interest Rate Hike Path - blo" | kw:inflation,interest rate,rate hike
+2026-07-31 04:01 ACCEPT [Google News CB] "BOJ Keeps Policy Unchanged, Ups GDP Growth Outlook - nippon.com" | kw:gdp,boj
+2026-07-31 04:01 ACCEPT [Google News CB] "BOJ keeps rates unchanged amid speculation of yen intervention - The J" | kw:boj
+2026-07-31 04:01 ACCEPT [Google News CB] "Watch BOJ Holds Rate Steady And Upgrades View on Economy - bloomberg.c" | kw:boj
+2026-07-31 04:01 ACCEPT [Google News CB] "3 savings moves to make after the latest Fed rate pause - cbsnews.com" | kw:fed rate,rate pause
+2026-07-31 04:01 SKIP_MORNING already_sent date=2026-07-31
