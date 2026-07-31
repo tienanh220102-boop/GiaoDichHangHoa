@@ -1,12 +1,3 @@
-2026-06-25 15:01 ACCEPT [BBC Business] "Apple hikes MacBook and iPad prices, blaming rising chip costs" | kw:rice
-2026-06-25 15:01 ACCEPT [Al Jazeera] "IRGC warns against new Hormuz route for ships: What we know" | kw:shipping
-2026-06-25 15:01 ACCEPT [Al Jazeera] "Venezuela earthquakes: How will sanctions impact aid operations?" | kw:sanction
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq Warns It Might Quit OPEC If It Doesn’t Get Quota Hike - Bloomberg" | kw:opec
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq urges Opec to raise its quota - Middle East Eye" | kw:opec
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq pushes Opec to let it pump more oil - Financial Times" | kw:oil,opec
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq threatens to leave OPEC if oil quota isn’t raised: Report - Washi" | kw:oil,opec
-2026-06-25 15:01 ACCEPT [Google News HH] "Brent Crude Oil Holds Near Pre-War Levels - TradingView" | kw:oil,crude,brent
-2026-06-25 15:01 ACCEPT [Google News HH] "Iraq Walks Back Threat on Leaving OPEC Over Output Limits - Bloomberg." | kw:opec
 2026-06-25 15:01 ACCEPT [Google News HH] "Baghdad Urges OPEC to Raise Iraq's Production Quota - Asharq Al-Awsat " | kw:opec
 2026-06-25 15:01 ACCEPT [Google News HH] "Iraq Threatens to Exit OPEC - marketscreener.com" | kw:opec
 2026-06-25 15:01 ACCEPT [Google News KL] "Gold Plunge Stalls as China Shuts Retail Trading, Curbs Inflows to Hot" | kw:gold
@@ -20007,3 +19998,16 @@
 2026-07-31 05:31 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - Reuter" | kw:boj
 2026-07-31 05:31 ACCEPT [Google News CB] "BOJ revises inflation forecast down while keeping rates unchanged - Ni" | kw:inflation,boj
 2026-07-31 05:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 05:56 ACCEPT [Google News HH] "OPED-OPEC-HERITAGE-COMMENTARY-FILEPIC-GET - newsminer.com" | kw:opec
+2026-07-31 05:56 ACCEPT [Google News HH] "Crude Oil Forecast: US-Iran Pause Drives -7% WTI Drop - Will it Revers" | kw:oil,crude,wti
+2026-07-31 05:56 ACCEPT [Google News HH] "🚨 #MCExclusive | Is it time to buy gold again? Christopher Wood thinks" | kw:gold
+2026-07-31 05:56 ACCEPT [Google News HH] "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - Energ" | kw:oil,opec
+2026-07-31 05:56 ACCEPT [Google News HH] "Kazakhstan in talks with Russia on Russian crude oil refining at local" | kw:oil,crude
+2026-07-31 05:56 ACCEPT [Google News HH] "Bitget Integrates TradingView Charts for Commodities (CFD) Market - CC" | kw:commodities
+2026-07-31 05:56 ACCEPT [Google News KL] "Copper may hit new high as AI demand collides with deadly storms, stra" | kw:copper
+2026-07-31 05:56 ACCEPT [Google News CB] "BOJ keeps rates steady, signals further rate hikes - kfgo.com" | kw:rate hike,boj
+2026-07-31 05:56 ACCEPT [Google News CB] "Strategists Await Ueda Guidance After BOJ’s Steady Decision - bloomber" | kw:boj
+2026-07-31 05:56 ACCEPT [Google News CB] "Markets await BOJ's Ueda's post-meeting commentary for 'sufficiently h" | kw:boj
+2026-07-31 05:56 ACCEPT [Google News CB] "BOJ stands pat, but should it have hiked? Analyst weighs in on weakeni" | kw:wti,boj
+2026-07-31 05:56 ACCEPT [Google News CB] "Morning Bid: Yen sinks as BOJ holds - and it's the KOSPI's best day - " | kw:boj
+2026-07-31 05:56 SKIP_MORNING already_sent date=2026-07-31
