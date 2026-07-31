@@ -1,21 +1,3 @@
-2026-06-25 14:01 ACCEPT [Google News NS] "Forecast of wheat exports from Russia in the closing season for the fi" | kw:wheat
-2026-06-25 14:01 ACCEPT [Google News CB] "Inflation report could fuel concerns over higher interest rates, even " | kw:oil,fuel,rice
-2026-06-25 14:01 ACCEPT [Google News CB] "Inflation Surges to 2023 Highs. Will Fed Chair Warsh Defy Trump on Rat" | kw:inflation
-2026-06-25 14:01 ACCEPT [Google News CB] "ECB board member floats further rate hikes as bank wary over Iran deal" | kw:rate hike,ecb
-2026-06-25 14:01 ACCEPT [Google News CB] "Key Inflation Measure Neared 3-Year High In May - Forbes" | kw:inflation
-2026-06-25 14:01 ACCEPT [Google News CB] "PCE report: Fed's preferred inflation measure hits 3-year high, keepin" | kw:inflation,rate hike
-2026-06-25 14:01 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 14:01 SKIP_EVENING already_sent date=2026-06-25
-2026-06-25 14:31 ACCEPT [MarketWatch] "Apple’s MacBooks and iPads are getting more expensive as the memory cr" | kw:rice
-2026-06-25 14:31 ACCEPT [OilPrice.com] "Middle East Fuel Oil Exports Set to Hit Four-Month High" | kw:oil,fuel
-2026-06-25 14:31 ACCEPT [Google News HH] "Iraqi Oil Ministry denies reports of potential OPEC exit, urges output" | kw:oil,opec
-2026-06-25 14:31 ACCEPT [Google News HH] "Crude Oil Price Analysis – Crude Oil Filling the War Gap - FXEmpire" | kw:oil,crude,rice
-2026-06-25 14:31 ACCEPT [Google News KL] "Is Freeport-McMoRan’s (FCX) Variable Dividend Signaling a New Phase in" | kw:copper
-2026-06-25 14:31 ACCEPT [Google News CB] "PCE report: Fed's preferred inflation measure hits 3-year high, keepin" | kw:inflation,rate hike
-2026-06-25 14:31 ACCEPT [Google News CB] "Dollar index erases gains and turns lower after May PCE data - CNBC" | kw:dollar index
-2026-06-25 14:31 ACCEPT [Google News CB] "Fed’s Favored Inflation Meter Jumped Toward 3-Year High In May - Yahoo" | kw:inflation
-2026-06-25 14:31 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 14:31 SKIP_EVENING already_sent date=2026-06-25
 2026-06-25 15:01 ACCEPT [BBC Business] "Apple hikes MacBook and iPad prices, blaming rising chip costs" | kw:rice
 2026-06-25 15:01 ACCEPT [Al Jazeera] "IRGC warns against new Hormuz route for ships: What we know" | kw:shipping
 2026-06-25 15:01 ACCEPT [Al Jazeera] "Venezuela earthquakes: How will sanctions impact aid operations?" | kw:sanction
@@ -20016,3 +19998,12 @@
 2026-07-31 05:01 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - Yahoo!" | kw:boj
 2026-07-31 05:01 ACCEPT [Google News CB] "BOJ revises inflation forecast down while keeping rates unchanged - as" | kw:inflation,boj
 2026-07-31 05:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 05:31 ACCEPT [Google News HH] "Go With The Flow – Major Changes Disrupting Global Crude Oil and Refin" | kw:oil,crude
+2026-07-31 05:31 ACCEPT [Google News HH] "Cushing crude oil stocks dropped more to critically dangerous levels -" | kw:oil,crude
+2026-07-31 05:31 ACCEPT [Google News HH] "Crude oil falls more than $1 on greater flows despite US-Iran war - Bu" | kw:oil,crude
+2026-07-31 05:31 ACCEPT [Google News KL] "Copper may hit new high as AI demand collides with deadly storms, stra" | kw:copper
+2026-07-31 05:31 ACCEPT [Google News NS] "Ethanol eyes ocean shipping as next big market for corn - Farm Progres" | kw:corn,shipping
+2026-07-31 05:31 ACCEPT [Google News NS] "Mysteel China edible oils market da... - Mysteel" | kw:oil,steel
+2026-07-31 05:31 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - Reuter" | kw:boj
+2026-07-31 05:31 ACCEPT [Google News CB] "BOJ revises inflation forecast down while keeping rates unchanged - Ni" | kw:inflation,boj
+2026-07-31 05:31 SKIP_MORNING already_sent date=2026-07-31
