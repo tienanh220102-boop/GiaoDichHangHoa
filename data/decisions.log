@@ -1,26 +1,3 @@
-2026-06-26 05:31 ACCEPT [Google News KL] "Copper soars but smelters can't bank on it to survive - Reuters" | kw:copper
-2026-06-26 05:31 ACCEPT [Google News KL] "[SMM Nickel Midday Review] On June 26, nickel prices fell sharply, and" | kw:nickel,rice
-2026-06-26 05:31 ACCEPT [Google News KL] "Macquarie: Lowers year-end gold price forecast to $4,300, expects gold" | kw:gold,rice
-2026-06-26 05:31 ACCEPT [Google News KL] "Gold, silver prices today, June 26: Check retail rates of 24K, 22K gol" | kw:gold,silver,rice
-2026-06-26 05:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 06:01 ACCEPT [Al Jazeera] "Oil prices ease after spiking over halt to Strait of Hormuz evacuation" | kw:oil,crude,brent
-2026-06-26 06:01 ACCEPT [Google News KL] "Gold prices slip 0.52 percent to $4,011 as dollar strength, Fed rate h" | kw:fuel,gold,rice
-2026-06-26 06:01 ACCEPT [Google News CB] "US | Fed repricing lowers inflation expectations and lifts the dollar " | kw:inflation
-2026-06-26 06:01 ACCEPT [Google News CB] "New York Fed President: Current interest rates are appropriate, and in" | kw:inflation,interest rate
-2026-06-26 06:01 ACCEPT [Google News CB] "Fed’s Williams Sees Rates Well Positioned to Tame High Inflation - Blo" | kw:inflation
-2026-06-26 06:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 06:31 ACCEPT [RT Business] "US threatens to cut gas supplies to EU" | kw:gas,lng
-2026-06-26 06:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 06:44 ACCEPT [Google News HH] "Wall Street Firms Universally Downgrade Gold Price Forecasts - Moomoo" | kw:gold,rice,gdp
-2026-06-26 06:44 ACCEPT [Google News HH] "One Chart: Pivot Points and Long/Short Position Signals for Gold, Crud" | kw:oil,crude,gold
-2026-06-26 06:44 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 07:01 ACCEPT [Google News HH] "Vivakor Expands Annualized Contracted Revenue to Approximately $420 Mi" | kw:oil,crude
-2026-06-26 07:01 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on June 26 - FXStreet" | kw:gold,rice
-2026-06-26 07:01 ACCEPT [Google News KL] "[SMM Nickel Intermediate Products Daily Review] June 26: MHP and high-" | kw:nickel,rice
-2026-06-26 07:01 ACCEPT [Google News KL] "スパーリング 長居公園 Silver Price Today (Mmn6pjnhUJ) - Mshale" | kw:silver,rice
-2026-06-26 07:01 ACCEPT [Google News CB] "Inflation rises to new 3-year high - The Arkansas Democrat-Gazette" | kw:inflation
-2026-06-26 07:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 07:31 ACCEPT [Google News HH] "Commodities Trading: Gold Stocks, Oil Stocks, Silver, Natural Gas - In" | kw:oil,gas,gold
 2026-06-26 07:31 ACCEPT [Google News HH] "Russia to Send Crude Oil and Fuel to Cuba soon, Izvestia Reports - Ene" | kw:oil,crude,fuel
 2026-06-26 07:31 ACCEPT [Google News HH] "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - Energ" | kw:oil,opec
 2026-06-26 07:31 ACCEPT [Google News KL] "Wall Street is abandoning its most bullish gold calls after a sharp se" | kw:gold
@@ -20021,3 +19998,17 @@
 2026-07-31 15:01 ACCEPT [Google News CB] "Eurozone Inflation Surprises to the Upside, September ECB Rate Hike No" | kw:inflation,rate hike,ecb
 2026-07-31 15:01 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 15:01 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 15:31 ACCEPT [Google News HH] "Crude Oil Shrugs Off the Selloff as Barrels Vanish - FOREX.com" | kw:oil,crude
+2026-07-31 15:31 ACCEPT [Google News HH] "Crude Oil Forecasts – Middle East Risk Keeps Prices Choppy - FXEmpire" | kw:oil,crude,rice
+2026-07-31 15:31 ACCEPT [Google News HH] "OPEC+ to press ahead; oil traders look on bright side of life - Capita" | kw:oil,opec
+2026-07-31 15:31 ACCEPT [Google News HH] "U.A.E. Changes How It Prices Its Crude Oil Grades - Update - marketscr" | kw:oil,crude,rice
+2026-07-31 15:31 ACCEPT [Google News HH] "Canada Commodities: Oil Higher Despite US Saying Hamas Agrees to Disar" | kw:oil,commodities
+2026-07-31 15:31 ACCEPT [Google News NS] "Is the Corn Rally Over or Just Getting Started? - Successful Farming" | kw:corn
+2026-07-31 15:31 ACCEPT [Google News NS] "Wheat Futures Rally on Black Sea Escalation as Market Tests Key Resist" | kw:wheat
+2026-07-31 15:31 ACCEPT [Google News CB] "Three Fed Officials Say Inflation Should Have Prompted Higher Rates - " | kw:inflation
+2026-07-31 15:31 ACCEPT [Google News CB] "Three Fed dissenters say rate hike is needed to curb inflation - Reute" | kw:inflation,rate hike
+2026-07-31 15:31 ACCEPT [Google News CB] "Fed dissenters including Hammack say rate hikes needed to tame stubbor" | kw:inflation,rate hike
+2026-07-31 15:31 ACCEPT [Google News CB] "Kashkari: It’s time for the Fed to raise interest rates - startribune." | kw:interest rate
+2026-07-31 15:31 ACCEPT [Google News CB] "Fed's Hammack says tighter monetary policy needed to cool inflation - " | kw:inflation,monetary policy
+2026-07-31 15:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 15:31 SKIP_EVENING already_sent date=2026-07-31
