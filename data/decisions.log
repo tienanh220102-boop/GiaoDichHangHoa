@@ -1,20 +1,3 @@
-2026-06-25 22:01 ACCEPT [Google News HH] "OFAC Authorizes Certain Iran Crude Oil and Petroleum Transactions but " | kw:oil,crude,petroleum
-2026-06-25 22:01 ACCEPT [Google News HH] "Ecuador added more than 35 thousand barrels to its crude oil productio" | kw:oil,crude
-2026-06-25 22:01 ACCEPT [Google News KL] "Silver Plunges: The Prospects For The Volatile Precious Metal And The " | kw:silver
-2026-06-25 22:01 ACCEPT [Google News KL] "298 Tonnes of ETF Gold Is Underwater. Central Banks Aren’t. - GoldSilv" | kw:gold,silver,central bank
-2026-06-25 22:01 ACCEPT [Google News KL] "Both Gold and Silver Lose Key Support Levels! Has Last Year’s Get-Rich" | kw:gold,silver
-2026-06-25 22:01 ACCEPT [Google News NS] "USDA Acreage Report Looms, as Survey Signals More Corn and Fewer Soybe" | kw:corn,soybean
-2026-06-25 22:01 ACCEPT [Google News NS] "Better late than never: China working to fulfill U.S. soybean deal - T" | kw:soybean
-2026-06-25 22:01 ACCEPT [Google News NS] "EU Oilseeds Price Report: Soyabean, Rapeseed, Sunflowerseed Export Pri" | kw:oil,rice
-2026-06-25 22:01 ACCEPT [Google News CB] "Fed's preferred inflation gauge hits highest level since 2023 - CBS Ne" | kw:inflation
-2026-06-25 22:16 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Rebound After Oman Shipping Attack Revives" | kw:oil,crude,shipping
-2026-06-25 22:16 ACCEPT [Google News KL] "Los Filos restart advances as Equinox Gold (NYSE: EQX) secures 20-year" | kw:gold
-2026-06-25 22:16 ACCEPT [Google News NS] "Private Acreage Estimate Shows Corn Soybean Shift Ahead - RFD-TV" | kw:corn,soybean
-2026-06-25 22:31 ACCEPT [MarketWatch] "A world rejecting OPEC controls could usher in oil below $50 a barrel" | kw:oil,opec
-2026-06-25 22:31 ACCEPT [Google News HH] "Iraq Denies Plans to Leave OPEC, Urges Higher Oil Production Quota - K" | kw:oil,opec
-2026-06-25 22:31 ACCEPT [Google News HH] "Crude Oil bounces on a Hormuz scare it doesn't believe - FXStreet" | kw:oil,crude
-2026-06-25 22:31 ACCEPT [Google News KL] "Should you add gold to your portfolio when there is market volatility?" | kw:gold
-2026-06-25 22:31 ACCEPT [Google News NS] "Soybeans Close Up 22¢ | Thursday, June 25, 2026 - Successful Farming" | kw:soybean
 2026-06-25 23:01 ACCEPT [Google News HH] "A world rejecting OPEC controls could usher in oil below $50 a barrel " | kw:oil,opec
 2026-06-25 23:01 ACCEPT [Google News HH] "US commercial crude oil inventories have decreased in June - Hydrocarb" | kw:oil,crude
 2026-06-25 23:01 ACCEPT [Google News KL] "Gold Price Crash: CPM Group Issues Sell Signal on June 25, 2026 - News" | kw:gold,rice
@@ -20015,3 +19998,25 @@
 2026-07-31 12:02 ACCEPT [Google News NS] "Corn and soybean conditions look good on paper, but how big is the cro" | kw:corn,soybean
 2026-07-31 12:02 ACCEPT [Google News NS] "Courtney Knupp named new CEO of United Soybean Board - Farm Progress" | kw:soybean
 2026-07-31 12:02 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 12:30 ACCEPT [CNBC Commodities] "Fed officials who voted to hike rates say action is needed now against" | kw:inflation
+2026-07-31 12:31 ACCEPT [OilPrice.com] "Oil Prices Inch Higher as Iran Strikes U.S. Bases in Kuwait and Bahrai" | kw:oil,rice
+2026-07-31 12:31 ACCEPT [Google News HH] "Gold Price Today on July 31, 2026 - USA Today" | kw:gold,rice
+2026-07-31 12:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D27 Jul '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-07-31 12:31 ACCEPT [Google News HH] "Forecast update for crude oil -31-07-2026 - Economies.com" | kw:oil,crude
+2026-07-31 12:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD remains under pressure as bond yields, " | kw:silver,rice
+2026-07-31 12:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD Targets $60.00 as Rebound Gains Momentu" | kw:silver,rice
+2026-07-31 12:31 ACCEPT [Google News NS] "Corn closes mixed in a largely technical session - brownfieldagnews.co" | kw:corn
+2026-07-31 12:31 ACCEPT [Google News NS] "Mysteel soybean and relatives marke... - Mysteel" | kw:steel,soybean
+2026-07-31 12:31 ACCEPT [Google News NS] "Grains juggling weather, wheat rally and China demand - brownfieldagne" | kw:wheat
+2026-07-31 12:31 ACCEPT [Google News CB] "Two Fed Officials Say Inflation Should Have Prompted Higher Rates - WS" | kw:inflation
+2026-07-31 12:31 ACCEPT [Google News CB] "Statement on My FOMC Dissent - Federal Reserve Bank of Minneapolis" | kw:federal reserve,fomc
+2026-07-31 12:31 ACCEPT [Google News CB] "Fed’s Hammack says tighter monetary policy needed to cool inflation - " | kw:inflation,monetary policy
+2026-07-31 12:31 ACCEPT [Google News CB] "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates S" | kw:inflation
+2026-07-31 12:31 ACCEPT [Google News CB] "Here's why the dissenters on the Fed wanted to raise interest rates - " | kw:interest rate
+2026-07-31 12:31 ACCEPT [Google News CB] "Fed officials who voted to hike rates say action is needed now against" | kw:inflation
+2026-07-31 12:31 ACCEPT [Google News CB] "Three Fed Officials Voted for Rate Hikes on Fears High Inflation Is Be" | kw:inflation,rate hike
+2026-07-31 12:31 ACCEPT [Google News CB] "BOJ keeps rates unchanged amid speculation of yen intervention - japan" | kw:boj
+2026-07-31 12:31 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market’s ‘re" | kw:inflation
+2026-07-31 12:31 ACCEPT [Google News CB] "Fed dissenters warn of challenges in taming inflation - Financial Time" | kw:inflation
+2026-07-31 12:31 ACCEPT [Google News CB] "Fed officials who voted to hike rates say action is needed now against" | kw:inflation
+2026-07-31 12:31 SKIP_MORNING already_sent date=2026-07-31
