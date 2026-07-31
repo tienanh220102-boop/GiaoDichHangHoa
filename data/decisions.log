@@ -1,15 +1,3 @@
-2026-06-26 04:01 ACCEPT [Google News NS] "South Africa’s soybean harvest is at its new record level - Wandile Si" | kw:soybean,harvest
-2026-06-26 04:01 ACCEPT [Google News CB] "Higher Tokyo inflation, hawkish BoJ comments, up odds of October hike " | kw:inflation,boj
-2026-06-26 04:01 ACCEPT [Google News CB] "The Bull Case For Wells Fargo (WFC) Could Change Following Fed Stress " | kw:lng
-2026-06-26 04:01 ACCEPT [Google News CB] "Tokyo inflation picks up, keeping BOJ on track for further hike - The " | kw:inflation,boj
-2026-06-26 04:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 04:31 ACCEPT [Al Jazeera] "Apple, Microsoft hike prices over surging chip costs" | kw:rice,shortage
-2026-06-26 04:31 ACCEPT [Google News HH] "Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz - The " | kw:oil,rice,shipping
-2026-06-26 04:31 ACCEPT [Google News KL] "WIDOW'S BAY FINALE Review & Season 2 Predictions Silver Price Today (V" | kw:silver,rice
-2026-06-26 04:31 ACCEPT [Google News KL] "Gold price in Malaysia: Rates on June 26 - FXStreet" | kw:lng,gold,rice
-2026-06-26 04:31 ACCEPT [Google News KL] "Gold Price Forecast: Eyes on Death Cross and $3,950 support for XAU/US" | kw:gold,rice
-2026-06-26 04:31 ACCEPT [Google News KL] "Gold Price Outlook: Strategist Warns of Decline to $3,600 as Dollar St" | kw:gold,rice
-2026-06-26 04:31 ACCEPT [Google News CB] "Yomiuri: Ex-BOJ Deputy Gov. Sees Interest Rate 'Finally' Reaching 1% -" | kw:interest rate,boj
 2026-06-26 04:31 SKIP_MORNING already_sent date=2026-06-26
 2026-06-26 05:01 ACCEPT [OilPrice.com] "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds" | kw:oil,crude,brent
 2026-06-26 05:01 ACCEPT [Google News HH] "Crude Oil WTI Futures Chart - Investing.com" | kw:oil,crude,wti
@@ -20010,3 +19998,22 @@
 2026-07-31 14:01 ACCEPT [Google News CB] "Kashkari: It’s time for the Fed to raise interest rates - Star Tribune" | kw:interest rate
 2026-07-31 14:01 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 14:01 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 14:31 ACCEPT [Al Jazeera] "Russia and Ukraine report casualties as they continue to trade attacks" | kw:oil
+2026-07-31 14:31 ACCEPT [OilPrice.com] "ADNOC Unveils New Crude Pricing Mechanism" | kw:oil,crude,rice
+2026-07-31 14:31 ACCEPT [Google News HH] "U.A.E. Changes How It Prices Its Crude Oil Grades - WSJ" | kw:oil,crude,rice
+2026-07-31 14:31 ACCEPT [Google News HH] "UAE to Overhaul How It Prices All Crude Oil After Big Swings - Bloombe" | kw:oil,crude,rice
+2026-07-31 14:31 ACCEPT [Google News HH] "Why the Price of Gasoline Has Deviated from Crude Oil - AGF Perspectiv" | kw:oil,crude,gas
+2026-07-31 14:31 ACCEPT [Google News HH] "Crude Oil Surges After U.S. Strikes on Iranian Targets - briefs.co" | kw:oil,crude
+2026-07-31 14:31 ACCEPT [Google News HH] "Gold Price Analysis – Gold Stalls at $4,200 Resistance as Yields Rise " | kw:gold,rice
+2026-07-31 14:31 ACCEPT [Google News KL] "Gold Monthly: From Higher Rates To Higher Uncertainty As We End July 2" | kw:gold
+2026-07-31 14:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD To Rise To $75 By 2027 - UBS - Exchange" | kw:silver,rice
+2026-07-31 14:31 ACCEPT [Google News KL] "Best 5 Gold Stocks for August 2026 - DailyForex" | kw:gold
+2026-07-31 14:31 ACCEPT [Google News KL] "Gold Price Forecast: UBS Sees $5,200 By June 2027, Warns Of $3,850 Pul" | kw:gold,rice
+2026-07-31 14:31 ACCEPT [Google News NS] "Corn Down 3¾¢ | Friday, July 31, 2026 - Successful Farming" | kw:wti,corn
+2026-07-31 14:31 ACCEPT [Google News CB] "Statement from Dallas Fed President Lorie Logan on FOMC dissent - Fede" | kw:federal reserve,fomc
+2026-07-31 14:31 ACCEPT [Google News CB] "What Businesses Are Saying: Steady Overall With Pockets of Stress - Fe" | kw:federal reserve
+2026-07-31 14:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - CNN" | kw:interest rate
+2026-07-31 14:31 ACCEPT [Google News CB] "Why 3 Fed dissenters say waiting to raise interest rates could make in" | kw:inflation,interest rate
+2026-07-31 14:31 ACCEPT [Google News CB] "Lawler: Update on the GSEs: Agency MBS Holdings Decline, Interest Rate" | kw:interest rate
+2026-07-31 14:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 14:31 SKIP_EVENING already_sent date=2026-07-31
