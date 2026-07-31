@@ -1,20 +1,3 @@
-2026-06-26 08:01 ACCEPT [Google News CB] "ECB cuts banks' reporting duties, softens governance expectations - Re" | kw:ecb
-2026-06-26 08:01 ACCEPT [Google News CB] "Bond Traders Trim Fed Rate-Hike Bets After Benign Inflation Data - Blo" | kw:inflation,fed rate
-2026-06-26 08:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 08:31 ACCEPT [Al Jazeera] "Neighbours aid rescue effort as Venezuela quake death toll hits 235" | kw:flood
-2026-06-26 08:31 ACCEPT [Google News HH] "U.S. Crude Oil Inventories Drop for 11th Straight Week - Industrial In" | kw:oil,crude
-2026-06-26 08:31 ACCEPT [Google News HH] "Deadly earthquakes rock Venezuela, Iraq reportedly threatens OPEC-xit," | kw:opec
-2026-06-26 08:31 ACCEPT [Google News HH] "Iraq backs OPEC, seeks higher quota - IraqiNews" | kw:opec
-2026-06-26 08:31 ACCEPT [Google News NS] "Spring Wheat Mpls Sep'26 (MIAX: MWU26) Prices, Charts and History - Th" | kw:wheat,rice
-2026-06-26 08:31 ACCEPT [Google News NS] "Soybeans up 2-5 cents; corn, wheat up 0-2 cents - Business Recorder" | kw:wheat,corn,soybean
-2026-06-26 08:31 ACCEPT [Google News CB] "Euro zone consumers cut inflation bets for the next year, ECB survey s" | kw:inflation,ecb
-2026-06-26 08:31 ACCEPT [Google News CB] "ECB Says Consumers’ Short-Term Price Expectations Fall Sharply - Bloom" | kw:rice,ecb
-2026-06-26 08:31 ACCEPT [Google News CB] "Gold on track for fourth weekly loss on hawkish Fed bets - Reuters" | kw:gold
-2026-06-26 08:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 09:01 ACCEPT [Al Jazeera] "‘Affordability crisis’: How the Western housing crisis spiralled" | kw:rice
-2026-06-26 09:01 ACCEPT [Google News HH] "The Best Commodities to Invest in for the Second Half of 2026 - Mornin" | kw:commodities
-2026-06-26 09:01 ACCEPT [Google News HH] "OPEC Fund expands financing across emerging markets - Africa Business " | kw:opec
-2026-06-26 09:01 ACCEPT [Google News KL] "Invesco launches Physical Gold ETC - ETF Express" | kw:gold
 2026-06-26 09:01 ACCEPT [Google News NS] "Chinese State Buyers Take US Soybeans; Private Traders Turn to Brazil " | kw:soybean
 2026-06-26 09:01 ACCEPT [Google News NS] "USDA corn and soybean projections for 2026/2027 – June 2026 - Swine ne" | kw:corn,soybean
 2026-06-26 09:01 ACCEPT [Google News CB] "ECB softens governance expectations for banks to ease burden - Reuters" | kw:ecb
@@ -20015,3 +19998,33 @@
 2026-07-31 16:01 ACCEPT [Google News CB] "Guest Column: A 10% credit card interest rate cap could have unintende" | kw:interest rate
 2026-07-31 16:01 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 16:01 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 16:31 ACCEPT [MarketWatch] "Micron’s stock falls after Apple’s Tim Cook expresses a desire for mor" | kw:rice
+2026-07-31 16:31 ACCEPT [Al Jazeera] "Tunisian wildfires expose failing infrastructure, community vulnerabil" | kw:harvest
+2026-07-31 16:31 ACCEPT [OilPrice.com] "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume" | kw:oil,crude,gas
+2026-07-31 16:31 ACCEPT [OilPrice.com] "Saudis Push Maritime Coalition as Oil Finds Support" | kw:oil,brent,rice
+2026-07-31 16:31 ACCEPT [NASDAQ Commod] "See How Eldorado Gold Ranks Among Analysts' Top Metals Picks" | kw:gold
+2026-07-31 16:31 ACCEPT [Google News HH] "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment - ene" | kw:oil,opec
+2026-07-31 16:31 ACCEPT [Google News HH] "DW News. . Saudi Arabia exports more crude oil than any other country " | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News HH] "Crude Oil Spills From Shadow Fleet Tanker Off Oman - marinelink.com" | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News HH] "US oil output and demand fell in May, EIA says - Reuters" | kw:oil
+2026-07-31 16:31 ACCEPT [Google News HH] "Crude Oil Gains 1%; Apple Shares Tumble After Q3 Results - Benzinga" | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News HH] "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See " | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News HH] "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - energy" | kw:oil,opec
+2026-07-31 16:31 ACCEPT [Google News HH] "Gold price: record gold output, record cost per ounce - Mining.com" | kw:gold,rice
+2026-07-31 16:31 ACCEPT [Google News HH] "OPEC Cuts 2026 Global Oil Demand Growth Forecast - energynow.com" | kw:oil,opec
+2026-07-31 16:31 ACCEPT [Google News HH] "WTI Crude Oil: Elliott Wave Analysis and Forecast for 31.07.26–07.08.2" | kw:oil,crude,wti
+2026-07-31 16:31 ACCEPT [Google News HH] "WTI Oil rises as geopolitical risks keep supply concerns alive - FXStr" | kw:oil,wti
+2026-07-31 16:31 ACCEPT [Google News HH] "PRODUCTION UNAFFECTED AFTER FIRE BREAKS OUT AT CRUDE OIL ACCUMULATION " | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News HH] "Evening update for crude oil -31-07-2026 - Economies.com" | kw:oil,crude
+2026-07-31 16:31 ACCEPT [Google News KL] "Silver Mining M&A Booms: US$14.3B Surge in Deals - Investing News Netw" | kw:silver
+2026-07-31 16:31 ACCEPT [Google News KL] "Gold Demand Trends: Q2 2026 - Seeking Alpha" | kw:gold
+2026-07-31 16:31 ACCEPT [Google News KL] "Street Cut Its Silver Targets: The Price Fell, the Deficit Held - Inve" | kw:silver,rice
+2026-07-31 16:31 ACCEPT [Google News KL] "Stock Market Today: Dow and Nasdaq Gains, Amazon stock soars, oil pric" | kw:oil,rice
+2026-07-31 16:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD To Rise To $75 By 2027 - UBS - exchange" | kw:silver,rice
+2026-07-31 16:31 ACCEPT [Google News KL] "Gold Price Forecast: UBS Sees $5,200 By June 2027, Warns Of $3,850 Pul" | kw:gold,rice
+2026-07-31 16:31 ACCEPT [Google News NS] "Wheat markets gain momentum as Black Sea war heats up - The Western Pr" | kw:wheat
+2026-07-31 16:31 ACCEPT [Google News CB] "Three Fed dissenters say rate hike is needed to curb inflation - The J" | kw:inflation,rate hike
+2026-07-31 16:31 ACCEPT [Google News CB] "Fed rates dissenters make their case for higher rates - Axios" | kw:fed rate
+2026-07-31 16:31 ACCEPT [Google News CB] "Here's why the 3 dissenters on the Fed wanted to raise interest rates " | kw:interest rate
+2026-07-31 16:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 16:31 SKIP_EVENING already_sent date=2026-07-31
