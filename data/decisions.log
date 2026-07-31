@@ -1,18 +1,3 @@
-2026-06-25 10:35 ACCEPT [NASDAQ Commod] "Oil Extends Losses As Supply Fears Fade" | kw:oil,rice
-2026-06-25 10:35 ACCEPT [Google News HH] "Crude Oil Separates Without Boiling: KAIST and Georgia Tech Develop En" | kw:oil,crude
-2026-06-25 10:35 ACCEPT [Google News NS] "Winter Wheat Basis Conditions in the Golden Triangle - Montana State U" | kw:gold,wheat
-2026-06-25 10:35 ACCEPT [Google News CB] "ECB Will Need to Raise Rates Further, Schnabel Says - U.S. News - Mone" | kw:ecb
-2026-06-25 10:35 ACCEPT [Google News CB] "Dollar skims 13-month highs as investors bank on rate hikes - Yahoo Fi" | kw:rate hike
-2026-06-25 10:35 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 11:01 ACCEPT [BBC Business] "Oil price falls back to pre-Iran war levels" | kw:oil,rice,shipping
-2026-06-25 11:01 ACCEPT [Al Jazeera] "As Ukraine seizes ‘first chance to win’, war horrors come home to Russ" | kw:oil
-2026-06-25 11:02 SKIP_MORNING already_sent date=2026-06-25
-2026-06-25 11:31 ACCEPT [The Guardian Biz] "Oil price falls to pre-Iran war levels as more tankers exit strait of " | kw:oil,rice
-2026-06-25 11:31 ACCEPT [OilPrice.com] "ADNOC Brings BP, TotalEnergies Into Abu Dhabi’s Biggest Gas Cap Projec" | kw:oil,gas
-2026-06-25 11:31 ACCEPT [Google News HH] "Iraq Walks Back Threat on Leaving OPEC Over Output Limits - Bloomberg" | kw:opec
-2026-06-25 11:31 ACCEPT [Google News HH] "U.S. Crude-Oil Pipelines Approach $3.5 Billion in Third-Quarter K... -" | kw:oil,crude
-2026-06-25 11:31 ACCEPT [Google News HH] "Iraq may quit OPEC without higher oil production quota - Shafaq News |" | kw:oil,opec
-2026-06-25 11:31 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD holds onto losses below $4,000 ahead of U" | kw:gold,rice,inflation
 2026-06-25 11:31 ACCEPT [Google News HH] "Price to earnings forward of Davis Commodities Limited – OTC:DTCKF - T" | kw:rice,commodities
 2026-06-25 11:31 ACCEPT [Google News HH] "Iraq says reports of possible OPEC exit do not reflect official positi" | kw:opec
 2026-06-25 11:31 ACCEPT [Google News HH] "Oil touches pre-war levels on rising Middle East supply - Reuters" | kw:oil
@@ -20013,3 +19998,15 @@
 2026-07-31 01:01 ACCEPT [Google News CB] "Yen weakens after intervention-led surge ahead of BOJ policy decision " | kw:boj
 2026-07-31 01:01 ACCEPT [Google News CB] "Japan intervenes to prop up yen ahead of BOJ policy decision, source s" | kw:boj
 2026-07-31 01:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 01:31 ACCEPT [Google News HH] "Go With The Flow – Major Changes Disrupting Global Crude Oil and Refin" | kw:oil,crude
+2026-07-31 01:31 ACCEPT [Google News HH] "OPED-OPEC-HERITAGE-COMMENTARY-FILEPIC-GET - Fairbanks Daily News-Miner" | kw:opec
+2026-07-31 01:31 ACCEPT [Google News HH] "Crude oil surpasses corn and soy to become Argentina’s top export - bu" | kw:oil,crude,corn
+2026-07-31 01:31 ACCEPT [Google News HH] "How China Became the Ultimate Swing Oil Buyer - Crude Oil Prices Today" | kw:oil,crude,rice
+2026-07-31 01:31 ACCEPT [Google News HH] "Asia Has Plenty of Crude Oil, But Refined Fuels Remain Tight: Russell " | kw:oil,crude,fuel
+2026-07-31 01:31 ACCEPT [Google News KL] "Silver Price Today | Silver Spot Price Charts - sdbullion.com" | kw:silver,rice
+2026-07-31 01:31 ACCEPT [Google News KL] "Austral Gold Files Q2 2026 Quarterly Activities Report - TradingView" | kw:gold
+2026-07-31 01:31 ACCEPT [Google News NS] "Corn over $5 or below $4? USDA numbers widen price spread - farmprogre" | kw:corn,rice
+2026-07-31 01:31 ACCEPT [Google News CB] "Asia FX Talk - Suspected JPY intervention ahead of BOJ policy meeting " | kw:boj
+2026-07-31 01:31 ACCEPT [Google News CB] "Why the Fed and the Bank of England Drew Opposite Market Verdicts - St" | kw:bank of england
+2026-07-31 01:31 ACCEPT [Google News CB] "Economic growth slows to 1.5% in second quarter as Fed in no rush to c" | kw:interest rate
+2026-07-31 01:31 SKIP_MORNING already_sent date=2026-07-31
