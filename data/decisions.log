@@ -1,20 +1,3 @@
-2026-06-26 02:33 ACCEPT [Google News KL] "Why is the Global X Copper Miners ETF (COPX) Surging - Kavout | AI" | kw:copper
-2026-06-26 02:33 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 03:01 ACCEPT [Al Jazeera] "Oil prices climb after attack in Strait of Hormuz halts evacuation pla" | kw:oil,crude,brent
-2026-06-26 03:01 ACCEPT [Google News HH] "Crude oil stands at $75 as tankers head to Hormuz after four months of" | kw:oil,crude
-2026-06-26 03:01 ACCEPT [Google News KL] "ALERT: Gold Is Crashing… While The Dollar Rips Higher Silver Price Tod" | kw:gold,silver,rice
-2026-06-26 03:01 ACCEPT [Google News KL] "Wall Street Firms Universally Downgrade Gold Price Forecasts - 富途牛牛" | kw:gold,rice
-2026-06-26 03:01 ACCEPT [Google News CB] "The Fed's Preferred Inflation Metric Just Topped 4%. Here's What That " | kw:inflation,gdp,interest rate
-2026-06-26 03:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 03:31 ACCEPT [Google News HH] "OPEC sees oil demand rising to 124 million bpd by 2050 despite EV grow" | kw:oil,opec
-2026-06-26 03:31 ACCEPT [Google News KL] "Gold Price Declines as Bullish Momentum Fades and Selling Pressure Ret" | kw:gold,rice
-2026-06-26 03:31 ACCEPT [Google News CB] "Fed Still Has An Inflation Problem Despite Plunging Oil Prices - Yarde" | kw:oil,rice,inflation
-2026-06-26 03:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 04:01 ACCEPT [Google News HH] "China’s Collapsing Crude Oil Imports to Fall Further in June - Bloombe" | kw:oil,crude
-2026-06-26 04:01 ACCEPT [Google News HH] "Global Commodities Roundup: Market Talk - Moomoo" | kw:commodities
-2026-06-26 04:01 ACCEPT [Google News HH] "気持ちの良い丸の内【A Pleasant Day In Marunouchi】 Crude Oil Price (9TtWET11CL) -" | kw:oil,crude,rice
-2026-06-26 04:01 ACCEPT [Google News KL] "Gold holds at $4,015, silver at $57 per ounce after new US inflation d" | kw:gold,silver,inflation
-2026-06-26 04:01 ACCEPT [Google News KL] "Gold declines below $4,050 as US PCE inflation supports Fed hike bets " | kw:gold,inflation
 2026-06-26 04:01 ACCEPT [Google News NS] "South Africa’s soybean harvest is at its new record level - Wandile Si" | kw:soybean,harvest
 2026-06-26 04:01 ACCEPT [Google News CB] "Higher Tokyo inflation, hawkish BoJ comments, up odds of October hike " | kw:inflation,boj
 2026-06-26 04:01 ACCEPT [Google News CB] "The Bull Case For Wells Fargo (WFC) Could Change Following Fed Stress " | kw:lng
@@ -20015,3 +19998,15 @@
 2026-07-31 13:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - KWWL" | kw:interest rate
 2026-07-31 13:31 SKIP_MORNING already_sent date=2026-07-31
 2026-07-31 13:31 SKIP_EVENING already_sent date=2026-07-31
+2026-07-31 14:01 ACCEPT [OilPrice.com] "Global Coal Consumption Hits Record Even as Coal Power Declines" | kw:fuel
+2026-07-31 14:01 ACCEPT [OilPrice.com] "ADNOC Overhauls Crude Pricing Methodology" | kw:oil,crude,rice
+2026-07-31 14:01 ACCEPT [Google News HH] "Crude Oil Shrugs Off the Selloff as Barrels Vanish - FOREX.com" | kw:oil,crude
+2026-07-31 14:01 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D14 Jul '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-07-31 14:01 ACCEPT [Google News NS] "Greg Tylka honored for 36 years fighting soybean's silent killer - far" | kw:soybean
+2026-07-31 14:01 ACCEPT [Google News NS] "USDA's record corn crop figures face growing skepticism - farmprogress" | kw:corn
+2026-07-31 14:01 ACCEPT [Google News CB] "Fed dissenters warn against delaying higher interest rates - The Washi" | kw:interest rate
+2026-07-31 14:01 ACCEPT [Google News CB] "Fed Dissenters Say Rate Hikes Needed to Tame High Inflation - Bloomber" | kw:inflation,rate hike
+2026-07-31 14:01 ACCEPT [Google News CB] "Fed leaves interest rate unchanged but with 3 dissents as Warsh praise" | kw:interest rate
+2026-07-31 14:01 ACCEPT [Google News CB] "Kashkari: It’s time for the Fed to raise interest rates - Star Tribune" | kw:interest rate
+2026-07-31 14:01 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 14:01 SKIP_EVENING already_sent date=2026-07-31
