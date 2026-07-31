@@ -1,23 +1,3 @@
-2026-06-25 20:01 ACCEPT [Google News HH] "Deadly earthquakes rock Venezuela, Iraq reportedly threatens OPEC-xit," | kw:opec
-2026-06-25 20:01 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Rebound After Oman Shipping Attack Revives" | kw:oil,crude,shipping
-2026-06-25 20:01 ACCEPT [Google News HH] "Enterprise value to EBIT forward of Davis Commodities Limited – OTC:DT" | kw:commodities
-2026-06-25 20:01 ACCEPT [Google News KL] "PCE Hit 4.1%. Gold Went Up. Here’s Why. - GoldSilver" | kw:gold,silver
-2026-06-25 20:01 ACCEPT [Google News KL] "Why Is Silver’s Mining Margin So Wide? Tavi Costa Explains - GoldSilve" | kw:gold,silver
-2026-06-25 20:01 ACCEPT [Google News KL] "Silver price rebounds after in-line US PCE data eases Dollar support -" | kw:silver,rice
-2026-06-25 20:01 ACCEPT [Google News NS] "Cash Grain Bids June 2026: Soybeans Top Corn and Wheat in USDA AgTrans" | kw:wheat,corn,soybean
-2026-06-25 20:01 ACCEPT [Google News NS] "Feed wheat prices for the 2026 crop continue to decline on Ukraine’s e" | kw:wheat,rice
-2026-06-25 20:01 ACCEPT [Google News NS] "Cultured Wheat-Based Mold Inhibitors Market to Reach $264.6 Million by" | kw:wheat
-2026-06-25 20:01 ACCEPT [Google News NS] "US Wheat Prices Fall as Harvest Progress Exceeds Normal Pace - sekbern" | kw:wheat,rice,harvest
-2026-06-25 20:01 ACCEPT [Google News CB] "Fed's Goolsbee sees glimmer of hope in latest inflation data - Reuters" | kw:inflation
-2026-06-25 20:01 ACCEPT [Google News CB] "Bank of Mexico Leaves Benchmark Interest Rate Unchanged - WSJ" | kw:interest rate
-2026-06-25 20:01 ACCEPT [Google News CB] "Fed's Williams: Inflation still too high, rate policy 'well positioned" | kw:rice,inflation
-2026-06-25 20:01 ACCEPT [Google News CB] "U.S. companies swallowed the oil shock. They’re not sure they can do i" | kw:oil
-2026-06-25 20:01 ACCEPT [Google News CB] "Japan’s 2% Interest Rate Scenario And Implications For The S&P 500 (SP" | kw:interest rate
-2026-06-25 20:31 ACCEPT [Google News KL] "Silver Price Hovers Near Seven-Month Lows as Market Awaits US Inflatio" | kw:silver,rice,inflation
-2026-06-25 20:31 ACCEPT [Google News KL] "Gold Price Forecast: Gold Price Falls Below $4,000, PCE Data May Push " | kw:gold,rice
-2026-06-25 20:31 ACCEPT [Google News NS] "USDA Grain Bids: Kansas, Illinois, Indiana, Ohio, Gulf, and Portland P" | kw:rice
-2026-06-25 20:31 ACCEPT [Google News NS] "Corn Likely to See Greatest Impact From European Drought - DTN Progres" | kw:corn,drought
-2026-06-25 20:31 ACCEPT [Google News NS] "Wheat and Cattle Bounce; Mixed to Lower Elsewhere - Dakota News Networ" | kw:wheat
 2026-06-25 20:31 ACCEPT [Google News CB] "Fed’s Williams: Current Monetary Policy Stance Well Positioned to Rest" | kw:inflation,monetary policy
 2026-06-25 20:31 ACCEPT [Google News CB] "Fed ought to take time to see how falling energy prices impacts inflat" | kw:gold,rice,inflation
 2026-06-25 20:32 ACCEPT [Google News HH] "The Best Commodities to Invest in for the Second Half of 2026 - Mornin" | kw:commodities
@@ -20018,3 +19998,18 @@
 2026-07-31 10:31 ACCEPT [Google News CB] "At the Fed, ‘Warsh can suppress dissent only so much,’ over credibilit" | kw:interest rate
 2026-07-31 10:31 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - financ" | kw:boj
 2026-07-31 10:31 SKIP_MORNING already_sent date=2026-07-31
+2026-07-31 11:01 ACCEPT [MarketWatch] "Why fresh volatility means a ‘valuation opportunity’ is opening up in " | kw:federal reserve
+2026-07-31 11:01 ACCEPT [Google News HH] "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages - " | kw:oil,crude,fuel
+2026-07-31 11:01 ACCEPT [Google News HH] "ADNOC Buys Five Supertankers as Hormuz Crisis Tightens Shipping - Crud" | kw:oil,crude,rice
+2026-07-31 11:01 ACCEPT [Google News HH] "Danske Commodities: A fundamental change has taken place - EnergyWatch" | kw:commodities
+2026-07-31 11:01 ACCEPT [Google News HH] "AngloGold Ashanti (NYSE: AU) H1 profit rises 97% as gold income jumps " | kw:gold
+2026-07-31 11:01 ACCEPT [Google News HH] "Oil futures: Crude inches lower, Hormuz flows eyed - Quantum Commodity" | kw:oil,crude,commodity
+2026-07-31 11:01 ACCEPT [Google News KL] "Current price of silver as of Friday, July 31, 2026 - Fortune" | kw:silver,rice
+2026-07-31 11:01 ACCEPT [Google News NS] "Corn and soybean conditions look good on paper, but how big is the cro" | kw:corn,soybean
+2026-07-31 11:01 ACCEPT [Google News NS] "EU grain harvest nearly 10% smaller due to drought - DCA Market Intell" | kw:harvest,drought
+2026-07-31 11:01 ACCEPT [Google News NS] "16 Fresh Corn Recipes for When You Bought Too Much at the Farmers Mark" | kw:corn
+2026-07-31 11:01 ACCEPT [Google News CB] "BOJ nods to chance of early rate hike as Tokyo props up yen - Reuters" | kw:rate hike,boj
+2026-07-31 11:01 ACCEPT [Google News CB] "‘Mutiny, if need be’: At the Fed, ‘Warsh can suppress dissent only so " | kw:interest rate,rate decision
+2026-07-31 11:01 ACCEPT [Google News CB] "Treasury yields follow oil prices lower as investors await fresh econo" | kw:oil,rice,treasury
+2026-07-31 11:01 ACCEPT [Google News CB] "Instant View: Investors react to BOJ's decision to hold rates - Yahoo " | kw:boj
+2026-07-31 11:01 SKIP_MORNING already_sent date=2026-07-31
