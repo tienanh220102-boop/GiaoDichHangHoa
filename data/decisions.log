@@ -1,13 +1,3 @@
-2026-06-26 13:02 SENT_EVENING articles=20 date=2026-06-26 force=False
-2026-06-26 13:02 GEMINI ERROR gemini-2.5-flash This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-26 13:02 GEMINI FALLBACK gemini-2.5-flash->gemini-2.5-flash-lite code=ERR
-2026-06-26 13:02 GEMINI ERROR gemini-2.5-flash-lite This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
-2026-06-26 13:31 ACCEPT [MarketWatch] "The ambition penalty: Why speaking up and asking for more at work is s" | kw:gdp
-2026-06-26 13:31 ACCEPT [MarketWatch] "Oil heads for a weekly loss, but sluggish traffic in the Strait of Hor" | kw:oil,rice
-2026-06-26 13:31 ACCEPT [The Guardian Biz] "Too hot for work: why extreme heat is a threat to Europe’s productivit" | kw:iron
-2026-06-26 13:31 ACCEPT [The Guardian Biz] "Oil price falls to pre-Iran war levels as more tankers exit strait of " | kw:oil,rice,inflation
-2026-06-26 13:31 ACCEPT [The Guardian Biz] "Trump says he’s ordered investigation into oil companies over alleged " | kw:oil,gas,rice
-2026-06-26 13:31 ACCEPT [The Guardian Biz] "City of Paris achieves partial victory over TotalEnergies in climate r" | kw:oil,gas
 2026-06-26 13:31 ACCEPT [CNBC Commodities] "The average SpaceX buyer post-IPO is almost under water after two-day " | kw:rice
 2026-06-26 13:31 ACCEPT [CNBC Commodities] "Chairman Warsh drastically alters Fed rate statement. Here's what's ch" | kw:fed rate
 2026-06-26 13:31 ACCEPT [CNBC Commodities] "Fed holds rates steady, pares down statement to remove cutting bias" | kw:interest rate,rate decision,federal reserve
@@ -20008,3 +19998,9 @@
 2026-07-31 20:01 ACCEPT [Google News NS] "Feed corn prices in Ukraine continue to decline – APK-Inform - apk-inf" | kw:corn,rice
 2026-07-31 20:01 ACCEPT [Google News NS] "Daily Grain Prices in Western Canada - Manitoba Co-operator" | kw:rice
 2026-07-31 20:01 ACCEPT [Google News CB] "Three Fed Officials Say Inflation Should Have Prompted Higher Rates - " | kw:inflation
+2026-07-31 20:14 ACCEPT [Google News HH] "Gold price: record gold output, record cost per ounce - mining.com" | kw:gold,rice
+2026-07-31 20:14 ACCEPT [Google News HH] "🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Brent Crude Oil surges to $85 per barrel after Iran carries" | kw:oil,crude,brent
+2026-07-31 20:14 ACCEPT [Google News KL] "Gold has value at $4,000 as investors look beyond Fed hawkishness - KI" | kw:gold
+2026-07-31 20:14 ACCEPT [Google News KL] "Copper price rally gathers pace amid global supply squeeze - Mining.co" | kw:copper,rice
+2026-07-31 20:14 ACCEPT [Google News KL] "Gold price eyes first monthly gain since February - Mining.com.au" | kw:gold,rice
+2026-07-31 20:14 ACCEPT [Google News CB] "3 mortgage rate mistakes to avoid post-Fed rate pause - cbsnews.com" | kw:fed rate,rate pause
