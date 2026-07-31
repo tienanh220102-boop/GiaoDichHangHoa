@@ -1,8 +1,3 @@
-2026-06-26 13:31 ACCEPT [CNBC Economy] "ECB hikes interest rates for first time since 2023 as Iran war ramps u" | kw:inflation,central bank,interest rate
-2026-06-26 13:31 ACCEPT [CNBC Economy] "Household worries over finances hit highest level since July 2022, New" | kw:inflation,central bank
-2026-06-26 13:31 ACCEPT [OilPrice.com] "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens" | kw:oil,crude,rice
-2026-06-26 13:31 ACCEPT [OilPrice.com] "Qatar Offers First Crude Loadings to Buyers Since War Began" | kw:crude
-2026-06-26 13:31 ACCEPT [OilPrice.com] "Asia's Crude Buying Spree Is Running Out of Steam" | kw:crude,freight
 2026-06-26 13:31 ACCEPT [EIA Energy] "Permian natural gas production increased faster than crude oil" | kw:oil,crude,gas
 2026-06-26 13:31 ACCEPT [EIA Energy] "California natural gas prices reach historic lows in early 2026" | kw:gas,rice
 2026-06-26 13:31 ACCEPT [EIA Energy] "U.S. industrial natural gas consumption expected to hit records in 202" | kw:gas
@@ -20003,3 +19998,23 @@
 2026-07-31 20:31 ACCEPT [Google News NS] "Corn Ends the Day in the Red | Friday, July 31, 2026 - Successful Farm" | kw:wti,corn
 2026-07-31 20:31 ACCEPT [Google News NS] "Oil, Gold, and Wheat Market Update: Diesel Ban, Central Bank Buying, a" | kw:oil,gold,wheat
 2026-07-31 20:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - WXOW" | kw:interest rate
+2026-07-31 21:01 ACCEPT [Al Jazeera] "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN" | kw:fuel,drought,flood
+2026-07-31 21:01 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says - " | kw:oil,crude
+2026-07-31 21:01 ACCEPT [Google News HH] "Crude Oil Sits Between Middle East Supply Risk and a Payrolls Test - S" | kw:oil,crude
+2026-07-31 21:01 ACCEPT [Google News HH] "Gold prices today, Friday, July 31, 2026: Gold price finally breaks ab" | kw:gold,rice
+2026-07-31 21:01 ACCEPT [Google News HH] "UAE to Overhaul How It Prices All Crude Oil After Big Swings - Bloombe" | kw:oil,crude,rice
+2026-07-31 21:01 ACCEPT [Google News HH] "US Equity Indexes Rise as Amazon's Results Boost Consumer Discretionar" | kw:oil,crude
+2026-07-31 21:01 ACCEPT [Google News HH] "Oil News: Hormuz Ship Counts Keep Crude Oil Futures Bid Despite Weak D" | kw:oil,crude
+2026-07-31 21:01 ACCEPT [Google News KL] "Silver prices today, Friday, July 31, 2026: Silver briefly rises above" | kw:silver,rice,gdp
+2026-07-31 21:01 ACCEPT [Google News KL] "Silver near $60: August drop? - KITCO" | kw:silver
+2026-07-31 21:01 ACCEPT [Google News KL] "Central Banks Bought 289 Tonnes of Gold Last Quarter. Prices Were Fall" | kw:gold,silver,rice
+2026-07-31 21:01 ACCEPT [Google News KL] "Eldorado Gold Slides After Q2 2026 Earnings Miss - news.alphastreet.co" | kw:gold
+2026-07-31 21:01 ACCEPT [Google News NS] "USDA reports lift grain markets as stronger corn and soybean prices op" | kw:corn,soybean,rice
+2026-07-31 21:01 ACCEPT [Google News CB] "Fed dissenters sketch the case for a rate hike - reuters.com" | kw:rate hike
+2026-07-31 21:01 ACCEPT [Google News CB] "Here's why the 3 dissenters on the Fed wanted to raise interest rates " | kw:interest rate
+2026-07-31 21:01 ACCEPT [Google News CB] "Trump wants to cut interest rates. Here's why the Dallas Fed president" | kw:interest rate
+2026-07-31 21:01 ACCEPT [Google News CB] "Fed dissenters warn inflation could become entrenched without monetary" | kw:inflation,monetary policy,tightening
+2026-07-31 21:01 ACCEPT [Google News CB] "BOJ Data Suggest Japan Intervention of About 8.45 Trillion Yen - Bloom" | kw:boj
+2026-07-31 21:01 ACCEPT [Google News CB] "More on the Fed’s New Game of Monetary Policy Football - Bloomberg" | kw:monetary policy
+2026-07-31 21:01 ACCEPT [Google News CB] "Fed Dissenters Say Rate Hikes Needed to Tame High Inflation - Bloomber" | kw:inflation,rate hike
+2026-07-31 21:01 ACCEPT [Google News CB] "Three Fed dissenters say rate hike is needed to curb inflation - finan" | kw:inflation,rate hike
