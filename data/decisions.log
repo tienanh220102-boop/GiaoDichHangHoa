@@ -1,10 +1,3 @@
-2026-06-26 11:01 ACCEPT [Google News HH] "Baghdad Called OPEC’s Bluff on the Worst Possible Day - houseofsaud.co" | kw:opec
-2026-06-26 11:01 ACCEPT [Google News KL] "Why Hecla Mining (HL) Is Down 5.1% After Silver Falls Below US$60 An O" | kw:silver
-2026-06-26 11:01 ACCEPT [Google News KL] "Gold price drops below 880 yuan, gold rush returns to jewelry stores! " | kw:gold,rice
-2026-06-26 11:01 ACCEPT [Google News CB] "Gold set for 3% weekly slide on resilient dollar, Fed hike bets - Inve" | kw:gold
-2026-06-26 11:01 ACCEPT [Google News CB] "ECB survey shows inflation expectations dropping markedly and growth o" | kw:inflation,ecb
-2026-06-26 11:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 11:31 ACCEPT [OilPrice.com] "Crude Prices Sink as Traders Bet on More Iranian Oil" | kw:oil,crude,wti
 2026-06-26 11:31 ACCEPT [Google News HH] "Oil Prices, Consumer Impact, and ECB Speeches: Market Update for June " | kw:oil,rice,ecb
 2026-06-26 11:31 ACCEPT [Google News KL] "Why Hecla Mining (HL) Is Down 5.1% After Silver Falls Below US$60 An O" | kw:silver
 2026-06-26 11:31 ACCEPT [Google News KL] "Gold: Rate worries keep environment challenging – Commerzbank - FXStre" | kw:gold,iron
@@ -20005,3 +19998,16 @@
 2026-07-31 17:31 ACCEPT [Google News NS] "Is the Corn Rally Over or Just Getting Started? - agriculture.com" | kw:corn
 2026-07-31 17:31 ACCEPT [Google News NS] "Wheat markets gain momentum as Black Sea war heats up - producer.com" | kw:wheat
 2026-07-31 17:31 ACCEPT [Google News NS] "Corn Down 3¾¢ | Friday, July 31, 2026 - agriculture.com" | kw:wti,corn
+2026-07-31 18:01 ACCEPT [MarketWatch] "Warsh’s Fed is failing to stick to its own principles for good monetar" | kw:rice,monetary policy,interest rate
+2026-07-31 18:01 ACCEPT [Google News HH] "Oil Leads & Gold Lags: Commodities deliver one of the strongest years " | kw:oil,wti,gold
+2026-07-31 18:01 ACCEPT [Google News HH] "Indian cabinet approves $8.8B to expand offshore oil and gas explorati" | kw:oil,gas
+2026-07-31 18:01 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says - " | kw:oil,crude
+2026-07-31 18:01 ACCEPT [Google News HH] "Will the Iran war kill OPEC? - oleantimesherald.com" | kw:opec
+2026-07-31 18:01 ACCEPT [Google News HH] "The Commodities Feed: Oil slips as more crude flows out of Persian Gul" | kw:oil,crude,commodities
+2026-07-31 18:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD consolidates above $55 as downside mome" | kw:silver,rice
+2026-07-31 18:01 ACCEPT [Google News KL] "Beyond inflation: Five underappreciated drivers of Gold prices - FXStr" | kw:gold,rice,inflation
+2026-07-31 18:01 ACCEPT [Google News KL] "ELD: Revenue rose on higher gold prices as Skouries and McIlvenna Bay " | kw:gold,rice
+2026-07-31 18:01 ACCEPT [Google News KL] "AngloGold Ashanti (NYSE: AU) H1 profit rises 97% as gold income jumps " | kw:gold
+2026-07-31 18:01 ACCEPT [Google News NS] "Government to buy grain at market prices - Valor International" | kw:rice
+2026-07-31 18:01 ACCEPT [Google News CB] "Opinion: Warsh’s Fed is failing to stick to its own principles for goo" | kw:monetary policy
+2026-07-31 18:01 ACCEPT [Google News CB] "What Unemployment Insurance Claims Can — and Cannot — Tell Us - Federa" | kw:federal reserve
