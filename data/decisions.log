@@ -1,5 +1,3 @@
-2026-06-26 17:31 ACCEPT [Google News CB] "Kashkari Says Fed May Need Rate Hike Amid Broad Inflation - Bloomberg" | kw:inflation,rate hike
-2026-06-26 18:01 ACCEPT [MarketWatch] "Bond yields are falling as inflation pops. The Fed’s tough talk under " | kw:inflation,treasury,federal reserve
 2026-06-26 18:01 ACCEPT [OilPrice.com] "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes" | kw:oil,gas
 2026-06-26 18:01 ACCEPT [Mining.com] "i-80 Gold terminates Vox Royalty offtake with $4.8M payment" | kw:gold
 2026-06-26 18:01 ACCEPT [Mining.com] "Op-Ed: Acid is becoming copper’s new price signal" | kw:copper,rice
@@ -20000,3 +19998,11 @@
 2026-08-01 02:01 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 02:31 ACCEPT [Google News HH] "Leaders of Korea, Argentina agree to energy supply chain cooperation i" | kw:supply chain
 2026-08-01 02:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 03:01 ACCEPT [Google News HH] "US Dollar Records Monthly Decline, Crude Oil Surges Over 24% on Monthl" | kw:oil,crude,gold
+2026-08-01 03:01 ACCEPT [Google News HH] "Crude Oil Prices Climb as Global Supplies Are Disrupted - TradingView" | kw:oil,crude,rice
+2026-08-01 03:01 ACCEPT [Google News KL] "TSX ends lower as gold falls, posts fourth straight monthly gain - reu" | kw:gold
+2026-08-01 03:01 ACCEPT [Google News KL] "Gold miners show strong cash flow and growth de... - Pluang" | kw:gold
+2026-08-01 03:01 ACCEPT [Google News NS] "Wheat, soybeans, corn see more losses to end the week - brownfieldagne" | kw:wheat,corn,soybean
+2026-08-01 03:01 ACCEPT [Google News CB] "Treasury selloff signals need to bolster Fed's inflation credibility, " | kw:inflation,treasury
+2026-08-01 03:01 ACCEPT [Google News CB] "Real Estate Recap: The Fed, Tariffs, SF Housing - Law360" | kw:tariff
+2026-08-01 03:01 SKIP_MORNING already_sent date=2026-08-01
