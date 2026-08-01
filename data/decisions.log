@@ -1,5 +1,3 @@
-2026-06-26 20:31 ACCEPT [Google News NS] "Nigeria Deepens US Wheat Partnership as Demand for Premium Quality Gra" | kw:wheat
-2026-06-26 20:31 ACCEPT [Google News CB] "Fed’s Kashkari projects one interest-rate hike this year. Here’s what " | kw:rate hike
 2026-06-26 20:31 ACCEPT [Google News CB] "Noon Business Lunch 6/26/26: Hawkish Fed, Inflation fight, housing hot" | kw:inflation
 2026-06-26 21:01 ACCEPT [MarketWatch] "Iran’s ship attack tests the shipping-insurance market just as war-ris" | kw:shipping
 2026-06-26 21:01 ACCEPT [Google News HH] "Crude Oil Prices Fall Sharply as Global Supply Risks Ease - Barchart.c" | kw:oil,crude,rice
@@ -20000,3 +19998,11 @@
 2026-08-01 05:31 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 06:01 ACCEPT [Google News KL] "Will gold prices extend their record-breaking run? - dw.com" | kw:gold,rice
 2026-08-01 06:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 06:31 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says | " | kw:oil,crude
+2026-08-01 06:31 ACCEPT [Google News HH] "Supply Disruptions Underpin Crude Oil Prices - Yahoo Finance" | kw:oil,crude,rice
+2026-08-01 06:31 ACCEPT [Google News HH] "UAE to Overhaul How It Prices All Crude Oil After Big Swings - bloombe" | kw:oil,crude,rice
+2026-08-01 06:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D03 Aug '26 Futures Price History - ba" | kw:oil,crude,rice
+2026-08-01 06:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD consolidates above $55 as downside mome" | kw:silver,rice
+2026-08-01 06:31 ACCEPT [Google News NS] "Government to buy grain at market prices - valorinternational.globo.co" | kw:rice
+2026-08-01 06:31 ACCEPT [Google News CB] "Trump wanted rate cuts as ‘Rocket Fuel.’ That isn’t happening - The Se" | kw:fuel,rate cut
+2026-08-01 06:31 SKIP_MORNING already_sent date=2026-08-01
