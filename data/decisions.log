@@ -1,5 +1,3 @@
-2026-06-26 22:31 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Sink Below 200-Day Average on Oil Demand F" | kw:oil,crude
-2026-06-26 22:31 ACCEPT [Google News KL] "Gold, silver rebound as Fed hike odds cool after oil slide - Kitco PM " | kw:oil,gold,silver
 2026-06-26 22:31 ACCEPT [Google News KL] "Precious Metals Market Update: Gold, Silver, Platinum, and Palladium T" | kw:gold,silver
 2026-06-26 22:31 ACCEPT [Google News KL] "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signa" | kw:gold,silver,central bank
 2026-06-26 22:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG breaks below $60, bears eye $55 - Bitget" | kw:silver,rice
@@ -20000,3 +19998,7 @@
 2026-08-01 09:50 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 10:01 ACCEPT [Google News HH] "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd " | kw:oil,opec
 2026-08-01 10:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 10:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D10 Aug '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-08-01 10:31 ACCEPT [Google News HH] "Crude Oil Futures Separate From Reality as Asia Physical Market Buckle" | kw:oil,crude
+2026-08-01 10:31 ACCEPT [Google News KL] "Central Banks Bought 289 Tonnes of Gold Last Quarter. Prices Were Fall" | kw:gold,silver,rice
+2026-08-01 10:31 SKIP_MORNING already_sent date=2026-08-01
