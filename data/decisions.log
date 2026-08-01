@@ -1,7 +1,3 @@
-2026-06-27 09:01 ACCEPT [Google News HH] "U.S. Crude Oil Futures Dip Amid Rising Tensions with Iran - GuruFocus" | kw:oil,crude
-2026-06-27 09:01 ACCEPT [Google News KL] "O2 - Check Check Silver Price Today (4DDa2ZFOPI) - Mshale" | kw:silver,rice
-2026-06-27 09:01 ACCEPT [Google News KL] "Gold price rises by Tk5,482 per bhori, new price set at Tk228,556 - Dh" | kw:gold,rice
-2026-06-27 09:01 ACCEPT [Google News CB] "QNB Projects Gradual BoJ Tightening as Japan’s Inflation Dynamics Shif" | kw:inflation,boj,tightening
 2026-06-27 09:01 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 09:09 ACCEPT [Google News KL] "Gold Rate Today (June 27): Check City-Wise 24K, 22K Gold - APAC Media" | kw:gold
 2026-06-27 09:09 ACCEPT [Google News KL] "Gold Rate Today 27 June 2026 | Check 18K, 22K & 24K Gold Rate Today – " | kw:gold
@@ -20002,3 +19998,9 @@
 2026-08-01 15:34 ACCEPT [Google News HH] "Türkiye, Iraq sign one-year agreement on Iraq-Türkiye Crude Oil Pipeli" | kw:oil,crude
 2026-08-01 15:35 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 15:35 SKIP_EVENING already_sent date=2026-08-01
+2026-08-01 16:01 ACCEPT [Google News HH] "Storage data shows oil inventories are near tank bottoms - Midland Rep" | kw:oil
+2026-08-01 16:01 ACCEPT [Google News HH] "Türkiye, Iraq sign one-year agreement on Iraq-Türkiye Crude Oil Pipeli" | kw:oil,crude
+2026-08-01 16:01 ACCEPT [Google News HH] "Leaders of Korea, Argentina agree to energy supply chain cooperation i" | kw:supply chain
+2026-08-01 16:01 ACCEPT [Google News CB] "Warsh Floats Cut in Number of Fed Rate-Setting Meetings - wsj.com" | kw:fed rate
+2026-08-01 16:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 16:01 SKIP_EVENING already_sent date=2026-08-01
