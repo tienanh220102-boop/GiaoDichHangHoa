@@ -1,5 +1,3 @@
-2026-06-26 21:03 ACCEPT [Google News NS] "Tennessee Daily Grain Bids: Corn, Soybeans, and Wheat Prices – June 26" | kw:wheat,corn,soybean
-2026-06-26 21:31 ACCEPT [MarketWatch] "Fed’s Kashkari now projects one interest-rate hike this year. Here’s w" | kw:rate hike
 2026-06-26 21:31 ACCEPT [NASDAQ Commod] "Jim Wiederhold: Industrial Metals Beating Gold in 2026 — What's Next?" | kw:gold,commodity,commodities
 2026-06-26 21:31 ACCEPT [NASDAQ Commod] "Anglo American, Codelco Finalize Deal to Merge Adjacent Copper Mines" | kw:copper
 2026-06-26 21:31 ACCEPT [Google News KL] "Gold & silver market update: Silver below $60, gold $4,100 test, ETF s" | kw:gold,silver,treasury
@@ -20000,3 +19998,10 @@
 2026-08-01 07:41 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 08:01 ACCEPT [Google News KL] "Gold Has Given Back Nearly 30% of Its Record Rally in Just Seven Month" | kw:gold
 2026-08-01 08:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 08:31 ACCEPT [Google News HH] "US crude oil output fell in May, while exports hit record, EIA says | " | kw:oil,crude
+2026-08-01 08:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D21 Jul '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-08-01 08:31 ACCEPT [Google News KL] "Explained: Why China Is Pushing Investors From Paper Gold Toward Physi" | kw:gold
+2026-08-01 08:31 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-01 08:31 ACCEPT [Google News CB] "ECB official warns climate crisis poses growing threat to ‘core financ" | kw:ecb
+2026-08-01 08:31 ACCEPT [Google News CB] "Indonesia’s state banks fund construction surge as central bank chief " | kw:central bank
+2026-08-01 08:31 SKIP_MORNING already_sent date=2026-08-01
