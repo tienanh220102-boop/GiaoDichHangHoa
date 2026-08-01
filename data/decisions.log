@@ -1,66 +1,3 @@
-2026-06-26 14:01 ACCEPT [Google News CB] "PCE inflation accelerates, rising Fed Pressure; GDP revised upward; Mi" | kw:inflation,gdp
-2026-06-26 14:01 ACCEPT [Google News CB] "New York Fed finds elevated global supply chain pressure in May - MSN" | kw:supply chain
-2026-06-26 14:01 ACCEPT [Google News CB] "Core PCE inflation expected to edge higher in May, keeping September F" | kw:inflation,fed rate,rate hike
-2026-06-26 14:01 ACCEPT [Google News CB] "Traders pricing in a rate hike by year end after jobs jump - MSN" | kw:rate hike
-2026-06-26 14:01 ACCEPT [Google News CB] "Euro Slips Against Sterling as Market Bets on ECB Rate Hikes Diminish " | kw:rate hike,ecb
-2026-06-26 14:01 ACCEPT [Google News CB] "The Federal Reserve just delivered terrible news for the stock market," | kw:silver,federal reserve
-2026-06-26 14:01 ACCEPT [Google News CB] "Dollar Reverses Course, Edges Lower as Inflation Data Largely Meets Ex" | kw:inflation
-2026-06-26 14:01 ACCEPT [Google News CB] "Oil prices—past, present, and futures - UBS" | kw:oil,rice
-2026-06-26 14:01 ACCEPT [Google News CB] "Key inflation gauge jumps to 3-year high in latest sign of affordabili" | kw:inflation
-2026-06-26 14:01 ACCEPT [Google News CB] "Dollar slips and gold rallies on US-Iran peace deal - MSN" | kw:gold
-2026-06-26 14:01 ACCEPT [Google News CB] "Iraq warns it might leave Opec if oil quota not raised, say sources - " | kw:oil,opec
-2026-06-26 14:01 ACCEPT [Google News CB] "Stocks rally on renewed AI optimism, oil price declines - MSN" | kw:oil,wti,rice
-2026-06-26 14:01 ACCEPT [Google News CB] "Inflation hits 4.1 percent in May, highest level in 3 years - MSN" | kw:inflation
-2026-06-26 14:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 14:01 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 14:31 ACCEPT [Al Jazeera] "Iraq’s new PM launches anticorruption campaign, but is it enough?" | kw:gold
-2026-06-26 14:31 ACCEPT [OilPrice.com] "Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit" | kw:oil,opec,gas
-2026-06-26 14:31 ACCEPT [Mining.com] "Treasure Hunt – Nova Scotia: Canada’s first mining frontier" | kw:flood
-2026-06-26 14:31 ACCEPT [Mining.com] "Aclara Resources gets environmental OK for Chile rare earths project" | kw:iron
-2026-06-26 14:31 ACCEPT [Google News HH] "Gold and Crude Oil: Why Are They Both Falling Simultaneously? How the " | kw:oil,crude,gold
-2026-06-26 14:31 ACCEPT [Google News HH] "US crude oil falls below $70 a barrel despite Iranian attack on cargo " | kw:oil,crude,wti
-2026-06-26 14:31 ACCEPT [Google News HH] "Nigerian crude Usan sees first trade in Platts MOC amid wider uptick i" | kw:crude
-2026-06-26 14:31 ACCEPT [Google News HH] "Century Global Commodities Corporation Reports Earnings Results for th" | kw:commodities
-2026-06-26 14:31 ACCEPT [Google News KL] "Silver Price Forecast: Silver Pullback Sets Up Rebound Near $50 Suppor" | kw:silver,rice
-2026-06-26 14:31 ACCEPT [Google News KL] "Why gold prices fell below $4,000 - Axios" | kw:gold,rice
-2026-06-26 14:31 ACCEPT [Google News KL] "Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavou" | kw:gold
-2026-06-26 14:31 ACCEPT [Google News NS] "Is the Teucrium Soybean Fund (SOYB) a Timely Bet on the Biofuel Boom? " | kw:fuel,soybean
-2026-06-26 14:31 ACCEPT [Google News NS] "N. Korea grain prices stay near record highs | North Korea News - Dail" | kw:rice
-2026-06-26 14:31 ACCEPT [Google News CB] "Warsh reaches within the Fed for latest advisory appointments - CNBC" | kw:wti
-2026-06-26 14:31 ACCEPT [Google News CB] "Fed rate hikes seem likely this year: What does that mean for mortgage" | kw:fed rate,rate hike
-2026-06-26 14:31 ACCEPT [Google News CB] "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4% " | kw:inflation
-2026-06-26 14:31 ACCEPT [Google News CB] "ECB Says Consumers’ Short-Term Price Expectations Fall Sharply - Bloom" | kw:rice,ecb
-2026-06-26 14:31 ACCEPT [Google News CB] "Gold And Silver Plunge On Expectations For Interest Rate Hikes - Insur" | kw:gold,silver,interest rate
-2026-06-26 14:31 ACCEPT [Google News CB] "Gold gains as dollar weakens; still on track for fourth straight weekl" | kw:gold
-2026-06-26 14:31 ACCEPT [Google News CB] "Traders Pare ECB Rate Bets to Below Quarter-Point Hike in 2026 - Bloom" | kw:ecb
-2026-06-26 14:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 14:31 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 15:01 ACCEPT [Google News HH] "Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit - Crude Oi" | kw:oil,crude,opec
-2026-06-26 15:01 ACCEPT [Google News KL] "i-80 Gold Announces Termination of Gold Offtake Agreement - Investing " | kw:gold
-2026-06-26 15:01 ACCEPT [Google News NS] "Corn Rallies on Thursday as a Drier Window Opens Up - Barchart.com" | kw:corn
-2026-06-26 15:01 ACCEPT [Google News CB] "Central Bank discussed future pause in rate cuts, Galípolo says - Valo" | kw:central bank,rate cut
-2026-06-26 15:01 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 15:01 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 15:11 ACCEPT [Google News HH] "A world rejecting OPEC’s control could usher in sub-$50-a-barrel oil p" | kw:oil,opec,rice
-2026-06-26 15:11 ACCEPT [Google News KL] "Nickel Prices Plunge 6% on Macro Tightening and Indonesia Supply Polic" | kw:nickel,rice,tightening
-2026-06-26 15:11 ACCEPT [Google News NS] "Morning Comments - The Andersons Trade Group" | kw:gdp
-2026-06-26 15:11 ACCEPT [Google News NS] "Corn Rallies on Thursday as a Drier Window Opens Up - Barchart" | kw:corn
-2026-06-26 15:11 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 15:11 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 15:31 ACCEPT [OilPrice.com] "China Isn’t Giving Up On Coal Despite Green Energy Goals" | kw:fuel
-2026-06-26 15:31 ACCEPT [Google News KL] "Gold and Silver Rally on Doubts Over US Inflation and Fed Rate Hikes -" | kw:gold,silver,inflation
-2026-06-26 15:31 ACCEPT [Google News KL] "Gold and Silver Prices Rise on Friday, June 26, 2026 – Kitco News - Ne" | kw:gold,silver,rice
-2026-06-26 15:31 ACCEPT [Google News NS] "Nigerian Flour Millers Tour Kansas Wheat Facilities Amid Record US Whe" | kw:wheat
-2026-06-26 15:31 ACCEPT [Google News NS] "Biofungicide Trials for Septoria Tritici in Winter Wheat: 2026 Results" | kw:wheat
-2026-06-26 15:31 ACCEPT [Google News CB] "Austan Goolsbee warns core inflation trending wrong way - qz.com" | kw:inflation
-2026-06-26 15:31 SKIP_MORNING already_sent date=2026-06-26
-2026-06-26 15:31 SKIP_EVENING already_sent date=2026-06-26
-2026-06-26 16:01 ACCEPT [CNBC Commodities] "Minneapolis Fed President Neel Kashkari says he expects a rate hike th" | kw:rate hike
-2026-06-26 16:01 ACCEPT [OilPrice.com] "Russia’s Fuel Crisis Is Pushing the Kremlin Toward Kazakhstan" | kw:gas,fuel,shortage
-2026-06-26 16:01 ACCEPT [Google News HH] "Iraq's Oil Ministry denies PM discussed OPEC exit - news.cgtn.com" | kw:oil,opec
-2026-06-26 16:01 ACCEPT [Google News HH] "Brent Crude Oil is down by 5.03% - TradingView" | kw:oil,crude,brent
-2026-06-26 16:01 ACCEPT [Google News HH] "Crude Oil Hits 17-week Low - TradingView" | kw:oil,crude
-2026-06-26 16:01 ACCEPT [Google News KL] "Gold gains as dollar weakens; still on track for fourth straight weekl" | kw:gold
 2026-06-26 16:01 ACCEPT [Google News KL] "Gold Prices Likely to Stay Under Pressure Amid Strong US Dollar and Fe" | kw:gold,rice
 2026-06-26 16:01 ACCEPT [Google News CB] "ECB Scraps 40 Outdated Supervisory Guides to Boost European Bank Lendi" | kw:ecb
 2026-06-26 16:01 ACCEPT [Google News CB] "Kashkari Says Fed May Need to Raise Rates Amid Broad Inflation - Bloom" | kw:inflation
@@ -20061,3 +19998,15 @@
 2026-08-01 00:31 ACCEPT [Google News CB] "Fed rates dissenters make their case for higher rates - Axios" | kw:fed rate
 2026-08-01 00:31 ACCEPT [Google News CB] "Fed dissenters sketch the case for a rate hike - Yahoo Finance" | kw:rate hike
 2026-08-01 00:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 01:01 ACCEPT [Google News HH] "China’s crude oil imports fell in the second quarter - eia.gov" | kw:oil,crude
+2026-08-01 01:01 ACCEPT [Google News HH] "Crude Oil Retreats on Strait of Hormuz Traffic News, Yet Brent and WTI" | kw:oil,crude,brent
+2026-08-01 01:01 ACCEPT [Google News HH] "Why the Price of Gasoline Has Deviated from Crude Oil - perspectives.a" | kw:oil,crude,gas
+2026-08-01 01:01 ACCEPT [Google News HH] "Korea, Argentina leaders agree to energy supply chains cooperation in " | kw:supply chain
+2026-08-01 01:01 ACCEPT [Google News HH] "🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Brent Crude Oil surges to $85 per barrel after Iran carries" | kw:oil,crude,brent
+2026-08-01 01:01 ACCEPT [Google News KL] "ELD: Revenue rose on higher gold prices as Skouries and McIlvenna Bay " | kw:gold,rice
+2026-08-01 01:01 ACCEPT [Google News NS] "Commodity markets daily recap - St Joseph Post" | kw:commodity
+2026-08-01 01:01 ACCEPT [Google News NS] "Corn Rally Pauses as Weather Shifts, but Bigger Price Risks Still Loom" | kw:corn,rice
+2026-08-01 01:01 ACCEPT [Google News CB] "Opinion: Warsh’s Fed is failing to stick to its own principles for goo" | kw:monetary policy
+2026-08-01 01:01 ACCEPT [Google News CB] "Why Fed dissenters are supporting rate hikes - Los Angeles Times" | kw:rate hike
+2026-08-01 01:01 ACCEPT [Google News CB] "Three Fed dissenters say rate hike is needed to curb inflation - The J" | kw:inflation,rate hike
+2026-08-01 01:01 SKIP_MORNING already_sent date=2026-08-01
