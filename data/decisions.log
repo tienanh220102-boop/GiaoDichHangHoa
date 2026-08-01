@@ -1,7 +1,3 @@
-2026-06-26 22:31 ACCEPT [Google News KL] "Precious Metals Market Update: Gold, Silver, Platinum, and Palladium T" | kw:gold,silver
-2026-06-26 22:31 ACCEPT [Google News KL] "Gold’s Worst Week of 2026. Central Banks Just Filed a Record Buy Signa" | kw:gold,silver,central bank
-2026-06-26 22:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG breaks below $60, bears eye $55 - Bitget" | kw:silver,rice
-2026-06-26 22:31 ACCEPT [Google News NS] "Crops Analysis | Bearish weekly closes in wheat - Pro Farmer" | kw:lng,wheat
 2026-06-26 22:31 ACCEPT [Google News NS] "Market Snapshot | Wheat fades while corn, soybeans work to notch modes" | kw:wheat,corn,soybean
 2026-06-26 22:31 ACCEPT [Google News CB] "Stock Market Insights: What Kevin Warsh’s new Fed means for interest r" | kw:inflation,interest rate
 2026-06-26 22:42 ACCEPT [Google News CB] "The Fed's Neel Kashkari is now penciling in an interest rate hike this" | kw:interest rate,rate hike
@@ -20002,3 +19998,8 @@
 2026-08-01 10:31 ACCEPT [Google News HH] "Crude Oil Futures Separate From Reality as Asia Physical Market Buckle" | kw:oil,crude
 2026-08-01 10:31 ACCEPT [Google News KL] "Central Banks Bought 289 Tonnes of Gold Last Quarter. Prices Were Fall" | kw:gold,silver,rice
 2026-08-01 10:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 11:01 ACCEPT [Google News HH] "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow" | kw:opec
+2026-08-01 11:01 ACCEPT [Google News KL] "symbol__ Stock Quote Price and Forecast - cnn.com" | kw:rice
+2026-08-01 11:01 ACCEPT [Google News KL] "Capstone Copper Q2 Earnings Call Highlights - MarketBeat" | kw:copper
+2026-08-01 11:01 ACCEPT [Google News KL] "Gold Had Every Reason to Rally Today. It Didn’t. Five Reasons Why. - g" | kw:gold,silver
+2026-08-01 11:01 SKIP_MORNING already_sent date=2026-08-01
