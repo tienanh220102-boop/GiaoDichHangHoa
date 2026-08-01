@@ -1,7 +1,3 @@
-2026-06-27 13:01 ACCEPT [Google News HH] "OPEC Quota: Increased Oil Output Tied to Improved Pipeline Security, S" | kw:oil,opec
-2026-06-27 13:01 ACCEPT [Google News NS] "Cooking with Tammy Kelly: It’s a “Corntastic” Day!! - Neuse News" | kw:corn
-2026-06-27 13:01 ACCEPT [Google News CB] "Services inflation is hitting Americans hard. What can the Fed do? - Y" | kw:inflation
-2026-06-27 13:01 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 13:02 DIRECTION_FIX Soybean: "tăng 0.31%" → "giảm 0.31%"
 2026-06-27 13:02 SENT_EVENING articles=20 date=2026-06-27 force=False
 2026-06-27 13:31 ACCEPT [MarketWatch] "AI turbocharged the stock market. Now it’s firing up the economy." | kw:gold,gdp
@@ -20002,3 +19998,6 @@
 2026-08-01 18:56 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice
 2026-08-01 18:56 ACCEPT [Google News KL] "Silver (SIW00) Future Contract Prices & News - Google Finance - google" | kw:silver,rice
 2026-08-01 18:56 ACCEPT [Google News KL] "Gold price per tola drops Rs3,700 in Pakistan - Business Recorder" | kw:gold,rice
+2026-08-01 19:01 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-01 19:01 ACCEPT [Google News KL] "Citi Cuts Brent Forecasts as U.S.-Iran MoU Points to Strait of Hormuz " | kw:brent
+2026-08-01 19:01 ACCEPT [Google News KL] "Gold Rate Today In India, Check Live 22 And 24 Carat Gold Price - NDTV" | kw:gold,rice
