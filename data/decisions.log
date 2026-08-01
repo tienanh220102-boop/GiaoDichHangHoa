@@ -1,6 +1,3 @@
-2026-06-26 21:01 ACCEPT [Google News NS] "High Magnetic Induction Grain-Oriented Silicon Steel Market - openPR.c" | kw:steel
-2026-06-26 21:01 ACCEPT [Google News NS] "Soybean Prices Slide Midday as Market Awaits Weekly Export Reports - H" | kw:soybean,rice
-2026-06-26 21:03 ACCEPT [Google News HH] "11th Circ. Told Loan Program Wasn't Commodities Investing - Law360" | kw:wti,commodities
 2026-06-26 21:03 ACCEPT [Google News KL] "Silver Price June 29 2026 - Robinhood" | kw:silver,rice
 2026-06-26 21:03 ACCEPT [Google News KL] "Cashing Out: How Basel III and High Rates Triggered the Great Selloff " | kw:gold,rice
 2026-06-26 21:03 ACCEPT [Google News KL] "TSX rises as gold prices lift basic materials sector, U.S. markets mov" | kw:gold,rice
@@ -20001,3 +19998,7 @@
 2026-08-01 07:31 ACCEPT [Google News NS] "SOYBEAN-F|Soybean Futures|Price:1170.310| - TradingKey" | kw:soybean,rice
 2026-08-01 07:31 ACCEPT [Google News NS] "Oil, Gold, and Wheat Market Update: Diesel Ban, Central Bank Buying, a" | kw:oil,gold,wheat
 2026-08-01 07:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 07:41 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D21 Jul '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-08-01 07:41 ACCEPT [Google News KL] "Gold Price Stagnation and Mining Cash Flow: Market Outlook 2026 - News" | kw:gold,rice
+2026-08-01 07:41 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be ‘Rocket Fuel’ for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-01 07:41 SKIP_MORNING already_sent date=2026-08-01
