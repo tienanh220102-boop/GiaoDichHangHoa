@@ -1,11 +1,3 @@
-2026-06-27 11:31 ACCEPT [Google News CB] "Gallup poll shows increase in church attendance - ECB Publishing, Inc." | kw:ecb
-2026-06-27 11:31 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 12:01 ACCEPT [Google News KL] "Gold market capitulation echoes 2022 — will it resolve higher? - Crypt" | kw:gold
-2026-06-27 12:01 ACCEPT [Google News NS] "Bluegrass leads a growing list of grassy weed threats in winter wheat " | kw:wheat
-2026-06-27 12:01 ACCEPT [Google News NS] "Petrobras Explores Entry into Corn Ethanol Market, Aiming to Become a " | kw:fuel,corn
-2026-06-27 12:01 ACCEPT [Google News CB] "Services inflation is hitting Americans hard. What can the Fed do? - Y" | kw:inflation
-2026-06-27 12:01 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 12:31 ACCEPT [Google News HH] "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com" | kw:opec
 2026-06-27 12:31 ACCEPT [Google News HH] "Gold Price Today in Delhi – 18K, 22K & 24K Rate | 27 June 2026 - The T" | kw:gold,rice
 2026-06-27 12:31 ACCEPT [Google News KL] "Gold price declines Rs 7,600 per tola in a week - myRepublica" | kw:gold,rice
 2026-06-27 12:31 ACCEPT [Google News NS] "European Corn Surges as US Market Eyes El Niño - Barchart" | kw:corn
@@ -20006,3 +19998,11 @@
 2026-08-01 17:31 ACCEPT [Google News CB] "US Treasury undertakes historic intervention in yen market - Financial" | kw:treasury
 2026-08-01 17:31 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - WQOW" | kw:interest rate
 2026-08-01 17:31 ACCEPT [Google News CB] "Long-Term Treasury Yields Surge After Fed Meeting - Mott Capital Manag" | kw:treasury
+2026-08-01 17:53 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice
+2026-08-01 17:53 ACCEPT [Google News HH] "‘Strategic milestone’: Turkey, Iraq sign one-year deal to keep crude o" | kw:oil,crude
+2026-08-01 17:53 ACCEPT [Google News NS] "Nebraska Project Aims to Turn Corn Ethanol Into Sustainable Plastic - " | kw:corn
+2026-08-01 17:53 ACCEPT [Google News NS] "US wheat falls on technical trading - livemint.com" | kw:wheat
+2026-08-01 17:53 ACCEPT [Google News NS] "Inside the Black Sea Grain Trap Everyone is Ignoring - Lavender Hotel" | kw:lng
+2026-08-01 17:53 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,rice,interest rate
+2026-08-01 17:53 ACCEPT [Google News CB] "Fed’s Credibility Test and J&J’s New Bet - bloomberg.com" | kw:wti
+2026-08-01 17:53 ACCEPT [Google News CB] "Fed Dissenters Say Rate Hikes Needed to Tame High Inflation - bloomber" | kw:inflation,rate hike
