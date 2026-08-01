@@ -1,7 +1,3 @@
-2026-06-26 21:03 ACCEPT [Google News KL] "Silver Price June 29 2026 - Robinhood" | kw:silver,rice
-2026-06-26 21:03 ACCEPT [Google News KL] "Cashing Out: How Basel III and High Rates Triggered the Great Selloff " | kw:gold,rice
-2026-06-26 21:03 ACCEPT [Google News KL] "TSX rises as gold prices lift basic materials sector, U.S. markets mov" | kw:gold,rice
-2026-06-26 21:03 ACCEPT [Google News NS] "Americans have always had the ability to step up (Grain Marketing) - A" | kw:fuel
 2026-06-26 21:03 ACCEPT [Google News NS] "Tennessee Daily Grain Bids: Corn, Soybeans, and Wheat Prices – June 26" | kw:wheat,corn,soybean
 2026-06-26 21:31 ACCEPT [MarketWatch] "Fed’s Kashkari now projects one interest-rate hike this year. Here’s w" | kw:rate hike
 2026-06-26 21:31 ACCEPT [NASDAQ Commod] "Jim Wiederhold: Industrial Metals Beating Gold in 2026 — What's Next?" | kw:gold,commodity,commodities
@@ -20002,3 +19998,5 @@
 2026-08-01 07:41 ACCEPT [Google News KL] "Gold Price Stagnation and Mining Cash Flow: Market Outlook 2026 - News" | kw:gold,rice
 2026-08-01 07:41 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be ‘Rocket Fuel’ for the economy. H" | kw:fuel,interest rate,rate cut
 2026-08-01 07:41 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 08:01 ACCEPT [Google News KL] "Gold Has Given Back Nearly 30% of Its Record Rally in Just Seven Month" | kw:gold
+2026-08-01 08:01 SKIP_MORNING already_sent date=2026-08-01
