@@ -1,8 +1,3 @@
-2026-06-26 19:14 ACCEPT [Google News KL] "Silver Price Stays Below $60 as RSI Holds in Oversold Territory: Techn" | kw:silver,rice
-2026-06-26 19:14 ACCEPT [Google News KL] "Gold Price Today | Gold Price Update | Gold Price Increase | Express N" | kw:gold,rice
-2026-06-26 19:14 ACCEPT [Google News NS] "After the Bell | Sideways trade in corn and soybeans - Pro Farmer" | kw:corn,soybean
-2026-06-26 19:14 ACCEPT [Google News NS] "Mexico corn output lower, U.S. supplies most imports - agronews.com" | kw:corn
-2026-06-26 19:14 ACCEPT [Google News CB] "Bond yields are falling as inflation pops. The Fed’s tough talk under " | kw:inflation
 2026-06-26 19:14 ACCEPT [Google News CB] "Prices Rising at Fastest Rate in 3 Years, Fed’s Preferred Inflation Ga" | kw:rice,inflation
 2026-06-26 19:31 ACCEPT [Google News HH] "Dollar Weakens with Crude Oil Prices - Barchart" | kw:oil,crude,rice
 2026-06-26 19:31 ACCEPT [Google News HH] "Crude Oil Prices Sink as Supplies Out of the Persian Gulf Accelerate -" | kw:oil,crude,rice
@@ -20003,3 +19998,11 @@
 2026-08-01 04:31 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
 2026-08-01 04:31 ACCEPT [Google News CB] "J.P. Morgan drops Fed rate bombshell over Warsh, inflation - thestreet" | kw:inflation,fed rate
 2026-08-01 04:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 05:01 ACCEPT [Google News HH] "US Dollar Monthly Line Falls, Crude Oil Monthly Lines Surge Over 24%, " | kw:oil,crude,gold
+2026-08-01 05:01 ACCEPT [Google News KL] "Gold miners show strong cash flow and growth de... - pluang.com" | kw:gold
+2026-08-01 05:01 ACCEPT [Google News KL] "Shengda Resources' H1 Net Profit Soars 456% to 390 Million Yuan as Sil" | kw:silver,rice
+2026-08-01 05:01 ACCEPT [Google News KL] "Gold Slips as US Dollar Firms and Fed Stays Hawkish: What Investors Ne" | kw:gold
+2026-08-01 05:01 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-01 05:01 ACCEPT [Google News CB] "Diesel price nears record high, as Fed holds interest rates steady, in" | kw:rice,interest rate
+2026-08-01 05:01 ACCEPT [Google News CB] "Fed dissenters warn inflation could become entrenched without monetary" | kw:inflation,monetary policy,tightening
+2026-08-01 05:01 SKIP_MORNING already_sent date=2026-08-01
