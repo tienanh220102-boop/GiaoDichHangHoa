@@ -1,5 +1,3 @@
-2026-06-26 22:31 ACCEPT [Mining.com] "Integra grows reserve 74% at Florida Canyon gold mine" | kw:gold
-2026-06-26 22:31 ACCEPT [Google News HH] "AAA Texas reports statewide gas prices to fall ahead of the 4th of Jul" | kw:gas,rice
 2026-06-26 22:31 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Sink Below 200-Day Average on Oil Demand F" | kw:oil,crude
 2026-06-26 22:31 ACCEPT [Google News KL] "Gold, silver rebound as Fed hike odds cool after oil slide - Kitco PM " | kw:oil,gold,silver
 2026-06-26 22:31 ACCEPT [Google News KL] "Precious Metals Market Update: Gold, Silver, Platinum, and Palladium T" | kw:gold,silver
@@ -20000,3 +19998,5 @@
 2026-08-01 09:31 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 09:50 ACCEPT [Google News HH] "Saudi Arabia Crude Exports Fall to Three Month Low in December - Energ" | kw:crude
 2026-08-01 09:50 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 10:01 ACCEPT [Google News HH] "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd " | kw:oil,opec
+2026-08-01 10:01 SKIP_MORNING already_sent date=2026-08-01
