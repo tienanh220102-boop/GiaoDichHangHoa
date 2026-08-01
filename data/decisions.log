@@ -1,9 +1,3 @@
-2026-06-26 17:14 ACCEPT [Google News HH] "Iraq seeks reassessment of OPEC production quotas - Investing.com" | kw:opec
-2026-06-26 17:14 ACCEPT [Google News CB] "Kashkari Says Fed May Need Rate Hike Amid Broad Inflation - Bloomberg." | kw:inflation,rate hike
-2026-06-26 17:31 ACCEPT [OilPrice.com] "Equinor Pulls Out of Japan’s Offshore Wind Market" | kw:oil,gas
-2026-06-26 17:31 ACCEPT [Google News HH] "Crude Oil Prices Sink as Supplies Out of the Persian Gulf Accelerate -" | kw:oil,crude,rice
-2026-06-26 17:31 ACCEPT [Google News KL] "Why Hecla Mining (HL) Is Down 5.1% After Silver Falls Below US$60 An O" | kw:silver
-2026-06-26 17:31 ACCEPT [Google News KL] "Gold Price Set to Return to $4,100: Gold Bull Market Not Over Yet, Tre" | kw:gold,rice
 2026-06-26 17:31 ACCEPT [Google News CB] "Kashkari Says Fed May Need Rate Hike Amid Broad Inflation - Bloomberg" | kw:inflation,rate hike
 2026-06-26 18:01 ACCEPT [MarketWatch] "Bond yields are falling as inflation pops. The Fed’s tough talk under " | kw:inflation,treasury,federal reserve
 2026-06-26 18:01 ACCEPT [OilPrice.com] "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes" | kw:oil,gas
@@ -20004,3 +19998,5 @@
 2026-08-01 02:01 ACCEPT [Google News NS] "Feed Grain Weekly: South Alta. prices plunge as harvest begins - produ" | kw:rice,harvest
 2026-08-01 02:01 ACCEPT [Google News NS] "Wheat markets gain momentum as Black Sea war heats up - producer.com" | kw:wheat
 2026-08-01 02:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 02:31 ACCEPT [Google News HH] "Leaders of Korea, Argentina agree to energy supply chain cooperation i" | kw:supply chain
+2026-08-01 02:31 SKIP_MORNING already_sent date=2026-08-01
