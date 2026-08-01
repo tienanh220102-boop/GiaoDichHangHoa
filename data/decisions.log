@@ -1,4 +1,3 @@
-2026-06-27 14:01 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 14:01 SKIP_EVENING already_sent date=2026-06-27
 2026-06-27 14:23 ACCEPT [The Guardian Biz] "Trump threatens 100% tariff on European countries that impose digital " | kw:tariff
 2026-06-27 14:23 ACCEPT [Google News KL] "Pan American Silver cuts costs sharply, boosts earnings, and plans $70" | kw:silver,rice
@@ -19999,3 +19998,12 @@
 2026-08-01 20:01 ACCEPT [Google News NS] "North Dakota wheat crop turning out to be a mixed bag - Agweek" | kw:wheat
 2026-08-01 20:01 ACCEPT [Google News NS] "U.S. Crop Ratings Fall + Drama with China but Still Buying U.S. Soybea" | kw:corn,soybean
 2026-08-01 20:06 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-01 20:31 ACCEPT [CNBC Commodities] "Goldman traders are on pace for a record year. A close-up look at how " | kw:fuel,gold
+2026-08-01 20:31 ACCEPT [Google News HH] "Storage data shows oil inventories are near tank bottoms - mrt.com" | kw:oil
+2026-08-01 20:31 ACCEPT [Google News KL] "BNB Price Dips After Binance Launches Gold, Silver Option Trading - Ma" | kw:gold,silver,rice
+2026-08-01 20:31 ACCEPT [Google News KL] "Gold and Silver Near a Breakdown That Could Get Steep - FOREX.com" | kw:gold,silver
+2026-08-01 20:31 ACCEPT [Google News KL] "Gold Rate Today, August 1: Check 18, 22 and 24 carat gold prices in Ch" | kw:gold,rice
+2026-08-01 20:31 ACCEPT [Google News NS] "China Isn't Buying Corn. It's Rewriting the Global Grain Trade - Agrol" | kw:corn
+2026-08-01 20:31 ACCEPT [Google News NS] "Dry Bulk Shipping Faces 2027 Supply Glut: BIMCO Warns Hormuz Rerouting" | kw:shipping
+2026-08-01 20:31 ACCEPT [Google News NS] "European wheat futures drop as traders take profits By Investing.com -" | kw:wheat
+2026-08-01 20:31 ACCEPT [Google News CB] "Long-Term Treasury Yields Surge After Fed Meeting - mottcapitalmanagem" | kw:treasury
