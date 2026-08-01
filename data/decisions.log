@@ -1,15 +1,3 @@
-2026-06-27 14:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
-2026-06-27 14:31 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 14:31 SKIP_EVENING already_sent date=2026-06-27
-2026-06-27 15:01 ACCEPT [OilPrice.com] "The AI Power Crisis Is Creating a Massive New Market for Fuel Cells" | kw:fuel
-2026-06-27 15:01 ACCEPT [OilPrice.com] "Turkey Pushes Bold Global Plan to Electrify 35% of Energy Use by 2035" | kw:gas,fuel,iron
-2026-06-27 15:01 ACCEPT [Google News HH] "Brent Crude Oil Futures (Feb 2027) Trade Ideas — RUS:BRG2027 - Trading" | kw:oil,crude,brent
-2026-06-27 15:01 ACCEPT [Google News KL] "Gold Price Slips Amid Middle East Geopolitical Shifts & Bank Buying - " | kw:gold,rice
-2026-06-27 15:01 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 15:01 SKIP_EVENING already_sent date=2026-06-27
-2026-06-27 15:31 ACCEPT [CNBC Commodities] "Why investors may want to prioritize bond markets outside the U.S." | kw:inflation,central bank,interest rate
-2026-06-27 15:31 ACCEPT [Google News HH] "Price to earnings forward of Carlyle Commodities Corp. – CSE:CCC - Tra" | kw:rice,commodities
-2026-06-27 15:31 ACCEPT [Google News KL] "Tether Gold Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecas" | kw:gold,rice
 2026-06-27 15:31 ACCEPT [Google News KL] "Nadiem Amiri | Skills And Goals | Highlights Silver Price Today (ZoWXl" | kw:silver,rice
 2026-06-27 15:31 ACCEPT [Google News NS] "Is China meeting its U.S. soybean commitment? - Country Guide" | kw:soybean
 2026-06-27 15:31 SKIP_MORNING already_sent date=2026-06-27
@@ -20010,3 +19998,9 @@
 2026-08-01 21:01 ACCEPT [Google News KL] "Toronto Stock Exchange: TSX Slips to 35,420.06 as Gold Prices Fall and" | kw:gold,rice
 2026-08-01 21:01 ACCEPT [Google News KL] "Gold prices unexpectedly reversed course on the afternoon of August 1s" | kw:gold,rice
 2026-08-01 21:01 ACCEPT [Google News NS] "North Dakota wheat crop turning out to be a mixed bag - agweek.com" | kw:wheat
+2026-08-01 21:14 ACCEPT [NASDAQ Commod] "Alex Ebkarian: Gold, Silver's Next Six Months — Price Targets, My Outl" | kw:gold,silver,rice
+2026-08-01 21:14 ACCEPT [NASDAQ Commod] "Graphite Market Trends: H1 2026 Review and Forecast" | kw:gas,rice
+2026-08-01 21:15 ACCEPT [Google News HH] "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - EnergyNow" | kw:oil,opec
+2026-08-01 21:15 ACCEPT [Google News KL] "BNB Price Dips After Binance Launches Gold, Silver Option Trading - dm" | kw:gold,silver,rice
+2026-08-01 21:15 ACCEPT [Google News KL] "Gold Price in Maharashtra Today (1st August 2026): Latest 14K, 18K, 22" | kw:gold,rice
+2026-08-01 21:15 ACCEPT [Google News NS] "CPO Futures End Lower On Weaker Soybean Oil Prices, Profit-taking - be" | kw:oil,soybean,rice
