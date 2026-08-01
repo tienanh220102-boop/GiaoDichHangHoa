@@ -1,5 +1,3 @@
-2026-06-27 05:01 ACCEPT [Google News KL] "Gold and silver sink to seven-month lows as dollar strengthens - MSN" | kw:gold,silver
-2026-06-27 05:01 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 05:31 ACCEPT [Google News HH] "Crude oil, gasoline prices stable as US-Iran talks continue - KOKH" | kw:oil,crude,gas
 2026-06-27 05:31 ACCEPT [Google News HH] "Enterprise value to EBITDA forward of Carlyle Commodities Corp. – CSE:" | kw:commodities
 2026-06-27 05:31 ACCEPT [Google News KL] "Gold Rate Today, June 27: Check 18, 22 and 24 carat gold prices in Che" | kw:gold,rice
@@ -20000,3 +19998,10 @@
 2026-08-01 13:31 SKIP_EVENING already_sent date=2026-08-01
 2026-08-01 14:02 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 14:02 SKIP_EVENING already_sent date=2026-08-01
+2026-08-01 14:23 ACCEPT [Google News HH] "Kinross Earnings: Strong Gold Price Offsets Lower Volumes and Rising U" | kw:gold,rice
+2026-08-01 14:23 ACCEPT [Google News HH] "Asia Has Plenty of Crude Oil, But Refined Fuels Remain Tight: Russell " | kw:oil,crude,fuel
+2026-08-01 14:23 ACCEPT [Google News HH] "South Korea to Import Crude Oil from Argentina, Expand Critical Minera" | kw:oil,crude
+2026-08-01 14:23 ACCEPT [Google News NS] "China Is Set to Reshape the Global Grain Market, Here's How - RuralVoi" | kw:gdp
+2026-08-01 14:23 ACCEPT [Google News CB] "The Fed chief’s inflation promises simply don’t add up - The Times" | kw:inflation
+2026-08-01 14:23 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 14:23 SKIP_EVENING already_sent date=2026-08-01
