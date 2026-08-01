@@ -1,10 +1,3 @@
-2026-06-27 09:31 ACCEPT [Google News HH] "Crude Oil West Texas (Aug 2026) Trade Ideas — CMCMARKETS:USCRUDEOILQ20" | kw:oil,crude
-2026-06-27 09:31 ACCEPT [Google News HH] "WTI crude oil breaks yesterday's low as it falls below $69 - investing" | kw:oil,crude,wti
-2026-06-27 09:31 ACCEPT [Google News KL] "Gold price rebounds as falling US yields weigh on US Dollar - TMGM" | kw:gold,rice
-2026-06-27 09:31 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 10:01 ACCEPT [Google News HH] "Japan’s crude oil imports plunge 66% amid Middle East supply disruptio" | kw:oil,crude
-2026-06-27 10:01 ACCEPT [Google News HH] "Price to sales forward of Carlyle Commodities Corp. – CSE:CCC - Tradin" | kw:rice,commodities
-2026-06-27 10:01 ACCEPT [Google News KL] "NexGold Mining Corp. Advances Goldboro Amid Gold Market Shifts - Stree" | kw:gold
 2026-06-27 10:01 ACCEPT [Google News KL] "The UNTHINKABLE Is About To Happen To GOLD & Silver | WARREN BUFFETT K" | kw:gold,silver
 2026-06-27 10:01 ACCEPT [Google News KL] "Commodity wrap: Gold slips to 2-month low, while oil dips on Iran peac" | kw:oil,gold,commodity
 2026-06-27 10:01 ACCEPT [Google News CB] "Kevin Warsh Just Suggested the Fed May Bring Down the Hammer on Inflat" | kw:inflation
@@ -20005,3 +19998,17 @@
 2026-08-01 16:31 ACCEPT [Google News NS] ""Logistics and demand bottlenecks" are putting pressure on the price o" | kw:rice
 2026-08-01 16:31 SKIP_MORNING already_sent date=2026-08-01
 2026-08-01 16:31 SKIP_EVENING already_sent date=2026-08-01
+2026-08-01 16:51 ACCEPT [Google News HH] "Crude oil prices - LAist" | kw:oil,crude,rice
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold has value at $4,000 as investors look beyond Fed hawkishness - ki" | kw:gold
+2026-08-01 16:51 ACCEPT [Google News KL] "4040.53 Trade XAUT/USDT Spot | Crypto, bStocks & tCommodities - Binanc" | kw:commodities
+2026-08-01 16:51 ACCEPT [Google News KL] "Silver near $60: August drop? - kitco.com" | kw:silver
+2026-08-01 16:51 ACCEPT [Google News KL] "Wall Street trisected on gold’s near-term prospects, Main Street bulls" | kw:gold
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold is stuck but miners are generating bags of cash - kitco.com" | kw:gold
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold Rate Today In Ghaziabad, Check Live 22 And 24 Carat Gold Price - " | kw:gold,rice
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold, silver retreat as dollar, yields blunt post-PCE support - Kitco " | kw:gold,silver
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold falls 1.16 pc for the week as stronger dollar, higher US yields w" | kw:gold,rice
+2026-08-01 16:51 ACCEPT [Google News KL] "Gold prices fall Rs3,700 per tola after two-day rally - The Nation (Pa" | kw:gold,rice
+2026-08-01 16:51 ACCEPT [Google News NS] "China Is Set to Reshape the Global Grain Market, Here's How - eng.rura" | kw:gdp
+2026-08-01 16:51 ACCEPT [Google News NS] "Aussie grain prices diverge from falling global markets as war premium" | kw:rice
+2026-08-01 16:51 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 16:51 SKIP_EVENING already_sent date=2026-08-01
