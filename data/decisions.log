@@ -1,10 +1,3 @@
-2026-06-26 21:31 ACCEPT [NASDAQ Commod] "Jim Wiederhold: Industrial Metals Beating Gold in 2026 — What's Next?" | kw:gold,commodity,commodities
-2026-06-26 21:31 ACCEPT [NASDAQ Commod] "Anglo American, Codelco Finalize Deal to Merge Adjacent Copper Mines" | kw:copper
-2026-06-26 21:31 ACCEPT [Google News KL] "Gold & silver market update: Silver below $60, gold $4,100 test, ETF s" | kw:gold,silver,treasury
-2026-06-26 21:31 ACCEPT [Google News KL] "TSX rises as gold prices lift basic materials sector, U.S. markets mov" | kw:gold,rice
-2026-06-26 21:31 ACCEPT [Google News NS] "Is China meeting its U.S. soybean commitment? - Canadian Cattlemen" | kw:soybean
-2026-06-26 22:01 ACCEPT [MarketWatch] "U.S. confirms retaliatory strike on Iran, pulling oil prices up in aft" | kw:oil,rice
-2026-06-26 22:01 ACCEPT [BBC Business] "Trump threatens 100% tariff on European nations over tech tax" | kw:tariff
 2026-06-26 22:01 ACCEPT [OilPrice.com] "The Billion-Dollar Debt Deals Exposing an Oil Giant" | kw:oil
 2026-06-26 22:01 ACCEPT [Google News HH] "Crude Oil at $69 Signals a Market Pivot From Shortage to Surplus - Inv" | kw:oil,crude,shortage
 2026-06-26 22:01 ACCEPT [Google News HH] "Expectations for interest rate hikes have receded due to lower crude o" | kw:oil,crude,rice
@@ -20005,3 +19998,8 @@
 2026-08-01 08:31 ACCEPT [Google News CB] "ECB official warns climate crisis poses growing threat to ‘core financ" | kw:ecb
 2026-08-01 08:31 ACCEPT [Google News CB] "Indonesia’s state banks fund construction surge as central bank chief " | kw:central bank
 2026-08-01 08:31 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 09:01 ACCEPT [Google News HH] "The Commodities Supercycle is Here. How Might Investors Participate?: " | kw:commodities
+2026-08-01 09:01 ACCEPT [Google News KL] "Explained: Why China Is Pushing Investors From Paper Gold Toward Physi" | kw:gold
+2026-08-01 09:01 ACCEPT [Google News KL] "Tether accelerates gold purchases amid price pullback! Buys another 14" | kw:gold,rice
+2026-08-01 09:01 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-01 09:01 SKIP_MORNING already_sent date=2026-08-01
