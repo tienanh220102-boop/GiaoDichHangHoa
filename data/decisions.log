@@ -1,23 +1,3 @@
-2026-06-27 00:01 SENT_MORNING articles=20 date=2026-06-27 force=False
-2026-06-27 00:31 ACCEPT [Google News HH] "U.S. crude oil climbs back above $70 after strike on Iran (USO:NYSEARC" | kw:oil,crude
-2026-06-27 00:31 ACCEPT [Google News HH] "US crude oil futures plunge 3.7% to $69.23 as Iran peace deal reshapes" | kw:oil,crude
-2026-06-27 00:31 ACCEPT [Google News KL] "Will gold hit $5,000 again this year? Experts explain what’s driving p" | kw:gold,rice
-2026-06-27 00:31 ACCEPT [Google News KL] "FIFA World Cup trophy's gold value doubles to USD 713,000 - MSN" | kw:gold
-2026-06-27 00:31 ACCEPT [Google News CB] "Watch Fed’s Kashkari Says ‘Cooled’ US Labor Market Not Driving Inflati" | kw:inflation
-2026-06-27 00:31 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 01:01 ACCEPT [Google News HH] "U.S. Crude Oil Futures Dip Amid Rising Tensions with Iran - GuruFocus" | kw:oil,crude
-2026-06-27 01:01 ACCEPT [Google News CB] "Fed expert explains how Iran war has impacted inflation numbers - Fox " | kw:inflation
-2026-06-27 01:01 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 01:31 ACCEPT [Google News HH] "Oh Sh*t, here we go again... $Crude Oil Futures (AUG6) (CLmain.US)$ Ju" | kw:oil,crude
-2026-06-27 01:31 ACCEPT [Google News HH] "Iraq Threatens OPEC Exit If Higher Oil Production Quota Denied - News " | kw:oil,opec
-2026-06-27 01:31 ACCEPT [Google News HH] "Crude Oil Weekly Decline: Tanker Traffic Recovery in Strait of Hormuz " | kw:oil,crude
-2026-06-27 01:31 ACCEPT [Google News NS] "European Corn Surges as US Market Eyes El Niño - Barchart.com" | kw:corn
-2026-06-27 01:31 ACCEPT [Google News NS] "Mysteel soybean and relatives marke... - mysteel.net" | kw:steel,soybean
-2026-06-27 01:31 ACCEPT [Google News CB] "UAE Central Bank Fines Foreign Bank and Compliance Officer for Money L" | kw:central bank
-2026-06-27 01:31 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 02:01 ACCEPT [Google News HH] "July 2, 2026: Brent crude oil price on July 02, 2026 at 5:00 PM EDT Pr" | kw:oil,crude,brent
-2026-06-27 02:01 ACCEPT [Google News HH] "Crude Oil Falls for Three Weeks, Metals Generally Rise, SHFE Zinc Up O" | kw:oil,crude,gold
-2026-06-27 02:01 ACCEPT [Google News HH] "Crude Oil Fell for Third Straight Week, Metals Broadly Rose; LME Zinc " | kw:oil,crude,gold
 2026-06-27 02:01 ACCEPT [Google News KL] "Gold looks broken, but the only thing that has changed is the price - " | kw:gold,rice
 2026-06-27 02:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG breaks below $60, bears eye $55 - FXStreet" | kw:silver,rice
 2026-06-27 02:01 SKIP_MORNING already_sent date=2026-06-27
@@ -20018,3 +19998,11 @@
 2026-08-01 12:01 ACCEPT [Google News KL] "Gold and silver prices almost stable in a week - myRepublica" | kw:gold,silver,rice
 2026-08-01 12:01 ACCEPT [Google News NS] "KTIC 840 AM/98.3 FM/98.7 FM - Weather, Funds and War Premium Drive Vol" | kw:wti
 2026-08-01 12:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 12:31 ACCEPT [Google News HH] "GME Oman Crude Oil BALMO Future D21 Aug '26 Futures Price History - Ba" | kw:oil,crude,rice
+2026-08-01 12:31 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD Holds Above $4,040 Ahead of NFP Week - fx" | kw:gold,rice
+2026-08-01 12:31 ACCEPT [Google News NS] "Corn and Soybean futures slip on improved weather. - CME Group" | kw:corn,soybean
+2026-08-01 12:31 ACCEPT [Google News CB] "Fed’s Credibility Test and J&J’s New Bet - Bloomberg.com" | kw:wti
+2026-08-01 12:31 ACCEPT [Google News CB] "Indian central bank's capital-flow measures draw nearly $41 billion - " | kw:central bank
+2026-08-01 12:31 ACCEPT [Google News CB] "Treasury selloff signals need to bolster Fed's inflation credibility, " | kw:wti,inflation,treasury
+2026-08-01 12:31 ACCEPT [Google News CB] "Celestial events in August - ECB Publishing, Inc." | kw:ecb
+2026-08-01 12:31 SKIP_MORNING already_sent date=2026-08-01
