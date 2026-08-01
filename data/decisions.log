@@ -1,12 +1,3 @@
-2026-06-27 14:01 SKIP_EVENING already_sent date=2026-06-27
-2026-06-27 14:23 ACCEPT [The Guardian Biz] "Trump threatens 100% tariff on European countries that impose digital " | kw:tariff
-2026-06-27 14:23 ACCEPT [Google News KL] "Pan American Silver cuts costs sharply, boosts earnings, and plans $70" | kw:silver,rice
-2026-06-27 14:23 SKIP_MORNING already_sent date=2026-06-27
-2026-06-27 14:23 SKIP_EVENING already_sent date=2026-06-27
-2026-06-27 14:31 ACCEPT [Google News HH] "WTI Current Price | WTI Real-Time Data & Insights - Mitrade" | kw:wti,rice
-2026-06-27 14:31 ACCEPT [Google News KL] "Gold holds near recent lows as markets eye US data - MSN" | kw:gold
-2026-06-27 14:31 ACCEPT [Google News NS] "Rain in the Plains Make Grain, So Bears Are in Control of Corn, Soybea" | kw:wheat,corn,soybean
-2026-06-27 14:31 ACCEPT [Google News CB] "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal - Bloomb" | kw:inflation,ecb
 2026-06-27 14:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
 2026-06-27 14:31 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 14:31 SKIP_EVENING already_sent date=2026-06-27
@@ -20007,3 +19998,15 @@
 2026-08-01 20:31 ACCEPT [Google News NS] "Dry Bulk Shipping Faces 2027 Supply Glut: BIMCO Warns Hormuz Rerouting" | kw:shipping
 2026-08-01 20:31 ACCEPT [Google News NS] "European wheat futures drop as traders take profits By Investing.com -" | kw:wheat
 2026-08-01 20:31 ACCEPT [Google News CB] "Long-Term Treasury Yields Surge After Fed Meeting - mottcapitalmanagem" | kw:treasury
+2026-08-01 21:01 ACCEPT [Al Jazeera] "Greece battles raging wildfires as flames appear to ease in France" | kw:iron,easing
+2026-08-01 21:01 ACCEPT [OilPrice.com] "Suriname's $26 Billion Oil Bet Is Finally Paying Off" | kw:oil,petroleum,gas
+2026-08-01 21:01 ACCEPT [Google News HH] "US Loans 8.5 Million Barrels of SPR Oil in Second Batch Since Iran War" | kw:oil
+2026-08-01 21:01 ACCEPT [Google News HH] "Crude Oil Futures Separate From Reality as Asia Physical Market Buckle" | kw:oil,crude
+2026-08-01 21:01 ACCEPT [Google News HH] "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - energ" | kw:oil,opec
+2026-08-01 21:01 ACCEPT [Google News HH] "CRUDE OIL SUPPLY DIVERSIFICATION STATEMENT by Black Sea Petroleum LLC " | kw:oil,crude,petroleum
+2026-08-01 21:01 ACCEPT [Google News HH] "Gold Rate Today In India, Check Live 22 And 24 Carat Gold Price - ndtv" | kw:gold,rice
+2026-08-01 21:01 ACCEPT [Google News HH] "Saudi Arabia Crude Exports Fall to Three Month Low in December - energ" | kw:crude
+2026-08-01 21:01 ACCEPT [Google News KL] "Gold prices today, August 1, 69, opened flat. Ornamental gold was sell" | kw:gold,rice
+2026-08-01 21:01 ACCEPT [Google News KL] "Toronto Stock Exchange: TSX Slips to 35,420.06 as Gold Prices Fall and" | kw:gold,rice
+2026-08-01 21:01 ACCEPT [Google News KL] "Gold prices unexpectedly reversed course on the afternoon of August 1s" | kw:gold,rice
+2026-08-01 21:01 ACCEPT [Google News NS] "North Dakota wheat crop turning out to be a mixed bag - agweek.com" | kw:wheat
