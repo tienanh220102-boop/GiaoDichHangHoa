@@ -1,7 +1,3 @@
-2026-06-27 13:31 ACCEPT [Google News HH] "gold price weekly Archives - GoldSilver" | kw:gold,silver,rice
-2026-06-27 13:31 ACCEPT [Google News KL] "Recent Selloff Could Provide Appealing Entry Point For Pan American Si" | kw:silver
-2026-06-27 13:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
-2026-06-27 13:31 SKIP_MORNING already_sent date=2026-06-27
 2026-06-27 13:31 SKIP_EVENING already_sent date=2026-06-27
 2026-06-27 14:01 ACCEPT [Google News HH] "Gold Price Crash To Continue: $3,500 Is Next Warns Trader | Gareth Sol" | kw:gold,rice
 2026-06-27 14:01 ACCEPT [Google News HH] "Why Do Westerners Love Exporting Commodities They Cannot Afford at Hom" | kw:commodities
@@ -20002,3 +19998,12 @@
 2026-08-01 19:31 ACCEPT [Google News KL] "Gold in Iran: From a safe haven to a bastion of political protest - eu" | kw:gold
 2026-08-01 19:31 ACCEPT [Google News NS] "Sunflower crop developing, prices rising - agupdate.com" | kw:rice
 2026-08-01 19:31 ACCEPT [Google News NS] "Union Pacific-Norfolk Southern merger moves forward amid farmer concer" | kw:wti
+2026-08-01 20:01 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-01 20:01 ACCEPT [Google News HH] "US Loans 8.5 Million Barrels of SPR Oil in Second Batch Since Iran War" | kw:oil
+2026-08-01 20:01 ACCEPT [Google News HH] "Century Global Commodities Corporation Revenue Breakdown – TSX:CNT - t" | kw:commodities
+2026-08-01 20:01 ACCEPT [Google News KL] "Burglars steal gold, silver worth ₹10 lakh from jewellery store - The " | kw:gold,silver
+2026-08-01 20:01 ACCEPT [Google News KL] "Antam Gold Prices Drop Rp20,000 at Start of August - Tempo.co English" | kw:gold,rice
+2026-08-01 20:01 ACCEPT [Google News NS] "Brazilian, US soybean prices remain high despite drops; Brazil still t" | kw:soybean,rice
+2026-08-01 20:01 ACCEPT [Google News NS] "Sunflower crop developing, prices rising - AgUpdate" | kw:rice
+2026-08-01 20:01 ACCEPT [Google News NS] "North Dakota wheat crop turning out to be a mixed bag - Agweek" | kw:wheat
+2026-08-01 20:01 ACCEPT [Google News NS] "U.S. Crop Ratings Fall + Drama with China but Still Buying U.S. Soybea" | kw:corn,soybean
