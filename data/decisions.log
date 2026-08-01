@@ -1,11 +1,3 @@
-2026-06-26 19:14 ACCEPT [Google News CB] "Prices Rising at Fastest Rate in 3 Years, Fed’s Preferred Inflation Ga" | kw:rice,inflation
-2026-06-26 19:31 ACCEPT [Google News HH] "Dollar Weakens with Crude Oil Prices - Barchart" | kw:oil,crude,rice
-2026-06-26 19:31 ACCEPT [Google News HH] "Crude Oil Prices Sink as Supplies Out of the Persian Gulf Accelerate -" | kw:oil,crude,rice
-2026-06-26 19:31 ACCEPT [Google News HH] "Crude oil settles the day/week at $69.23 - investingLive" | kw:oil,crude
-2026-06-26 19:31 ACCEPT [Google News HH] "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes - Crude Oil Pr" | kw:oil,crude,gas
-2026-06-26 19:31 ACCEPT [Google News NS] "USDA Acreage report caps corn-vs.-beans guessing game - Farm Progress" | kw:corn
-2026-06-26 19:31 ACCEPT [Google News NS] "Thomasville Shipping Point Vegetables Prices Report – June 26, 2026 - " | kw:rice,shipping
-2026-06-26 20:01 ACCEPT [Al Jazeera] "Trump threatens tariffs for countries that levy digital tax on US firm" | kw:tariff
 2026-06-26 20:01 ACCEPT [OilPrice.com] "AI Demand, War, and Climate Pressure Push World Back To Nuclear" | kw:oil,easing
 2026-06-26 20:01 ACCEPT [Google News HH] "11th Circ. Told Loan Program Wasn't Commodities Investing - Law360" | kw:commodities
 2026-06-26 20:01 ACCEPT [Google News HH] "Oil News: Crude Oil Futures Sink Below 200-Day Average on Oil Demand F" | kw:oil,crude
@@ -20006,3 +19998,9 @@
 2026-08-01 05:01 ACCEPT [Google News CB] "Diesel price nears record high, as Fed holds interest rates steady, in" | kw:rice,interest rate
 2026-08-01 05:01 ACCEPT [Google News CB] "Fed dissenters warn inflation could become entrenched without monetary" | kw:inflation,monetary policy,tightening
 2026-08-01 05:01 SKIP_MORNING already_sent date=2026-08-01
+2026-08-01 05:27 ACCEPT [Google News KL] "Will gold prices extend their record-breaking run? - DW.com" | kw:gold,rice
+2026-08-01 05:27 ACCEPT [Google News KL] "Tether accelerates gold purchases amid price pullback! Buys another 14" | kw:gold,rice
+2026-08-01 05:27 ACCEPT [Google News NS] "Feed corn prices in Ukraine continue to decline – APK-Inform - apk-inf" | kw:corn,rice
+2026-08-01 05:28 ACCEPT [Google News CB] "Indian central bank's capital-flow measures draw nearly $41 billion - " | kw:central bank
+2026-08-01 05:28 ACCEPT [Google News CB] "The European Central Bank (ECB) Just Issued a Major Warning About Stab" | kw:central bank,ecb
+2026-08-01 05:28 SKIP_MORNING already_sent date=2026-08-01
