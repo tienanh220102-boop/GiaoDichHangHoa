@@ -1,8 +1,3 @@
-2026-06-28 15:01 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 15:31 ACCEPT [Google News HH] "Gold Price Forecast: Gold Defends $3,950 as Hormuz Risk Supports Rebou" | kw:gold,rice
-2026-06-28 15:31 ACCEPT [Google News KL] "Gold News: Gold Market Firms on Softer Fed Hike Odds, but Death Cross " | kw:gold
-2026-06-28 15:31 ACCEPT [Google News KL] "Copper soars but smelters can't bank on it to survive - Oman Observer" | kw:copper
-2026-06-28 15:31 ACCEPT [Google News NS] "American Soybean Association Welcomes USDA Rule Approving Value-Added " | kw:fuel,soybean
 2026-06-28 15:31 ACCEPT [Google News NS] "Akara, Kulikuli: The First Lady is right, before we start importing co" | kw:corn
 2026-06-28 15:31 ACCEPT [Google News CB] "2 Dividend Stocks to Buy Even as New Fed Chair Kevin Warsh Holds Inter" | kw:interest rate
 2026-06-28 15:31 ACCEPT [Google News CB] "5 Interest Rate Sensitive Stocks to Buy Now - Insider Monkey" | kw:interest rate
@@ -20003,3 +19998,21 @@
 2026-08-02 14:31 ACCEPT [Google News HH] "RBI Rate Decision, West Asia, Oil to Drive Market Sentiments - Rediff " | kw:oil,rate decision
 2026-08-02 14:31 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 14:31 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 15:01 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Tight Inventories Keep Bulls in Control - fo" | kw:oil,crude
+2026-08-02 15:01 ACCEPT [Google News HH] "Satellite images show evidence of oil leak spreading from sanctioned v" | kw:oil,sanction
+2026-08-02 15:01 ACCEPT [Google News HH] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice,ecb
+2026-08-02 15:01 ACCEPT [Google News HH] "OPEC+ to raise oil production by 188,000 bpd in September - Saudi Gaze" | kw:oil,opec
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold Price Today in Gurgaon – 18K, 22K & 24K Rate | 02 August 2026 - T" | kw:gold,rice
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold, Silver Await Next Big Move As US Jobs Data Looms - NDTV Profit" | kw:gold,silver
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold Price Today in Bellary – 18K, 22K & 24K Rate | 02 August 2026 - T" | kw:gold,rice
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold and silver lacked lustre in July - thehindubusinessline.com" | kw:gold,silver
+2026-08-02 15:01 ACCEPT [Google News KL] "Gold and Silver Near a Breakdown That Could Get Steep - forex.com" | kw:gold,silver
+2026-08-02 15:01 ACCEPT [Google News NS] "5 Corn Tortilla Brands, Ranked Worst To Best - Tasting Table" | kw:corn
+2026-08-02 15:01 ACCEPT [Google News NS] "Oxford firm invests in AI-powered, gene-edited wheat seeds - oxfordtim" | kw:wheat
+2026-08-02 15:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-02 15:01 ACCEPT [Google News CB] "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price (SPX) - Seek" | kw:rice
+2026-08-02 15:01 ACCEPT [Google News CB] "Canada’s monetary policy paused, inflation contained - The Globe and M" | kw:inflation,monetary policy
+2026-08-02 15:01 ACCEPT [Google News CB] "From interest rate cuts to interest rate hikes... - en.yenisafak.com" | kw:interest rate,rate cut,rate hike
+2026-08-02 15:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 15:01 SKIP_EVENING already_sent date=2026-08-02
