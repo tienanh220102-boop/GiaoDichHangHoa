@@ -1,5 +1,3 @@
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold, silver price today: Gold on MCX trades below Rs 1.45 lakh, silve" | kw:gold,silver,rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Trump’s $5M gold statue makeover draws criticism amid rising living co" | kw:gold
 2026-06-27 20:52 ACCEPT [Google News CB] "ECB’s Schnabel says inflation risks remain despite easing energy price" | kw:rice,inflation,ecb
 2026-06-27 20:52 ACCEPT [Google News CB] "Price to earnings forward of Fast Ejendom Danmark A/S – OMXCOP:FED - T" | kw:rice
 2026-06-27 21:01 ACCEPT [The Guardian Biz] "Trump threatens 100% tariff on European countries that impose digital " | kw:tariff
@@ -20000,3 +19998,15 @@
 2026-08-02 01:04 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 01:31 ACCEPT [Al Jazeera] "Hungary plans to shut down only nuclear power plant amid drought" | kw:drought
 2026-08-02 01:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 02:01 ACCEPT [Google News HH] "Gold Futures Streaming Chart - Investing.com" | kw:gold
+2026-08-02 02:01 ACCEPT [Google News HH] "OPEC Owes Its Existence To The Texas Railroad Commission - aol.com" | kw:opec
+2026-08-02 02:01 ACCEPT [Google News HH] "Brent crude oil rose by 5% during intraday trading, currently quoted a" | kw:oil,crude,brent
+2026-08-02 02:01 ACCEPT [Google News KL] "Gold, Silver Rate Today August 02: Gold getting costlier? Check 18, 22" | kw:gold,silver
+2026-08-02 02:01 ACCEPT [Google News KL] "Bitcoin Analysis Today: Crash To $60K? Bitcoin Price Prediction | Cryp" | kw:gold,rice
+2026-08-02 02:01 ACCEPT [Google News NS] "CBoT wheat futures drift lower - Business Recorder" | kw:wheat
+2026-08-02 02:01 ACCEPT [Google News NS] "16 Fresh Corn Recipes for When You Bought Too Much at the Farmers Mark" | kw:corn
+2026-08-02 02:01 ACCEPT [Google News NS] "EU wheat drops as traders take month-end profit after rally - Business" | kw:wheat
+2026-08-02 02:01 ACCEPT [Google News CB] "Six Years into Bond Bear Market, 30-Year Treasury Yield Hits 5.28%, Yi" | kw:treasury
+2026-08-02 02:01 ACCEPT [Google News CB] "Yen Weakens After BOJ Holds Rates Steady Despite Currency Intervention" | kw:boj
+2026-08-02 02:01 ACCEPT [Google News CB] "Singapore expected to tighten monetary policy as energy crisis fans in" | kw:inflation,monetary policy
+2026-08-02 02:01 SKIP_MORNING already_sent date=2026-08-02
