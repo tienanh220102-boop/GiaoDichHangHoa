@@ -1,11 +1,3 @@
-2026-06-28 08:31 ACCEPT [Google News HH] "Petroleum vulnerability rising, India must build crude buffers and cut" | kw:crude,petroleum
-2026-06-28 08:31 ACCEPT [Google News KL] "4072.83 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
-2026-06-28 08:31 ACCEPT [Google News KL] "Have gold, silver prices dropped since PM Modi's austerity appeal? Her" | kw:gold,silver,rice
-2026-06-28 08:31 ACCEPT [Google News NS] "[Spotlight] U.S. Wheat Production Plunges to Worst in 69 Years for Bak" | kw:wheat
-2026-06-28 08:31 ACCEPT [Google News CB] "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Ke" | kw:interest rate
-2026-06-28 08:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 09:01 ACCEPT [Google News HH] "Iraq, OPEC Begin Gradual Restoration of Oil Production Quotas - Egypt " | kw:oil,opec,gas
-2026-06-28 09:01 ACCEPT [Google News HH] "Price to sales forward of Century Global Commodities Corporation – TSX" | kw:rice,commodities
 2026-06-28 09:01 ACCEPT [Google News KL] "Gold miners offer value despite near-term pressure on bullion, says Bo" | kw:gold
 2026-06-28 09:01 ACCEPT [Google News CB] "[Warsh Fed] “From a Predictable Fed to a Market-Responsive Fed”: A Pri" | kw:rice
 2026-06-28 09:01 SKIP_MORNING already_sent date=2026-06-28
@@ -20006,3 +19998,15 @@
 2026-08-02 10:01 ACCEPT [Google News KL] "Gold, silver rates today in Bangladesh - thereport.live" | kw:gold,silver
 2026-08-02 10:01 ACCEPT [Google News KL] "Gold and silver prices almost stable in a week - myrepublica.nagarikne" | kw:gold,silver,rice
 2026-08-02 10:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 10:31 ACCEPT [Google News HH] "OPEC eyes 185K+ bpd output boost before year-end freeze - Shafaq News " | kw:opec
+2026-08-02 10:31 ACCEPT [Google News HH] "RBI rate decision, West Asia developments likely to steer markets this" | kw:rate decision
+2026-08-02 10:31 ACCEPT [Google News KL] "Real Yields Have Driven Gold for Two Decades, PIMCO Says - briefs.co" | kw:gold
+2026-08-02 10:31 ACCEPT [Google News KL] "Do More Volatile Gold Stocks Mean Greater Opportunity? - tradingkey.co" | kw:gold
+2026-08-02 10:31 ACCEPT [Google News KL] "Gold prices inch higher in Baghdad, Erbil - Shafaq News | Latest break" | kw:gold,rice
+2026-08-02 10:31 ACCEPT [Google News KL] "Gold prices before the decisive moment next week, investors turn to th" | kw:gold,rice
+2026-08-02 10:31 ACCEPT [Google News KL] "Toronto Stock Exchange: TSX Slips to 35,420.06 as Gold Prices Fall and" | kw:gold,rice
+2026-08-02 10:31 ACCEPT [Google News KL] "Gold Price Decreases in Nepali Market - Hamro Patro" | kw:gold,rice
+2026-08-02 10:31 ACCEPT [Google News CB] "China's central bank pledges timely policy tool adjustment - TradingVi" | kw:central bank
+2026-08-02 10:31 ACCEPT [Google News CB] "Fed holds interest rates steady: a delicate balancing act - Nhan Dan O" | kw:interest rate
+2026-08-02 10:31 ACCEPT [Google News CB] "The 'Anna Karenina Principle' of Monetary Policy: Must the Fed Hike Ra" | kw:monetary policy
+2026-08-02 10:31 SKIP_MORNING already_sent date=2026-08-02
