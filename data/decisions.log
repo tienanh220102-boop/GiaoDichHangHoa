@@ -1,9 +1,3 @@
-2026-06-28 23:31 ACCEPT [Google News CB] "Fed signals inflation easing but rate hike risk grows - MSN" | kw:inflation,rate hike,easing
-2026-06-29 00:02 ACCEPT [Google News CB] "Hedging interest rate risk when it matters: Evidence from Italian bank" | kw:interest rate
-2026-06-29 00:02 ACCEPT [Google News CB] "Additional Monetary Policy Tools: Reflections and a New Framework | Sp" | kw:monetary policy
-2026-06-29 00:03 SENT_MORNING articles=20 date=2026-06-29 force=False
-2026-06-29 00:31 ACCEPT [Google News HH] "Crude oil prices rebound amid Middle East tensions, testing key 50-day" | kw:oil,crude,rice
-2026-06-29 00:31 ACCEPT [Google News HH] "Gold price fall triggers margin calls on bullet loans - The Economic T" | kw:gold,rice
 2026-06-29 00:31 ACCEPT [Google News HH] "FCCPC to marketers: Cut petrol prices or face sanctions - Vanguard New" | kw:rice,sanction
 2026-06-29 00:31 ACCEPT [Google News HH] "Gold price update morning of June 29: Turning back down, experts predi" | kw:gold,rice
 2026-06-29 00:31 ACCEPT [Google News HH] "OPEC shocker as UAE leaves oil cartel days after negotiating swap line" | kw:oil,opec,treasury
@@ -20004,3 +19998,7 @@
 2026-08-02 18:01 ACCEPT [Google News NS] "Over 1.2 tons of Chi Lang custard apples were sold in 3 days at "Lang " | kw:corn
 2026-08-02 18:01 ACCEPT [Google News NS] "Politicians to court ag vote at Minnesota Farmfest this week amid drou" | kw:drought
 2026-08-02 18:01 ACCEPT [Google News CB] "Syrian Central Bank extends currency exchange deadline to Aug. 6 - ANH" | kw:central bank
+2026-08-02 18:31 ACCEPT [Google News KL] "1776-2026 Enhanced Uncirculated Gold Eagle Prices Split After Hot Laun" | kw:gold,rice
+2026-08-02 18:31 ACCEPT [Google News NS] "Economy and Bakery Owners Union: The Strategic Stock of Wheat and Flou" | kw:wheat
+2026-08-02 18:31 ACCEPT [Google News NS] "Oxford firm invests in AI-powered, gene-edited wheat seeds - This Is O" | kw:wheat
+2026-08-02 18:31 ACCEPT [Google News CB] "Everyday Economics: The Fed isn't just pausing. The ground under inter" | kw:interest rate
