@@ -1,15 +1,3 @@
-2026-06-28 02:31 ACCEPT [Google News NS] "US soybeans on track for weekly gain on weather woes, China demand opt" | kw:soybean
-2026-06-28 02:31 ACCEPT [Google News CB] "Morgan Stanley Says Fed Rate Hikes Could Return if Unemployment Falls " | kw:fed rate,rate hike
-2026-06-28 02:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 03:01 ACCEPT [Google News HH] "Why fuel prices still high amid drop in global crude oil rates, asks C" | kw:oil,crude,fuel
-2026-06-28 03:01 ACCEPT [Google News HH] "Why are fuel prices still high when global crude oil rates have fallen" | kw:oil,crude,fuel
-2026-06-28 03:01 ACCEPT [Google News HH] "Crude oil prices sink as supplies out of the Persian Gulf accelerate -" | kw:oil,crude,rice
-2026-06-28 03:01 ACCEPT [Google News NS] "Vietnam rice rates up on El Nino fears; buyers opt for cheaper Indian " | kw:rice
-2026-06-28 03:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 03:29 ACCEPT [Google News HH] "Crude oil slides to four-month lows, boosting India outlook - MSN" | kw:oil,crude
-2026-06-28 03:29 ACCEPT [Google News HH] "Gold Prices Drop | Local & Global Rates Fall | 10g 9430 PKR, 1 Tola 11" | kw:gold,rice
-2026-06-28 03:29 ACCEPT [Google News HH] "Stairway to gold (GOLD) Price, MarketCap, Charts and Fundamentals Info" | kw:gold,rice
-2026-06-28 03:29 ACCEPT [Google News HH] "Centre invokes Essential Commodities Act to ensure Natural Gas supply " | kw:gas,commodities
 2026-06-28 03:29 ACCEPT [Google News HH] "Price to earnings forward of Carlyle Commodities Corp. – NEO:CCC - Tra" | kw:rice,commodities
 2026-06-28 03:29 ACCEPT [Google News KL] "What Affects Gold Prices? 6 Key Factors Explained - XTB.com" | kw:gold,rice
 2026-06-28 03:29 ACCEPT [Google News KL] "Silver price fluctuation 28.6: Losses of up to 7.7 million VND/kg afte" | kw:silver,rice
@@ -20010,3 +19998,16 @@
 2026-08-02 05:31 ACCEPT [Google News NS] "Union Pacific-Norfolk Southern merger moves forward amid farmer concer" | kw:wti
 2026-08-02 05:31 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - ozarab.media" | kw:inflation
 2026-08-02 05:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 06:01 ACCEPT [Google News HH] "See How Gas Prices Are Easing Across the U.S. - wsj.com" | kw:gas,rice,easing
+2026-08-02 06:01 ACCEPT [Google News HH] "Iraq, Turkiye Seal Deal to Ship Iraqi Crude Oil via Ceyhan Port - Fana" | kw:oil,crude
+2026-08-02 06:01 ACCEPT [Google News HH] "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast - energynow.c" | kw:oil,opec
+2026-08-02 06:01 ACCEPT [Google News HH] "Diesel-Rich Alberta Synthetic Crude Oil Triples in Four Days - energyn" | kw:oil,crude
+2026-08-02 06:01 ACCEPT [Google News KL] "Silver Prices Halve, Investor Sentiment Cracks—Rising Real Yields Are " | kw:silver,rice
+2026-08-02 06:01 ACCEPT [Google News KL] "Gold and silver prices decline in local market - Khabarhub" | kw:gold,silver,rice
+2026-08-02 06:01 ACCEPT [Google News KL] "Gold, silver prices drop in domestic market today - Nepalnews.com" | kw:gold,silver,rice
+2026-08-02 06:01 ACCEPT [Google News KL] "BNB Price Dips After Binance Launches Gold, Silver Option Trading - Ma" | kw:gold,silver,rice
+2026-08-02 06:01 ACCEPT [Google News KL] "Gold falls 1.16 pc for the week as stronger dollar, higher US yields w" | kw:gold,rice
+2026-08-02 06:01 ACCEPT [Google News NS] "16 Fresh Corn Recipes for When You Bought Too Much at the Farmers Mark" | kw:corn
+2026-08-02 06:01 ACCEPT [Google News CB] "Fed officials warn not raising interest rates was a mistake - wqow.com" | kw:interest rate
+2026-08-02 06:01 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - Oz Arab Media" | kw:inflation
+2026-08-02 06:01 SKIP_MORNING already_sent date=2026-08-02
