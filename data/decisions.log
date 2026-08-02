@@ -1,11 +1,3 @@
-2026-06-28 04:31 ACCEPT [Google News NS] "Sweet Corn Cultivation: A Profitable Opportunity for Meghalaya’s Farme" | kw:corn
-2026-06-28 04:31 ACCEPT [Google News NS] "Soybean Futures Decline Amid Dry US Weather Forecasts - HarianBasis.co" | kw:soybean
-2026-06-28 04:31 ACCEPT [Google News CB] "USD/CAD Rises to 1.419: Fed Hawkiness, Geo‑Risk, and Falling Oil Weigh" | kw:oil
-2026-06-28 04:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 05:01 ACCEPT [Google News HH] "'India needs to augment its strategic crude oil reserves': EY warns as" | kw:oil,crude
-2026-06-28 05:01 ACCEPT [Google News HH] "Crude oil prices fall as oil supplies flow through the Strait of Hormu" | kw:oil,crude,rice
-2026-06-28 05:01 ACCEPT [Google News HH] "NFP Report Puts Fed Policy and Gold Price Outlook in Focus - equiti.co" | kw:gold,rice
-2026-06-28 05:01 ACCEPT [Google News KL] "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silv" | kw:gold,silver,rice
 2026-06-28 05:01 ACCEPT [Google News KL] "4073.51 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
 2026-06-28 05:01 ACCEPT [Google News KL] "Gold Price Today in Chennai – 18K, 22K & 24K Rate | 28 June 2026 - The" | kw:gold,rice
 2026-06-28 05:01 ACCEPT [Google News NS] "Predictable harvest even in difficult years. How does life-sustaining " | kw:harvest
@@ -20006,3 +19998,15 @@
 2026-08-02 07:01 ACCEPT [Google News KL] "India gold futures fall to three-month low as strong US dollar and hig" | kw:gold
 2026-08-02 07:01 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
 2026-08-02 07:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 07:27 ACCEPT [Google News HH] "OPEC+ has agreement in principle for September quota increase and paus" | kw:opec
+2026-08-02 07:27 ACCEPT [Google News HH] "Iraq and Turkey Sign One-Year Deal for Crude Oil Export - Ratopati" | kw:oil,crude
+2026-08-02 07:27 ACCEPT [Google News HH] "OPEC+ agrees third oil output quota hike since Hormuz closure - DD New" | kw:oil,opec
+2026-08-02 07:27 ACCEPT [Google News KL] "Could the Greatland Resources (GGP) share price resume its epic rally " | kw:gold,rice
+2026-08-02 07:27 ACCEPT [Google News KL] "My Key Silver Price Today (BLflp21wXW) - Mshale" | kw:silver,rice
+2026-08-02 07:27 ACCEPT [Google News KL] "Gold prices today (August 2nd): A sharp drop across the board. - Vietn" | kw:gold,rice
+2026-08-02 07:27 ACCEPT [Google News KL] "Gold price update morning of August 2nd: Sideways, unclear trend - Lao" | kw:gold,rice
+2026-08-02 07:27 ACCEPT [Google News KL] "Gold prices drop Rs3,700 per tola - The News Pakistan" | kw:gold,rice
+2026-08-02 07:27 ACCEPT [Google News NS] "Wheat flour price spiral continues - dawn.com" | kw:wheat,rice
+2026-08-02 07:27 ACCEPT [Google News NS] "Govt Revises Commission Rates for Wheat and Paddy Procurement from Rab" | kw:wheat
+2026-08-02 07:27 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-02 07:27 SKIP_MORNING already_sent date=2026-08-02
