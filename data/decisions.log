@@ -1,8 +1,3 @@
-2026-06-29 01:01 ACCEPT [Google News NS] "China emerges as new soybean oil supplier, deepening India’s import co" | kw:oil,soybean
-2026-06-29 01:01 ACCEPT [Google News CB] "Australia central bank outlines policy tools for times of crisis - Tra" | kw:central bank
-2026-06-29 01:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 01:31 ACCEPT [Google News HH] "Oil Markets Are Pricing A Supply Surge That Isn't Guaranteed - Crude O" | kw:oil,crude,rice
-2026-06-29 01:31 ACCEPT [Google News HH] "SA asks: How will the UAE's exit from OPEC impact the energy sector? -" | kw:opec
 2026-06-29 01:31 ACCEPT [Google News HH] "FCCPC urges fuel price cuts amid crude oil slump - The Guardian Nigeri" | kw:oil,crude,fuel
 2026-06-29 01:31 ACCEPT [Google News KL] "Gold falls to near $4,050 amid US- Iran talks uncertainty - FXStreet" | kw:gold
 2026-06-29 01:31 ACCEPT [Google News KL] "ASX Rallied As Miners And Gold Stocks Led - Finimize" | kw:gold
@@ -20003,3 +19998,9 @@
 2026-08-02 20:01 ACCEPT [Google News KL] "Investors packed up money and rushed to buy gold and silver in the wak" | kw:gold,silver
 2026-08-02 20:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice,ecb
 2026-08-02 20:01 ACCEPT [Google News CB] "The Federal Reserve's Latest Interest Rate Decision Featured Something" | kw:interest rate,rate decision,federal reserve
+2026-08-02 20:07 ACCEPT [Google News HH] "OPEC+ agrees to September oil hike, completing rollback of voluntary c" | kw:oil,opec
+2026-08-02 20:07 ACCEPT [Google News HH] "OPEC+ to Increase Oil Production by 188,000 Barrels Per Day Starting S" | kw:oil,opec
+2026-08-02 20:07 ACCEPT [Google News NS] "Newly opened Terminal 4 at Port of Grays Harbor targets Asia Pacific d" | kw:soybean
+2026-08-02 20:07 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-02 20:07 ACCEPT [Google News CB] "Syrian Central Bank extends currency exchange deadline to Aug. 6 - haw" | kw:central bank
+2026-08-02 20:07 ACCEPT [Google News CB] "China's Central Bank Sets H2 Policy Direction: Timely Adjustment of Mo" | kw:central bank,monetary policy
