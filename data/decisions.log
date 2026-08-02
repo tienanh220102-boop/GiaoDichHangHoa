@@ -1,10 +1,3 @@
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold slips as hawkish Fed signals lift dollar, boost rate hike bets - " | kw:gold,rate hike
-2026-06-27 20:52 ACCEPT [Google News KL] "Chainlink (LINK) Price Analysis 2026-2030: Can the Oracle Network Push" | kw:rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold Rate Today in Erode 27th June 2026 : 22 & 24 Carat, Gold Price in" | kw:gold,rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Current Gold Prices in India: Market Trends and Analysis - Dailyhunt" | kw:gold,rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold price crash explained: Why are gold rates falling and when will y" | kw:gold,rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold and silver could snap longest losing streak in months as metals r" | kw:gold,silver
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold and silver prices fall to seven-month lows - MSN" | kw:gold,silver,rice
 2026-06-27 20:52 ACCEPT [Google News KL] "Gold, silver price today: Gold on MCX trades below Rs 1.45 lakh, silve" | kw:gold,silver,rice
 2026-06-27 20:52 ACCEPT [Google News KL] "Trump’s $5M gold statue makeover draws criticism amid rising living co" | kw:gold
 2026-06-27 20:52 ACCEPT [Google News CB] "ECB’s Schnabel says inflation risks remain despite easing energy price" | kw:rice,inflation,ecb
@@ -20005,3 +19998,5 @@
 2026-08-02 01:03 ACCEPT [Google News NS] "EU wheat drops as traders take month-end profit after rally - Business" | kw:wheat
 2026-08-02 01:04 ACCEPT [Google News CB] "Iran-linked exchange sent $676 million to Binance in alleged sanctions" | kw:sanction
 2026-08-02 01:04 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 01:31 ACCEPT [Al Jazeera] "Hungary plans to shut down only nuclear power plant amid drought" | kw:drought
+2026-08-02 01:31 SKIP_MORNING already_sent date=2026-08-02
