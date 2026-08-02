@@ -1,4 +1,3 @@
-2026-06-29 01:01 ACCEPT [Google News NS] "US-Iran Strikes Shake Ceasefire, Raising Fears of a New Global Oil Cri" | kw:oil
 2026-06-29 01:01 ACCEPT [Google News NS] "China emerges as new soybean oil supplier, deepening India’s import co" | kw:oil,soybean
 2026-06-29 01:01 ACCEPT [Google News CB] "Australia central bank outlines policy tools for times of crisis - Tra" | kw:central bank
 2026-06-29 01:01 SKIP_MORNING already_sent date=2026-06-29
@@ -19999,3 +19998,8 @@
 2026-08-02 19:01 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - moomoo.com" | kw:oil,crude
 2026-08-02 19:01 ACCEPT [Google News KL] "Santacruz Silver Mining (SCZM) Stock Forecast and Price Target 2026 - " | kw:silver,rice
 2026-08-02 19:31 ACCEPT [Google News CB] "The 'Anna Karenina Principle' of Monetary Policy: Must the Fed Hike Ra" | kw:monetary policy
+2026-08-02 20:01 ACCEPT [Google News HH] "OPEC+ production hike, new quotas loom - Daily Tribune" | kw:opec
+2026-08-02 20:01 ACCEPT [Google News KL] "Gold Holds Near $4,100 and Silver Near $59 as Yen Intervention Slams D" | kw:gold,silver
+2026-08-02 20:01 ACCEPT [Google News KL] "Investors packed up money and rushed to buy gold and silver in the wak" | kw:gold,silver
+2026-08-02 20:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD Poised for August Breakout After Six Week" | kw:gold,rice,ecb
+2026-08-02 20:01 ACCEPT [Google News CB] "The Federal Reserve's Latest Interest Rate Decision Featured Something" | kw:interest rate,rate decision,federal reserve
