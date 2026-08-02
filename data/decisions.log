@@ -1,13 +1,3 @@
-2026-06-27 19:31 ACCEPT [Google News NS] "CME : Wheat futures fall on weak exports as corn and soybeans hold fir" | kw:wheat,corn,soybean
-2026-06-27 19:31 ACCEPT [Google News CB] "The end of Putin’s regime will spring from war spending chaos, former " | kw:central bank
-2026-06-27 19:31 ACCEPT [Google News CB] "ECB’s Isabel Schnabel warns of stronger inflation risks post US-Iran p" | kw:inflation,ecb
-2026-06-27 19:31 ACCEPT [Google News CB] "Thailand’s Central Bank to Allow Banks to Issue Baht Stablecoins This " | kw:central bank
-2026-06-27 19:50 ACCEPT [Google News KL] "China Merchants Securities: In the short term, copper prices will be c" | kw:copper,rice,tightening
-2026-06-27 19:50 ACCEPT [Google News NS] "Rain in the Plains Make Grain, So Bears Are in Control of Corn, Soybea" | kw:wheat,corn,soybean
-2026-06-27 19:50 ACCEPT [Google News NS] "Soybeans, corn mixed ahead of upcoming USDA numbers - Brownfield Ag Ne" | kw:corn,soybean
-2026-06-27 19:50 ACCEPT [Google News NS] "Agricultural economist encourages careful optimism amid trade changes " | kw:wti
-2026-06-27 19:50 ACCEPT [Google News NS] "EPA Biofuel Mandates Could Boost Corn Demand - RFD-TV" | kw:fuel,corn
-2026-06-27 19:50 ACCEPT [Google News NS] "Soybeans Close Friday with Slight Losses - TradingView" | kw:soybean
 2026-06-27 19:50 ACCEPT [Google News NS] "Wheat Falls into the Weekend - TradingView" | kw:wheat
 2026-06-27 19:50 ACCEPT [Google News NS] "Euro Falls to $1.135 Amid Oil Price Collapse and Fed-ECB Policy Diverg" | kw:oil,rice,ecb
 2026-06-27 19:50 ACCEPT [Google News NS] "Wheat harvest to approach 5 million tons as yield tops 4 million: Iraq" | kw:wheat,harvest
@@ -20008,3 +19998,13 @@
 2026-08-02 00:01 ACCEPT [Google News KL] "Gold prices fall by Rs3,700 per tola - | Associated Press Of Pakistan" | kw:gold,rice
 2026-08-02 00:01 ACCEPT [Google News CB] "Federal Reserve Chair Warsh Seeks Fewer FOMC Meetings - 조선일보" | kw:federal reserve,fomc
 2026-08-02 00:02 SENT_MORNING articles=20 date=2026-08-02 force=False
+2026-08-02 00:31 ACCEPT [Google News HH] "Davis Commodities Limited Revenue Breakdown – OTC:DTCKF - TradingView" | kw:lng,commodities
+2026-08-02 00:31 ACCEPT [Google News HH] "‎Cardinal Torch set to drive growth, transform Nigeria’s agro-commodit" | kw:commodities
+2026-08-02 00:31 ACCEPT [Google News KL] "Gold slides as US yields surge, keeping $4,100 out of reach - tmgm.com" | kw:gold
+2026-08-02 00:31 ACCEPT [Google News KL] "Chennai gold price drops by Rs 280 on August 1, 2026; check today's go" | kw:gold,silver,rice
+2026-08-02 00:31 ACCEPT [Google News NS] "Swedish Artisan Cheesery Successfully Combines Economic and Environmen" | kw:iron
+2026-08-02 00:31 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
+2026-08-02 00:31 ACCEPT [Google News CB] "Warsh Proposes Cutting FOMC Meetings After 45 Years - 조선일보" | kw:fomc
+2026-08-02 00:31 ACCEPT [Google News CB] "Convertible Note Interest Rate Explained: The Dilution Founders Miss -" | kw:interest rate
+2026-08-02 00:31 ACCEPT [Google News CB] "Lebanon ex-central banker transferred to jail after hospital: judicial" | kw:central bank
+2026-08-02 00:31 SKIP_MORNING already_sent date=2026-08-02
