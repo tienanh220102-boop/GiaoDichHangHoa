@@ -1,12 +1,3 @@
-2026-06-28 18:01 ACCEPT [Google News NS] "ALERT Issued for Hot/Dry Weather Centered on Western U.S. Corn Belt La" | kw:corn
-2026-06-28 18:06 ACCEPT [Google News CB] "Trump criticizes Fed chair Warsh as rate hike odds surge - MSN" | kw:rate hike
-2026-06-28 18:31 ACCEPT [Google News KL] "It’s Over For XRP Bears... THE SIGNAL Is Flashing Silver Price Today (" | kw:silver,rice
-2026-06-28 19:01 ACCEPT [OilPrice.com] "The World Is Racing to Develop New Nuclear Fuels" | kw:fuel,sanction
-2026-06-28 19:01 ACCEPT [Google News HH] "Crude Oil Soars Past $100pb: Global Implications Are Huge! | MarketTal" | kw:oil,crude
-2026-06-28 19:01 ACCEPT [Google News HH] "No oil demand peak in sight, OPEC says - MSN" | kw:oil,opec
-2026-06-28 19:01 ACCEPT [Google News KL] "Silver Price Today | Price of Silver Per Ounce | 24 Hour Spot Chart - " | kw:silver,rice
-2026-06-28 19:01 ACCEPT [Google News CB] "ECB's Schnabel Warns Inflation Risks Persist, Signals Possible Further" | kw:inflation,rate hike,ecb
-2026-06-28 19:31 ACCEPT [Google News HH] "FCCPC urges fuel price cuts amid crude oil slump - The Guardian Nigeri" | kw:oil,crude,fuel
 2026-06-28 19:31 ACCEPT [Google News KL] "Where Are Gold Prices Headed in the Second Half of the Year? - AOL.com" | kw:gold,rice
 2026-06-28 19:31 ACCEPT [Google News KL] "Silver (XAG) Forecast: Silver Bounces but Fed Keeps Price Prediction B" | kw:silver,rice
 2026-06-28 19:31 ACCEPT [Google News KL] "Gold and Silver Prices Under Pressure Amid Economic Uncertainty - Indi" | kw:gold,silver,rice
@@ -20007,3 +19998,15 @@
 2026-08-02 16:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
 2026-08-02 16:01 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 16:01 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 16:31 ACCEPT [Google News HH] "OPEC+ boosts September oil output, future pause foreseen | Daily Sabah" | kw:oil,opec
+2026-08-02 16:31 ACCEPT [Google News HH] "Gold Price Forecast: Softer Inflation Lifts Gold but High Yields Cap G" | kw:gold,rice,inflation
+2026-08-02 16:31 ACCEPT [Google News HH] "OPEC+ members lift voluntary cuts, raise output by 188,000 barrels fro" | kw:opec
+2026-08-02 16:31 ACCEPT [Google News HH] "OPEC plus countries agree to increase oil production by 188000 barrels" | kw:oil,opec
+2026-08-02 16:31 ACCEPT [Google News KL] "Bullion market: What will guide gold, silver prices this week? - The T" | kw:gold,silver,rice
+2026-08-02 16:31 ACCEPT [Google News KL] "Gold prices on the afternoon of August 2nd, 2026: SJC 9999 gold, BTMC " | kw:gold,rice
+2026-08-02 16:31 ACCEPT [Google News KL] "Market outlook for the week of July 27 - August 2: Gold prices have no" | kw:gold,rice
+2026-08-02 16:31 ACCEPT [Google News KL] "The gold and gemstone market is entering a phase of screening and tran" | kw:gold
+2026-08-02 16:31 ACCEPT [Google News KL] "Latest gold prices today (August 2nd) remain at a crucial level: Custo" | kw:gold,rice
+2026-08-02 16:31 ACCEPT [Google News NS] "Coffee prices are rising again due to supply concerns. - vietnam.vn" | kw:rice,coffee
+2026-08-02 16:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 16:31 SKIP_EVENING already_sent date=2026-08-02
