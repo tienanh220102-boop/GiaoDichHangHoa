@@ -1,19 +1,3 @@
-2026-06-28 14:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 14:01 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 14:20 ACCEPT [MarketWatch] "Micron is about to be more profitable than any U.S. company except Nvi" | kw:rice
-2026-06-28 14:20 ACCEPT [Google News HH] "PAX Gold Price Prediction Shifts as PAXG Lands on Solana and Pepeto Pr" | kw:gold,rice
-2026-06-28 14:20 ACCEPT [Google News HH] "Stock Market Prediction THIS Week: West Asia tensions, crude oil swing" | kw:oil,crude
-2026-06-28 14:20 ACCEPT [Google News HH] "Bombay HC dismisses pleas against MCX's negative crude oil pricing dur" | kw:oil,crude
-2026-06-28 14:20 ACCEPT [Google News HH] "Brent Crude Oil Price Today (June 28): Brent Falls Below $79, WTI Slip" | kw:oil,crude,brent
-2026-06-28 14:20 ACCEPT [Google News HH] "Gate.io announces increased accessibility to global commodities via Tr" | kw:commodities
-2026-06-28 14:20 ACCEPT [Google News HH] "India's crude oil import dependence crosses 90%, raising economic risk" | kw:oil,crude
-2026-06-28 14:20 ACCEPT [Google News KL] "Gold, Silver Likely To Stay Under Pressure This Week As Dollar Strengt" | kw:gold,silver
-2026-06-28 14:20 ACCEPT [Google News KL] "Gifted money to your wife and she invested it in FD, gold or shares? T" | kw:gold
-2026-06-28 14:20 ACCEPT [Google News CB] "Fed Rate Decision June 2026: A Hawkish Pause Signals Higher for Longer" | kw:fed rate,rate decision
-2026-06-28 14:20 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 14:20 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 14:31 ACCEPT [Google News HH] "Brent crude oil prices top $100 as US awaits Iran response on peace ta" | kw:oil,crude,brent
-2026-06-28 14:31 ACCEPT [Google News HH] "Diesel-Rich Alberta Synthetic Crude Oil Triples in Four Days - EnergyN" | kw:oil,crude
 2026-06-28 14:31 ACCEPT [Google News HH] "Crude oil prices jump as US domestic supplies tumble - MSN" | kw:oil,crude,rice
 2026-06-28 14:31 ACCEPT [Google News KL] "Gifted money to your wife and she invested it in FD, gold or shares? T" | kw:gold
 2026-06-28 14:31 ACCEPT [Google News CB] "Wall Street outlook: Jobs data, Fed rate bets to test US stock rally a" | kw:fed rate
@@ -20014,3 +19998,15 @@
 2026-08-02 14:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
 2026-08-02 14:01 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 14:01 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 14:24 ACCEPT [Google News HH] "OPEC+ agrees September oil hike, completing rollback of voluntary cuts" | kw:oil,opec
+2026-08-02 14:24 ACCEPT [Google News HH] "Kuwait raises crude oil output to near two million bpd in July — Reute" | kw:oil,crude
+2026-08-02 14:24 ACCEPT [Google News HH] "OPEC+ to raise oil production by 188,000 bpd in September - Saudi Gaze" | kw:oil,opec
+2026-08-02 14:24 ACCEPT [Google News KL] "Gold Price Today in Cuttack – 18K, 22K & 24K Rate | 02 August 2026 - t" | kw:wti,gold,rice
+2026-08-02 14:24 ACCEPT [Google News KL] "Gold Price Today in Amravati – 18K, 22K & 24K Rate | 02 August 2026 - " | kw:gold,rice
+2026-08-02 14:24 ACCEPT [Google News NS] "Mainord elected chair of Missouri Soybean Merchandising Council - High" | kw:soybean
+2026-08-02 14:24 ACCEPT [Google News NS] "Economy and Bakery Owners Union: The Strategic Stock of Wheat and Flou" | kw:wheat
+2026-08-02 14:24 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
+2026-08-02 14:24 ACCEPT [Google News CB] "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price (SPX) - Seek" | kw:rice
+2026-08-02 14:24 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-02 14:24 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 14:24 SKIP_EVENING already_sent date=2026-08-02
