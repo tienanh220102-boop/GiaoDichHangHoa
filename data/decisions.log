@@ -1,14 +1,3 @@
-2026-06-27 21:01 ACCEPT [RT Business] "Potato futures are soaring – should the world be worried?" | kw:fuel,rice
-2026-06-27 21:01 ACCEPT [RT Business] "EU ‘not competitive’ – Belgian central bank chief" | kw:central bank
-2026-06-27 21:01 ACCEPT [RT Business] "Putin envoy names ‘first victim’ of historic energy crisis" | kw:oil,rice
-2026-06-27 21:01 ACCEPT [Fed Monetary] "Federal Open Market Committee reaffirms its "Statement on Longer-Run G" | kw:monetary policy
-2026-06-27 21:01 ACCEPT [Google News CB] "AI boom, stubborn inflation point to rate hike ahead, says Minneapolis" | kw:inflation,rate hike
-2026-06-27 21:01 ACCEPT [Google News CB] "As oil fades as an inflation concern, will AI take its place? The Fed " | kw:oil,inflation
-2026-06-27 21:01 ACCEPT [Google News CB] "Services inflation is hitting Americans hard. What can the Fed do? - Y" | kw:inflation
-2026-06-27 21:01 ACCEPT [Google News CB] "This Week's Market Wrap: AI Memory Shock, Crude Cracks, And Data Boxes" | kw:crude
-2026-06-27 21:01 ACCEPT [Google News CB] "AGR Forecasts Bank Al-Maghrib to Hold Key Interest Rate at 2.25% - Mor" | kw:interest rate
-2026-06-27 21:01 ACCEPT [Google News CB] "Gallup poll shows increase in church attendance - ECB Publishing, Inc." | kw:ecb
-2026-06-27 21:01 ACCEPT [Google News CB] "Thailand’s Central Bank to Allow Banks to Issue Baht Stablecoins This " | kw:central bank
 2026-06-27 21:01 ACCEPT [Google News CB] "Net loan losses of Shinkin Central Bank Pfd Subs Cert – TSE:8421 - Tra" | kw:central bank
 2026-06-27 21:31 ACCEPT [NASDAQ Commod] "Rhona O'Connell: Gold Price Drop — Why it Happened, What's Next" | kw:gold,rice
 2026-06-27 21:31 ACCEPT [Google News KL] "Silver Price Analysis: XAG/USD Tests $59 Resistance After Recovering F" | kw:silver,rice
@@ -20009,3 +19998,8 @@
 2026-08-02 04:31 ACCEPT [Google News CB] "Central Banks Navigate An Energy Shock: Why The Fed And Bank Of Englan" | kw:central bank,bank of england
 2026-08-02 04:31 ACCEPT [Google News CB] "How Simplify Interest Rate Hedge Etf (PFIX) Affects Rotational Strateg" | kw:interest rate
 2026-08-02 04:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 04:48 ACCEPT [Google News HH] "Iraq, Türkiye sign agreement to transport crude oil exports via Ceyhan" | kw:oil,crude,gdp
+2026-08-02 04:48 ACCEPT [Google News KL] "Gold, silver trade lower amid weak global cues - DD News" | kw:gold,silver
+2026-08-02 04:48 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - Oz Arab Media" | kw:inflation
+2026-08-02 04:48 ACCEPT [Google News CB] "Warsh Proposes Cutting FOMC Meetings After 45 Years - chosun.com" | kw:fomc
+2026-08-02 04:48 SKIP_MORNING already_sent date=2026-08-02
