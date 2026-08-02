@@ -1,9 +1,3 @@
-2026-06-29 01:31 ACCEPT [Google News HH] "FCCPC urges fuel price cuts amid crude oil slump - The Guardian Nigeri" | kw:oil,crude,fuel
-2026-06-29 01:31 ACCEPT [Google News KL] "Gold falls to near $4,050 amid US- Iran talks uncertainty - FXStreet" | kw:gold
-2026-06-29 01:31 ACCEPT [Google News KL] "ASX Rallied As Miners And Gold Stocks Led - Finimize" | kw:gold
-2026-06-29 01:31 ACCEPT [Google News KL] "Gold Falls Toward $4,000 an Ounce as US-Iran Tensions Ease - bloomingb" | kw:gold
-2026-06-29 01:31 ACCEPT [Google News KL] "Reserve assests: Global central banks join new gold rush - DT Next" | kw:gold,central bank
-2026-06-29 01:31 ACCEPT [Google News CB] "3 US Regional Bank Stocks Worth Watching As Fed Rate Uncertainty Persi" | kw:fed rate
 2026-06-29 01:31 ACCEPT [Google News CB] "RBA's Kent: Additional Monetary Policy Tools: Reflections and a New Fr" | kw:monetary policy
 2026-06-29 01:31 SKIP_MORNING already_sent date=2026-06-29
 2026-06-29 02:01 ACCEPT [Google News HH] "Crude Oil Trading Alert: Recurrent geopolitical tensions fuel supply-s" | kw:oil,crude,fuel
@@ -20004,3 +19998,12 @@
 2026-08-02 20:07 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
 2026-08-02 20:07 ACCEPT [Google News CB] "Syrian Central Bank extends currency exchange deadline to Aug. 6 - haw" | kw:central bank
 2026-08-02 20:07 ACCEPT [Google News CB] "China's Central Bank Sets H2 Policy Direction: Timely Adjustment of Mo" | kw:central bank,monetary policy
+2026-08-02 20:31 ACCEPT [Google News HH] "Column: Will the Iran war deliver the final blow to OPEC? - The Virgin" | kw:opec
+2026-08-02 20:31 ACCEPT [Google News HH] "Why Global Diesel Markets Have Stopped Following Crude Oil's Lead - st" | kw:oil,crude
+2026-08-02 20:31 ACCEPT [Google News HH] "Strait of Hormuz disruption raises market volatility, weakens efforts " | kw:oil,crude,opec
+2026-08-02 20:31 ACCEPT [Google News HH] "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd " | kw:oil,opec
+2026-08-02 20:31 ACCEPT [Google News HH] "RANKED: The Top Crude Oil Producers in 2025 - Visual Capitalist - See " | kw:oil,crude
+2026-08-02 20:31 ACCEPT [Google News KL] "Gold News: Gold Market Awaits Payrolls as Fed Rate-Hike Risk Stays Ele" | kw:gold,fed rate
+2026-08-02 20:31 ACCEPT [Google News KL] "Lovlina dedicates CWG silver to Assam’s suffering souls - The Times of" | kw:silver
+2026-08-02 20:31 ACCEPT [Google News CB] "Jeff Evans - ECB Umpire Vic Isaacs/Victor Isaacs - Cricinfo" | kw:ecb
+2026-08-02 20:31 ACCEPT [Google News CB] "Strive CEO：比特币跌至 1 美分也无需出售公司储备持仓 - CryptoRank" | kw:lng
