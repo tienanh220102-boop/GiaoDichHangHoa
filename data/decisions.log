@@ -1,13 +1,3 @@
-2026-06-29 03:31 ACCEPT [Google News KL] "Gold prices fall: Indians sell old jewellery as fears of deeper correc" | kw:gold,rice
-2026-06-29 03:31 ACCEPT [Google News NS] "Corn Man: How Pattabhi Rama Rao Built a Monopoly Nobody Saw Coming - T" | kw:corn
-2026-06-29 03:31 ACCEPT [Google News CB] "Copper Declines as Fed Stance and Strong Dollar Weigh On Metals - Bloo" | kw:copper
-2026-06-29 03:31 ACCEPT [Google News CB] "Iran war developments, Fed rate path cues in focus for Indian rupee an" | kw:fed rate
-2026-06-29 03:31 ACCEPT [Google News CB] "China’s central bank debuts overnight reverse repo operation, withhold" | kw:central bank,interest rate
-2026-06-29 03:31 ACCEPT [Google News CB] "Japan Retail Sales Jump in May, Sharpening Focus on BoJ Policy and Yen" | kw:boj
-2026-06-29 03:31 ACCEPT [Google News CB] "Japan retail sales beat forecasts, stoking bets on earlier BoJ tighten" | kw:boj,tightening
-2026-06-29 03:31 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 04:01 ACCEPT [MarketWatch] "Oil prices, stock futures inch higher as U.S. and Iran reportedly agre" | kw:oil,rice
-2026-06-29 04:01 ACCEPT [MarketWatch] "Micron is about to be more profitable than any U.S. company except Nvi" | kw:rice
 2026-06-29 04:01 ACCEPT [BBC Business] "Apple hikes some prices by nearly 20% while Xbox raises console cost" | kw:rice
 2026-06-29 04:01 ACCEPT [BBC Business] "Oil price falls back to pre-Iran war levels" | kw:oil,rice,shipping
 2026-06-29 04:01 ACCEPT [BBC Business] "How much should we be prepared to pay for our food?" | kw:rice
@@ -20008,3 +19998,7 @@
 2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Waco Tribune-Herald" | kw:opec
 2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Grand Island Independ" | kw:opec
 2026-08-02 21:22 ACCEPT [Google News KL] "Kristie Batten: Bell sees huge upside for silver developer Maronan - S" | kw:silver
+2026-08-02 21:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Times and Democrat" | kw:opec
+2026-08-02 21:31 ACCEPT [Google News HH] "WTI Crude Oil 02/08: Traders Test Rough Peace Narrative - Daily Forex" | kw:oil,crude,wti
+2026-08-02 21:31 ACCEPT [Google News HH] "OPEC+ Raises Production Caps Again: Concerns About the Stability of Ma" | kw:opec
+2026-08-02 21:31 ACCEPT [Google News CB] "Kroger Stock Leads Consumer Retail Picks As Fed Inflation Cools - simp" | kw:inflation
