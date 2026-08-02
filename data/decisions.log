@@ -1,10 +1,3 @@
-2026-06-27 21:01 ACCEPT [Google News KL] "O2 - Check Check Silver Price Today (4DDa2ZFOPI) - Mshale" | kw:silver,rice
-2026-06-27 21:01 ACCEPT [Google News KL] "Gold prices notch weekly decline as Fed rate hike bets outweigh slidin" | kw:oil,gold,rice
-2026-06-27 21:01 ACCEPT [Google News KL] "Gold, silver prices decline in local and global markets - The Nation (" | kw:gold,silver,rice
-2026-06-27 21:01 ACCEPT [Google News NS] "Weekly Market Roundup: Grains Search for Direction, Soybeans Look Unde" | kw:soybean
-2026-06-27 21:01 ACCEPT [Google News NS] "Growing conditions pressure crop prices in Ontario, U.S. Midwest - Far" | kw:rice
-2026-06-27 21:01 ACCEPT [Google News NS] "European Corn Surges as US Market Eyes El Niño - Barchart.com" | kw:corn
-2026-06-27 21:01 ACCEPT [RT Business] "Defying Western pressure: Russia and China deepen economic partnership" | kw:sanction
 2026-06-27 21:01 ACCEPT [RT Business] "Potato futures are soaring – should the world be worried?" | kw:fuel,rice
 2026-06-27 21:01 ACCEPT [RT Business] "EU ‘not competitive’ – Belgian central bank chief" | kw:central bank
 2026-06-27 21:01 ACCEPT [RT Business] "Putin envoy names ‘first victim’ of historic energy crisis" | kw:oil,rice
@@ -20005,3 +19998,14 @@
 2026-08-02 04:01 ACCEPT [Google News CB] "Consumer Headlines: Interest rate remains at 3.5 to 3.75% - news8000.c" | kw:interest rate
 2026-08-02 04:01 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market’s ‘re" | kw:inflation
 2026-08-02 04:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 04:31 ACCEPT [Google News HH] "Saudi Arabia February Crude Exports Up, Output Highest Since 2022, JOD" | kw:crude
+2026-08-02 04:31 ACCEPT [Google News HH] "China’s Commodity Imports Show Hormuz Impact as Oil Slides, Metals Ris" | kw:oil,commodity
+2026-08-02 04:31 ACCEPT [Google News HH] "Diesel-Rich Alberta Synthetic Crude Oil Triples in Four Days - EnergyN" | kw:oil,crude
+2026-08-02 04:31 ACCEPT [Google News HH] "India secures 70% of crude oil imports Outside Strait of Hormuz: Petro" | kw:oil,crude,petroleum
+2026-08-02 04:31 ACCEPT [Google News HH] "Government clarifies that India is importing crude oil from 40 countri" | kw:oil,crude
+2026-08-02 04:31 ACCEPT [Google News KL] "Citi Cuts Brent Forecasts as U.S.-Iran MoU Points to Strait of Hormuz " | kw:brent
+2026-08-02 04:31 ACCEPT [Google News KL] "Capstone Copper Q2 Earnings Call Highlights - marketbeat.com" | kw:copper
+2026-08-02 04:31 ACCEPT [Google News KL] "Silver's Two-Front War: A Yen-Fueled Bounce Collides With a Brutal Bea" | kw:fuel,silver
+2026-08-02 04:31 ACCEPT [Google News CB] "Central Banks Navigate An Energy Shock: Why The Fed And Bank Of Englan" | kw:central bank,bank of england
+2026-08-02 04:31 ACCEPT [Google News CB] "How Simplify Interest Rate Hedge Etf (PFIX) Affects Rotational Strateg" | kw:interest rate
+2026-08-02 04:31 SKIP_MORNING already_sent date=2026-08-02
