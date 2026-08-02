@@ -1,23 +1,3 @@
-2026-06-28 11:31 ACCEPT [Google News HH] "Indian markets open higher as crude oil prices hover near $70 mark - D" | kw:oil,crude,rice
-2026-06-28 11:31 ACCEPT [Google News HH] "Stock market outlook: West Asia tensions and crude oil prices to drive" | kw:oil,crude,rice
-2026-06-28 11:31 ACCEPT [Google News HH] "Markets ahead: West Asia tensions, crude prices key factors to watch o" | kw:crude,rice
-2026-06-28 11:31 ACCEPT [Google News HH] "Crude oil prices tumble as Strait of Hormuz reopens - MSN" | kw:oil,crude,rice
-2026-06-28 11:31 ACCEPT [Google News KL] "Where Are Gold Prices Headed in the Second Half of the Year? - Investo" | kw:gold,rice
-2026-06-28 11:31 ACCEPT [Google News KL] "Gold prices stabilize in Baghdad, decline in Erbil - Shafaq News | Lat" | kw:gold,rice
-2026-06-28 11:31 ACCEPT [Google News KL] "Robert Kiyosaki Says Gold May Be Starting $35K Bull Run After Latest P" | kw:gold
-2026-06-28 11:31 ACCEPT [Google News KL] "Gold, Silver Prices: US Dollar & Iran Crisis Shape Week Ahead - Rediff" | kw:gold,silver,rice
-2026-06-28 11:31 ACCEPT [Google News NS] "ITAC defends decision to keep wheat tariff trigger unchanged despite G" | kw:wheat,tariff
-2026-06-28 11:31 ACCEPT [Google News CB] "Monticello to join 1,000 cities for America Prays 250 event - ECB Publ" | kw:ecb
-2026-06-28 11:31 ACCEPT [Google News CB] "Central Bank of Iraq data: Gold reserves and investments declined duri" | kw:gold,central bank
-2026-06-28 11:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 12:01 ACCEPT [Google News HH] "Gold Price Recovers To $4,450 On Trump’s Iran Attack Pause – But Yello" | kw:gold,rice
-2026-06-28 12:01 ACCEPT [Google News HH] "Gold Price Today in Ambur – 18K, 22K & 24K Rate | 28 June 2026 - The T" | kw:gold,rice
-2026-06-28 12:01 ACCEPT [Google News HH] "FMCG firms stall price hikes as lower oil prices support volume growth" | kw:oil,rice
-2026-06-28 12:01 ACCEPT [Google News KL] "Gold, Silver Prices: US Dollar & Iran Crisis Shape Week Ahead - Rediff" | kw:gold,silver,rice
-2026-06-28 12:01 ACCEPT [Google News KL] "ROBINHOOD STOCK WILL 10X?! Agentic AI Changes EVERYTHING Silver Price " | kw:silver,rice
-2026-06-28 12:01 ACCEPT [Google News NS] "RFS targets boost soybean farmers - agronews.com" | kw:soybean
-2026-06-28 12:01 ACCEPT [Google News NS] "Wheat Rally Cools as Weather Risk Builds - agronews.com" | kw:wheat
-2026-06-28 12:01 ACCEPT [Google News CB] "It’s Insurance Awareness Day! - ECB Publishing, Inc." | kw:ecb
 2026-06-28 12:01 ACCEPT [Google News CB] "County considers moratorium on data centers - ECB Publishing, Inc." | kw:ecb
 2026-06-28 12:01 ACCEPT [Google News CB] "Week Ahead: U.S. Jobs Report; Eurozone, Switzerland and South Korea CP" | kw:ecb
 2026-06-28 12:01 SKIP_MORNING already_sent date=2026-06-28
@@ -20018,3 +19998,12 @@
 2026-08-02 12:31 ACCEPT [Google News CB] "Fed holds interest rates steady: a delicate balancing act - en.nhandan" | kw:interest rate
 2026-08-02 12:31 ACCEPT [Google News CB] "Lebanon: Former Central Bank Chief Salameh Transferred to Prison - Age" | kw:central bank
 2026-08-02 12:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 12:33 ACCEPT [Google News HH] "OPEC, Allies Increase Oil Output for Sixth Time in a Row - wsj.com" | kw:oil,opec
+2026-08-02 12:33 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - Moomoo" | kw:oil,crude
+2026-08-02 12:33 ACCEPT [Google News HH] "Kuwait raises crude oil output to near 2 million bpd in July, source s" | kw:oil,crude
+2026-08-02 12:33 ACCEPT [Google News KL] "Laopu Gold’s cooling growth tests its luxury credentials - Jing Daily" | kw:gold
+2026-08-02 12:33 ACCEPT [Google News KL] "Market outlook for the week of July 27 - August 2: Gold prices have no" | kw:gold,rice
+2026-08-02 12:33 ACCEPT [Google News NS] "Coffee prices are rising again due to supply concerns. - Vietnam.vn" | kw:rice,coffee
+2026-08-02 12:33 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
+2026-08-02 12:33 ACCEPT [Google News NS] "Wheat, flour prices continue to climb despite import plan - MM News" | kw:wheat,rice
+2026-08-02 12:33 SKIP_MORNING already_sent date=2026-08-02
