@@ -1,0 +1,68 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          84.67   +1.3%    -5.2%
+Brent        90.12   +1.2%    -6.9%
+Khí TN       2.747   -0.4%    -4.3%
+Vàng      4,049.10   -1.2%    -0.5%
+Bạc          57.59   -2.1%    -1.8%
+Đồng         6.436   -0.1%    +1.8%
+Ngô         440.75   -1.1%    -5.1%
+Lúa mì      639.25   -3.6%    -5.7%
+Đậu t.    1,172.00   -0.5%    -6.1%
+DXY          99.80   -0.2%    -1.6%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): Vàng 68.5× bình thường, Đồng 3.7× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $5.45 (1 tháng trước: $2.99) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 70.3 (1 tháng trước: 67.7) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.59 (1 tháng trước: 1.51) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-28]
+  Lúa mì (SRW): NET SHORT -1,992 (Δ tuần: +5,017)
+  Ngô: NET LONG +254,320 (Δ tuần: +67,670)
+  Đậu tương: NET LONG +211,757 (Δ tuần: +36,111)
+  Dầu WTI: NET LONG +3,973 (Δ tuần: -8,541)
+  Bạc: NET LONG +22,217 (Δ tuần: -1,248)
+  Đồng: NET LONG +67,281 (Δ tuần: -6,696)
+  Vàng XAU: NET LONG +182,070 (Δ tuần: -1,840)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+BÁO CÁO PHIÊN SÁNG (07:00 VN) NGÀY 2026-08-02
+
+🌍 VĨ MÔ
+Đồng Đô la Mỹ (DXY) giảm nhẹ, thường hỗ trợ giá hàng hóa định giá bằng USD. Tuy nhiên, tâm lý thị trường có sự phân hóa khi chỉ số Đồng/Vàng tăng, cho thấy kỳ vọng tăng trưởng kinh tế, trong khi một số tài sản rủi ro khác có dấu hiệu điều chỉnh.
+
+🥇 KIM LOẠI QUÝ — Vàng, Bạc
+Xu hướng: Vàng GIẢM | Bạc GIẢM
+Thiên hướng KT: Vàng Nghiêng giảm | Bạc Nghiêng giảm
+Ngưỡng giá: Vàng 4,017.90–4,118.50 | Bạc 57.23–59.25
+Phân tích:
+• Vàng giảm 1.24% trong phiên và 0.45% trong 5 phiên, với khối lượng giao dịch rất cao, cho thấy áp lực bán mạnh. Các quỹ đầu cơ đã giảm nhẹ vị thế mua ròng trong tuần trước.
+• Bạc giảm 2.08% trong phiên và 1.82% trong 5 phiên, chịu ảnh hưởng bởi xu hướng giảm của vàng và hoạt động chốt lời.
+Rủi ro:
+• Sự điều chỉnh của thị trường tài chính rộng hơn có thể tiếp tục gây áp lực lên kim loại quý.
+
+🌾 NÔNG SẢN — Ngô, Đậu tương, Lúa mì
+Xu hướng: Ngô SIDEWAY | Lúa mì SIDEWAY | Đậu tương SIDEWAY
+Thiên hướng KT: Ngô Trung tính | Lúa mì Trung tính | Đậu tương Trung tính
+Ngưỡng giá: Ngô 438.00–462.25 | Lúa mì 634.50–686.50 | Đậu tương 1,166.75–1,244.75
+Phân tích:
+• Lúa mì giảm mạnh 3.65% trong phiên và 5.72% trong 5 phiên với khối lượng giao dịch cao, khi các quỹ đầu cơ tăng vị thế bán ròng.
+• Đậu tương giảm 0.45% trong phiên và 6.09% trong 5 phiên, chịu ảnh hưởng bởi giá dầu đậu tương yếu hơn và hoạt động chốt lời. Ngô cũng giảm 1.12% trong phiên và 5.06% trong 5 phiên.
+Rủi ro:
+• Hoạt động chốt lời sau đợt tăng giá trước đó có thể tiếp tục gây áp lực lên nhóm nông sản.
+
+🔩 KIM LOẠI CÔNG NGHIỆP — Đồng
+Xu hướng: Đồng SIDEWAY
+Thiên hướng KT: Đồng Trung tính
+Ngưỡng giá: Đồng 6.296–6.516
+Phân tích:
+• Đồng giảm nhẹ 0.13% trong phiên nhưng vẫn tăng 1.84% trong 5 phiên, với khối lượng giao dịch cao cho thấy sự quan tâm của thị trường. Các quỹ đầu cơ đã giảm vị thế mua ròng.
+• Tỷ lệ Đồng/Vàng tăng cho thấy kỳ vọng tăng trưởng kinh tế, điều này thường hỗ trợ nhu cầu đối với kim loại công nghiệp.
+Rủi ro:
+• Bất kỳ dấu hiệu nào về sự suy yếu của nền kinh tế toàn cầu có thể ảnh hưởng tiêu cực đến nhu cầu đồng.
+
+📋 KHUYẾN NGHỊ
+• Đối với Vàng, nhà đầu tư có thể cân nhắc quan sát quanh ngưỡng hỗ trợ 4,017.90 USD/oz nếu áp lực bán tiếp tục.
+• Đối với Lúa mì, cần theo dõi thêm diễn biến giá quanh ngưỡng 634.50 cent/bushel do áp lực giảm giá mạnh.
