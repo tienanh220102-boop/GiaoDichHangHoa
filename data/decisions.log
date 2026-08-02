@@ -1,8 +1,3 @@
-2026-06-28 06:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 06:31 ACCEPT [Al Jazeera] "Venezuelan earthquake death toll rises amid increasingly dire search" | kw:easing
-2026-06-28 06:31 ACCEPT [Google News HH] "Crude oil price forecast as US and Iran intensify attacks - Invezz" | kw:oil,crude,rice
-2026-06-28 06:31 ACCEPT [Google News HH] "Commodities regulator alleges Winklevosses' Gemini crypto exchange was" | kw:commodities
-2026-06-28 06:31 ACCEPT [Google News KL] "Gold, Silver Rate Today June 28: Did Gold become costlier today? Check" | kw:gold,silver,rice
 2026-06-28 06:31 ACCEPT [Google News NS] "Predictable harvest even in difficult years. How does life-sustaining " | kw:harvest
 2026-06-28 06:31 SKIP_MORNING already_sent date=2026-06-28
 2026-06-28 07:01 ACCEPT [Google News HH] "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter - Yaho" | kw:opec
@@ -20003,3 +19998,9 @@
 2026-08-02 08:01 ACCEPT [Google News KL] "Gold Rate Today In Siliguri, Check Live 22 And 24 Carat Gold Price - N" | kw:gold,rice
 2026-08-02 08:01 ACCEPT [Google News CB] "Nigeria: Central Bank sanctions financial institutions - Financial Afr" | kw:rice,sanction,central bank
 2026-08-02 08:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 08:31 ACCEPT [Al Jazeera] "Arsenal’s Arteta expects more signings as Tzolis scores against Girona" | kw:iron
+2026-08-02 08:31 ACCEPT [Google News HH] "OPEC+ set for September quota increase followed by pause, sources say " | kw:opec
+2026-08-02 08:31 ACCEPT [Google News HH] "Storage data shows oil inventories are near tank bottoms - mrt.com" | kw:oil
+2026-08-02 08:31 ACCEPT [Google News HH] "Samudra Manthan scheme to help India save ₹1 lakh crore annually on en" | kw:petroleum,lng
+2026-08-02 08:31 ACCEPT [Google News CB] "China's central bank pledges timely policy tool adjustment - thestanda" | kw:central bank
+2026-08-02 08:31 SKIP_MORNING already_sent date=2026-08-02
