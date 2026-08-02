@@ -1,18 +1,3 @@
-2026-06-28 13:31 ACCEPT [Google News KL] "BofA Sees Opportunity in Gold Miners as Market Discounts Bullion Price" | kw:gold,rice
-2026-06-28 13:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
-2026-06-28 13:31 ACCEPT [Google News CB] "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Ra" | kw:interest rate,fomc
-2026-06-28 13:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 13:31 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 14:01 ACCEPT [Al Jazeera] "Ukraine says it attacked two Russian oil refineries" | kw:oil
-2026-06-28 14:01 ACCEPT [Google News HH] "Crude oil slides to four-month lows, boosting India outlook - MSN" | kw:oil,crude
-2026-06-28 14:01 ACCEPT [Google News KL] "Aya Gold & Silver: Growth Remains On Track Despite The Pullback (NASDA" | kw:gold,silver
-2026-06-28 14:01 ACCEPT [Google News KL] "Gold prices rise in major cities as global bullion gains - MSN" | kw:gold,rice
-2026-06-28 14:01 ACCEPT [Google News KL] "Gold, Silver Likely To Stay Under Pressure This Week As Dollar Strengt" | kw:gold,silver
-2026-06-28 14:01 ACCEPT [Google News NS] "The First Lady is right: Before we start importing corn roasters too -" | kw:corn
-2026-06-28 14:01 ACCEPT [Google News CB] "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Ra" | kw:interest rate,fomc
-2026-06-28 14:01 ACCEPT [Google News CB] "10 Interest Rate Sensitive Stocks to Buy Now - Insider Monkey" | kw:interest rate
-2026-06-28 14:01 ACCEPT [Google News CB] "5 Interest Rate Sensitive Stocks to Buy Now - Insider Monkey" | kw:interest rate
-2026-06-28 14:01 ACCEPT [Google News CB] "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Ke" | kw:interest rate
 2026-06-28 14:01 SKIP_MORNING already_sent date=2026-06-28
 2026-06-28 14:01 SKIP_EVENING already_sent date=2026-06-28
 2026-06-28 14:20 ACCEPT [MarketWatch] "Micron is about to be more profitable than any U.S. company except Nvi" | kw:rice
@@ -20013,3 +19998,19 @@
 2026-08-02 13:31 ACCEPT [Google News CB] "China’s central bank pledges timely policy tool adjustment - businesst" | kw:central bank
 2026-08-02 13:31 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 13:31 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 14:01 ACCEPT [Google News HH] "Organization of the Petroleum Exporting Countries - Organization of th" | kw:petroleum
+2026-08-02 14:01 ACCEPT [Google News HH] "OPEC: THIS ADJUSTMENT WILL BE IMPLEMENTED IN SEPTEMBER 2026 - news.cgt" | kw:opec
+2026-08-02 14:01 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Tight Inventories Keep Bulls in Control - FO" | kw:oil,crude
+2026-08-02 14:01 ACCEPT [Google News KL] "Could the Greatland Resources (GGP) share price resume its epic rally " | kw:gold,rice
+2026-08-02 14:01 ACCEPT [Google News KL] "Gold, silver prices to remain range-bound as US jobs data, Fed cues aw" | kw:gold,silver,rice
+2026-08-02 14:01 ACCEPT [Google News KL] "Gold and silver lacked lustre in July - BusinessLine" | kw:gold,silver
+2026-08-02 14:01 ACCEPT [Google News NS] "Mainord elected chair of Missouri Soybean Merchandising Council - hpj." | kw:soybean
+2026-08-02 14:01 ACCEPT [Google News NS] "Consumer Staples Stocks To Watch As Cooling Inflation Reshapes Essenti" | kw:inflation
+2026-08-02 14:01 ACCEPT [Google News NS] "McDonald's Korea halts Chungju corn burger sales over stone complaints" | kw:corn
+2026-08-02 14:01 ACCEPT [Google News NS] "Wheat and Flour Prices Rise Despite Planned 1m Imports - Profit by Pak" | kw:wheat,rice
+2026-08-02 14:01 ACCEPT [Google News CB] "Fed dissenters warn inflation could become entrenched without monetary" | kw:inflation,monetary policy,tightening
+2026-08-02 14:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-02 14:01 ACCEPT [Google News CB] "China's central bank to enhance financial support for real economy in " | kw:central bank
+2026-08-02 14:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-02 14:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 14:01 SKIP_EVENING already_sent date=2026-08-02
