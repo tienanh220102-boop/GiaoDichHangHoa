@@ -1,15 +1,3 @@
-2026-06-28 19:31 ACCEPT [Google News KL] "Where Are Gold Prices Headed in the Second Half of the Year? - AOL.com" | kw:gold,rice
-2026-06-28 19:31 ACCEPT [Google News KL] "Silver (XAG) Forecast: Silver Bounces but Fed Keeps Price Prediction B" | kw:silver,rice
-2026-06-28 19:31 ACCEPT [Google News KL] "Gold and Silver Prices Under Pressure Amid Economic Uncertainty - Indi" | kw:gold,silver,rice
-2026-06-28 19:31 ACCEPT [Google News NS] "ITAC defends decision to keep wheat tariff trigger unchanged despite G" | kw:wheat,tariff
-2026-06-28 19:51 ACCEPT [Google News HH] "FCCPC urges fuel price cuts amid crude oil slump - The Guardian Nigeri" | kw:oil,crude,fuel
-2026-06-28 20:01 ACCEPT [Google News HH] "Gold Rate Today 29 June 2026 | Check 18K, 22K & 24K Gold Rate Today – " | kw:gold
-2026-06-28 20:01 ACCEPT [Google News HH] "Gold Price Today in Mumbai – 18K, 22K & 24K Rate | 28 June 2026 - The " | kw:gold,rice
-2026-06-28 20:01 ACCEPT [Google News HH] "US crude oil briefly dips below $70 as tankers transit Strait of Hormu" | kw:oil,crude
-2026-06-28 20:01 ACCEPT [Google News KL] "Silver (Derivatives) Price Today | XAG to USD Live Price, Market Cap &" | kw:silver,rice
-2026-06-28 20:01 ACCEPT [Google News KL] "MSQPD Sûreté Du Québec Homme Confus + Vol De Véhicule Silver Price Tod" | kw:silver,rice
-2026-06-28 20:01 ACCEPT [Google News NS] "‘Widow Maker’ Natural Gas And ‘Poverty Grass’ Can Wipe Out Commodity T" | kw:gas,commodity
-2026-06-28 20:01 ACCEPT [Google News CB] "With No Interest Rate Cut, Should You Sell SoFi Stock? - AOL.com" | kw:interest rate,rate cut
 2026-06-28 20:31 ACCEPT [Google News HH] "WTI Crude Oil Weekly Forecast: Immediate Exam of Lower Trading Depths " | kw:oil,crude,wti
 2026-06-28 20:31 ACCEPT [Google News HH] "FCCPC warns oil marketers against profiteering as crude prices fall - " | kw:oil,crude,rice
 2026-06-28 20:31 ACCEPT [Google News NS] "Wheat mafia 'uncontrolled' in Hyderabad as prices spike - The Express " | kw:wheat,rice
@@ -20010,3 +19998,16 @@
 2026-08-02 16:31 ACCEPT [Google News NS] "Coffee prices are rising again due to supply concerns. - vietnam.vn" | kw:rice,coffee
 2026-08-02 16:31 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 16:31 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 16:49 ACCEPT [NASDAQ Commod] "Silver Sector M&A Hits US$14.3 Billion As Miners Hunt for Growth" | kw:silver
+2026-08-02 16:49 ACCEPT [Google News HH] "Crude Oil Price Dives as OPEC+ Agrees to Another Supply Hike - Benzing" | kw:oil,crude,opec
+2026-08-02 16:49 ACCEPT [Google News HH] "OPEC+ to increase oil production by 188,000 bpd in September - Al Arab" | kw:oil,opec
+2026-08-02 16:49 ACCEPT [Google News HH] "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd " | kw:oil,opec
+2026-08-02 16:49 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-02 16:49 ACCEPT [Google News HH] "OPEC+ members lift voluntary cuts, raise output by 188,000 barrels fro" | kw:opec
+2026-08-02 16:49 ACCEPT [Google News HH] "OPEC plus countries agree to increase oil production by 188000 barrels" | kw:oil,opec
+2026-08-02 16:49 ACCEPT [Google News KL] "UBS explains what it would take for gold prices to turn higher in 2H26" | kw:gold,rice
+2026-08-02 16:49 ACCEPT [Google News KL] "Gold price update, morning of August 2nd, 2026: SJC, plain gold rings " | kw:gold,rice
+2026-08-02 16:49 ACCEPT [Google News CB] "Fed’s Credibility Test and J&J’s New Bet - Bloomberg" | kw:wti
+2026-08-02 16:49 ACCEPT [Google News CB] "China's central bank to enhance financial support for real economy in " | kw:central bank
+2026-08-02 16:49 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 16:49 SKIP_EVENING already_sent date=2026-08-02
