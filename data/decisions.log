@@ -1,7 +1,3 @@
-2026-06-29 04:01 ACCEPT [BBC Business] "Apple hikes some prices by nearly 20% while Xbox raises console cost" | kw:rice
-2026-06-29 04:01 ACCEPT [BBC Business] "Oil price falls back to pre-Iran war levels" | kw:oil,rice,shipping
-2026-06-29 04:01 ACCEPT [BBC Business] "How much should we be prepared to pay for our food?" | kw:rice
-2026-06-29 04:01 ACCEPT [The Guardian Biz] "Trump threatens 100% tariff on European countries that impose digital " | kw:tariff
 2026-06-29 04:01 ACCEPT [The Guardian Biz] "City of Paris achieves partial victory over TotalEnergies in climate r" | kw:oil,gas
 2026-06-29 04:01 ACCEPT [CNBC Commodities] "Chicago Fed President Goolsbee says inflation is too high; Williams se" | kw:rice,inflation,interest rate
 2026-06-29 04:01 ACCEPT [CNBC Commodities] "U.S. fights with Brazil for China's giant soybean market" | kw:soybean
@@ -20002,3 +19998,10 @@
 2026-08-02 21:31 ACCEPT [Google News HH] "WTI Crude Oil 02/08: Traders Test Rough Peace Narrative - Daily Forex" | kw:oil,crude,wti
 2026-08-02 21:31 ACCEPT [Google News HH] "OPEC+ Raises Production Caps Again: Concerns About the Stability of Ma" | kw:opec
 2026-08-02 21:31 ACCEPT [Google News CB] "Kroger Stock Leads Consumer Retail Picks As Fed Inflation Cools - simp" | kw:inflation
+2026-08-02 22:24 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Longview Daily News" | kw:opec
+2026-08-02 22:24 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - beatricedailysun.com" | kw:opec,rice
+2026-08-02 22:24 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Independent Record" | kw:opec
+2026-08-02 22:24 ACCEPT [Google News HH] "OPEC+ Raises Production Caps Again: Concerns About the Stability of Ma" | kw:opec
+2026-08-02 22:24 ACCEPT [Google News KL] "TSX ends lower as gold falls - Business Recorder" | kw:gold
+2026-08-02 22:24 ACCEPT [Google News NS] "Impressive 'Golden Triangle' grain aggregation hits the market | Photo" | kw:gold
+2026-08-02 22:24 ACCEPT [Google News CB] "China’s central bank to enhance financial support for real economy in " | kw:central bank
