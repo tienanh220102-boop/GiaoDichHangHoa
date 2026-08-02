@@ -1,21 +1,3 @@
-2026-06-28 15:31 ACCEPT [Google News NS] "Akara, Kulikuli: The First Lady is right, before we start importing co" | kw:corn
-2026-06-28 15:31 ACCEPT [Google News CB] "2 Dividend Stocks to Buy Even as New Fed Chair Kevin Warsh Holds Inter" | kw:interest rate
-2026-06-28 15:31 ACCEPT [Google News CB] "5 Interest Rate Sensitive Stocks to Buy Now - Insider Monkey" | kw:interest rate
-2026-06-28 15:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 15:31 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 15:46 ACCEPT [Google News HH] "Crude oil prices settle lower as supply concerns subside - MSN" | kw:oil,crude,rice
-2026-06-28 15:46 ACCEPT [Google News HH] "Indian crude oil basket at $76.22, just 7.8% above pre-war level: What" | kw:oil,crude
-2026-06-28 15:46 ACCEPT [Google News HH] "Gold price today: Rs 1.56 lakh on MCX; Fed cues awaited - What investo" | kw:gold,rice
-2026-06-28 15:46 ACCEPT [Google News HH] "Sugar prices slide amid crude oil weakness - MSN" | kw:oil,crude,rice
-2026-06-28 15:46 ACCEPT [Google News HH] "Rupee strengthens as falling crude oil prices lift sentiment - MSN" | kw:oil,crude,rice
-2026-06-28 15:46 ACCEPT [Google News NS] "Rain in the Plains Make Grain, So Bears Are in Control of Corn, Soybea" | kw:wheat,corn,soybean
-2026-06-28 15:46 ACCEPT [Google News NS] "ITAC defends decision to keep wheat tariff trigger unchanged despite G" | kw:wheat,tariff
-2026-06-28 15:46 ACCEPT [Google News CB] "Fed's preferred inflation gauge hits 3-year high - AOL.com" | kw:inflation
-2026-06-28 15:46 ACCEPT [Google News CB] "Kevin Warsh Revives Alan Greenspan’s Fed Playbook on Inflation - AOL.c" | kw:inflation
-2026-06-28 15:46 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 15:46 SKIP_EVENING already_sent date=2026-06-28
-2026-06-28 16:01 ACCEPT [Google News HH] "Japan Week Ahead: BOJ June Quarter Tankan Business Survey to Show Mide" | kw:boj
-2026-06-28 16:01 ACCEPT [Google News HH] "FCCPC Threatens Nigeria’s Fuel Marketers With Sanctions Over High Petr" | kw:oil,crude,fuel
 2026-06-28 16:01 ACCEPT [Google News HH] "Crude Price Crash: FCCPC Accuses Oil Marketers Of Exploiting Nigerians" | kw:oil,crude,rice
 2026-06-28 16:01 ACCEPT [Google News KL] "The 6 Best Gold Stocks to Watch in 2026 - XTB.com" | kw:gold
 2026-06-28 16:01 ACCEPT [Google News KL] "Copper soars but smelters can't bank on it to survive - Oman Observer" | kw:copper
@@ -20016,3 +19998,22 @@
 2026-08-02 15:01 ACCEPT [Google News CB] "From interest rate cuts to interest rate hikes... - en.yenisafak.com" | kw:interest rate,rate cut,rate hike
 2026-08-02 15:01 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 15:01 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 15:31 ACCEPT [Google News HH] "OPEC agrees September oil hike, completing rollback of voluntary cuts " | kw:oil,opec
+2026-08-02 15:31 ACCEPT [Google News HH] "Crude Oil Weekly Outlook: Tight Inventories Keep Bulls in Control - FO" | kw:oil,crude
+2026-08-02 15:31 ACCEPT [Google News HH] "Satellite images show evidence of oil leak spreading from sanctioned v" | kw:oil,sanction
+2026-08-02 15:31 ACCEPT [Google News HH] "Gold Price Forecast 2026: MUFG Sees Broad Range Around $4,000 - Exchan" | kw:gold,rice
+2026-08-02 15:31 ACCEPT [Google News HH] "OPEC+ members lift voluntary cuts, raise output by 188,000 barrels fro" | kw:opec
+2026-08-02 15:31 ACCEPT [Google News HH] "Opec+ makes small quota hike to finish unwinding 2023 oil cuts - The B" | kw:oil,opec
+2026-08-02 15:31 ACCEPT [Google News KL] "Bullion market: What will guide gold, silver prices this week? - The T" | kw:gold,silver,rice
+2026-08-02 15:31 ACCEPT [Google News KL] "My Key Silver Price Today (BLflp21wXW) - mshale.com" | kw:silver,rice
+2026-08-02 15:31 ACCEPT [Google News KL] "Gold price drops by 1, 800 per tola on Sunday - The Annapurna Express" | kw:gold,rice
+2026-08-02 15:31 ACCEPT [Google News KL] "Gold and silver lacked lustre in July - BusinessLine" | kw:gold,silver
+2026-08-02 15:31 ACCEPT [Google News NS] "Durum prices continue to hold in trading range - AgUpdate" | kw:rice
+2026-08-02 15:31 ACCEPT [Google News NS] "Be ready for "unexplainable rallies" in the grain markets (and watch t" | kw:corn
+2026-08-02 15:31 ACCEPT [Google News CB] "Fed leaves interest rate unchanged but with 3 dissents as Warsh praise" | kw:interest rate
+2026-08-02 15:31 ACCEPT [Google News CB] "Iraq salary delays test Central Bank’s limits - Shafaq News | Latest b" | kw:central bank
+2026-08-02 15:31 ACCEPT [Google News CB] "What is the Anna Karenina Principle of Monetary Policy? - Investing.co" | kw:monetary policy
+2026-08-02 15:31 ACCEPT [Google News CB] "China's central bank to stick to moderately loose monetary policy, bac" | kw:central bank,monetary policy
+2026-08-02 15:31 ACCEPT [Google News CB] "Canada’s monetary policy paused, inflation contained - The Globe and M" | kw:inflation,monetary policy
+2026-08-02 15:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 15:31 SKIP_EVENING already_sent date=2026-08-02
