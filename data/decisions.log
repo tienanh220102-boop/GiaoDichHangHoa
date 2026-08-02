@@ -1,16 +1,3 @@
-2026-06-28 07:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 07:37 ACCEPT [Google News HH] "Enterprise value to EBIT forward of Green Shift Commodities Ltd – TSXV" | kw:commodities
-2026-06-28 07:37 ACCEPT [Google News HH] "Crude oil prices surge as global supplies continue to tighten - MSN" | kw:oil,crude,wti
-2026-06-28 07:37 ACCEPT [Google News KL] "Gold surges by Rs 4,700 per tola, silver also gains - The Himalayan Ti" | kw:gold,silver
-2026-06-28 07:37 ACCEPT [Google News CB] "BOJ Pumps Another US$20 Million Into Forex Market - Radio Jamaica News" | kw:boj
-2026-06-28 07:37 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 08:01 ACCEPT [Google News HH] "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter - Insi" | kw:opec,lng
-2026-06-28 08:01 ACCEPT [Google News HH] "EEX CEGH VTP EGSI Natural Gas Weekend Futures (Jul 2026 W1) Trade Idea" | kw:gas
-2026-06-28 08:01 ACCEPT [Google News NS] "The IGC Council raised its forecast for the future global corn harvest" | kw:corn,harvest
-2026-06-28 08:01 ACCEPT [Google News NS] "When BUA Rice Returned, So Did a Familiar Surname - THISDAYLIVE" | kw:rice
-2026-06-28 08:01 ACCEPT [Google News CB] "The Interest Rate Narrative Has Flipped | Presented By CME Group Micha" | kw:interest rate
-2026-06-28 08:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 08:31 ACCEPT [Google News HH] "Iraq resumes oil exports to US after complete halt - IraqiNews" | kw:oil
 2026-06-28 08:31 ACCEPT [Google News HH] "Petroleum vulnerability rising, India must build crude buffers and cut" | kw:crude,petroleum
 2026-06-28 08:31 ACCEPT [Google News KL] "4072.83 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
 2026-06-28 08:31 ACCEPT [Google News KL] "Have gold, silver prices dropped since PM Modi's austerity appeal? Her" | kw:gold,silver,rice
@@ -20011,3 +19998,11 @@
 2026-08-02 09:32 ACCEPT [Google News CB] "China's central bank to stick to moderately loose monetary policy, bac" | kw:central bank,monetary policy
 2026-08-02 09:32 ACCEPT [Google News CB] "China’s central bank pledges timely policy tool adjustment - The Busin" | kw:central bank
 2026-08-02 09:32 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 10:01 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-02 10:01 ACCEPT [Google News HH] "Gold Price Forecast: Stronger ADP, NFP Ahead, $4,360 Support Is Key - " | kw:gold,rice
+2026-08-02 10:01 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-02 10:01 ACCEPT [Google News KL] "4048.74 Trade XAUT/USDT Spot | Crypto, bStocks & tCommodities - Binanc" | kw:commodities
+2026-08-02 10:01 ACCEPT [Google News KL] "Gold prices today (August 2nd): A sharp drop across the board. - vietn" | kw:gold,rice
+2026-08-02 10:01 ACCEPT [Google News KL] "Gold, silver rates today in Bangladesh - thereport.live" | kw:gold,silver
+2026-08-02 10:01 ACCEPT [Google News KL] "Gold and silver prices almost stable in a week - myrepublica.nagarikne" | kw:gold,silver,rice
+2026-08-02 10:01 SKIP_MORNING already_sent date=2026-08-02
