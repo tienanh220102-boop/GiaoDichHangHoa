@@ -1,6 +1,3 @@
-2026-06-28 10:21 ACCEPT [Google News CB] "Japanese government calls for measured monetary management to influenc" | kw:bank of japan
-2026-06-28 10:21 ACCEPT [Google News CB] "Kevin Warsh just suggested the Fed may bring down the hammer on inflat" | kw:inflation
-2026-06-28 10:21 SKIP_MORNING already_sent date=2026-06-28
 2026-06-28 10:31 ACCEPT [Google News HH] "Enterprise value to EBIT forward of Century Global Commodities Corpora" | kw:commodities
 2026-06-28 10:31 ACCEPT [Google News HH] "Crude oil price forecast as US and Iran intensify attacks - Invezz" | kw:oil,crude,rice
 2026-06-28 10:31 ACCEPT [Google News HH] "Gold price increases by Rs 4, 700 per tola on Sunday - The Annapurna E" | kw:gold,rice
@@ -20001,3 +19998,18 @@
 2026-08-02 11:31 ACCEPT [Google News HH] "RBI's Rate Decision, West Asia Tensions to Drive Indian Market Sentime" | kw:rate decision
 2026-08-02 11:31 ACCEPT [Google News CB] "ECB Raises Interest Rates - Is Canada Next? Lakers Vs Okc (MMwmRiCnwd)" | kw:interest rate,ecb
 2026-08-02 11:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 12:01 ACCEPT [Google News HH] "OPEC, Allies Increase Oil Output for Sixth Time in a Row - WSJ" | kw:oil,opec
+2026-08-02 12:01 ACCEPT [Google News HH] "Opec+ agrees output rise in September amid uneasy pause in Iran war - " | kw:opec
+2026-08-02 12:01 ACCEPT [Google News HH] "Gold Price Forecast: Stronger ADP, NFP Ahead, $4,360 Support Is Key - " | kw:gold,rice
+2026-08-02 12:01 ACCEPT [Google News HH] "Iraq, Türkiye sign agreement to transport crude oil exports via Ceyhan" | kw:oil,crude
+2026-08-02 12:01 ACCEPT [Google News HH] "RBI Rate Decision, West Asia, Oil to Drive Market Sentiments - Rediff " | kw:oil,rate decision
+2026-08-02 12:01 ACCEPT [Google News KL] "Gold Price Today in Amravati – 18K, 22K & 24K Rate | 02 August 2026 - " | kw:gold,rice
+2026-08-02 12:01 ACCEPT [Google News KL] "Commodity: Outlook For Silver Remains Subdued But OCBC Sees A Silver L" | kw:silver,commodity
+2026-08-02 12:01 ACCEPT [Google News KL] "The gold and gemstone market is entering a phase of screening and tran" | kw:gold
+2026-08-02 12:01 ACCEPT [Google News KL] "Gold demans rises in bahrain as silver sales plunge - News of Bahrain" | kw:gold,silver
+2026-08-02 12:01 ACCEPT [Google News KL] "Gold Rate Today In Bareilly, Check Live 22 And 24 Carat Gold Price - N" | kw:gold,rice
+2026-08-02 12:01 ACCEPT [Google News NS] "August Weather Could Determine Corn and Soybean Outlook - ingstadmedia" | kw:corn,soybean
+2026-08-02 12:01 ACCEPT [Google News NS] "McDonald's Ends Corn Burger Early After Repeated Stone Complaints - Se" | kw:corn
+2026-08-02 12:01 ACCEPT [Google News CB] "Emergency preparedness meeting planned for residents with farms or liv" | kw:ecb
+2026-08-02 12:01 ACCEPT [Google News CB] "China’s central bank pledges timely policy tool adjustment By Reuters " | kw:central bank
+2026-08-02 12:01 SKIP_MORNING already_sent date=2026-08-02
