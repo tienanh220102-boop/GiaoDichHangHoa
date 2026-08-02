@@ -1,15 +1,3 @@
-2026-06-27 21:01 ACCEPT [Google News HH] "Former PM Adel Abdul-Mahdi warns Iraq against quitting OPEC - 964media" | kw:opec
-2026-06-27 21:01 ACCEPT [Google News HH] "Putin extends Russian oil ban tied to G7, EU price cap through 2027 - " | kw:oil,rice
-2026-06-27 21:01 ACCEPT [Google News HH] "WTI Current Price | WTI Real-Time Data & Insights - Mitrade" | kw:wti,rice
-2026-06-27 21:01 ACCEPT [Google News HH] "July 2, 2026: Brent crude oil price on July 02, 2026 at 5:00 PM EDT Pr" | kw:oil,crude,brent
-2026-06-27 21:01 ACCEPT [Google News KL] "Gold looks broken, but the only thing that has changed is the price - " | kw:gold,rice
-2026-06-27 21:01 ACCEPT [Google News KL] "Recent Selloff Could Provide Appealing Entry Point For Pan American Si" | kw:silver
-2026-06-27 21:01 ACCEPT [Google News KL] "Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavou" | kw:gold
-2026-06-27 21:01 ACCEPT [Google News KL] "China Merchants Securities: In the short term, copper prices will be c" | kw:copper,rice,tightening
-2026-06-27 21:01 ACCEPT [Google News KL] "Gold Price Slips Amid Middle East Geopolitical Shifts & Bank Buying - " | kw:gold,rice
-2026-06-27 21:01 ACCEPT [Google News KL] "Gold and silver sink to seven-month lows as dollar strengthens - MSN" | kw:gold,silver
-2026-06-27 21:01 ACCEPT [Google News KL] "Nadiem Amiri | Skills And Goals | Highlights Silver Price Today (ZoWXl" | kw:silver,rice
-2026-06-27 21:01 ACCEPT [Google News KL] "Why Harmony Gold Mining Stock Plummeted by Almost 12% This Week - The " | kw:gold
 2026-06-27 21:01 ACCEPT [Google News KL] "O2 - Check Check Silver Price Today (4DDa2ZFOPI) - Mshale" | kw:silver,rice
 2026-06-27 21:01 ACCEPT [Google News KL] "Gold prices notch weekly decline as Fed rate hike bets outweigh slidin" | kw:oil,gold,rice
 2026-06-27 21:01 ACCEPT [Google News KL] "Gold, silver prices decline in local and global markets - The Nation (" | kw:gold,silver,rice
@@ -20010,3 +19998,10 @@
 2026-08-02 03:31 ACCEPT [Google News KL] "Gold price today August 2nd: Heavy loss of up to 5.5 million VND/tael " | kw:wti,gold,rice
 2026-08-02 03:31 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - ozarab.media" | kw:inflation
 2026-08-02 03:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 04:01 ACCEPT [OilPrice.com] "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is" | kw:easing
+2026-08-02 04:01 ACCEPT [Google News KL] "Gold and foreign currency prices 2.8: Latest forecast for gold - Laodo" | kw:gold,rice
+2026-08-02 04:01 ACCEPT [Google News KL] "Gold prices unexpectedly reversed course on the afternoon of August 1s" | kw:gold,rice
+2026-08-02 04:01 ACCEPT [Google News NS] "Indian rice export prices have risen to their highest level in nearly " | kw:rice
+2026-08-02 04:01 ACCEPT [Google News CB] "Consumer Headlines: Interest rate remains at 3.5 to 3.75% - news8000.c" | kw:interest rate
+2026-08-02 04:01 ACCEPT [Google News CB] "Fed chief Warsh faces hard choice on inflation after bond market’s ‘re" | kw:inflation
+2026-08-02 04:01 SKIP_MORNING already_sent date=2026-08-02
