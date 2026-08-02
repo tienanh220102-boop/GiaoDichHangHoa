@@ -1,39 +1,3 @@
-2026-06-29 02:01 ACCEPT [Google News KL] "Gold slips as US-Iran tensions lift oil, US rate-hike bets weigh - The" | kw:oil,gold
-2026-06-29 02:01 ACCEPT [Google News NS] "Russia's Fuel Crisis Raises New Risks for Global Grain and Energy Mark" | kw:fuel
-2026-06-29 02:01 ACCEPT [Google News NS] "World Length Graders - Market Analysis, Forecast, Size, Trends and Ins" | kw:lng
-2026-06-29 02:01 ACCEPT [Google News CB] "Australia central bank outlines policy tools for times of crisis - Reu" | kw:central bank
-2026-06-29 02:01 ACCEPT [Google News CB] "China central bank debuts overnight reverse repos, injects 300 billion" | kw:central bank
-2026-06-29 02:01 ACCEPT [Google News CB] "Iran war developments, Fed rate path cues in focus for Indian rupee an" | kw:fed rate
-2026-06-29 02:01 ACCEPT [Google News CB] "PBOC Debuts Overnight Operation, Surprises With No Rate Released - Blo" | kw:pboc
-2026-06-29 02:01 ACCEPT [Google News CB] "RBA’s Kent says central bank will be better prepared to handle next cr" | kw:central bank
-2026-06-29 02:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 02:31 ACCEPT [Google News HH] "Crude Oil Trading Alert: Recurrent geopolitical tensions fuel supply-s" | kw:oil,crude,fuel
-2026-06-29 02:31 ACCEPT [Google News HH] "Daily Brief United States: Innio, Micron Technology, Crude Oil, Kalshi" | kw:oil,crude
-2026-06-29 02:31 ACCEPT [Google News HH] "Enterprise value to EBIT forward of DIGITAL COMMODITIES INC. – OTC:DGC" | kw:commodities
-2026-06-29 02:31 ACCEPT [Google News HH] "Daily Brief Energy/Materials: Fortescue Metals, Crude Oil, Savita Oil " | kw:oil,crude
-2026-06-29 02:31 ACCEPT [Google News HH] "Amid Drop in Global Crude Oil Price, FCCPC Warns Marketers Against Exp" | kw:oil,crude,rice
-2026-06-29 02:31 ACCEPT [Google News HH] "Petrol prices defy crude oil slump, deepen cost-of-living crisis - The" | kw:oil,crude,rice
-2026-06-29 02:31 ACCEPT [Google News HH] "Oil Price Today (June 29): Crude oil rises after renewed US-Iran strik" | kw:oil,crude,rice
-2026-06-29 02:31 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 03:01 ACCEPT [Google News HH] "Palm Oil Extends Its Climb As Crude Oil Firms - Finimize" | kw:oil,crude
-2026-06-29 03:01 ACCEPT [Google News HH] "Gold price fall triggers margin calls on bullet loans - Bitget" | kw:gold,rice
-2026-06-29 03:01 ACCEPT [Google News HH] "Oil prices rise as renewed US-Iran strikes disrupt shipping in Hormuz " | kw:oil,rice,shipping
-2026-06-29 03:01 ACCEPT [Google News HH] "Crude oil prices rise above $73/bbl after latest round of military str" | kw:oil,crude,gold
-2026-06-29 03:01 ACCEPT [Google News HH] "Adon Agro Commodities IPO: GMP among key details to know before subscr" | kw:commodities
-2026-06-29 03:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD remains below $59.00 on renewed Hormuz " | kw:silver,rice
-2026-06-29 03:01 ACCEPT [Google News KL] "Gold (XAUUSD) Price Forecast: Will NFP Trigger a Gold Breakout or Deep" | kw:gold,rice
-2026-06-29 03:01 ACCEPT [Google News NS] "French Wheat Prices Surge to Three-Month High Amid Record European Hea" | kw:wheat,rice
-2026-06-29 03:01 ACCEPT [Google News NS] "China Becomes Key Soybean Oil Supplier: Risks For India - Whalesbook" | kw:oil,soybean
-2026-06-29 03:01 ACCEPT [Google News CB] "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weig" | kw:oil,gold,fed rate
-2026-06-29 03:01 ACCEPT [Google News CB] "China's central bank conducts debut overnight reverse repo operation w" | kw:central bank,interest rate
-2026-06-29 03:01 ACCEPT [Google News CB] "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weig" | kw:oil,gold,fed rate
-2026-06-29 03:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 03:31 ACCEPT [Google News HH] "$Crude Oil Futures (AUG6) (CLmain.US)$$Brent Last Day Financial Future" | kw:oil,crude,brent
-2026-06-29 03:31 ACCEPT [Google News HH] "The Commodities Feed: Oil market shrugs off Persian Gulf escalation - " | kw:oil,commodities
-2026-06-29 03:31 ACCEPT [Google News HH] "Gold Price under increasing pressure after extreme overbought conditio" | kw:gold,rice,easing
-2026-06-29 03:31 ACCEPT [Google News HH] "Crude Oil Attempts to Offload its Oversold Conditions – Analysis – 29-" | kw:oil,crude
-2026-06-29 03:31 ACCEPT [Google News KL] "Gold price prediction: Why is gold rate down today? What to expect for" | kw:gold,rice
-2026-06-29 03:31 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD looks south amid US-Iran uncertainty and " | kw:gold,rice
 2026-06-29 03:31 ACCEPT [Google News KL] "Gold prices fall: Indians sell old jewellery as fears of deeper correc" | kw:gold,rice
 2026-06-29 03:31 ACCEPT [Google News NS] "Corn Man: How Pattabhi Rama Rao Built a Monopoly Nobody Saw Coming - T" | kw:corn
 2026-06-29 03:31 ACCEPT [Google News CB] "Copper Declines as Fed Stance and Strong Dollar Weigh On Metals - Bloo" | kw:copper
@@ -20034,3 +19998,13 @@
 2026-08-02 21:01 ACCEPT [Google News KL] "Repeat offender held in copper pipe theft case - The Times of India" | kw:copper
 2026-08-02 21:01 ACCEPT [Google News KL] "Kristie Batten: Bell sees huge upside for silver developer Maronan - s" | kw:silver
 2026-08-02 21:01 ACCEPT [Google News CB] "Iraq salary delays test Central Bank’s limits - Shafaq News | Latest b" | kw:central bank
+2026-08-02 21:21 ACCEPT [Al Jazeera] "Russian and Ukrainian strikes kill 14 on both sides" | kw:oil,shortage
+2026-08-02 21:22 ACCEPT [NASDAQ Commod] "Top 5 Canadian Mining Stocks This Week: Volt Carbon Technologies Rises" | kw:gdp
+2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Lynchburg News and Advanc" | kw:opec
+2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Martinsville Bulletin" | kw:opec
+2026-08-02 21:22 ACCEPT [Google News HH] "OPEC+ agrees to September oil hike, completing rollback of voluntary c" | kw:oil,opec
+2026-08-02 21:22 ACCEPT [Google News HH] "Gold Price Forecast: Softer Inflation Lifts Gold but High Yields Cap G" | kw:gold,rice,inflation
+2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Richmond Times-Dispatch" | kw:opec
+2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Waco Tribune-Herald" | kw:opec
+2026-08-02 21:22 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Grand Island Independ" | kw:opec
+2026-08-02 21:22 ACCEPT [Google News KL] "Kristie Batten: Bell sees huge upside for silver developer Maronan - S" | kw:silver
