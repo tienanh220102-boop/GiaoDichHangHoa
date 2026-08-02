@@ -1,10 +1,3 @@
-2026-06-28 06:01 ACCEPT [Google News HH] "Week ahead: US-Iran tensions, crude oil prices, auto sales number, US " | kw:oil,crude,rice
-2026-06-28 06:01 ACCEPT [Google News HH] "Crude oil prices sink as supplies out of the Persian Gulf accelerate -" | kw:oil,crude,rice
-2026-06-28 06:01 ACCEPT [Google News KL] "What Affects Gold Prices? 6 Key Factors Explained - XTB.com" | kw:gold,rice
-2026-06-28 06:01 ACCEPT [Google News NS] "Iraq buys 4.1 mln metric tons of local wheat so far this season, trade" | kw:wheat
-2026-06-28 06:01 ACCEPT [Google News CB] "USD/JPY, Nikkei 225 Outlook: Nikkei Washout Shifts Focus to BOJ Interv" | kw:lng,boj
-2026-06-28 06:01 ACCEPT [Google News CB] "Dollar retreats as US inflation data eases rate hike expectations - AO" | kw:inflation,rate hike
-2026-06-28 06:01 ACCEPT [Google News CB] "Should Amazon Investors Be Concerned That New Fed Chair Kevin Warsh Is" | kw:interest rate
 2026-06-28 06:01 SKIP_MORNING already_sent date=2026-06-28
 2026-06-28 06:31 ACCEPT [Al Jazeera] "Venezuelan earthquake death toll rises amid increasingly dire search" | kw:easing
 2026-06-28 06:31 ACCEPT [Google News HH] "Crude oil price forecast as US and Iran intensify attacks - Invezz" | kw:oil,crude,rice
@@ -20005,3 +19998,8 @@
 2026-08-02 07:31 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
 2026-08-02 07:31 ACCEPT [Google News CB] "China's central bank pledges timely policy tool adjustment - marketscr" | kw:central bank
 2026-08-02 07:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 08:01 ACCEPT [Google News HH] "High fuel prices to endure as global conflicts hit refining capacity, " | kw:fuel,rice
+2026-08-02 08:01 ACCEPT [Google News KL] "Gold prices drop Rs3,700 per tola - thenews.pk" | kw:gold,rice
+2026-08-02 08:01 ACCEPT [Google News KL] "Gold Rate Today In Siliguri, Check Live 22 And 24 Carat Gold Price - N" | kw:gold,rice
+2026-08-02 08:01 ACCEPT [Google News CB] "Nigeria: Central Bank sanctions financial institutions - Financial Afr" | kw:rice,sanction,central bank
+2026-08-02 08:01 SKIP_MORNING already_sent date=2026-08-02
