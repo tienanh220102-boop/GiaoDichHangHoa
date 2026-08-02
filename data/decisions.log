@@ -1,16 +1,3 @@
-2026-06-28 20:31 ACCEPT [Google News HH] "WTI Crude Oil Weekly Forecast: Immediate Exam of Lower Trading Depths " | kw:oil,crude,wti
-2026-06-28 20:31 ACCEPT [Google News HH] "FCCPC warns oil marketers against profiteering as crude prices fall - " | kw:oil,crude,rice
-2026-06-28 20:31 ACCEPT [Google News NS] "Wheat mafia 'uncontrolled' in Hyderabad as prices spike - The Express " | kw:wheat,rice
-2026-06-28 20:52 ACCEPT [Google News HH] "Evolution Mining’s (ASX:EVN) gold-price gap puts focus on June quarter" | kw:gold,rice
-2026-06-28 20:52 ACCEPT [Google News HH] "Crude oil prices settle lower as supply concerns subside - MSN" | kw:oil,crude,rice
-2026-06-28 21:01 ACCEPT [OilPrice.com] "The World's Biggest Energy Bet Is No Longer on Fossil Fuels" | kw:oil,gas,fuel
-2026-06-28 21:01 ACCEPT [Google News NS] "Enterprise value to EBITDA forward of Global Corn Group Limited – HKEX" | kw:corn
-2026-06-28 21:31 ACCEPT [Google News KL] "Toronto Stock Exchange Weekly Review: TSX Composite Outperforms at 34," | kw:lng,gold
-2026-06-28 21:31 ACCEPT [Google News CB] "Fed’s Barkin Warns of High Inflation, But Sees Signs of Relief - Bloom" | kw:inflation
-2026-06-28 21:31 ACCEPT [Google News CB] "Top economist delivers blunt Fed rate warning for 2026 - Yahoo Finance" | kw:fed rate
-2026-06-28 21:31 ACCEPT [Google News CB] "Week Ahead for FX, Bonds : U.S. Jobs Data in Focus as Markets Search f" | kw:fed rate
-2026-06-28 21:55 ACCEPT [Google News HH] "Price to earnings forward of DIGITAL COMMODITIES INC. – OTC:DGCMF - Tr" | kw:rice,commodities
-2026-06-28 21:55 ACCEPT [Google News CB] "Fed’s Barkin warns of high inflation, but sees signs of relief - Fortu" | kw:inflation
 2026-06-28 21:55 ACCEPT [Google News CB] "Weekend - Hawkish ECB board member calls for further rate hikes despit" | kw:rate hike,ecb
 2026-06-28 21:55 ACCEPT [Google News CB] "Sudan Central Bank Issues New Import Rules as Pound Weakens - Sudan Tr" | kw:central bank
 2026-06-28 22:01 ACCEPT [Google News KL] "4073.76 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
@@ -20011,3 +19998,12 @@
 2026-08-02 16:49 ACCEPT [Google News CB] "China's central bank to enhance financial support for real economy in " | kw:central bank
 2026-08-02 16:49 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 16:49 SKIP_EVENING already_sent date=2026-08-02
+2026-08-02 17:01 ACCEPT [Google News HH] "Organization of the Petroleum Exporting Countries - opec.org" | kw:opec,petroleum
+2026-08-02 17:01 ACCEPT [Google News HH] "Palestine Historian Debunks Lazy Hasbara (ft. Zachary Foster) | NPH! E" | kw:oil,crude,rice
+2026-08-02 17:01 ACCEPT [Google News HH] "Crude oil prices slip up to nearly 3 per cent as President Trump signa" | kw:oil,crude,rice
+2026-08-02 17:01 ACCEPT [Google News KL] "Gold Price Today in Gurgaon – 18K, 22K & 24K Rate | 02 August 2026 - t" | kw:gold,rice
+2026-08-02 17:01 ACCEPT [Google News KL] "Bullion market: What will guide gold, silver prices this week? - times" | kw:gold,silver,rice
+2026-08-02 17:01 ACCEPT [Google News KL] "Gold Price Today in Bellary – 18K, 22K & 24K Rate | 02 August 2026 - t" | kw:gold,rice
+2026-08-02 17:01 ACCEPT [Google News NS] "Mini-sized Chicago SRW Wheat Futures (Dec 2016) Trade Ideas — CBOT_MIN" | kw:wheat
+2026-08-02 17:01 ACCEPT [Google News NS] "Over 1.2 tons of Chi Lang custard apples were sold in 3 days at "Lang " | kw:corn
+2026-08-02 17:01 ACCEPT [Google News CB] "Canada’s monetary policy paused, inflation contained - The Globe and M" | kw:inflation,monetary policy
