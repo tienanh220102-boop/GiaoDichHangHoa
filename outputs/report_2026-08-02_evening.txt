@@ -1,0 +1,71 @@
+[BẢNG SỐ LIỆU]
+               Giá   Phiên  5 phiên
+WTI          84.67   +1.3%    -5.2%
+Brent        90.12   +1.2%    -6.9%
+Khí TN       2.747   -0.4%    -4.3%
+Vàng      4,107.00   +0.2%    +1.0%
+Bạc          57.79   -1.8%    -1.5%
+Đồng         6.465   +0.3%    +2.3%
+Ngô         464.00   +4.1%    -0.1%
+Lúa mì      639.25   -3.6%    -5.7%
+Đậu t.    1,187.50   +0.9%    -4.8%
+DXY          99.80   -0.2%    -1.6%
+
+📊 Khối lượng giao dịch cao bất thường (dòng tiền đang chú ý): Vàng 68.5× bình thường, Đồng 3.7× bình thường
+
+[LIÊN THỊ TRƯỜNG]
+  Brent−WTI: $5.45 (1 tháng trước: $2.99) — spread rộng = cung WTI dồi dào tương đối
+  Vàng/Bạc: 71.1 (1 tháng trước: 67.7) — tỷ lệ cao = bạc rẻ tương đối so với vàng
+  Đồng/Vàng (×1000): 1.57 (1 tháng trước: 1.51) — tăng = risk-on/kỳ vọng tăng trưởng
+
+[VỊ THẾ QUỸ ĐẦU CƠ — CFTC COT tuần 2026-07-28]
+  Lúa mì (SRW): NET SHORT -1,992 (Δ tuần: +5,017)
+  Ngô: NET LONG +254,320 (Δ tuần: +67,670)
+  Đậu tương: NET LONG +211,757 (Δ tuần: +36,111)
+  Dầu WTI: NET LONG +3,973 (Δ tuần: -8,541)
+  Bạc: NET LONG +22,217 (Δ tuần: -1,248)
+  Đồng: NET LONG +67,281 (Δ tuần: -6,696)
+  Vàng XAU: NET LONG +182,070 (Δ tuần: -1,840)
+→ NET LONG = quỹ đặt cược giá tăng; Δ dương = dòng tiền đầu cơ đang vào
+
+**BÁO CÁO PHIÊN MỸ (20:00 VN) NGÀY 2026-08-02**
+
+🌍 VĨ MÔ
+Đồng USD giảm nhẹ phiên hôm nay. Tâm lý thị trường có sự lạc quan về dữ liệu lạm phát Mỹ, trong khi các bình luận về chính sách lãi suất từ cựu Tổng thống Trump và động thái thắt chặt tiền tệ bất ngờ của Singapore cho thấy sự phức tạp trong bức tranh vĩ mô toàn cầu.
+
+🥇 KIM LOẠI QUÝ — Vàng, Bạc
+Xu hướng: Vàng SIDEWAY | Bạc GIẢM
+Thiên hướng KT: Vàng Trung tính | Bạc Nghiêng giảm
+Ngưỡng giá: Vàng 4,070.07–4,170.70 | Bạc 57.22–59.41
+Phân tích:
+• Vàng tăng nhẹ phiên (+0.17%) và tăng 0.97% trong 5 phiên, với khối lượng giao dịch cực lớn, cho thấy sự quan tâm mạnh mẽ của thị trường. Các quỹ đầu cơ vẫn giữ vị thế mua ròng nhưng đã giảm nhẹ.
+• Bạc giảm mạnh phiên (-1.75%) và giảm 1.48% trong 5 phiên. Tỷ lệ Vàng/Bạc tăng lên 71.1, cho thấy bạc đang rẻ tương đối so với vàng, phản ánh tâm lý thận trọng hơn.
+Rủi ro:
+• Biến động chính sách tiền tệ từ các ngân hàng trung ương lớn có thể ảnh hưởng đến giá kim loại quý.
+
+🌾 NÔNG SẢN — Ngô, Đậu tương, Lúa mì
+Xu hướng: Ngô TĂNG | Lúa mì SIDEWAY | Đậu tương SIDEWAY
+Thiên hướng KT: Ngô Nghiêng tăng | Lúa mì Trung tính | Đậu tương Trung tính
+Ngưỡng giá: Ngô 447.52–470.00 | Lúa mì 634.50–686.50 | Đậu tương 1,169.00–1,244.75
+Phân tích:
+• Ngô tăng mạnh phiên (+4.09%) sau khi đi ngang trong 5 phiên, được hỗ trợ bởi dòng tiền đầu cơ lớn khi các quỹ tăng mạnh vị thế mua ròng. Điều này diễn ra trong bối cảnh mùa vụ ngô Mỹ đang ở giai đoạn "filling", khiến giá nhạy cảm với các yếu tố thời tiết.
+• Lúa mì giảm mạnh phiên (-3.65%) và giảm 5.72% trong 5 phiên, với khối lượng giao dịch xác nhận động lượng. Mặc dù các quỹ giảm vị thế bán ròng, áp lực giảm giá vẫn duy trì.
+• Đậu tương tăng nhẹ phiên (+0.87%) nhưng vẫn giảm 4.85% trong 5 phiên. Các quỹ đầu cơ đã tăng mạnh vị thế mua ròng, cho thấy kỳ vọng giá sẽ phục hồi.
+Rủi ro:
+• Báo cáo USDA WASDE tháng 8 sắp tới có thể gây biến động lớn nếu dự báo năng suất thay đổi đáng kể cho ngô và đậu tương.
+
+🔩 KIM LOẠI CÔNG NGHIỆP — Đồng
+Xu hướng: Đồng SIDEWAY
+Thiên hướng KT: Đồng Trung tính
+Ngưỡng giá: Đồng 6.298–6.545
+Phân tích:
+• Đồng tăng nhẹ phiên (+0.33%) và tăng 2.30% trong 5 phiên, với khối lượng giao dịch cao. Tỷ lệ Đồng/Vàng tăng cho thấy tâm lý "risk-on" và kỳ vọng tăng trưởng kinh tế đang trở lại.
+• Mặc dù các quỹ giảm vị thế mua ròng, động lực tăng giá vẫn được duy trì.
+Rủi ro:
+• Bất ổn kinh tế toàn cầu hoặc chính sách kiểm soát môi trường ở Trung Quốc có thể ảnh hưởng đến nhu cầu.
+
+📋 KHUYẾN NGHỊ
+• **Vàng:** Có thể tiếp tục giữ quanh ngưỡng 4,070.07–4,170.70 nếu khối lượng giao dịch duy trì ở mức cao và USD tiếp tục suy yếu.
+• **Ngô:** Có thể có động lực tăng thêm nếu các yếu tố thời tiết tiếp tục hỗ trợ và dòng tiền đầu cơ duy trì ở mức cao, với ngưỡng kháng cự gần nhất là 470.00¢/bushel.
+• **Lúa mì:** Cần theo dõi thêm áp lực bán, có thể kiểm tra lại ngưỡng hỗ trợ 634.50¢/bushel.
+• **Đồng:** Có thể tiếp tục xu hướng tăng nhẹ nếu tâm lý "risk-on" được duy trì, với ngưỡng kháng cự gần nhất là 6.545 $/lb.

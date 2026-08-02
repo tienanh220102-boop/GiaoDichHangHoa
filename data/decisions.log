@@ -1,12 +1,3 @@
-2026-06-28 12:01 ACCEPT [Google News CB] "County considers moratorium on data centers - ECB Publishing, Inc." | kw:ecb
-2026-06-28 12:01 ACCEPT [Google News CB] "Week Ahead: U.S. Jobs Report; Eurozone, Switzerland and South Korea CP" | kw:ecb
-2026-06-28 12:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 12:31 ACCEPT [Google News HH] "Venezuela Resumes Exports of Diluted Crude Oil After 15-Month Pause -D" | kw:oil,crude
-2026-06-28 12:31 ACCEPT [Google News HH] "Crude oil price forecast as US and Iran intensify attacks - Invezz" | kw:oil,crude,rice
-2026-06-28 12:31 ACCEPT [Google News NS] "India food safety watchdog exposes false marketing behind popular whea" | kw:wheat,gdp
-2026-06-28 12:31 ACCEPT [Google News CB] "The 'central bank of central banks' sounds the alarm on an AI bubble: " | kw:central bank
-2026-06-28 12:31 ACCEPT [Google News CB] "BofA raises global growth outlook, sees 75 bps Fed hikes despite easin" | kw:inflation,easing
-2026-06-28 12:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
 2026-06-28 12:31 SKIP_MORNING already_sent date=2026-06-28
 2026-06-28 13:01 ACCEPT [Google News HH] "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter - Yaho" | kw:opec
 2026-06-28 13:01 ACCEPT [Google News HH] "Crude Oil Weekly Forecast - 28/06: Lower Trading (Chart) - DailyForex" | kw:oil,crude
@@ -20007,3 +19998,17 @@
 2026-08-02 12:33 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
 2026-08-02 12:33 ACCEPT [Google News NS] "Wheat, flour prices continue to climb despite import plan - MM News" | kw:wheat,rice
 2026-08-02 12:33 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 13:01 ACCEPT [Google News HH] "$Crude Oil Futures (SEP6) (CLmain.US)$ - Moomoo" | kw:oil,crude
+2026-08-02 13:01 ACCEPT [Google News HH] "Satellite images show evidence of oil leak spreading from sanctioned v" | kw:oil,sanction
+2026-08-02 13:01 ACCEPT [Google News HH] "OPEC: SAUDI ARABIA, RUSSIA, IRAQ, KUWAIT, KAZAKHSTAN, ALGERIA, AND OMA" | kw:opec
+2026-08-02 13:01 ACCEPT [Google News KL] "Getchell Gold's 21% Resource Growth at Fondaway Canyon: $265 Million t" | kw:gold
+2026-08-02 13:01 ACCEPT [Google News KL] "Gold, Silver Outlook: US Jobs, Fed Cues Drive Prices - Rediff MoneyWiz" | kw:gold,silver,rice
+2026-08-02 13:01 ACCEPT [Google News KL] "Commodity: Outlook For Silver Remains Subdued But OCBC Sees A Silver L" | kw:silver,commodity
+2026-08-02 13:01 ACCEPT [Google News KL] "Indonesia's Gold Demand Surges 40 Percent in Q2 2026 - en.tempo.co" | kw:gold
+2026-08-02 13:01 ACCEPT [Google News KL] "Latest gold prices today (August 2nd) remain at a crucial level: Custo" | kw:gold,rice
+2026-08-02 13:01 ACCEPT [Google News KL] "Kazakhstan buys 15 tonnes of gold, enters global top four - DKNews.kz" | kw:gold
+2026-08-02 13:01 ACCEPT [Google News NS] "Dry Bulk Shipping Faces 2027 Supply Glut: BIMCO Warns Hormuz Rerouting" | kw:shipping
+2026-08-02 13:01 ACCEPT [Google News NS] "State Statistics Service Reports 2026 Sugar Beet Acreage - AgroPortal." | kw:sugar
+2026-08-02 13:01 ACCEPT [Google News CB] "From interest rate cuts to interest rate hikes... - Yeni Safak English" | kw:interest rate,rate cut,rate hike
+2026-08-02 13:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 13:02 SENT_EVENING articles=20 date=2026-08-02 force=False
