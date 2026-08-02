@@ -1,15 +1,3 @@
-2026-06-27 21:01 ACCEPT [CNBC Economy] "Consumer prices rose 4.2% annually in May, highest in three years" | kw:rice
-2026-06-27 21:01 ACCEPT [CNBC Economy] "Household worries over finances hit highest level since July 2022, New" | kw:inflation,central bank
-2026-06-27 21:01 ACCEPT [OilPrice.com] "China Is Quietly Winning the Clean Energy Trade War" | kw:supply chain,trade war
-2026-06-27 21:01 ACCEPT [OilPrice.com] "Turkey Pushes Bold Global Plan to Electrify 35% of Energy Use by 2035" | kw:gas,fuel,iron
-2026-06-27 21:01 ACCEPT [OilPrice.com] "The Billion-Dollar Debt Deals Exposing an Oil Giant" | kw:oil
-2026-06-27 21:01 ACCEPT [OilPrice.com] "AI Demand, War, and Climate Pressure Push World Back To Nuclear" | kw:oil,easing
-2026-06-27 21:01 ACCEPT [OilPrice.com] "China Isn’t Giving Up On Coal Despite Green Energy Goals" | kw:fuel
-2026-06-27 21:01 ACCEPT [OilPrice.com] "Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit" | kw:oil,opec,gas
-2026-06-27 21:01 ACCEPT [Mining.com] "Op-Ed: Acid is becoming copper’s new price signal" | kw:copper,rice
-2026-06-27 21:01 ACCEPT [Mining.com] "Endurance Gold hits high-grade step-outs at Reliance project" | kw:gold
-2026-06-27 21:01 ACCEPT [Mining.com] "Treasure Hunt – Nova Scotia: Canada’s first mining frontier" | kw:flood
-2026-06-27 21:01 ACCEPT [EIA Energy] "Solar generation in CAISO surpassed natural gas in the first five mont" | kw:gas
 2026-06-27 21:01 ACCEPT [EIA Energy] "California natural gas prices reach historic lows in early 2026" | kw:gas,rice
 2026-06-27 21:01 ACCEPT [EIA Energy] "Most planned natural gas pipeline capacity additions in 2026 and 2027 " | kw:gas
 2026-06-27 21:01 ACCEPT [EIA Energy] "The regional differences in gasoline prices this Memorial Day" | kw:gas,fuel,rice
@@ -20010,3 +19998,14 @@
 2026-08-02 02:31 ACCEPT [Google News CB] "Six Years into Bond Bear Market, 30-Year Treasury Yield Hits 5.28%, Yi" | kw:treasury
 2026-08-02 02:31 ACCEPT [Google News CB] "Convertible Note Interest Rate Explained: The Dilution Founders Miss -" | kw:interest rate
 2026-08-02 02:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 03:01 ACCEPT [Google News HH] "China’s Commodity Imports Show Hormuz Impact as Oil Slides, Metals Ris" | kw:oil,commodity
+2026-08-02 03:01 ACCEPT [Google News HH] "Volatile week ahead for commodities as Iran strikes and US jobs data l" | kw:commodities
+2026-08-02 03:01 ACCEPT [Google News HH] "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data" | kw:oil,opec,rice
+2026-08-02 03:01 ACCEPT [Google News HH] "Iraq, Turkiye seal deal to ship Iraqi crude oil via Ceyhan port - Qata" | kw:oil,crude
+2026-08-02 03:01 ACCEPT [Google News HH] "The Kulevi Oil Refinery (BSP) began processing Kazakh origin crude oil" | kw:oil,crude
+2026-08-02 03:01 ACCEPT [Google News HH] "Brent crude oil prices have surged past the $89 per barrel mark, with " | kw:oil,crude,brent
+2026-08-02 03:01 ACCEPT [Google News KL] "Four Coimbatore residents get silver gifts for implementing four-bin s" | kw:silver
+2026-08-02 03:01 ACCEPT [Google News NS] "Wheat flour price spiral continues - Dawn" | kw:wheat,rice
+2026-08-02 03:01 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - Oz Arab Media" | kw:inflation
+2026-08-02 03:01 ACCEPT [Google News CB] "Yen Weakens After BOJ Holds Rates Steady Despite Currency Intervention" | kw:boj
+2026-08-02 03:01 SKIP_MORNING already_sent date=2026-08-02
