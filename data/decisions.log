@@ -1,12 +1,3 @@
-2026-06-27 20:31 ACCEPT [Google News NS] "European Corn Surges as US Market Eyes El Niño - The Globe and Mail" | kw:corn
-2026-06-27 20:31 ACCEPT [Google News NS] "Karnal paddy procurement scam: SIT arrests rice miller, 2 arhtiyas - T" | kw:rice
-2026-06-27 20:31 ACCEPT [Google News CB] "3 Bank Stocks With Real Exposure To Interest Rate Shifts - simplywall." | kw:interest rate
-2026-06-27 20:52 ACCEPT [Google News HH] "Crude Oil Surge Sparks Fresh Fuel Price Hike, Markets Remain Volatile " | kw:oil,crude,fuel
-2026-06-27 20:52 ACCEPT [Google News KL] "The domestic gold jewelry price per gram rebounds to 1,247 yuan - Bitg" | kw:gold,rice
-2026-06-27 20:52 ACCEPT [Google News KL] "The IPO market is so hot a 140-year-old silver mine just went public -" | kw:silver
-2026-06-27 20:52 ACCEPT [Google News KL] "Peter Schiff Says Bitcoin Has Lost 60% Against Gold Since 2021 - Bitge" | kw:gold
-2026-06-27 20:52 ACCEPT [Google News KL] "Clay Pepes NFT Latest Floor Price, Charts, and Market Cap Data - Forbe" | kw:rice
-2026-06-27 20:52 ACCEPT [Google News KL] "Gold remains portfolio diversifier as miners offer upside, Axel Merk s" | kw:gold
 2026-06-27 20:52 ACCEPT [Google News KL] "Gold slips as hawkish Fed signals lift dollar, boost rate hike bets - " | kw:gold,rate hike
 2026-06-27 20:52 ACCEPT [Google News KL] "Chainlink (LINK) Price Analysis 2026-2030: Can the Oracle Network Push" | kw:rice
 2026-06-27 20:52 ACCEPT [Google News KL] "Gold Rate Today in Erode 27th June 2026 : 22 & 24 Carat, Gold Price in" | kw:gold,rice
@@ -20007,3 +19998,10 @@
 2026-08-02 01:01 ACCEPT [Google News NS] "Swedish Artisan Cheesery Successfully Combines Economic and Environmen" | kw:iron
 2026-08-02 01:01 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
 2026-08-02 01:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 01:03 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-02 01:03 ACCEPT [Google News HH] "Türkiye, Iraq sign one-year deal to keep crude oil pipeline operationa" | kw:oil,crude
+2026-08-02 01:03 ACCEPT [Google News KL] "Gold prices fall Rs3,700 per tola after two-day rally - nation.com.pk" | kw:gold,rice
+2026-08-02 01:03 ACCEPT [Google News KL] "Gold prices surge by Rs3,000 per tola - nation.com.pk" | kw:gold,rice
+2026-08-02 01:03 ACCEPT [Google News NS] "EU wheat drops as traders take month-end profit after rally - Business" | kw:wheat
+2026-08-02 01:04 ACCEPT [Google News CB] "Iran-linked exchange sent $676 million to Binance in alleged sanctions" | kw:sanction
+2026-08-02 01:04 SKIP_MORNING already_sent date=2026-08-02
