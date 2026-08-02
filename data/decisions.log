@@ -1,14 +1,3 @@
-2026-06-27 21:01 ACCEPT [EIA Energy] "California natural gas prices reach historic lows in early 2026" | kw:gas,rice
-2026-06-27 21:01 ACCEPT [EIA Energy] "Most planned natural gas pipeline capacity additions in 2026 and 2027 " | kw:gas
-2026-06-27 21:01 ACCEPT [EIA Energy] "The regional differences in gasoline prices this Memorial Day" | kw:gas,fuel,rice
-2026-06-27 21:01 ACCEPT [EIA Energy] "One-fifth of U.S. renewable diesel and SAF production was exported in " | kw:fuel
-2026-06-27 21:01 ACCEPT [NASDAQ Commod] "Crude Oil Plummets As Shipping Traffic Across The Hormuz Strait Speeds" | kw:oil,crude,rice
-2026-06-27 21:01 ACCEPT [NASDAQ Commod] "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks" | kw:aluminum
-2026-06-27 21:01 ACCEPT [NASDAQ Commod] "Gold Headed For Fourth Weekly Loss On Rate Hike Concerns" | kw:gold,rate hike
-2026-06-27 21:01 ACCEPT [Google News HH] "Oh Sh*t, here we go again... $Crude Oil Futures (AUG6) (CLmain.US)$ Ju" | kw:oil,crude
-2026-06-27 21:01 ACCEPT [Google News HH] "Former Iraqi PM warns against OPEC exit - Shafaq News | Latest breakin" | kw:opec
-2026-06-27 21:01 ACCEPT [Google News HH] "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - " | kw:oil,crude,brent
-2026-06-27 21:01 ACCEPT [Google News HH] "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - En" | kw:oil,opec,lng
 2026-06-27 21:01 ACCEPT [Google News HH] "Former PM Adel Abdul-Mahdi warns Iraq against quitting OPEC - 964media" | kw:opec
 2026-06-27 21:01 ACCEPT [Google News HH] "Putin extends Russian oil ban tied to G7, EU price cap through 2027 - " | kw:oil,rice
 2026-06-27 21:01 ACCEPT [Google News HH] "WTI Current Price | WTI Real-Time Data & Insights - Mitrade" | kw:wti,rice
@@ -20009,3 +19998,15 @@
 2026-08-02 03:01 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - Oz Arab Media" | kw:inflation
 2026-08-02 03:01 ACCEPT [Google News CB] "Yen Weakens After BOJ Holds Rates Steady Despite Currency Intervention" | kw:boj
 2026-08-02 03:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 03:31 ACCEPT [Google News HH] "CRUDE OIL SUPPLY DIVERSIFICATION STATEMENT by Black Sea Petroleum LLC " | kw:oil,crude,petroleum
+2026-08-02 03:31 ACCEPT [Google News HH] "Gold price falls - The Nation (Pakistan )" | kw:gold,rice
+2026-08-02 03:31 ACCEPT [Google News HH] "The Kulevi Oil Refinery (BSP) began processing Kazakh origin crude oil" | kw:oil,crude
+2026-08-02 03:31 ACCEPT [Google News KL] "Real Yields Have Driven Gold for Two Decades, PIMCO Says - Briefs Fina" | kw:gold
+2026-08-02 03:31 ACCEPT [Google News KL] "Silver Prices Halved, Investor Sentiment Cracks… Rising Real Yields Ar" | kw:silver,rice
+2026-08-02 03:31 ACCEPT [Google News KL] "Gold Demand Holds Steady in Q2 2026 as Prices Cool - Briefs Finance" | kw:gold,rice
+2026-08-02 03:31 ACCEPT [Google News KL] "J.P. Morgan Cuts 2026 Gold Outlook, Sees Fresh Highs - Briefs Finance" | kw:gold
+2026-08-02 03:31 ACCEPT [Google News KL] "Silver price fluctuation 2.8: Deep decrease after a week - Laodong.vn" | kw:silver,rice
+2026-08-02 03:31 ACCEPT [Google News KL] "Gold, Silver Rate Today August 02: Gold getting costlier? Check 18, 22" | kw:gold,silver
+2026-08-02 03:31 ACCEPT [Google News KL] "Gold price today August 2nd: Heavy loss of up to 5.5 million VND/tael " | kw:wti,gold,rice
+2026-08-02 03:31 ACCEPT [Google News CB] "Fed Trimmed Measures Signal Lower Inflation Trend - ozarab.media" | kw:inflation
+2026-08-02 03:31 SKIP_MORNING already_sent date=2026-08-02
