@@ -1,17 +1,3 @@
-2026-06-28 12:31 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 13:01 ACCEPT [Google News HH] "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter - Yaho" | kw:opec
-2026-06-28 13:01 ACCEPT [Google News HH] "Crude Oil Weekly Forecast - 28/06: Lower Trading (Chart) - DailyForex" | kw:oil,crude
-2026-06-28 13:01 ACCEPT [Google News HH] "Crude awakening: Why doomsday scenarios of US$200 oil didn’t come true" | kw:oil,crude
-2026-06-28 13:01 ACCEPT [Google News HH] "Price to earnings forward of Green Shift Commodities Ltd – TSXV:GCOM -" | kw:rice,commodities
-2026-06-28 13:01 ACCEPT [Google News KL] "Aya Gold & Silver: Growth Remains On Track Despite The Pullback (NASDA" | kw:gold,silver
-2026-06-28 13:01 ACCEPT [Google News KL] "Gold and silver prices increased - Ekantipur" | kw:gold,silver,rice
-2026-06-28 13:01 ACCEPT [Google News KL] "Copper Market Stalemate: Prices Near 100,000 Yuan/mt, Supply Tight, De" | kw:copper,rice
-2026-06-28 13:01 ACCEPT [Google News KL] "Gold Price Slips Amid Middle East Geopolitical Shifts & Bank Buying - " | kw:gold,rice
-2026-06-28 13:01 ACCEPT [Google News KL] "Do More Volatile Gold Stocks Mean Greater Opportunity? - TradingKey" | kw:gold
-2026-06-28 13:01 ACCEPT [Google News CB] "Stock Market Outlook Hinges On AI Earnings And Fed Rate Risks - Forbes" | kw:fed rate
-2026-06-28 13:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 13:02 SENT_EVENING articles=20 date=2026-06-28 force=False
-2026-06-28 13:31 ACCEPT [Google News HH] "Crude oil prices hover near four-month lows as supply concerns ease - " | kw:oil,crude,rice
 2026-06-28 13:31 ACCEPT [Google News KL] "BofA Sees Opportunity in Gold Miners as Market Discounts Bullion Price" | kw:gold,rice
 2026-06-28 13:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
 2026-06-28 13:31 ACCEPT [Google News CB] "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Ra" | kw:interest rate,fomc
@@ -20012,3 +19998,18 @@
 2026-08-02 13:01 ACCEPT [Google News CB] "From interest rate cuts to interest rate hikes... - Yeni Safak English" | kw:interest rate,rate cut,rate hike
 2026-08-02 13:01 SKIP_MORNING already_sent date=2026-08-02
 2026-08-02 13:02 SENT_EVENING articles=20 date=2026-08-02 force=False
+2026-08-02 13:31 ACCEPT [Google News HH] "OPEC agrees September oil hike, completing rollback of voluntary cuts " | kw:oil,opec
+2026-08-02 13:31 ACCEPT [Google News HH] "High fuel prices to endure as global conflicts hit refining capacity, " | kw:fuel,rice
+2026-08-02 13:31 ACCEPT [Google News HH] "RBI's Rate Decision, West Asia Tensions to Drive Indian Market Sentime" | kw:rate decision
+2026-08-02 13:31 ACCEPT [Google News HH] "Centre invokes Essential Commodities Act to ensure Natural Gas supply " | kw:gas,commodities
+2026-08-02 13:31 ACCEPT [Google News KL] "Gold, Silver Outlook: US Jobs, Fed Cues Drive Prices - Rediff MoneyWiz" | kw:gold,silver,rice
+2026-08-02 13:31 ACCEPT [Google News KL] "Gold prices on the afternoon of August 2nd, 2026: SJC 9999 gold, BTMC " | kw:gold,rice
+2026-08-02 13:31 ACCEPT [Google News KL] "Gold prices before the decisive moment next week, investors turn to th" | kw:gold,rice
+2026-08-02 13:31 ACCEPT [Google News KL] "Silver price fluctuation 2.8: Deep decrease after a week - news.laodon" | kw:silver,rice
+2026-08-02 13:31 ACCEPT [Google News KL] "Gold price update morning of August 2nd: Sideways, unclear trend - new" | kw:gold,rice
+2026-08-02 13:31 ACCEPT [Google News KL] "Gold and foreign currency prices 2.8: Latest forecast for gold - news." | kw:gold,rice
+2026-08-02 13:31 ACCEPT [Google News NS] "Biodiesel boom drives soybean oil to 4-year high - Farm Progress" | kw:oil,soybean
+2026-08-02 13:31 ACCEPT [Google News NS] "Bayer and bp form strategic alliance to jointly scale camelina as inte" | kw:fuel
+2026-08-02 13:31 ACCEPT [Google News CB] "China’s central bank pledges timely policy tool adjustment - businesst" | kw:central bank
+2026-08-02 13:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 13:31 SKIP_EVENING already_sent date=2026-08-02
