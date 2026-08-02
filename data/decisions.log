@@ -1,15 +1,3 @@
-2026-06-27 20:52 ACCEPT [Google News CB] "ECB’s Schnabel says inflation risks remain despite easing energy price" | kw:rice,inflation,ecb
-2026-06-27 20:52 ACCEPT [Google News CB] "Price to earnings forward of Fast Ejendom Danmark A/S – OMXCOP:FED - T" | kw:rice
-2026-06-27 21:01 ACCEPT [The Guardian Biz] "Trump threatens 100% tariff on European countries that impose digital " | kw:tariff
-2026-06-27 21:01 ACCEPT [The Guardian Biz] "Oil price falls to pre-Iran war levels as more tankers exit strait of " | kw:oil,rice,inflation
-2026-06-27 21:01 ACCEPT [The Guardian Biz] "Key Fed inflation gauge rises to three-year high in May after gas pric" | kw:gas,rice,inflation
-2026-06-27 21:01 ACCEPT [The Guardian Biz] "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Re" | kw:federal reserve
-2026-06-27 21:01 ACCEPT [The Guardian Biz] "City of Paris achieves partial victory over TotalEnergies in climate r" | kw:oil,gas
-2026-06-27 21:01 ACCEPT [Al Jazeera] "Tropical Storm Mekkhala leaves Taiwan underwater" | kw:flood
-2026-06-27 21:01 ACCEPT [CNBC Commodities] "Chicago Fed President Goolsbee says inflation is too high; Williams se" | kw:rice,inflation,interest rate
-2026-06-27 21:01 ACCEPT [CNBC Economy] "Three Iranian tankers exit U.S. blockade for first time in months as s" | kw:oil,crude
-2026-06-27 21:01 ACCEPT [CNBC Economy] "Wholesale prices rose 1.1% in May, more than expected, on surge in ene" | kw:rice
-2026-06-27 21:01 ACCEPT [CNBC Economy] "ECB hikes interest rates for first time since 2023 as Iran war ramps u" | kw:inflation,central bank,interest rate
 2026-06-27 21:01 ACCEPT [CNBC Economy] "Consumer prices rose 4.2% annually in May, highest in three years" | kw:rice
 2026-06-27 21:01 ACCEPT [CNBC Economy] "Household worries over finances hit highest level since July 2022, New" | kw:inflation,central bank
 2026-06-27 21:01 ACCEPT [OilPrice.com] "China Is Quietly Winning the Clean Energy Trade War" | kw:supply chain,trade war
@@ -20010,3 +19998,15 @@
 2026-08-02 02:01 ACCEPT [Google News CB] "Yen Weakens After BOJ Holds Rates Steady Despite Currency Intervention" | kw:boj
 2026-08-02 02:01 ACCEPT [Google News CB] "Singapore expected to tighten monetary policy as energy crisis fans in" | kw:inflation,monetary policy
 2026-08-02 02:01 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 02:31 ACCEPT [Google News HH] "Davis Commodities Limited Revenue Breakdown – OTC:DTCKF - tradingview." | kw:lng,commodities
+2026-08-02 02:31 ACCEPT [Google News HH] "August 3, 2026: Brent crude oil price on August 03, 2026 at 5:00 PM ED" | kw:oil,crude,brent
+2026-08-02 02:31 ACCEPT [Google News HH] "Iraq, Turkiye seal deal to ship Iraqi crude oil via Ceyhan port - Qata" | kw:oil,crude
+2026-08-02 02:31 ACCEPT [Google News HH] "‎Cardinal Torch set to drive growth, transform Nigeria’s agro-commodit" | kw:commodities
+2026-08-02 02:31 ACCEPT [Google News KL] "Investors packed up money and rushed to buy gold and silver in the wak" | kw:gold,silver
+2026-08-02 02:31 ACCEPT [Google News KL] "Gold Has Given Back Nearly 30% of Its Record Rally in Just Seven Month" | kw:gold
+2026-08-02 02:31 ACCEPT [Google News KL] "Gold Price in Vidisha Today (1st August 2026): Latest 14K, 18K, 22K, 2" | kw:gold,rice
+2026-08-02 02:31 ACCEPT [Google News KL] "Gold Price in Bihar Today (1st August 2026): Latest 14K, 18K, 22K, 24K" | kw:gold,rice
+2026-08-02 02:31 ACCEPT [Google News NS] "16 Fresh Corn Recipes for When You Bought Too Much at the Farmers Mark" | kw:corn
+2026-08-02 02:31 ACCEPT [Google News CB] "Six Years into Bond Bear Market, 30-Year Treasury Yield Hits 5.28%, Yi" | kw:treasury
+2026-08-02 02:31 ACCEPT [Google News CB] "Convertible Note Interest Rate Explained: The Dilution Founders Miss -" | kw:interest rate
+2026-08-02 02:31 SKIP_MORNING already_sent date=2026-08-02
