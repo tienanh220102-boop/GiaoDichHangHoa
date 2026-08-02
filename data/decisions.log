@@ -1,9 +1,3 @@
-2026-06-28 04:01 SKIP_MORNING already_sent date=2026-06-28
-2026-06-28 04:31 ACCEPT [Google News HH] "Gold Price Forecast: Does Gold Falling Below $4,000 Mean the Bull Mark" | kw:gold,rice
-2026-06-28 04:31 ACCEPT [Google News HH] "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - En" | kw:oil,opec
-2026-06-28 04:31 ACCEPT [Google News HH] "Why US crude oil remains limited option for Vietnam's refineries - Tuo" | kw:oil,crude
-2026-06-28 04:31 ACCEPT [Google News KL] "Meta Removed Facial Recognition Code From Meta AI App Silver Price Tod" | kw:silver,rice
-2026-06-28 04:31 ACCEPT [Google News KL] "Gold miners offer value despite near-term pressure on bullion, says Bo" | kw:gold
 2026-06-28 04:31 ACCEPT [Google News NS] "Sweet Corn Cultivation: A Profitable Opportunity for Meghalaya’s Farme" | kw:corn
 2026-06-28 04:31 ACCEPT [Google News NS] "Soybean Futures Decline Amid Dry US Weather Forecasts - HarianBasis.co" | kw:soybean
 2026-06-28 04:31 ACCEPT [Google News CB] "USD/CAD Rises to 1.419: Fed Hawkiness, Geo‑Risk, and Falling Oil Weigh" | kw:oil
@@ -20004,3 +19998,11 @@
 2026-08-02 06:31 ACCEPT [Google News KL] "Gold Price Today in Amravati – 18K, 22K & 24K Rate | 01 August 2026 - " | kw:gold,rice
 2026-08-02 06:31 ACCEPT [Google News NS] "Govt taken measures to check price rise during Onam: Minister Anoop Ja" | kw:rice
 2026-08-02 06:31 SKIP_MORNING already_sent date=2026-08-02
+2026-08-02 07:01 ACCEPT [Google News HH] "Oil leak spreads from a sanctioned tanker grounded off Oman, images sh" | kw:oil,sanction
+2026-08-02 07:01 ACCEPT [Google News KL] "UBS explains what it would take for gold prices to turn higher in 2H26" | kw:gold,rice
+2026-08-02 07:01 ACCEPT [Google News KL] "Commodity: Outlook For Silver Remains Subdued But OCBC Sees A Silver L" | kw:silver,commodity
+2026-08-02 07:01 ACCEPT [Google News KL] "Silver's Structural Squeeze Meets the Fed's Fractured Message - AD HOC" | kw:silver
+2026-08-02 07:01 ACCEPT [Google News KL] "Gold Rate Today In Theni, Check Live 22 And 24 Carat Gold Price - NDTV" | kw:gold,rice
+2026-08-02 07:01 ACCEPT [Google News KL] "India gold futures fall to three-month low as strong US dollar and hig" | kw:gold
+2026-08-02 07:01 ACCEPT [Google News CB] "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. H" | kw:fuel,interest rate,rate cut
+2026-08-02 07:01 SKIP_MORNING already_sent date=2026-08-02
