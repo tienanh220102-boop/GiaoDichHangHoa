@@ -1,7 +1,3 @@
-2026-06-29 05:08 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 05:31 ACCEPT [OilPrice.com] "Australian Gas Exploration Surges as Energy Security Takes Center Stag" | kw:gas
-2026-06-29 05:31 ACCEPT [Google News HH] "Gold price slides ahead of US jobs report and Fed remarks - FXStreet" | kw:gold,rice
-2026-06-29 05:31 ACCEPT [Google News KL] "Vietnam dong, gold rates - June 29 - TradingView" | kw:gold
 2026-06-29 05:31 ACCEPT [Google News KL] "The Federal Reserve's hawkish stance and the strengthening US dollar p" | kw:copper,rice,federal reserve
 2026-06-29 05:31 ACCEPT [Google News NS] "Precision Trading with Teucrium Soybean Fund (SOYB) Risk Zones - Stock" | kw:soybean
 2026-06-29 05:31 ACCEPT [Google News NS] "Corn drops after US-Iran halt attacks as traders weigh US heat - Money" | kw:corn
@@ -20002,3 +19998,14 @@
 2026-08-03 01:04 ACCEPT [Google News KL] "21-Karat Gold Price Stands at JD88 in Local Market - وكالة الانباء الا" | kw:gold,rice
 2026-08-03 01:04 ACCEPT [Google News NS] "Kevin Mainord elected chair of Missouri Soybean Merchandisin... - Stan" | kw:soybean
 2026-08-03 01:04 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 01:31 ACCEPT [Google News HH] "Jambalaya on the Bayou – A Drill Down Report on Louisiana’s Crude Oil " | kw:oil,crude,gdp
+2026-08-03 01:31 ACCEPT [Google News HH] "Saudi Oil Reroutes Hit Capacity and Security Limits - Crude Oil Prices" | kw:oil,crude,rice
+2026-08-03 01:31 ACCEPT [Google News HH] "Kuwait raises crude oil output to near 2 million bpd in July, source s" | kw:oil,crude
+2026-08-03 01:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - morganton.com" | kw:opec
+2026-08-03 01:31 ACCEPT [Google News KL] "Gold recovers above $4,050 as Trump pauses Iran strikes - fxstreet.com" | kw:gold
+2026-08-03 01:31 ACCEPT [Google News KL] "21-Karat Gold Price Stands at JD88 in Local Market - وكالة الانباء الا" | kw:gold,rice
+2026-08-03 01:31 ACCEPT [Google News NS] "5 Corn Tortilla Brands, Ranked Worst To Best - tastingtable.com" | kw:corn
+2026-08-03 01:31 ACCEPT [Google News NS] "Newly opened Terminal 4 at Port of Grays Harbor targets Asia Pacific d" | kw:soybean
+2026-08-03 01:31 ACCEPT [Google News CB] "Gold Gains as Iran Talks Ease Concerns Over Interest-Rate Hike - bloom" | kw:gold,rate hike
+2026-08-03 01:31 ACCEPT [Google News CB] "Yen rockets as Japan bond yields hit record on rate hike bets, more in" | kw:rate hike
+2026-08-03 01:31 SKIP_MORNING already_sent date=2026-08-03
