@@ -1,11 +1,3 @@
-2026-06-29 06:31 ACCEPT [Google News NS] "Micro Soybean Oil Futures - Volume & Open Interest - CME Group" | kw:oil,soybean
-2026-06-29 06:31 ACCEPT [Google News NS] "Corn drops after US-Iran halt attacks as traders weigh US heat - Money" | kw:corn
-2026-06-29 06:31 ACCEPT [Google News CB] "Iran war developments, Fed rate path cues in focus for Indian rupee an" | kw:fed rate
-2026-06-29 06:31 ACCEPT [Google News CB] "Fed Chair Kevin Warsh on Inflation, AI, and Interest Rate Policy in 20" | kw:lng,inflation,interest rate
-2026-06-29 06:31 ACCEPT [Google News CB] "BoE's Pill: Monetary policy hasn’t been restrictive enough over the la" | kw:monetary policy
-2026-06-29 06:31 ACCEPT [Google News CB] "Gold Under Pressure Near $4,060 on Fed, Geopolitical Risks - TradingPe" | kw:gold
-2026-06-29 06:31 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 07:01 ACCEPT [Google News HH] "WTI Crude Oil Price Forecast: $68.97 Support Strained as Strait of Hor" | kw:oil,crude,wti
 2026-06-29 07:01 ACCEPT [Google News HH] "Egypt: Food commodities’ prices drop on June 28; potatoes up - ZAWYA" | kw:rice,commodities
 2026-06-29 07:01 ACCEPT [Google News KL] "Copper Speculation Is Rewriting Market Pricing - StoneX" | kw:copper
 2026-06-29 07:01 ACCEPT [Google News KL] "Gold Dips to Near $4,050 as US-Iran Talks Uncertainty Rattles Markets " | kw:gold
@@ -20006,3 +19998,23 @@
 2026-08-03 02:31 ACCEPT [Google News CB] "Japan’s Use of Fed Repo May Ease Pressure on Treasury Market - Bloombe" | kw:treasury
 2026-08-03 02:31 ACCEPT [Google News CB] "Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - en" | kw:fomc
 2026-08-03 02:31 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 03:01 ACCEPT [BBC Business] "Almost £200,000 of fuel stolen from UK forecourts every day since Iran" | kw:fuel
+2026-08-03 03:01 ACCEPT [Al Jazeera] "Trump says new round of Iran talks will begin Monday" | kw:oil,rice
+2026-08-03 03:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Missoulian" | kw:opec
+2026-08-03 03:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Corvallis Gazette-Times" | kw:opec
+2026-08-03 03:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Globe Gazette" | kw:opec
+2026-08-03 03:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - cumberlink.com" | kw:opec
+2026-08-03 03:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Dothan Eagle" | kw:opec
+2026-08-03 03:01 ACCEPT [Google News KL] "Gold and silver prices slide as Trump signals easing US-Iran tensions " | kw:gold,silver,rice
+2026-08-03 03:01 ACCEPT [Google News KL] "Could the Greatland Resources (GGP) share price resume its epic rally " | kw:gold,rice
+2026-08-03 03:01 ACCEPT [Google News KL] "Ex-IRD Expert to Assess Santana Gold Mine Tax Projections - The Centra" | kw:gold
+2026-08-03 03:01 ACCEPT [Google News KL] "BKB study flags strong Nevada numbers - Gold Coast Bulletin" | kw:gold
+2026-08-03 03:01 ACCEPT [Google News KL] "おぼんdeごはん ドリンクバーも付いて…1480円…安い…… Silver Price Today (RHQI6HarOf) - mshal" | kw:silver,rice
+2026-08-03 03:01 ACCEPT [Google News KL] "Gold gains as oil slumps after Trump holds off on Iran attack - Busine" | kw:oil,gold
+2026-08-03 03:01 ACCEPT [Google News KL] "Gold holds above $4,100 an ounce, silver jumps over 1%: Here's what is" | kw:gold,silver,rice
+2026-08-03 03:01 ACCEPT [Google News NS] "Feedgrain Focus: Dry boosts northern prices - Beef Central" | kw:rice
+2026-08-03 03:01 ACCEPT [Google News CB] "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Ke" | kw:interest rate
+2026-08-03 03:01 ACCEPT [Google News CB] "BREAKING NEWS: Japan top currency bureaucrat says he is aligned with B" | kw:boj
+2026-08-03 03:01 ACCEPT [Google News CB] "Argentina seeks central bank, capital markets reform - LatinFinance" | kw:central bank
+2026-08-03 03:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
+2026-08-03 03:01 SKIP_MORNING already_sent date=2026-08-03
