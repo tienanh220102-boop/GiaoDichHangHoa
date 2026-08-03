@@ -1,21 +1,3 @@
-2026-06-29 09:01 ACCEPT [Google News CB] "ECB’s Kazaks Says No Need for Multiple Hikes in Rushed Way - Bloomberg" | kw:ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "Euro zone corporate lending growth at 3-year high, ECB says By Reuters" | kw:ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "Euro Zone Corporate Lending Growth at 3-Year High, ECB Says - U.S. New" | kw:ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "Eurozone Credit Growth Accelerates Ahead of ECB Rate Hike - TradingVie" | kw:rate hike,ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "ECB May data shows euro area lending and money supply ticked higher, b" | kw:ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "Euro Recovers Ahead of ECB Forum - TradingView" | kw:ecb
-2026-06-29 09:01 ACCEPT [Google News CB] "ECB’s Kazāks: The possibility of negative scenarios has fallen massive" | kw:ecb
-2026-06-29 09:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 09:31 ACCEPT [MarketWatch] "The central bank of central  banks warns AI frenzy could trigger stock" | kw:central bank
-2026-06-29 09:31 ACCEPT [MarketWatch] "Ryan Seacrest sells 40-acre Napa Valley estate for $18.5 million" | kw:rice
-2026-06-29 09:31 ACCEPT [Google News HH] "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the " | kw:gold,rice
-2026-06-29 09:31 ACCEPT [Google News HH] "Brent Crude Oil Analysis: Stabilisation or Simply a Pause? - Action Fo" | kw:oil,crude,brent
-2026-06-29 09:31 ACCEPT [Google News HH] "Crude oil futures rise 0.7% on firm demand; global benchmarks edge hig" | kw:oil,crude
-2026-06-29 09:31 ACCEPT [Google News HH] "ZAWYA: Iraq targets 7mln bpd oil output in 3 years - TradingView" | kw:oil
-2026-06-29 09:31 ACCEPT [Google News HH] "Oil Markets Are Pricing A Supply Surge That Isn't Guaranteed - Crude O" | kw:oil,crude,rice
-2026-06-29 09:31 ACCEPT [Google News HH] "Commodities giant CEO hit with Bahamas asset freeze in divorce case - " | kw:commodities
-2026-06-29 09:31 ACCEPT [Google News KL] "Gold falls as Gulf tensions fuel inflation fears, Fed rate-hike bets -" | kw:fuel,gold,inflation
-2026-06-29 09:31 ACCEPT [Google News KL] "Gold (XAUUSD) & Silver Price Forecast: Gold Defends $4,049 as Silver H" | kw:gold,silver,rice
 2026-06-29 09:31 ACCEPT [Google News KL] "Gold weakens as US-Iran tensions ease, Fed tightening outlook weighs -" | kw:gold,tightening
 2026-06-29 09:31 ACCEPT [Google News NS] "Chicago soybeans, grains fall as traders await USDA acreage and stocks" | kw:soybean
 2026-06-29 09:31 ACCEPT [Google News NS] "Germany Eyes Record Soybean Harvest in 2026 - ChemAnalyst" | kw:soybean,harvest
@@ -20016,3 +19998,18 @@
 2026-08-03 04:31 ACCEPT [Google News CB] "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Ke" | kw:interest rate
 2026-08-03 04:31 ACCEPT [Google News CB] "China’s central bank pledges to enhance financial support for the real" | kw:central bank
 2026-08-03 04:31 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 04:57 ACCEPT [Al Jazeera] "Grid failure plunges Cuba into nationwide blackout" | kw:fuel,shortage
+2026-08-03 04:57 ACCEPT [Google News HH] "Column: Will the Iran war deliver the final blow to OPEC? - pilotonlin" | kw:opec
+2026-08-03 04:57 ACCEPT [Google News KL] "DAILY: Firm fundamentals support co... - Mysteel" | kw:steel
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold Trapped in Key Volatility Range as Fed’s September Rate Decision " | kw:gold,rate decision
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold Holds Near $4,100 and Silver Near $59 as Yen Intervention Slams D" | kw:gold,silver
+2026-08-03 04:57 ACCEPT [Google News KL] "1776-2026 Enhanced Uncirculated Gold Eagle Prices Split After Hot Laun" | kw:gold,rice
+2026-08-03 04:57 ACCEPT [Google News KL] "Vietnam only Southeast Asian country with declining gold demand in Q2 " | kw:gold
+2026-08-03 04:57 ACCEPT [Google News KL] "A Deadly Chile Storm Just Shut Down a Fifth of the World's Copper Supp" | kw:copper
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold holds above $4,050 as easing inflation fears curb Fed hike bets; " | kw:gold,inflation,easing
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold and silver prices slide as Trump signals easing US-Iran tensions " | kw:gold,silver,rice
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold prices today, August 3rd: SJC gold remains unchanged, world gold " | kw:gold,rice
+2026-08-03 04:57 ACCEPT [Google News KL] "Gold price today 3.8: Mixed fluctuations - Laodong.vn" | kw:gold,rice
+2026-08-03 04:57 ACCEPT [Google News NS] "Rethinking our wheat policy - Dawn" | kw:wheat
+2026-08-03 04:57 ACCEPT [Google News CB] "If Anyone Needs an Intervention, It's the BOJ - Bloomberg.com" | kw:boj
+2026-08-03 04:57 SKIP_MORNING already_sent date=2026-08-03
