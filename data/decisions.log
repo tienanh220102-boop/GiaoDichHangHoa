@@ -1,23 +1,3 @@
-2026-06-29 07:01 ACCEPT [Google News HH] "Egypt: Food commodities’ prices drop on June 28; potatoes up - ZAWYA" | kw:rice,commodities
-2026-06-29 07:01 ACCEPT [Google News KL] "Copper Speculation Is Rewriting Market Pricing - StoneX" | kw:copper
-2026-06-29 07:01 ACCEPT [Google News KL] "Gold Dips to Near $4,050 as US-Iran Talks Uncertainty Rattles Markets " | kw:gold
-2026-06-29 07:01 ACCEPT [Google News KL] "Goldman Sachs' second-half strategy: Gold targeted at $4,900, copper p" | kw:gold,copper,rice
-2026-06-29 07:01 ACCEPT [Google News KL] "Copper soars but smelters can't bank on it to survive: Andy Home - ZAW" | kw:wti,copper
-2026-06-29 07:01 ACCEPT [Google News NS] "Micro Soybean Oil Futures Quotes - CME Group" | kw:oil,soybean
-2026-06-29 07:01 ACCEPT [Google News NS] "What is ‘fudge factor’ and how does it help estimate corn yields? - Fa" | kw:corn
-2026-06-29 07:01 ACCEPT [Google News CB] "Markets Pull Back, Fed Remains Hawkish and Oil Slides - Investing.com" | kw:oil
-2026-06-29 07:01 ACCEPT [Google News CB] "Mid-Interest Rate Living Stability Loan Launched for Bottom 50% Credit" | kw:interest rate
-2026-06-29 07:01 ACCEPT [Google News CB] "RBA’s Kent Says Central Bank Better Prepared for Next Financial Crisis" | kw:central bank
-2026-06-29 07:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 07:31 ACCEPT [OilPrice.com] "China’s LNG Buying Rebounds as Summer Power Demand Surges" | kw:gas,lng
-2026-06-29 07:31 ACCEPT [NASDAQ Commod] "Nickel Prices Slip on Rumored Indonesia Quota Hike Despite Official De" | kw:nickel,rice
-2026-06-29 07:31 ACCEPT [Google News HH] "JPMorgan Lowers Gold Price Forecasts: Q3 at $5,300, Q4 at $6,000 - New" | kw:gold,rice
-2026-06-29 07:31 ACCEPT [Google News HH] "Gold price prediction today: Will gold prices continue to fall? Key le" | kw:gold,rice
-2026-06-29 07:31 ACCEPT [Google News HH] "ASEAN Explores Unified Emergency Crude Oil and Jet Fuel Reserve to Str" | kw:oil,crude,fuel
-2026-06-29 07:31 ACCEPT [Google News KL] "Gold prices dip amid renewed US-Iran strikes - Investing.com" | kw:gold,rice
-2026-06-29 07:31 ACCEPT [Google News KL] "Turaco Gold Price Target Cut 46% to A$1.18/Share by Morgans - Moomoo" | kw:gold,rice
-2026-06-29 07:31 ACCEPT [Google News KL] "Gold price drops by Tk3,266 per bhori - The Business Standard" | kw:gold,rice
-2026-06-29 07:31 ACCEPT [Google News NS] "Late-season corn tissue test results offer valuable crop insights - Fa" | kw:corn
 2026-06-29 07:31 ACCEPT [Google News NS] "Record European heat pushes French wheat prices to three-month high - " | kw:wheat,rice
 2026-06-29 07:31 ACCEPT [Google News CB] "Spanish Inflation Unexpectedly Holds Well Above ECB Target - Bloomberg" | kw:inflation,ecb
 2026-06-29 07:31 ACCEPT [Google News CB] "Iraq’s central bank governor cannot fight crime on his own - Arabian G" | kw:central bank
@@ -20018,3 +19998,18 @@
 2026-08-03 03:01 ACCEPT [Google News CB] "Argentina seeks central bank, capital markets reform - LatinFinance" | kw:central bank
 2026-08-03 03:01 ACCEPT [Google News CB] "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest " | kw:interest rate
 2026-08-03 03:01 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 03:31 ACCEPT [OilPrice.com] "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans" | kw:oil,brent,rice
+2026-08-03 03:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Omaha World-Herald" | kw:opec
+2026-08-03 03:31 ACCEPT [Google News KL] "Gold and silver price today, August 3: Check rates of 24K, 22K gold in" | kw:gold,silver,rice
+2026-08-03 03:31 ACCEPT [Google News KL] "Gold Price Today in Amravati – 18K, 22K & 24K Rate | 03 August 2026 - " | kw:gold,rice
+2026-08-03 03:31 ACCEPT [Google News KL] "Ex-IRD expert to assess Santana Gold Mine tax projections - Wanaka App" | kw:gold
+2026-08-03 03:31 ACCEPT [Google News KL] "Silver's Friday Slide Puts the Spotlight Back on a Familiar Threshold " | kw:silver
+2026-08-03 03:31 ACCEPT [Google News NS] "Mysteel China edible oils market da... - Mysteel" | kw:oil,steel
+2026-08-03 03:31 ACCEPT [Google News NS] "McDonald's Korea halts Chungju corn burger sales over stone complaints" | kw:corn
+2026-08-03 03:31 ACCEPT [Google News NS] "Dom Pym built one of Australia's most beloved banks by refusing to thi" | kw:wti
+2026-08-03 03:31 ACCEPT [Google News CB] "India central bank to stay on hold even as peers pivot to rate hikes -" | kw:central bank,rate hike
+2026-08-03 03:31 ACCEPT [Google News CB] "China’s central bank to enhance financial support for real economy in " | kw:central bank
+2026-08-03 03:31 ACCEPT [Google News CB] "Fed’s Kevin Warsh Faces Oil-Driven Inflation Test — Jeremy Siegel Sees" | kw:oil,inflation
+2026-08-03 03:31 ACCEPT [Google News CB] "UBS forecasts gold at $5,200 by June 2027 despite near-term pullback r" | kw:lng,gold
+2026-08-03 03:31 ACCEPT [Google News CB] "Yen rockets as Japan bond yields hit record on rate hike bets, more in" | kw:rate hike
+2026-08-03 03:31 SKIP_MORNING already_sent date=2026-08-03
