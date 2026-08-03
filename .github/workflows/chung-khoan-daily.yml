@@ -5,10 +5,12 @@ name: Phân tích Chứng khoán VN (HOSE/HNX/UPCoM)
 # đã cắm nguồn dữ liệu Việt Nam qua VCIFetcher). Mã VN dùng hậu tố .VN.
 
 on:
-  schedule:
-    # Giờ VN = UTC+7. Chạy các ngày giao dịch (T2–T6).
-    - cron: '30 1 * * 1-5'   # 08:30 VN — trước phiên (định hướng sáng)
-    - cron: '15 8 * * 1-5'   # 15:15 VN — sau khi đóng cửa (tổng kết ngày)
+  # ĐÃ TẠM DỪNG (03/08/2026): bỏ lịch cron, workflow chỉ còn chạy tay.
+  # Bật lại bằng cách bỏ comment khối dưới.
+  # schedule:
+  #   # Giờ VN = UTC+7. Chạy các ngày giao dịch (T2–T6).
+  #   - cron: '30 1 * * 1-5'   # 08:30 VN — trước phiên (định hướng sáng)
+  #   - cron: '15 8 * * 1-5'   # 15:15 VN — sau khi đóng cửa (tổng kết ngày)
   workflow_dispatch:
     inputs:
       boards:

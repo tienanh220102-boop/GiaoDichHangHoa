@@ -1,8 +1,10 @@
 name: Phan Tich Kinh Te Agent
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'   # Chay moi 30 phut
+  # DA TAM DUNG (03/08/2026): bo lich cron, workflow chi con chay tay.
+  # Bat lai bang cach bo comment 2 dong duoi.
+  # schedule:
+  #   - cron: '*/30 * * * *'   # Chay moi 30 phut
   workflow_dispatch:          # Cho phep chay thu cong
     inputs:
       force_report:
