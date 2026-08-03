@@ -1,17 +1,3 @@
-2026-06-29 10:31 ACCEPT [MarketWatch] "Magnificent Seven slump sent momentum stocks to their fourth worst per" | kw:basis point
-2026-06-29 10:31 ACCEPT [Google News HH] "Consumer confidence improves to 4-month high on eased crude oil prices" | kw:oil,crude,rice
-2026-06-29 10:31 ACCEPT [Google News HH] "Venezuela's Amuay refinery shuts after power outage - Quantum Commodit" | kw:commodity
-2026-06-29 10:31 ACCEPT [Google News NS] "Corn drops after US-Iran halt attacks as traders weigh US heat - money" | kw:corn
-2026-06-29 10:31 ACCEPT [Google News CB] "Bank of England’s Pill adds voice to those concerned about ‘scenario’ " | kw:lng,bank of england
-2026-06-29 10:31 ACCEPT [Google News CB] "Supreme Court ruling, ECB conference likely to further frame Fed chief" | kw:ecb
-2026-06-29 10:31 ACCEPT [Google News CB] "Russia’s central bank to cut foreign currency sales in second half - I" | kw:central bank
-2026-06-29 10:31 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 11:01 ACCEPT [OilPrice.com] "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency" | kw:oil,rice
-2026-06-29 11:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 11:30 ACCEPT [MarketWatch] "How the chip trade has come to resemble silver — a warning from Morgan" | kw:silver
-2026-06-29 11:30 ACCEPT [Mining.com] "Op-Ed: The decoy effect — how Beijing steers western mining capital" | kw:oil
-2026-06-29 11:31 ACCEPT [Google News HH] "Oil prices hover around pre-war levels as focus turns to the US data a" | kw:oil,rice
-2026-06-29 11:31 ACCEPT [Google News HH] "Forecast update for crude oil -29-06-2026 - Economies.com" | kw:oil,crude
 2026-06-29 11:31 ACCEPT [Google News HH] "Gold price crash: Why Indian households are rushing to sell their old " | kw:gold,rice
 2026-06-29 11:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD Holds Below $59.00 as Hormuz Tensions R" | kw:silver,rice
 2026-06-29 11:31 ACCEPT [Google News KL] "Gold and Silver Price Forecast: Debt Fears Strengthen Long-Term Bull C" | kw:gold,silver,rice
@@ -20012,3 +19998,13 @@
 2026-08-03 05:31 ACCEPT [Google News NS] "Bayer subsidiary drops tariff request after farmer pushback - Farm Pro" | kw:tariff
 2026-08-03 05:31 ACCEPT [Google News CB] "Yen's To-Do List: Japan-U.S. Coordination and Monetary Policy - Global" | kw:monetary policy
 2026-08-03 05:31 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 06:01 ACCEPT [Google News HH] "WTI down 6% as OPEC raises output quota - breakingthenews.net" | kw:opec,wti
+2026-08-03 06:01 ACCEPT [Google News KL] "Opening Bullion Rates Chennai: Gold & Silver Prices Today - Rediff Mon" | kw:lng,gold,silver
+2026-08-03 06:01 ACCEPT [Google News KL] "Gold Price Forecast: XAU/USD Squeezed Despite Soft US Dollar – Breakdo" | kw:lng,gold,rice
+2026-08-03 06:01 ACCEPT [Google News KL] "Gold and silver prices rise in domestic market today - Nepalnews.com" | kw:gold,silver,rice
+2026-08-03 06:01 ACCEPT [Google News KL] "Chennai gold price rises by Rs 240 on August 3, 2026; check today's go" | kw:gold,silver,rice
+2026-08-03 06:01 ACCEPT [Google News NS] "Impressive 'Golden Triangle' grain aggregation hits the market | Photo" | kw:gold
+2026-08-03 06:01 ACCEPT [Google News NS] "Rice distribution begins among 55 lakh beneficiaries under Food-Friend" | kw:rice
+2026-08-03 06:01 ACCEPT [Google News CB] "US-Japan yen team-up worsens BOJ dilemma - Breakingviews" | kw:boj
+2026-08-03 06:01 ACCEPT [Google News CB] "US Treasury Yields Rise Amid Fed Chair's Uncertainty - GuruFocus" | kw:treasury
+2026-08-03 06:01 SKIP_MORNING already_sent date=2026-08-03
