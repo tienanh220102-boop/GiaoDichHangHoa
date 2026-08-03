@@ -1,5 +1,3 @@
-2026-06-29 04:01 ACCEPT [Google News HH] "Petrol prices defy crude oil slump, deepen cost-of-living crisis - The" | kw:oil,crude,rice
-2026-06-29 04:01 ACCEPT [Google News HH] "Crude Oil Prices Bounce Above $70 at the Open after Hormuz Strikes and" | kw:oil,crude,rice
 2026-06-29 04:01 ACCEPT [Google News HH] "Gold Price Today: MCX Gold Dips To Rs 1.43 Lakh Amid Easing US-Iran Te" | kw:gold,rice,easing
 2026-06-29 04:01 ACCEPT [Google News HH] "Crude oil prices rise above $73/bbl after latest round of military str" | kw:oil,crude,gold
 2026-06-29 04:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD remains below $59.00 on renewed Hormuz " | kw:silver,rice
@@ -20000,3 +19998,10 @@
 2026-08-02 23:26 ACCEPT [Google News CB] "Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - bl" | kw:fomc
 2026-08-02 23:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - AppleValleyNewsNow.com" | kw:opec
 2026-08-02 23:31 ACCEPT [Google News CB] "Key interest rate left unchanged | What's Your Point? - FOX 26 Houston" | kw:interest rate
+2026-08-03 00:01 ACCEPT [OilPrice.com] "Saudi Oil Reroutes Hit Capacity and Security Limits" | kw:oil,opec,lng
+2026-08-03 00:01 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - theeagle.com" | kw:opec
+2026-08-03 00:01 ACCEPT [Google News KL] "From boom to bust: Laopu Gold loses its luster - thebambooworks.com" | kw:gold
+2026-08-03 00:01 ACCEPT [Google News KL] "Gold prices fall 2% - The Daily Star" | kw:gold,rice
+2026-08-03 00:01 ACCEPT [Google News NS] "Soybean Futures Slide into Weekend as Weekly Losses Mount Across Contr" | kw:soybean
+2026-08-03 00:01 ACCEPT [Google News CB] "Week Ahead for FX, Bonds : U.S. Jobs Data in Focus, Could Give Steer o" | kw:lng
+2026-08-03 00:02 SENT_MORNING articles=20 date=2026-08-03 force=False
