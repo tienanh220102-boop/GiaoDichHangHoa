@@ -1,10 +1,3 @@
-2026-06-29 04:01 ACCEPT [Google News HH] "Gold Price Today: MCX Gold Dips To Rs 1.43 Lakh Amid Easing US-Iran Te" | kw:gold,rice,easing
-2026-06-29 04:01 ACCEPT [Google News HH] "Crude oil prices rise above $73/bbl after latest round of military str" | kw:oil,crude,gold
-2026-06-29 04:01 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD remains below $59.00 on renewed Hormuz " | kw:silver,rice
-2026-06-29 04:01 ACCEPT [Google News KL] "How Does The Air Conditioner Work? Gold Price May 11 2026 (68KYep1ZaR)" | kw:gold,rice
-2026-06-29 04:01 ACCEPT [Google News KL] "Gold prices stay volatile as global cues sway market - MSN" | kw:gold,rice
-2026-06-29 04:01 ACCEPT [Google News KL] "4073.76 | XAUT USDT | Tether Gold to USDT – Binance Spot - Binance" | kw:gold
-2026-06-29 04:01 ACCEPT [Google News KL] "Silver (XAG) Forecast: Silver Bounces but Fed Keeps Price Prediction B" | kw:silver,rice
 2026-06-29 04:01 ACCEPT [Google News KL] "Does Resource Upgrade and Board Refresh at Koné Change The Bull Case F" | kw:gold
 2026-06-29 04:01 ACCEPT [Google News KL] "The 6 Best Gold Stocks to Watch in 2026 - XTB.com" | kw:gold
 2026-06-29 04:01 ACCEPT [Google News KL] "Cell market remains bearish as silver prices and rising inventories we" | kw:silver,rice,supply chain
@@ -20005,3 +19998,67 @@
 2026-08-03 00:01 ACCEPT [Google News NS] "Soybean Futures Slide into Weekend as Weekly Losses Mount Across Contr" | kw:soybean
 2026-08-03 00:01 ACCEPT [Google News CB] "Week Ahead for FX, Bonds : U.S. Jobs Data in Focus, Could Give Steer o" | kw:lng
 2026-08-03 00:02 SENT_MORNING articles=20 date=2026-08-03 force=False
+2026-08-03 00:31 ACCEPT [The Guardian Biz] "US economy grows sluggish 1.5% in second quarter as inflation tops Fed" | kw:inflation,interest rate,federal reserve
+2026-08-03 00:31 ACCEPT [The Guardian Biz] "Rising oil prices could force up UK interest rates, say economists" | kw:oil,rice,interest rate
+2026-08-03 00:31 ACCEPT [Al Jazeera] "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran" | kw:iron
+2026-08-03 00:31 ACCEPT [CNBC Commodities] "Fed officials who voted to hike rates say action is needed now against" | kw:inflation
+2026-08-03 00:31 ACCEPT [CNBC Economy] "As Warsh’s Fed faces pressure to act on inflation, these indicators sh" | kw:inflation
+2026-08-03 00:31 ACCEPT [CNBC Economy] "Singapore tightens monetary policy in surprise move as rising oil pric" | kw:oil,rice,inflation
+2026-08-03 00:31 ACCEPT [CNBC Economy] "Wholesale prices unexpectedly declined 0.3% in June on big drop in gas" | kw:oil,gas,rice
+2026-08-03 00:31 ACCEPT [CNBC Economy] "Renewed Hormuz hostilities drive ECB rates rethink amid ‘extremely vol" | kw:central bank,interest rate,rate decision
+2026-08-03 00:31 ACCEPT [CNBC Economy] "Consumer prices rose 3.5% annually in June, less than expected as ener" | kw:rice
+2026-08-03 00:31 ACCEPT [CNBC Economy] "India's inflation accelerates to 4.38% in June, exceeding forecasts" | kw:rice,inflation
+2026-08-03 00:31 ACCEPT [CNBC Economy] "Christine Lagarde leaves door open to early ECB exit, as she mulls Fre" | kw:central bank,ecb
+2026-08-03 00:31 ACCEPT [OilPrice.com] "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes" | kw:flood,easing
+2026-08-03 00:31 ACCEPT [OilPrice.com] "Abqaiq Is a Warning That Oil Markets May Be Misreading" | kw:oil
+2026-08-03 00:31 ACCEPT [OilPrice.com] "Exxon and Chevron’s $26.5 Billion Quarter Draws Trump’s Ire" | kw:oil,gas,fuel
+2026-08-03 00:31 ACCEPT [EIA Energy] "The United States produced more crude oil than any other country in 20" | kw:oil,crude
+2026-08-03 00:31 ACCEPT [EIA Energy] "Higher blending targets drive RIN prices close to record highs" | kw:gas,fuel,rice
+2026-08-03 00:31 ACCEPT [NASDAQ Commod] "Alex Ebkarian: Gold, Silver's Next Six Months — Price Targets, My Outl" | kw:gold,silver,rice
+2026-08-03 00:31 ACCEPT [Google News HH] "Organization of the Petroleum Exporting Countries - Organization of th" | kw:petroleum
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Tulsa World" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - rapidcityjournal.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Kearney Hub" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Waterloo-Cedar Falls Cour" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "When Products Become Commodities, Customer Experience Becomes The Prod" | kw:commodities
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - The Bristol Herald Courie" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - AppleValleyNewsNow.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "WTI Crude Oil 02/08: Traders Test Rough Peace Narrative - Daily Forex" | kw:oil,crude,wti
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Wiscnews.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - Sioux City Journal" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - ravallirepublic.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - journaltimes.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News HH] "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION - mooresvilletribune.com" | kw:opec
+2026-08-03 00:31 ACCEPT [Google News KL] "Getchell Gold's 21% Resource Growth at Fondaway Canyon: $265 Million t" | kw:gold
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold Price Forecast: Softer Inflation Lifts Gold but High Yields Cap G" | kw:gold,rice,inflation
+2026-08-03 00:31 ACCEPT [Google News KL] "Could the Greatland Resources (GGP) share price resume its epic rally " | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Tether Gold Price Prediction 2026, 2027, 2030 & Beyond: Yearly Forecas" | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Nickel’s Turning Point: Policy, Geopolitics, and Demand Converge to Ti" | kw:nickel
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold, Silver Await Next Big Move As US Jobs Data Looms - NDTV Profit" | kw:gold,silver
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold prices today (August 3): Buyers continue to suffer losses. - Viet" | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold price update on the morning of August 3, 2026: SJC, plain gold ri" | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold Price Today in Ayodhya – 18K, 22K & 24K Rate | 03 August 2026 - T" | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Gold prices inch higher in Baghdad, Erbil - Shafaq News | Latest break" | kw:gold,rice
+2026-08-03 00:31 ACCEPT [Google News KL] "Commodity: Outlook For Silver Remains Subdued But OCBC Sees A Silver L" | kw:silver,commodity
+2026-08-03 00:31 ACCEPT [Google News NS] "USDA's record corn crop figures face growing skepticism - Farm Progres" | kw:corn
+2026-08-03 00:31 ACCEPT [Google News NS] "Over 1.2 tons of Chi Lang custard apples were sold in 3 days at "Lang " | kw:corn
+2026-08-03 00:31 ACCEPT [Google News NS] "Brazil's Soybeans Are Quietly Finding New Homes Well Beyond China - St" | kw:soybean
+2026-08-03 00:31 ACCEPT [Google News NS] "5 Corn Tortilla Brands, Ranked Worst To Best - Tasting Table" | kw:corn
+2026-08-03 00:31 ACCEPT [RT Business] "EU lifts sanctions on luxury Russian export" | kw:sanction
+2026-08-03 00:31 ACCEPT [RT Business] "Oil back at $100: Time to worry?" | kw:oil,rice
+2026-08-03 00:31 ACCEPT [RT Business] "Western banks sue German firm over Russia pullout – FT" | kw:gas,sanction
+2026-08-03 00:31 ACCEPT [RT Business] "Running on empty: What’s driving Europe’s auto industry crisis?" | kw:fuel,rice
+2026-08-03 00:31 ACCEPT [RT Business] "US strategic oil reserve at risk – watchdog" | kw:oil
+2026-08-03 00:31 ACCEPT [RT Business] "EU facing winter gas shock – FT" | kw:gas,lng
+2026-08-03 00:31 ACCEPT [RT Business] "Russian SMEs growing on stronger supply chains to giants" | kw:supply chain,easing
+2026-08-03 00:31 ACCEPT [Fed Monetary] "Federal Reserve announces the leadership and objectives of its task fo" | kw:monetary policy,federal reserve
+2026-08-03 00:31 ACCEPT [Fed Monetary] "Federal Reserve Board and Federal Open Market Committee release econom" | kw:federal reserve,fomc
+2026-08-03 00:31 ACCEPT [ECB Press] "ECB to extend use of climate factors in Eurosystem collateral framewor" | kw:ecb
+2026-08-03 00:31 ACCEPT [Google News CB] "What is the Anna Karenina Principle of Monetary Policy? - Investing.co" | kw:monetary policy
+2026-08-03 00:31 ACCEPT [Google News CB] "Gold Gains as Iran Talks Ease Concerns Over Interest-Rate Hike - Bloom" | kw:gold,rate hike
+2026-08-03 00:31 ACCEPT [Google News CB] "China’s central bank pledges timely policy tool adjustment By Reuters " | kw:central bank
+2026-08-03 00:31 ACCEPT [Google News CB] "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price (SPX) - Seek" | kw:rice
+2026-08-03 00:31 ACCEPT [Google News CB] "Iraq salary delays test Central Bank’s limits - Shafaq News | Latest b" | kw:central bank
+2026-08-03 00:31 ACCEPT [Google News CB] "China’s Central Bank Signals Easier Policy And More Panda Bonds - Fini" | kw:central bank
+2026-08-03 00:31 ACCEPT [Google News CB] "Interest Rate Forecast: BOJ Eyes September Hike as Yen Intervention Pr" | kw:interest rate,boj
+2026-08-03 00:31 SKIP_MORNING already_sent date=2026-08-03
