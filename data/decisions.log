@@ -1,18 +1,3 @@
-2026-06-29 06:01 ACCEPT [Google News NS] "Germany set for record soybean harvest in 2026 despite EU‑wide decline" | kw:fuel,soybean,harvest
-2026-06-29 06:01 ACCEPT [Google News CB] "Warsh’s Words Could Prove the Best Tool for Fighting Inflation. They’r" | kw:inflation
-2026-06-29 06:01 ACCEPT [Google News CB] "JGB Yields Rise As Markets Second-Guess The BOJ - Finimize" | kw:boj
-2026-06-29 06:01 ACCEPT [Google News CB] "Indonesia central bank will use all instruments to maintain liquidity " | kw:central bank
-2026-06-29 06:01 SKIP_MORNING already_sent date=2026-06-29
-2026-06-29 06:31 ACCEPT [Google News HH] "Where Are International Gold and Crude Oil Prices Headed? - Sunsirs" | kw:oil,crude,gold
-2026-06-29 06:31 ACCEPT [Google News HH] "Gold price in Saudi Arabia: Rates on June 29 - FXStreet" | kw:gold,rice
-2026-06-29 06:31 ACCEPT [Google News HH] "Gold Price Forecast: $4,000 Floor Defended as Swiss Accord Erases War-" | kw:gold,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Silver Price Forecast: XAG/USD declines to near $58.60 as US-Iran atta" | kw:silver,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Gold prices fall 0.69 percent to $4,053 as oil surge, Fed rate hike be" | kw:oil,lng,gold
-2026-06-29 06:31 ACCEPT [Google News KL] "Gold (XAU/USD) Price Forecast: Trendline Break Signals Bearish Extensi" | kw:gold,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Egypt: Silver prices fall down on June 28th - ZAWYA" | kw:wti,silver,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Copper price benefits from the positivity of the moving average– Forec" | kw:copper,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Silver Prices Decline as Technical Pressures Increase –Analysis – 29-0" | kw:silver,rice
-2026-06-29 06:31 ACCEPT [Google News KL] "Gold prices in Egypt slightly up on June 28 - ZAWYA" | kw:gold,rice
 2026-06-29 06:31 ACCEPT [Google News NS] "Micro Soybean Oil Futures - Volume & Open Interest - CME Group" | kw:oil,soybean
 2026-06-29 06:31 ACCEPT [Google News NS] "Corn drops after US-Iran halt attacks as traders weigh US heat - Money" | kw:corn
 2026-06-29 06:31 ACCEPT [Google News CB] "Iran war developments, Fed rate path cues in focus for Indian rupee an" | kw:fed rate
@@ -20013,3 +19998,11 @@
 2026-08-03 02:01 ACCEPT [Google News CB] "Japan’s Use of Fed Facility May Ease Pressure on Treasury Market - Blo" | kw:treasury
 2026-08-03 02:01 ACCEPT [Google News CB] "JPMorgan Predicts Fed Rate Hike in December, Adjusts Bond Yield Foreca" | kw:fed rate,rate hike
 2026-08-03 02:01 SKIP_MORNING already_sent date=2026-08-03
+2026-08-03 02:31 ACCEPT [Google News HH] "Gold Price Forecast: Softer Inflation Lifts Gold but High Yields Cap G" | kw:gold,rice,inflation
+2026-08-03 02:31 ACCEPT [Google News KL] "Gold prices on the morning of August 3, 2026: Common gold bars are pri" | kw:gold,rice
+2026-08-03 02:31 ACCEPT [Google News KL] "Gold, Silver Rate Today August 03: Gold getting costlier? Check 18, 22" | kw:gold,silver
+2026-08-03 02:31 ACCEPT [Google News KL] "Oil drops nearly 5% as Trump cancels attack on Iran to reach nuclear d" | kw:oil
+2026-08-03 02:31 ACCEPT [Google News CB] "Everyday Economics: The Fed isn't just pausing. The ground under inter" | kw:interest rate
+2026-08-03 02:31 ACCEPT [Google News CB] "Japan’s Use of Fed Repo May Ease Pressure on Treasury Market - Bloombe" | kw:treasury
+2026-08-03 02:31 ACCEPT [Google News CB] "Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year - en" | kw:fomc
+2026-08-03 02:31 SKIP_MORNING already_sent date=2026-08-03
